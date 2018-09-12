@@ -1,0 +1,121 @@
+1536719967662	geckodriver	INFO	geckodriver 0.21.0
+1536719967673	geckodriver	INFO	Listening on 127.0.0.1:58173
+1536719970671	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yjhX7u35OF4z"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1536719974448	Marionette	INFO	Listening on port 58188
+1536719974557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536719974584	Marionette	DEBUG	[6442450945] Frame script loaded
+1536719974585	Marionette	DEBUG	[6442450945] Frame script registered
+1536719974597	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536719975458	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://www.cq315house.com/315web/JScript/jquery.js, line 20: unreachable code after return statement
+1536719976751	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719978118	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719989252	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719989895	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719989896	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+JavaScript warning: http://www.cq315house.com/315web/JScript/jquery.js, line 20: unreachable code after return statement
+1536719990074	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719990671	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720009678	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720020323	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720020323	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+JavaScript warning: http://www.cq315house.com/315web/JScript/jquery.js, line 20: unreachable code after return statement
+1536720020529	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720026867	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720033756	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720034824	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720034825	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+JavaScript warning: http://www.cq315house.com/315web/JScript/jquery.js, line 20: unreachable code after return statement
+1536720034849	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720034850	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720034856	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720039678	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536720045577	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3fbc29556be62238ca0b16f39e8f8733
+1536720057388	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3fbc29556be62238ca0b16f39e8f8733
+M event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719297884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719297886	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719298065	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719298066	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719298073	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719303841	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719305034	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb
+1536719308713	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb
+1536719321828	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb
+1536719342787	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb
+1536719342788	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb
+1536719342813	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719347566	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719359854	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719360476	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719360476	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719360662	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719360663	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719360666	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719367073	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719367099	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3a81514a19dd031ed9dd5b3b3673bfe9
+1536719373657	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3a81514a19dd031ed9dd5b3b3673bfe9
+1536719412839	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3a81514a19dd031ed9dd5b3b3673bfe9
+1536719423879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3a81514a19dd031ed9dd5b3b3673bfe9
+1536719423879	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=3a81514a19dd031ed9dd5b3b3673bfe9
+1536719423908	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719425225	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719453557	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719464361	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719464362	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719464390	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719465457	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719511116	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719516320	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536719516329	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719521734	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719521735	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719521908	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719522873	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719531885	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719532596	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719532597	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719532790	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719534380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719581135	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719586338	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536719586347	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719592527	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719592527	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719592723	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719598322	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719617847	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719629053	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719629053	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719629228	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719639786	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719677910	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719678987	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719678988	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719679011	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719679739	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719690405	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719701223	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719701224	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719701422	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719701995	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719714109	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719714793	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719714793	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719714994	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719715565	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719736013	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719736766	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719736766	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719736969	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719737620	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719747493	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719748260	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719748260	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719748307	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719748307	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719748310	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719761893	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=29905089
+1536719762270	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb
+1536719777969	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=29905089&bid=c86dfa3ee94b0c7c1da22f97cad168fb

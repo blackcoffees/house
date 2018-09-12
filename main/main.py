@@ -1,4 +1,6 @@
 # -*- coding:utf8 -*-
+import pytesseract
+
 from spider.RealEstate import RealEstateSpider
 
 if __name__ == "__main__":

@@ -80,3 +80,39 @@ class Building(BaseModel):
             return result.get("id")
         else:
             return False
+
+
+class House(BaseModel):
+    door_number = None
+    status = 0
+    inside_area = 0
+    built_area = 0
+    house_type = None
+    inside_price = 0
+    built_price = 0
+    real_estate_id = 0
+    buliding_id =0
+    source_id = 0
+    create = datetime.datetime.now()
+
+    def __add__(self):
+        id = self.__get__()
+        if id:
+            return id
+        sql = """insert into houser(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
+                  real_estate_id, buliding_id, source_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        param = [self.door_number, self.status, self.inside_area, self.built_area, self.house_type, self.inside_price,
+                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id]
+        return DBUtil.save(sql, param)
+
+    def __get__(self):
+        sql = """select id from house where source_id=%s and buliding_id=%s and real_estate_id=%s and door_number=%s"""
+        param = [self.source_id, self.buliding_id, self.real_estate_id, self.door_number]
+        result = DBUtil.get(sql, param)
+        if result:
+            old_status = DBUtil.get_house_status(result.get("id"))
+            if not old_status == self.status:
+                DBUtil.update_house_status(result.get("id"), self.status)
+            return result.get("id")
+        else:
+            False
