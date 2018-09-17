@@ -73,8 +73,8 @@ class Building(BaseModel):
         return DBUtil.save(sql, param)
 
     def __get__(self):
-        sql = """select id from building where source_id=%s and real_estate_id=%s"""
-        param = [self.source_id, self.real_estate_id]
+        sql = """select id from building where source_id=%s and real_estate_id=%s and sale_building=%s"""
+        param = [self.source_id, self.real_estate_id, self.sale_building]
         result = DBUtil.get(sql, param)
         if result:
             return result.get("id")
@@ -93,16 +93,16 @@ class House(BaseModel):
     real_estate_id = 0
     buliding_id =0
     source_id = 0
-    create = datetime.datetime.now()
+    created = datetime.datetime.now()
 
     def __add__(self):
         id = self.__get__()
         if id:
             return id
-        sql = """insert into houser(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
-                  real_estate_id, buliding_id, source_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        sql = """insert into house(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
+                  real_estate_id, buliding_id, source_id, created) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.door_number, self.status, self.inside_area, self.built_area, self.house_type, self.inside_price,
-                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id]
+                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id, self.created]
         return DBUtil.save(sql, param)
 
     def __get__(self):
@@ -110,7 +110,7 @@ class House(BaseModel):
         param = [self.source_id, self.buliding_id, self.real_estate_id, self.door_number]
         result = DBUtil.get(sql, param)
         if result:
-            old_status = DBUtil.get_house_status(result.get("id"))
+            old_status = DBUtil.get_house_status(self.door_number, self.real_estate_id, self.buliding_id)
             if not old_status == self.status:
                 DBUtil.update_house_status(result.get("id"), self.status)
             return result.get("id")

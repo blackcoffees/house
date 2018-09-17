@@ -16,8 +16,17 @@ from urllib3 import response
 
 class Region(type):
     BaNan = "巴南"
+    BeiBei = "北碚"
+    DaDuKou = "大渡口"
+    JiangBei = "江北"
+    JiuLongPo = "九龙坡"
+    NanAn = "南岸"
+    ShaPingBa = "沙坪坝"
+    YuBei = "渝北"
+    YuZhong = "渝中"
+    LiangJiang = "两江新"
 
-    all_region = [BaNan]
+    all_region = [BaNan, BeiBei, DaDuKou, JiangBei, JiuLongPo, NanAn, ShaPingBa, YuBei, LiangJiang]
 
 
 def send_request(url, headers=None, data=None, cookies=None):
@@ -117,9 +126,9 @@ def get_internet_validate_code(img):
             return number1 * number2
         elif code_str[1] == u"\u9664":
             return number1 / number2
-        return 0
+        return -1
     except BaseException as e:
-        return 0
+        return -1
 
 
 
