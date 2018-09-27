@@ -103,9 +103,9 @@ def get_internet_validate_code(img):
         sharp_img = sharpness.enhance(2.0)
         sharp_img.save(location_img_url)
         # 二值化，采用阈值分割法，threshold为分割点
-        out = imgry.point(table, '1')
+        out = sharp_img.point(table, '1')
         out.save(location_img_url)
-        code_str = pytesseract.image_to_string(sharp_img, lang="chi_sim")
+        code_str = pytesseract.image_to_string(out, lang="chi_sim")
         code_str = code_str.strip()
         code_str = code_str.upper()
         for r in rep:
@@ -147,4 +147,65 @@ rep={'O':'0',
     'I':'1','L':'1',
     'Z':'2',
     'S':'8'
-    };
+    }
+
+
+ColorStatus = {
+    "#c0c0c0": 1, # 限制销售
+    "#00ff00": 2, # 可售
+    "#ff00ff": 3, # 预定
+    "#ffff00": 4, # 已售
+    "#ff0000": 5 # 已登记
+}
+
+
+def get_status(color):
+    color = color.replace(" ", "")
+    if "#" in color:
+        return ColorStatus.get(color)
+    elif color == "rgb(192,192,192)":
+        return 1
+    elif color == "rgb(0,255,0)":
+        return 2
+    elif color == "rgb(255,0,255)":
+        return 3
+    elif color == "rgb(255,255,0)":
+        return 4
+    elif color == "rgb(255,0,0)":
+        return 5
+    else:
+        return 0
+
+
+def div_list_return_dict(array, n):
+    """
+    等分数组
+    :param list:
+    :param n:
+    :return:
+    """
+    if not isinstance(array, list) or not isinstance(n, int):
+        return {0: array}
+    if n > len(array):
+        return {0: array}
+    if n <= 1:
+        return {0: array}
+    temp_index = 0
+    dict_index = 0
+    return_dict = dict()
+    temp_list = list()
+    for index, value in enumerate(array):
+        if temp_index <= n:
+            temp_list.append(value)
+            temp_index += 1
+            if temp_index > n:
+                return_dict[dict_index] = temp_list
+                temp_index = 0
+    return return_dict
+
+
+def get_unit(house_count_dict, unit_list, house_index):
+    for unit_index, house_list in house_count_dict.items():
+        if house_index in house_list:
+            return unit_list[unit_index]
+

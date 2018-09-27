@@ -21,7 +21,6 @@ class RealEstate(BaseModel):
     region = None
     building = None
     developer = None
-    sale_count = 0
     sale_building = None
     source_id = 0
     created = datetime.datetime.now()
@@ -36,7 +35,7 @@ class RealEstate(BaseModel):
         values = list()
         for field in fields.split(","):
             values.append(getattr(self, field))
-        sql = """ insert into real_estate (""" + fields + """) values (%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        sql = """ insert into real_estate (""" + fields + """) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         return DBUtil.save(sql, param=values)
 
     def __find__(self):
@@ -94,23 +93,24 @@ class House(BaseModel):
     buliding_id =0
     source_id = 0
     created = datetime.datetime.now()
+    unit = None
 
     def __add__(self):
         id = self.__get__()
         if id:
             return id
         sql = """insert into house(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
-                  real_estate_id, buliding_id, source_id, created) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+                  real_estate_id, buliding_id, source_id, created, unit) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.door_number, self.status, self.inside_area, self.built_area, self.house_type, self.inside_price,
-                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id, self.created]
+                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id, self.created, self.unit]
         return DBUtil.save(sql, param)
 
     def __get__(self):
-        sql = """select id from house where source_id=%s and buliding_id=%s and real_estate_id=%s and door_number=%s"""
-        param = [self.source_id, self.buliding_id, self.real_estate_id, self.door_number]
+        sql = """select id from house where source_id=%s and buliding_id=%s and real_estate_id=%s and door_number=%s and unit=%s"""
+        param = [self.source_id, self.buliding_id, self.real_estate_id, self.door_number, self.unit]
         result = DBUtil.get(sql, param)
         if result:
-            old_status = DBUtil.get_house_status(self.door_number, self.real_estate_id, self.buliding_id)
+            old_status = DBUtil.get_house_status(self.door_number, self.real_estate_id, self.buliding_id, self.unit)
             if not old_status == self.status:
                 DBUtil.update_house_status(result.get("id"), self.status)
             return result.get("id")

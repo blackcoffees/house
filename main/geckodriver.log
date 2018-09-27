@@ -1,38 +1,53 @@
-1537147504511	geckodriver	INFO	geckodriver 0.21.0
-1537147504522	geckodriver	INFO	Listening on 127.0.0.1:61094
-1537147507518	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.AMyu6SCEHFO3"
-*** You are running in headless mode.
+1537150810813	geckodriver	INFO	geckodriver 0.21.0
+1537150810823	geckodriver	INFO	Listening on 127.0.0.1:56721
+1537150813823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Vcfshzsyx61w"
 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
-1536922836429	Marionette	INFO	Listening on port 54349
-1536922836834	Marionette	WARN	TLS certificate errors will be ignored for this session
-1536922836875	Marionette	DEBUG	[6442450945] Frame script loaded
-1536922836876	Marionette	DEBUG	[6442450945] Frame script registered
-1536922836893	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
-1536922837976	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537150824274	Marionette	INFO	Listening on port 56734
+1537150824314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537150830288	Marionette	DEBUG	[6442450945] Frame script loaded
+1537150830289	Marionette	DEBUG	[6442450945] Frame script registered
+1537150830313	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537150841124	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
 JavaScript warning: http://www.cq315house.com/315web/JScript/jquery.js, line 20: unreachable code after return statement
-1536922844252	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=17%E5%B9%A2%EF%BC%88%E8%A7%84%E5%88%9217%E5%8F%B7%E6%A5%BC%EF%BC%89&buildingid=11096465
-1536922846999	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=17%E5%B9%A2%EF%BC%88%E8%A7%84%E5%88%9217%E5%8F%B7%E6%A5%BC%EF%BC%89&buildingid=11096465
-1536922898048	Marionette	INFO	Stopped listening on port 54349
-[Child 23064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 23064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 20724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 22408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 22408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-ww.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30068754
-1536922627854	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30068754
-1536922627855	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30068754
+1537150842318	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30356770
+1537150760482	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30356778
+1537150763940	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30356778
+1537150767194	Marionette	DEBUG	[6442450945]
+##
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Parent 13568, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E0108,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E0108,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+[Child 13448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537242785175	Marionette	INFO	Stopped listening on port 54489
+16
+.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30356778
 JavaScript warning: http://www.cq315house.com/315web/JScript/jquery.js, line 20: unreachable code after return statement
-1536922628021	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=30068754
-1536922629153	Marionette	DEBUG	[[Parent 11400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 11400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 19940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 19940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Parent 11400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 21704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 21704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-1537147507242	Marionette	INFO	Stopped listening on port 64338
+1537150781087	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=30356778&bid=fe80cf23e7e7713e861d08a7ab20452a
+1537150808356	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cq315house.com/315web/HtmlPage/RoomInfo.aspx?fid=30356778&bid=fe80cf23e7e7713e861d08a7ab20452a
+1537150808472	Marionette	INFO	Stopped listening on port 56489
+[Parent 36828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 30684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+listening on port 64338
 [GPU 22236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv

@@ -66,14 +66,14 @@ def get_building(building_id=None):
     return pool.find_one(sql, param)
 
 
-def get_house_status(door_number, real_estate_id, buliding_id):
+def get_house_status(door_number, real_estate_id, buliding_id, house_unit):
     """
     查询房间出售情况
     :param house_id:
     :return:
     """
-    sql = """select status, id from house where door_number=%s and real_estate_id=%s and buliding_id=%s"""
-    param = [door_number, real_estate_id, buliding_id]
+    sql = """select status, id from house where door_number=%s and real_estate_id=%s and buliding_id=%s and unit=%s"""
+    param = [door_number, real_estate_id, buliding_id, house_unit]
     return pool.find_one(sql, param)
 
 
@@ -84,11 +84,15 @@ def get_real_estate_statictics_data(real_estate_id):
 
 
 def get_building_statictics_data(buliding_id, real_estate_id):
-    sql = """select * from (select count(id) as total_count from house where buliding_id=%s and real_estate_id=%s) as a, 
+    sql = """select total_count, sale_count from (select count(id) as total_count from house where buliding_id=%s and real_estate_id=%s) as a, 
             (SELECT count(id) as sale_count from house where `status`=4 and buliding_id=%s and real_estate_id=%s) as b"""
     param = [buliding_id, real_estate_id, buliding_id, real_estate_id]
     return pool.find_one(sql, param)
 
+
+def get_all_region():
+    sql = """select id, region, now_page from region where status=1"""
+    return pool.find(sql)
 
 
 # ---------------------------  查询 end ---------------------------
@@ -145,4 +149,11 @@ def update_building_count(building_id, total_count, sale_count):
     sql = """update building set total_count=%s, sale_count=%s, updated=%s where id=%s"""
     param = [total_count, sale_count, datetime.datetime.now(), building_id]
     pool.commit(sql, param)
+
+
+def update_region(region_id, now_page):
+    sql = """update region set now_page=%s, updated=%s where id=%s"""
+    param = [now_page, datetime.datetime.now(), region_id]
+    pool.commit(sql, param)
+
 # ---------------------------  更新 end ---------------------------
