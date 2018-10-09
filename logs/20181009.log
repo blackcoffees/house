@@ -1,0 +1,14 @@
+2018-10-09 17:16:58,844 - RealEstate.py[line:170] - INFO: 2018-10-09 17:16:58.844000 南岸 中国铁建·万国城-山水逸城A72/02地块 1幢（规划2号楼） 1单元 25-1
+2018-10-09 17:17:05,444 - RealEstate.py[line:352] - INFO: 9笈奴7 等于
+2018-10-09 17:17:05,509 - RealEstate.py[line:411] - INFO: 图片识别修正number2:7
+2018-10-09 17:17:05,755 - RealEstate.py[line:422] - INFO: 图片识别修正operator:Z亓苡
+2018-10-09 17:17:05,762 - RealEstate.py[line:465] - INFO: 图片比较修正operator:add
+2018-10-09 17:17:10,957 - RealEstate.py[line:352] - INFO: 3加7 等于
+2018-10-09 17:17:27,855 - RealEstate.py[line:170] - INFO: 2018-10-09 17:17:27.856000 南岸 中国铁建·万国城-山水逸城A72/02地块 1幢（规划2号楼） 1单元 25-2
+2018-10-09 17:17:33,395 - RealEstate.py[line:352] - INFO: 7汐夕1 荨于
+2018-10-09 17:17:33,463 - RealEstate.py[line:411] - INFO: 图片识别修正number2:1
+2018-10-09 17:17:33,694 - RealEstate.py[line:422] - INFO: 图片识别修正operator:Z7/7
+2018-10-09 17:17:33,700 - RealEstate.py[line:465] - INFO: 图片比较修正operator:None
+2018-10-09 17:17:43,931 - RealEstate.py[line:352] - INFO: 6减1等于
+2018-10-09 17:17:50,056 - RealEstate.py[line:170] - INFO: 2018-10-09 17:17:50.057000 南岸 中国铁建·万国城-山水逸城A72/02地块 1幢（规划2号楼） 1单元 25-3
+2018-10-09 17:17:55,234 - RealEstate.py[line:352] - INFO: 6减2等于

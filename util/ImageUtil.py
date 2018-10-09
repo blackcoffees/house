@@ -4,10 +4,10 @@ import os
 import math
 
 import operator
-from PIL import Image, ImageFile
+from PIL import Image, ImageFile, ImageGrab, ImageEnhance
 from pytesseract import pytesseract
 
-from util.CommonUtils import chinese_correct
+from util.CommonUtils import chinese_correct, table
 
 location_base_url = os.path.realpath("image_util").split("main")[0] + "image\\image_util\\"
 

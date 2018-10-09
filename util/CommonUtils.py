@@ -1,13 +1,16 @@
 # -*- coding:utf8 -*-
 import cookielib
+import logging
 import random
 import urllib2
 
 import os
 
 import time
+from logging.handlers import TimedRotatingFileHandler
 from urllib import unquote
 
+import datetime
 import pytesseract
 import requests
 from PIL import Image, ImageEnhance
@@ -33,18 +36,34 @@ class Region(type):
     all_region = [BaNan, BeiBei, DaDuKou, JiangBei, JiuLongPo, NanAn, ShaPingBa, YuBei, LiangJiang]
 
 
+formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s")
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+log_path = os.path.dirname(os.getcwd()) + '/logs/'
+log_filename = log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"
+fh = TimedRotatingFileHandler(log_filename, when="d", encoding='utf-8', backupCount=7)
+fh.setLevel(logging.INFO)
+fh.setFormatter(formatter)
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(fh)
+logger.addHandler(console_handler)
+
+
 def send_request(url, headers=None, data=None, cookies=None, proxy=False):
     index = 10
+    proxy_ip = None
     while True:
         index = index - 1
         try:
             if proxy:
-                # proxy_ip = get_first_proxy_ip()
-                # print "切换代理ip:%s" % proxy_ip
-                # temp_proxy_dict = {"http": "http://%s" % proxy_ip}
-                # proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
-                # opener = urllib2.build_opener(proxy_support)
-                # urllib2.install_opener(opener)
+                proxy_ip = "v.as2333.win:11688"
+                logging.info("切换代理ip:%s" % proxy_ip)
+                temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
+                proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
+                opener = urllib2.build_opener(proxy_support)
+                urllib2.install_opener(opener)
                 pass
             if headers and data and cookies:
                 request = urllib2.Request(url, headers=headers, data=data, cookies=cookies)
@@ -65,21 +84,26 @@ def send_request(url, headers=None, data=None, cookies=None, proxy=False):
             response = urllib2.urlopen(request, timeout=120)
             if response.code == 200:
                 return response.read()
-                # response_text = response.read()
-                # if response == "":
-                #     if proxy:
-                #         delete_proxy(proxy_ip)
-                #         continue
-                #     else:
-                #         proxy = True
-                #         continue
-                # else:
-                #     return response_text
+                response_text = response.read()
+                if not response_text:
+                    if proxy:
+                        if proxy_ip:
+                            proxy = False
+                        else:
+                            proxy = True
+                        continue
+                    else:
+                        if proxy_ip:
+                            proxy = False
+                        else:
+                            proxy = True
+                        continue
+                else:
+                    return response_text
             else:
                 return False
             break
         except BaseException as e:
-            delete_proxy(proxy_ip)
             if index == 0:
                 return False
                 break
@@ -183,24 +207,24 @@ def get_unit(house_count_dict, unit_list, house_index):
 proxy_list = list()
 
 
-def get_proxy_ips():
-    url = "https://www.kuaidaili.com/free/inha/%s/" % random.randint(1, 100)
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    trs = soup.find_all('tr')
-    for tr in trs:
-        tds = tr.find_all('td')
-        if not tds:
-            continue
-        proxy_list.append("%s:%s" % (tds[0].text, tds[1].text))
-
-
-def delete_proxy(ip_info):
-    proxy_list.remove(ip_info)
-
-
-def get_first_proxy_ip():
-    if proxy_list:
-        return proxy_list[0]
-    else:
-        return False
+# def get_proxy_ips():
+#     url = "https://www.kuaidaili.com/free/inha/%s/" % random.randint(1, 100)
+#     response = requests.get(url)
+#     soup = BeautifulSoup(response.text, 'html.parser')
+#     trs = soup.find_all('tr')
+#     for tr in trs:
+#         tds = tr.find_all('td')
+#         if not tds:
+#             continue
+#         proxy_list.append("%s:%s" % (tds[0].text, tds[1].text))
+#
+#
+# def delete_proxy(ip_info):
+#     proxy_list.remove(ip_info)
+#
+#
+# def get_first_proxy_ip():
+#     if proxy_list:
+#         return proxy_list[0]
+#     else:
+#         return False
