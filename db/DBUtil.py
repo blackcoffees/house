@@ -78,7 +78,7 @@ def get_house_status(door_number, real_estate_id, buliding_id, house_unit):
 
 
 def get_real_estate_statictics_data(real_estate_id):
-    sql = """select count(total_count) as total_count, count(sale_count) as sale_count from building where real_estate_id=%s"""
+    sql = """select sum(total_count), sum(sale_count) from building where real_estate_id=%s"""
     param = [real_estate_id]
     return pool.find_one(sql, param)
 
@@ -91,7 +91,12 @@ def get_building_statictics_data(buliding_id, real_estate_id):
 
 
 def get_all_region():
-    sql = """select id, region, now_page from region where status=1"""
+    sql = """select id, region, now_page from region where status=1 and now_page > 0"""
+    region_list = pool.find(sql)
+    if region_list:
+        return region_list
+    update_sql = """update region set now_page=1, updated=%s where now_page=0 and status=1"""
+    pool.commit(update_sql, [datetime.datetime.now()])
     return pool.find(sql)
 
 

@@ -10,3 +10,4 @@ six==1.11
 stevedore==1.28
 urllib3=1.23
 whee==0.31.1
+ImageHash==4.0

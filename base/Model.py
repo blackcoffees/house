@@ -30,6 +30,7 @@ class RealEstate(BaseModel):
         real_estate_id = self.__find__()
         if real_estate_id:
             return real_estate_id
+        self.created = datetime.datetime.now()
         fields = get_fields(self)
         fields = ",".join(fields)
         values = list()
@@ -65,6 +66,7 @@ class Building(BaseModel):
         id = self.__get__()
         if id:
             return id
+        self.created = datetime.datetime.now()
         sql = """insert into building(web_build_id, register_time, created, real_estate_id, sale_residence_count, 
                   sale_none_residence_count , source_id, sale_building) values (%s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.web_build_id, self.register_time, self.created, self.real_estate_id, self.sale_residence_count,
@@ -99,6 +101,7 @@ class House(BaseModel):
         id = self.__get__()
         if id:
             return id
+        self.created = datetime.datetime.now()
         sql = """insert into house(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
                   real_estate_id, buliding_id, source_id, created, unit) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.door_number, self.status, self.inside_area, self.built_area, self.house_type, self.inside_price,

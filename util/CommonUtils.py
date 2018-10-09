@@ -1,15 +1,19 @@
 # -*- coding:utf8 -*-
 import cookielib
+import random
 import urllib2
 
 import os
 
 import time
+from urllib import unquote
 
 import pytesseract
 import requests
 from PIL import Image, ImageEnhance
 from io import BytesIO
+
+from bs4 import BeautifulSoup
 from selenium import webdriver
 from urllib3 import response
 
@@ -29,10 +33,19 @@ class Region(type):
     all_region = [BaNan, BeiBei, DaDuKou, JiangBei, JiuLongPo, NanAn, ShaPingBa, YuBei, LiangJiang]
 
 
-def send_request(url, headers=None, data=None, cookies=None):
+def send_request(url, headers=None, data=None, cookies=None, proxy=False):
     index = 10
     while True:
+        index = index - 1
         try:
+            if proxy:
+                # proxy_ip = get_first_proxy_ip()
+                # print "切换代理ip:%s" % proxy_ip
+                # temp_proxy_dict = {"http": "http://%s" % proxy_ip}
+                # proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
+                # opener = urllib2.build_opener(proxy_support)
+                # urllib2.install_opener(opener)
+                pass
             if headers and data and cookies:
                 request = urllib2.Request(url, headers=headers, data=data, cookies=cookies)
             elif headers and cookies:
@@ -52,12 +65,23 @@ def send_request(url, headers=None, data=None, cookies=None):
             response = urllib2.urlopen(request, timeout=120)
             if response.code == 200:
                 return response.read()
+                # response_text = response.read()
+                # if response == "":
+                #     if proxy:
+                #         delete_proxy(proxy_ip)
+                #         continue
+                #     else:
+                #         proxy = True
+                #         continue
+                # else:
+                #     return response_text
             else:
                 return False
             break
         except BaseException as e:
-            index = index - 1
+            delete_proxy(proxy_ip)
             if index == 0:
+                return False
                 break
             print e
 
@@ -73,65 +97,6 @@ def get_fields(obj):
 class WebSource(type):
     RealEstate = 1
 
-
-def get_internet_validate_code(img):
-    try:
-        location_img_url = "e:/spider_img/temp.png"
-        # 保存验证码图片
-        # response = requests.get(img_url, cookies=cookies)
-        # response = urllib2.urlopen(img_url)
-        # opener = urllib2.build_opener()
-        # opener.addheaders.append(("Cookie", cookies))
-        # response = opener.open(img_url)
-        left = img.location.get("x")
-        top = img.location.get("y")
-        width = left + img.size.get("width")
-        height = top + img.size.get("height")
-        # image = Image.open(BytesIO(response.read()))
-        image = Image.open(location_img_url).crop((left, top, width, height))
-        if not os.path.exists("e:/spider_img"):
-            os.mkdir("e:/spider_img")
-        image.save(location_img_url)
-        # 解析验证码
-        time.sleep(3)
-        location_img = Image.open(location_img_url)
-        # 转到灰度
-        imgry = location_img.convert("L")
-        imgry.save(location_img_url)
-        # 对比度增强
-        sharpness = ImageEnhance.Contrast(imgry)
-        sharp_img = sharpness.enhance(2.0)
-        sharp_img.save(location_img_url)
-        # 二值化，采用阈值分割法，threshold为分割点
-        out = sharp_img.point(table, '1')
-        out.save(location_img_url)
-        code_str = pytesseract.image_to_string(out, lang="chi_sim")
-        code_str = code_str.strip()
-        code_str = code_str.upper()
-        for r in rep:
-            code_str = code_str.replace(r, rep[r])
-        if code_str[0].isdigit():
-            number1 = int(code_str[0])
-        else:
-            raise BaseException
-        if code_str[2].isdigit():
-            number2 = int(code_str[2])
-        else:
-            raise BaseException
-        if code_str[1] == u"\u52a0":
-            return number1 + number2
-        elif code_str[1] == u"\u51cf":
-            return number1 - number2
-        elif code_str[1] == u"\u4e58":
-            return number1 * number2
-        elif code_str[1] == u"\u9664":
-            return number1 / number2
-        return -1
-    except BaseException as e:
-        return -1
-
-
-
 # 二值化
 threshold = 140
 table = []
@@ -141,13 +106,13 @@ for i in range(256):
     else:
         table.append(1)
 
-#由于都是数字
-#对于识别成字母的 采用该表进行修正
-rep={'O':'0',
-    'I':'1','L':'1',
-    'Z':'2',
-    'S':'8'
-    }
+# 由于都是数字
+# 对于识别成字母的 采用该表进行修正
+rep = {"O": "0", "I": "1", "L": "1", "Z": "2", "S": "8"}
+
+chinese_correct = {
+    u"夕刀": u"加", u"夕奴": u"加", u"潺": u"减", u"汐奴": u"加", u"遂夕": u"加", u"儡": u"1", u"喊": u"减", u"遂奴": u"加"
+}
 
 
 ColorStatus = {
@@ -184,6 +149,7 @@ def div_list_return_dict(array, n):
     :param n:
     :return:
     """
+    n = len(array) / n
     if not isinstance(array, list) or not isinstance(n, int):
         return {0: array}
     if n > len(array):
@@ -195,12 +161,16 @@ def div_list_return_dict(array, n):
     return_dict = dict()
     temp_list = list()
     for index, value in enumerate(array):
-        if temp_index <= n:
+        if temp_index <= n-1:
             temp_list.append(value)
             temp_index += 1
-            if temp_index > n:
-                return_dict[dict_index] = temp_list
-                temp_index = 0
+        else:
+            return_dict[dict_index] = temp_list
+            temp_index = 0
+            temp_list = [index]
+            dict_index += 1
+    if temp_list:
+        return_dict[dict_index] = temp_list
     return return_dict
 
 
@@ -209,3 +179,28 @@ def get_unit(house_count_dict, unit_list, house_index):
         if house_index in house_list:
             return unit_list[unit_index]
 
+
+proxy_list = list()
+
+
+def get_proxy_ips():
+    url = "https://www.kuaidaili.com/free/inha/%s/" % random.randint(1, 100)
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    trs = soup.find_all('tr')
+    for tr in trs:
+        tds = tr.find_all('td')
+        if not tds:
+            continue
+        proxy_list.append("%s:%s" % (tds[0].text, tds[1].text))
+
+
+def delete_proxy(ip_info):
+    proxy_list.remove(ip_info)
+
+
+def get_first_proxy_ip():
+    if proxy_list:
+        return proxy_list[0]
+    else:
+        return False
