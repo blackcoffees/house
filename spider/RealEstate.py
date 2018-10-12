@@ -43,17 +43,26 @@ class RealEstateSpider(BaseSpider):
         options.add_argument("headless")
         driver = webdriver.Chrome(chrome_options=options)
         validate_driver = webdriver.Chrome(chrome_options=options)
+        now_page = -1
         for region in get_all_region():
             while True:
-                now_page = region.get("now_page")
+                if now_page == -1:
+                    now_page = region.get("now_page")
                 url = self.base_url % (region.get("region").encode("utf8"), now_page)
                 response = send_request(url)
+                # 请求完成之后页数就加1
+                print now_page
+                now_page += 1
                 # 请求失败
                 if not response:
                     logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
                     update_region(region.get("id"), 0)
                     break
-                json_rep = json.loads(response.replace("'", '"'))
+                try:
+                    json_rep = json.loads(response.replace("'", '"'))
+                except:
+                    update_region(region.get("id"), now_page)
+                    continue
                 # 没有数据之后跳出
                 if not json_rep:
                     logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
@@ -119,7 +128,7 @@ class RealEstateSpider(BaseSpider):
                                            build_id[index]
                             response = send_request(building_url)
                             if not response:
-                                update_region(region.get("id"), now_page + 1)
+                                update_region(region.get("id"), now_page)
                                 continue
                             house_number = json.loads(response).get("presaleCert")
                             update_building(house_number, building_id)
@@ -247,7 +256,6 @@ class RealEstateSpider(BaseSpider):
                         continue
                     finally:
                         update_region(region.get("id"), now_page)
-                now_page = now_page + 1
                 update_region(region.get("id"), now_page)
         try:
             if validate_driver:
