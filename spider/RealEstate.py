@@ -24,7 +24,7 @@ from selenium.webdriver.support import expected_conditions
 from base.BaseSpider import BaseSpider
 from base.Model import RealEstate, Building, House
 from util.CommonUtils import Region, send_request, WebSource, get_status, \
-    div_list_return_dict, get_unit, rep, table, chinese_correct, proxy_list, logger
+    div_list_return_dict, get_unit, rep, table, chinese_correct, proxy_list, logger, validate_house_door_number
 from db.DBUtil import get_real_estate_sale_status, get_real_estate, get_building_sale_status, get_building, \
     get_house_status, update_building, update_house_status, update_real_estate_count, update_building_count, \
     get_real_estate_statictics_data, get_building_statictics_data, get_all_region, update_region
@@ -51,7 +51,7 @@ class RealEstateSpider(BaseSpider):
                 url = self.base_url % (region.get("region").encode("utf8"), now_page)
                 response = send_request(url)
                 # 请求完成之后页数就加1
-                print now_page
+                logger.info(region.get("region") + "：" + str(now_page))
                 now_page += 1
                 # 请求失败
                 if not response:
@@ -177,9 +177,7 @@ class RealEstateSpider(BaseSpider):
                                                                      region.get("region").encode("utf8").decode("utf8"),
                                                                      real_estate_name, sale_building, house_unit,
                                                                      door_number))
-                                        if u"井" in door_number or u"商业" in door_number or u"架空" in door_number \
-                                                or u"消控" in door_number or u"车库梯" in door_number \
-                                                or u"避难间" in door_number:
+                                        if not validate_house_door_number(door_number):
                                             continue
                                         # 出售状态
                                         house_status_page = self.get_house_status_page(td)

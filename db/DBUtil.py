@@ -91,7 +91,7 @@ def get_building_statictics_data(buliding_id, real_estate_id):
 
 
 def get_all_region():
-    sql = """select id, region, now_page from region where status=1 and now_page > 0"""
+    sql = """select id, region, now_page from region where status=1 and now_page > 0 order by sort desc"""
     region_list = pool.find(sql)
     if region_list:
         return region_list
