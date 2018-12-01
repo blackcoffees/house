@@ -29,6 +29,9 @@ from db.DBUtil import get_real_estate_sale_status, get_real_estate, get_building
     get_house_status, update_building, update_house_status, update_real_estate_count, update_building_count, \
     get_real_estate_statictics_data, get_building_statictics_data, get_all_region, update_region
 import sys
+
+from util.ProxyIPUtil import get_proxy_ip, get_switch_proxy
+
 reload(sys)
 sys.setdefaultencoding('utf8')
 
@@ -39,10 +42,20 @@ class RealEstateSpider(BaseSpider):
                "pageindex=%s&roomtype=住宅&buildarea"
 
     def work(self):
+        proxy = get_switch_proxy()
         options = webdriver.ChromeOptions()
-        options.add_argument("headless")
+        # options.add_argument("headless")
+        if proxy:
+            proxy_ip = get_proxy_ip()
+            options.add_argument("--proxy-server={0}".format(proxy_ip))
         driver = webdriver.Chrome(chrome_options=options)
         validate_driver = webdriver.Chrome(chrome_options=options)
+        # 页面加载的超时时间
+        driver.set_page_load_timeout(120)
+        driver.set_script_timeout(140)
+        validate_driver.set_page_load_timeout(120)
+        validate_driver.set_script_timeout(140)
+        # 等于-1，就是获取数据库里面的
         now_page = -1
         for region in get_all_region():
             while True:
@@ -223,6 +236,7 @@ class RealEstateSpider(BaseSpider):
                                         house.source_id = 1
                                         house.unit = house_unit
                                         house.__add__()
+                                        logger.info("套内：%s" % house.inside_price)
                                         # validate_driver.quit()
                                     except BaseException as e:
                                         is_exception = True
@@ -304,13 +318,10 @@ class RealEstateSpider(BaseSpider):
             self.infinite_loop_webdriver_url(validate_driver, validate_url)
             # 截图整个网页
             validate_driver.save_screenshot("e:/spider_img/temp.png")
-            while True:
-                try:
-                    img = validate_driver.find_element_by_tag_name("img")
-                    break
-                except:
-                    continue
             try:
+                WebDriverWait(validate_driver, 10).until(
+                    expected_conditions.presence_of_element_located((By.TAG_NAME, "img")))
+                img = validate_driver.find_element_by_tag_name("img")
                 location_img_url = "e:/spider_img/temp.png"
                 # 保存验证码图片
                 left = img.location.get("x")
@@ -338,8 +349,6 @@ class RealEstateSpider(BaseSpider):
                 out = imgry.point(table, '1')
                 out.save(location_img_url)
                 # location_img = Image.open(location_img_url)
-                # 比较以前的成功图片
-                code = self.compare_success_img(location_img_url, 0)
                 int_code = -1
                 if code != -1:
                     int_code = self.compute_code(code)
@@ -373,9 +382,13 @@ class RealEstateSpider(BaseSpider):
                     else:
                         code = self.image_corde_correct(succ_dict)
                     if code == -1:
+                        # TODO：成功图片比较，识别率较低
+                        # 比较以前的成功图片
+                        code = self.compare_success_img(location_img_url, 0)
                         continue
             except BaseException as e:
                 continue
+            logger.info("验证码:%s" % code)
             int_code = self.compute_code(code)
             # 发送验证码请求
             code_input = validate_driver.find_element_by_id("txtCode")
@@ -445,9 +458,12 @@ class RealEstateSpider(BaseSpider):
         else:
             succ_dict = self.get_succ_dict("", number1_str, number2_str)
             code = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
-        operator_img.close()
-        number1_img.close()
-        number2_img.close()
+        try:
+            operator_img.close()
+            number1_img.close()
+            number2_img.close()
+        except BaseException:
+            pass
         return code
 
     def compare_image_correct(self, operator_img_url, number1_img_url, number2_img_url, succ_dict=None):
@@ -488,7 +504,7 @@ class RealEstateSpider(BaseSpider):
         elif operation_str == "/":
             return number1_str + "/" + number2_str
         else:
-            raise BaseException
+            raise -1
 
     def get_compare_image(self, image_url):
         with open(image_url, "rb") as fp:
@@ -573,7 +589,6 @@ class RealEstateSpider(BaseSpider):
         :param image_url:
         :return:
         """
-        return -1
         operation_str = -1
         success_base_url = "e:/spider_img/success"
         compare_image_list = os.listdir(success_base_url)
@@ -600,7 +615,7 @@ class RealEstateSpider(BaseSpider):
 
     def get_succ_dict(self, operation_str, number1_str, number2_str):
         succ_dict = dict()
-        if operation_str in ["+", "-", "*", "/"]:
+        if operation_str in [u"\u52a0", u"\u51cf", u"\u4e58", u"\u9664"]:
             succ_dict["succ_operation"] = operation_str
         if number1_str.isdigit():
             succ_dict["succ_number1"] = number1_str
