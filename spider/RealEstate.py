@@ -31,6 +31,7 @@ from db.DBUtil import get_real_estate_sale_status, get_real_estate, get_building
 import sys
 
 from util.ProxyIPUtil import get_proxy_ip, get_switch_proxy
+from util.WebDriverUtil import WebDriverManager
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -48,40 +49,30 @@ class RealEstateSpider(BaseSpider):
         if proxy:
             proxy_ip = get_proxy_ip()
             options.add_argument("--proxy-server={0}".format(proxy_ip))
-        driver = webdriver.Chrome(chrome_options=options)
-        validate_driver = webdriver.Chrome(chrome_options=options)
-        # 页面加载的超时时间
-        driver.set_page_load_timeout(120)
-        driver.set_script_timeout(140)
-        validate_driver.set_page_load_timeout(120)
-        validate_driver.set_script_timeout(140)
+        web_driver_manager = WebDriverManager(3, "chrome", options)
+
         # 等于-1，就是获取数据库里面的
         now_page = -1
         for region in get_all_region():
             while True:
                 if now_page == -1:
                     now_page = region.get("now_page")
+                # 获得楼盘
                 url = self.base_url % (region.get("region").encode("utf8"), now_page)
-                response = send_request(url)
+                real_estate_driver = web_driver_manager.get_web_driver()
+                real_estate_driver.send_url(url)
                 # 请求完成之后页数就加1
                 logger.info(region.get("region") + "：" + str(now_page))
                 now_page += 1
-                # 请求失败
-                if not response:
+                real_estate = real_estate_driver.find_element_by_tag_name("pre").text
+                if not real_estate:
                     logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
                     update_region(region.get("id"), 0)
                     break
-                try:
-                    json_rep = json.loads(response.replace("'", '"'))
-                except:
-                    update_region(region.get("id"), now_page)
-                    continue
-                # 没有数据之后跳出
-                if not json_rep:
-                    logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
-                    update_region(region.get("id"), 0)
-                    break
-                for item in json_rep:
+                # 解析楼盘
+                json_rep = json.loads(real_estate.encode("utf8").replace("[", "").replace("]", "").replace("'", "\""))
+                list_json_rep = [json_rep]
+                for item in list_json_rep:
                     try:
                         # 查询该楼盘出售情况，全部售完的就跳过
                         real_estate_name = item.get("ZPROJECT")
@@ -136,15 +127,6 @@ class RealEstateSpider(BaseSpider):
                             if building_sale_result and building_sale_result.get("total_count") != 0 and building_sale_result.get("sale_count") != 0 \
                                 and building_sale_result.get("total_count") == building_sale_result.get("sale_count"):
                                 continue
-
-                            building_url = "http://www.cq315house.com/315web/webservice/GetBuildingInfo.ashx?buildingId=%s" %\
-                                           build_id[index]
-                            response = send_request(building_url)
-                            if not response:
-                                update_region(region.get("id"), now_page)
-                                continue
-                            house_number = json.loads(response).get("presaleCert")
-                            update_building(house_number, building_id)
                             # 一栋楼里面的所有房子
                             houses_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s" %\
                                          (sale_building.encode("utf8"), int(build_id[index]))
@@ -163,6 +145,11 @@ class RealEstateSpider(BaseSpider):
                             if loop_driver == 0:
                                 break
                             house_soup = BeautifulSoup(driver.page_source, "html.parser")
+                            # 预售许可证
+                            house_number = json.loads(unquote(house_soup.find("img", attrs={"id": "projectInfo_img"}).
+                                                              attrs.get("src").split("text=")[1])).get("presaleCert")
+                            house_number = unquote(house_number)
+                            update_building(house_number, building_id)
                             tbody = house_soup.find("table", attrs={"id": "_mybuilding"}).find("tbody")
                             trs = tbody.find_all("tr")
                             # 单元列表

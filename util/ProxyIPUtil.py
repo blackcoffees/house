@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 list_proxy_ip = list()
 
-switch_proxy = True
+switch_proxy = False
 
 
 def get_proxy_ip():
@@ -36,7 +36,7 @@ def __get_proxy_ip_kuaidaili():
     if len(list_proxy_ip) > 0:
         return True
     base_url = "https://www.kuaidaili.com/free/intr/%s/" % (random.randrange(1, 1000))
-    response = send_request(base_url, get_proxy=True)
+    response = send_request(base_url, is_get_proxy=True)
     soup = BeautifulSoup(response, "html.parser")
     table = soup.find("table", attrs={"class": "table"})
     trs = table.find("tbody").find_all("tr")

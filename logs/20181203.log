@@ -1,0 +1,79 @@
+2018-12-03 17:30:40,244 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:220.249.185.178:9999
+2018-12-03 17:30:40,578 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:218.75.116.58:9999
+2018-12-03 17:30:40,907 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:218.56.132.158:8080
+2018-12-03 17:30:41,122 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:183.56.177.130:808
+2018-12-03 17:30:41,394 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:220.249.185.178:9999
+2018-12-03 17:30:41,711 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:123.138.216.91:9999
+2018-12-03 17:30:41,973 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:218.75.149.207:3128
+2018-12-03 17:30:42,234 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:218.200.52.206:8080
+2018-12-03 17:30:42,483 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:58.59.68.91:9797
+2018-12-03 17:30:42,753 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:218.75.101.66:3128
+2018-12-03 17:30:42,993 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:222.85.127.130:9797
+2018-12-03 17:30:43,335 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:163.125.156.67:8888
+2018-12-03 17:30:43,591 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:218.56.132.154:8080
+2018-12-03 17:30:44,226 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:119.135.185.99:9999
+2018-12-03 17:30:44,671 - CommonUtils.py[line:132] - INFO: 测试代理IP,切换代理IP:59.34.131.103:8080
+2018-12-03 17:30:58,884 - CommonUtils.py[line:55] - INFO: 切换代理ip:220.249.185.178:9999
+2018-12-03 17:34:12,107 - CommonUtils.py[line:55] - INFO: 切换代理ip:218.75.116.58:9999
+2018-12-03 17:36:01,184 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:219.129.164.122:3128
+2018-12-03 17:36:01,394 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:123.13.205.185:8080
+2018-12-03 17:36:01,634 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:115.183.11.158:9999
+2018-12-03 17:36:01,897 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:219.129.164.122:3128
+2018-12-03 17:36:02,101 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:111.47.65.171:3128
+2018-12-03 17:36:02,398 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:180.173.116.113:9797
+2018-12-03 17:36:03,023 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:122.200.76.133:8080
+2018-12-03 17:36:03,351 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:123.13.205.185:8080
+2018-12-03 17:36:03,747 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:183.45.172.159:8088
+2018-12-03 17:36:04,025 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:121.69.26.14:8080
+2018-12-03 17:36:04,323 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:119.57.112.181:8080
+2018-12-03 17:36:04,604 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:113.74.115.202:9797
+2018-12-03 17:36:04,872 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:47.93.6.211:3128
+2018-12-03 17:36:05,197 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:101.86.112.186:9000
+2018-12-03 17:36:05,522 - CommonUtils.py[line:133] - INFO: 测试代理IP,切换代理IP:119.136.199.151:9797
+2018-12-03 17:36:14,381 - CommonUtils.py[line:55] - INFO: 切换代理ip:219.129.164.122:3128
+2018-12-03 17:36:44,727 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:61.144.104.231:9797
+2018-12-03 17:36:44,976 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:163.125.16.80:9999
+2018-12-03 17:36:45,299 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:163.125.16.103:9999
+2018-12-03 17:36:45,582 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:163.125.16.68:9999
+2018-12-03 17:36:45,851 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:163.125.19.134:8888
+2018-12-03 17:36:46,190 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:1.192.133.117:53281
+2018-12-03 17:36:46,469 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:119.253.49.250:9000
+2018-12-03 17:36:46,756 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:124.152.84.65:53281
+2018-12-03 17:36:47,096 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2018-12-03 17:36:47,351 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:112.95.206.2:9999
+2018-12-03 17:36:47,693 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:111.225.8.85:9999
+2018-12-03 17:36:47,956 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:27.46.74.5:9999
+2018-12-03 17:36:48,187 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2018-12-03 17:36:48,420 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:27.46.75.5:9000
+2018-12-03 17:36:48,654 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2018-12-03 17:37:57,993 - CommonUtils.py[line:55] - INFO: 切换代理ip:61.144.104.231:9797
+2018-12-03 17:39:49,318 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:117.141.155.242:53281
+2018-12-03 17:39:49,638 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:180.173.198.144:53281
+2018-12-03 17:39:49,838 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:180.173.198.144:53281
+2018-12-03 17:39:50,049 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:163.125.66.83:9797
+2018-12-03 17:39:50,296 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:163.125.66.83:9797
+2018-12-03 17:39:50,665 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:218.56.132.154:8080
+2018-12-03 17:39:50,973 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:218.56.132.154:8080
+2018-12-03 17:39:51,611 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:59.39.128.177:9000
+2018-12-03 17:39:51,855 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:59.39.128.177:9000
+2018-12-03 17:39:52,131 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:112.67.168.178:9797
+2018-12-03 17:39:52,420 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:112.67.168.178:9797
+2018-12-03 17:39:52,733 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:202.104.71.210:8888
+2018-12-03 17:39:52,946 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:202.104.71.210:8888
+2018-12-03 17:39:53,196 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:116.226.124.226:9000
+2018-12-03 17:39:53,444 - CommonUtils.py[line:134] - INFO: 测试代理IP,切换代理IP:116.226.124.226:9000
+2018-12-03 17:40:46,756 - RealEstate.py[line:69] - INFO: 江北：4
+2018-12-03 17:42:15,233 - RealEstate.py[line:69] - INFO: 江北：4
+2018-12-03 17:55:38,086 - RealEstate.py[line:69] - INFO: 江北：4
+2018-12-03 17:55:41,569 - RealEstate.py[line:273] - INFO: 'unicode' object has no attribute 'get'
+2018-12-03 17:55:42,428 - RealEstate.py[line:274] - INFO: 2018-12-03 17:55:42.419000 外层异常休眠5分钟
+2018-12-03 17:57:20,756 - RealEstate.py[line:69] - INFO: 江北：4
+2018-12-03 18:00:30,803 - RealEstate.py[line:69] - INFO: 江北：4
+2018-12-03 19:00:23,540 - RealEstate.py[line:69] - INFO: 江北：4
+2018-12-03 19:02:22,953 - RealEstate.py[line:69] - INFO: 江北：5
+2018-12-03 19:02:34,532 - RealEstate.py[line:279] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2018-12-03 19:03:10,213 - RealEstate.py[line:69] - INFO: 江北：5

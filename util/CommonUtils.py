@@ -8,7 +8,7 @@ import os
 
 import time
 from logging.handlers import TimedRotatingFileHandler
-from ProxyIPUtil import get_proxy_ip, remove_unvalidate_proxy_ip, get_switch_proxy, set_switch_proxy
+from ProxyIPUtil import get_proxy_ip, remove_unvalidate_proxy_ip, get_switch_proxy, set_switch_proxy, list_proxy_ip
 
 
 class Region(type):
@@ -41,32 +41,33 @@ logger.addHandler(fh)
 logger.addHandler(console_handler)
 
 
-def send_request(url, headers=None, data=None, cookies=None, proxy_ip=False, get_proxy=False):
-    index = 10
-    proxy_ip = None
+def send_request(url, headers=None, data=None, cookies=None, proxy_ip=None, is_get_proxy=False):
+    index = len(list_proxy_ip)
     while True:
-        proxy = get_switch_proxy()
+        proxy_switch = get_switch_proxy()
         index = index - 1
         try:
-            if proxy and not get_proxy:
+            # 使用代理ip, 当获取代理ip是不调用
+            if proxy_switch and not is_get_proxy:
                 if not proxy_ip:
                     proxy_ip = get_proxy_ip()
-                    if not proxy_ip:
-                        proxy = False
                 if proxy_ip:
                     logging.info("切换代理ip:%s" % proxy_ip)
                     temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
                     proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
                     opener = urllib2.build_opener(proxy_support)
                     urllib2.install_opener(opener)
+                    response = urllib2.urlopen(url, timeout=120)
+                    print response.read()
             # 增加user_agent
             user_agent = list_user_agent[random.randrange(1, len(list_user_agent))]
             if headers:
                 headers_key = [x.lower() for x in headers.keys()]
                 if not "user-agent" in headers_key:
-                    headers = {"User-Agent": user_agent }
+                    headers = {"User-Agent": user_agent}
             else:
                 headers = {"User-Agent": user_agent}
+            # 发送请求
             if headers and data and cookies:
                 request = urllib2.Request(url, headers=headers, data=data, cookies=cookies)
             elif headers and cookies:
@@ -86,10 +87,11 @@ def send_request(url, headers=None, data=None, cookies=None, proxy_ip=False, get
             response = urllib2.urlopen(request, timeout=120)
             if response.code == 200:
                 response_text = response.read()
-                if proxy and not response_text:
+                # 使用代理ip没有请求到数据
+                if proxy_switch and not response_text:
                     remove_unvalidate_proxy_ip(proxy_ip)
                     proxy_ip = None
-                if response_text:
+                elif response_text:
                     return response_text
             else:
                 return False
@@ -101,10 +103,10 @@ def send_request(url, headers=None, data=None, cookies=None, proxy_ip=False, get
                 else:
                     return False
                     break
-            if proxy:
+            if proxy_switch:
                 remove_unvalidate_proxy_ip(proxy_ip)
                 proxy_ip = None
-                proxy = False
+                proxy_switch = False
             print u"请求:%s error:%s" % (url, e)
 
 
