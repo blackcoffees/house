@@ -78,12 +78,13 @@ class PoolDB(object):
         sql = sql.lower()
         result_list = list()
         split_word = ""
-        if "on" in sql:
-            split_word = "on"
-        elif "where" in sql:
-            split_word = "where"
-        elif not "on" in sql and not "where" in "sql":
-            split_word = ";"
+        # if "on" in sql:
+        #     split_word = "on"
+        # elif "where" in sql:
+        #     split_word = "where"
+        # elif not "on" in sql and not "where" in "sql":
+        #     split_word = ";"
+        split_word = "from"
         # 1:寻找子查询语句
         # TODO:寻找到所有子查询，做成数组，循环数组,暂不支持子查询
         if "(" in sql.split(split_word)[0]:

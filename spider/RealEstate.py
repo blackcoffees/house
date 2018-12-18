@@ -50,13 +50,18 @@ class RealEstateSpider(BaseSpider):
             proxy_ip = get_proxy_ip()
             options.add_argument("--proxy-server={0}".format(proxy_ip))
         web_driver_manager = WebDriverManager(3, "chrome", options)
+        real_estate_driver = web_driver_manager.get_web_driver()
+        driver_house = web_driver_manager.get_web_driver()
+        validate_driver = web_driver_manager.get_web_driver()
         for region in get_all_region():
             now_page = region.get("now_page")
             while True:
                 # 获得楼盘
                 url = self.base_url % (region.get("region").encode("utf8"), now_page)
-                real_estate_driver = web_driver_manager.get_web_driver()
-                real_estate_driver.send_url(url)
+                if not real_estate_driver.send_url(url, "pre"):
+                    logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
+                    update_region(region.get("id"), now_page)
+                    break
                 # 请求完成之后页数就加1
                 logger.info(region.get("region") + "：" + str(now_page))
                 now_page += 1
@@ -126,7 +131,6 @@ class RealEstateSpider(BaseSpider):
                             # 一栋楼里面的所有房子
                             houses_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s" %\
                                          (sale_building.encode("utf8"), int(build_id[index]))
-                            driver_house = web_driver_manager.get_web_driver()
                             driver_house.send_url(houses_url)
                             house_soup = BeautifulSoup(driver_house.page_source, "html.parser")
                             # 预售许可证
@@ -180,7 +184,6 @@ class RealEstateSpider(BaseSpider):
                                         # 未售出房子
                                         validate_url = "http://www.cq315house.com/315web/" + \
                                                        td.find("a").attrs.get("onclick").split("../")[1].split("');")[0]
-                                        validate_driver = web_driver_manager.get_web_driver()
                                         # 验证码
                                         self.get_internet_validate_code(validate_driver, validate_url)
                                         one_house_soup = BeautifulSoup(validate_driver.page_source, "html.parser")
@@ -208,7 +211,7 @@ class RealEstateSpider(BaseSpider):
                                         house.source_id = 1
                                         house.unit = house_unit
                                         house.__add__()
-                                        logger.info("套内：%s" % house.inside_price)
+                                        logger.info("套内单价：%s， 套内面积：%s" % (house.inside_price, house.inside_area))
                                     except BaseException as e:
                                         is_exception = True
                                         logger.info(e)
@@ -258,10 +261,10 @@ class RealEstateSpider(BaseSpider):
         :param validate_url:
         :return:
         """
-        expression = ""
         while True:
+            expression = ""
             # 成功请求到网页
-            validate_driver.send_url(validate_url)
+            validate_driver.send_url(validate_url, tag_name="img")
             # 截图整个网页
             validate_driver.save_screenshot("e:/spider_img/temp.png")
             try:
@@ -387,27 +390,27 @@ class RealEstateSpider(BaseSpider):
             succ_dict = self.get_succ_dict(operator_str, number1_str, number2_str)
             if operator_str:
                 if operator_str == u"\u52a0":
-                    code = number1_str + "+" + number2_str
+                    expression = number1_str + "+" + number2_str
                 elif operator_str == u"\u51cf":
-                    code = number1_str + "-" + number2_str
+                    expression = number1_str + "-" + number2_str
                 elif operator_str == u"\u4e58":
-                    code = number1_str + "*" + number2_str
+                    expression = number1_str + "*" + number2_str
                 elif operator_str == u"\u9664":
-                    code = number1_str + "/" + number2_str
+                    expression = number1_str + "/" + number2_str
                 else:
-                    code = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
+                    expression = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
             else:
-                code = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
+                expression = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
         else:
             succ_dict = self.get_succ_dict("", number1_str, number2_str)
-            code = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
+            expression = self.compare_image_correct(operator_img_url, number1_img_url, number2_img_url, succ_dict)
         try:
             operator_img.close()
             number1_img.close()
             number2_img.close()
         except BaseException:
             pass
-        return code
+        return expression
 
     def compare_image_correct(self, operator_img_url, number1_img_url, number2_img_url, succ_dict=None):
         """
@@ -447,7 +450,7 @@ class RealEstateSpider(BaseSpider):
         elif operation_str == "/":
             return number1_str + "/" + number2_str
         else:
-            raise -1
+            raise ""
 
     def get_compare_image(self, image_url):
         with open(image_url, "rb") as fp:
