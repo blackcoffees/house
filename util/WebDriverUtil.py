@@ -17,7 +17,12 @@ class WebDriverManager(object):
         if count <= 0:
             result["message"] = "数量不能小于等于0"
         for index in range(count):
-            self.__list_web_driver__.append(WebDriver(type, options))
+            temp_driver = None
+            if type == "chrome":
+                temp_driver = WebChromeDriver(options)
+            else:
+                raise BaseException("暂不支持该浏览器")
+            self.__list_web_driver__.append(temp_driver)
 
     def get_web_driver(self):
         for web_driver in self.__list_web_driver__:
@@ -32,29 +37,16 @@ class WebDriverManager(object):
             web_driver.destroy()
 
 
-class WebDriver(object):
+class WebChromeDriver(webdriver.Chrome):
     id = None
-    web_driver = None
     is_use = False
 
-    def __init__(self, type, options=None):
+    def __init__(self, options=None):
         self.id = int(time.time())
-        if type == "chrome":
-            if options:
-                self.web_driver = webdriver.Chrome(chrome_options=options)
-            else:
-                self.web_driver = webdriver.Chrome()
-            self.set_page_load_timeout(120)
-            self.set_script_timeout(140)
-
-    def destroy(self):
-        self.web_driver.close()
-
-    def set_page_load_timeout(self, time):
-        self.web_driver.set_page_load_timeout(time)
-
-    def set_script_timeout(self, time):
-        self.web_driver.set_script_timeout(time)
+        if options:
+            webdriver.Chrome.__init__(self, options=options)
+        else:
+            webdriver.Chrome.__init__(self)
 
     def is_used(self):
         return self.is_use
@@ -63,20 +55,14 @@ class WebDriver(object):
         self.is_use = True
 
     def send_url(self, url):
-        self.web_driver.get(url)
+        super(webdriver.Chrome, self).get(url)
         looper = 10
         while True:
             if looper == 0:
                 return False
             try:
-                WebDriverWait(self.web_driver, 30).until(expected_conditions.presence_of_element_located((By.TAG_NAME, "body")))
+                WebDriverWait(self, 30).until(expected_conditions.presence_of_element_located((By.TAG_NAME, "body")))
                 break
             except BaseException as e:
                 looper -= 1
         return True
-
-    def get_web_driver(self):
-        return self.web_driver
-
-    def find_element_by_tag_name(self, name):
-        return self.web_driver.find_element_by_tag_name(name)

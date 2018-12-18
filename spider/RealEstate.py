@@ -50,13 +50,9 @@ class RealEstateSpider(BaseSpider):
             proxy_ip = get_proxy_ip()
             options.add_argument("--proxy-server={0}".format(proxy_ip))
         web_driver_manager = WebDriverManager(3, "chrome", options)
-
-        # 等于-1，就是获取数据库里面的
-        now_page = -1
         for region in get_all_region():
+            now_page = region.get("now_page")
             while True:
-                if now_page == -1:
-                    now_page = region.get("now_page")
                 # 获得楼盘
                 url = self.base_url % (region.get("region").encode("utf8"), now_page)
                 real_estate_driver = web_driver_manager.get_web_driver()
@@ -67,7 +63,7 @@ class RealEstateSpider(BaseSpider):
                 real_estate = real_estate_driver.find_element_by_tag_name("pre").text
                 if not real_estate:
                     logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
-                    update_region(region.get("id"), 0)
+                    update_region(region.get("id"), 1)
                     break
                 # 解析楼盘
                 json_rep = json.loads(real_estate.encode("utf8").replace("[", "").replace("]", "").replace("'", "\""))
@@ -130,21 +126,9 @@ class RealEstateSpider(BaseSpider):
                             # 一栋楼里面的所有房子
                             houses_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s" %\
                                          (sale_building.encode("utf8"), int(build_id[index]))
-                            driver.get(houses_url)
-                            # 循环加载，直到页面的ajax加载完成之后
-                            loop_driver = 10
-                            while True:
-                                if loop_driver == 0:
-                                    break
-                                try:
-                                    WebDriverWait(driver, 30).until(expected_conditions.presence_of_element_located((By.ID, "_mybuilding")))
-                                    break
-                                except BaseException as e:
-                                    loop_driver -= 1
-                                    continue
-                            if loop_driver == 0:
-                                break
-                            house_soup = BeautifulSoup(driver.page_source, "html.parser")
+                            driver_house = web_driver_manager.get_web_driver()
+                            driver_house.send_url(houses_url)
+                            house_soup = BeautifulSoup(driver_house.page_source, "html.parser")
                             # 预售许可证
                             house_number = json.loads(unquote(house_soup.find("img", attrs={"id": "projectInfo_img"}).
                                                               attrs.get("src").split("text=")[1])).get("presaleCert")
@@ -196,6 +180,7 @@ class RealEstateSpider(BaseSpider):
                                         # 未售出房子
                                         validate_url = "http://www.cq315house.com/315web/" + \
                                                        td.find("a").attrs.get("onclick").split("../")[1].split("');")[0]
+                                        validate_driver = web_driver_manager.get_web_driver()
                                         # 验证码
                                         self.get_internet_validate_code(validate_driver, validate_url)
                                         one_house_soup = BeautifulSoup(validate_driver.page_source, "html.parser")
@@ -224,22 +209,15 @@ class RealEstateSpider(BaseSpider):
                                         house.unit = house_unit
                                         house.__add__()
                                         logger.info("套内：%s" % house.inside_price)
-                                        # validate_driver.quit()
                                     except BaseException as e:
                                         is_exception = True
                                         logger.info(e)
-                                        try:
-                                            if validate_driver:
-                                                validate_driver.quit()
-                                        except:
-                                            pass
                                         logger.info("%s 内层异常休眠5分钟" % datetime.datetime.now())
                                         time.sleep(300)
                                         continue
                                     finally:
                                         if is_exception:
                                             update_region(region.get("id"), now_page)
-                                            validate_driver = webdriver.Chrome(chrome_options=options)
                             if is_add_house:
                                 # 增加大楼，楼房总量和在售数量
                                 building_static_data = get_building_statictics_data(building_id, real_estate_id)
@@ -256,13 +234,6 @@ class RealEstateSpider(BaseSpider):
                     finally:
                         update_region(region.get("id"), now_page)
                 update_region(region.get("id"), now_page)
-        try:
-            if validate_driver:
-                validate_driver.quit()
-            if driver:
-                driver.quit()
-        except:
-            pass
 
     def get_house_status_page(self, house):
         """
@@ -280,18 +251,6 @@ class RealEstateSpider(BaseSpider):
                 break
         return status
 
-    def infinite_loop_webdriver_url(self, webdriver, url):
-        loop = 10
-        while True:
-            try:
-                webdriver.get(url)
-                break
-            except:
-                loop -= 1
-                if loop == 0:
-                    return False
-                continue
-
     def get_internet_validate_code(self, validate_driver, validate_url):
         """
         图片识别
@@ -299,15 +258,13 @@ class RealEstateSpider(BaseSpider):
         :param validate_url:
         :return:
         """
-        code = -1
+        expression = ""
         while True:
             # 成功请求到网页
-            self.infinite_loop_webdriver_url(validate_driver, validate_url)
+            validate_driver.send_url(validate_url)
             # 截图整个网页
             validate_driver.save_screenshot("e:/spider_img/temp.png")
             try:
-                WebDriverWait(validate_driver, 10).until(
-                    expected_conditions.presence_of_element_located((By.TAG_NAME, "img")))
                 img = validate_driver.find_element_by_tag_name("img")
                 location_img_url = "e:/spider_img/temp.png"
                 # 保存验证码图片
@@ -321,23 +278,22 @@ class RealEstateSpider(BaseSpider):
                     os.mkdir("e:/spider_img")
                 image.save(location_img_url)
                 # 解析验证码
+                # 防止图片没有保存下来
                 time.sleep(3)
                 location_img = Image.open(location_img_url)
                 # 转到灰度
                 imgry = location_img.convert("L")
                 imgry.save(location_img_url)
-
                 # 对比度增强
                 sharpness = ImageEnhance.Contrast(imgry)
                 sharp_img = sharpness.enhance(2.0)
                 sharp_img.save(location_img_url)
-
                 # 二值化，采用阈值分割法，threshold为分割点
                 out = imgry.point(table, '1')
                 out.save(location_img_url)
-                # location_img = Image.open(location_img_url)
+                # 识别图片
                 int_code = -1
-                if code != -1:
+                if expression:
                     int_code = self.compute_code(code)
                 if int_code == -1:
                     code_str = pytesseract.image_to_string(out, lang="chi_sim")
@@ -357,33 +313,33 @@ class RealEstateSpider(BaseSpider):
                         number1 = str(code_str[0])
                         number2 = str(code_str[2])
                         if code_str[1] == u"\u52a0":
-                            code = number1 + "+" + number2
+                            expression = number1 + "+" + number2
                         elif code_str[1] == u"\u51cf":
-                            code = number1 + "-" + number2
+                            expression = number1 + "-" + number2
                         elif code_str[1] == u"\u4e58":
-                            code = number1 + "*" + number2
+                            expression = number1 + "*" + number2
                         elif code_str[1] == u"\u9664":
-                            code = number1 + "/" + number2
+                            expression = number1 + "/" + number2
                         else:
-                            code = self.image_corde_correct(succ_dict)
+                            expression = self.image_corde_correct(succ_dict)
                     else:
-                        code = self.image_corde_correct(succ_dict)
-                    if code == -1:
+                        expression = self.image_corde_correct(succ_dict)
+                    if not expression:
                         # TODO：成功图片比较，识别率较低
                         # 比较以前的成功图片
-                        code = self.compare_success_img(location_img_url, 0)
-                        continue
+                        compare_code = self.compare_success_img(location_img_url, 0)
+                        logger.info("成功图片比较：%s" % compare_code)
             except BaseException as e:
                 continue
-            logger.info("验证码:%s" % code)
-            int_code = self.compute_code(code)
+            logger.info("验证码:%s" % expression)
+            int_code = self.compute_code(expression)
             # 发送验证码请求
             code_input = validate_driver.find_element_by_id("txtCode")
             code_input.send_keys(int_code)
             validate_driver.find_element_by_id("Button1").click()
             one_house_url = validate_driver.current_url
             if "bid" in one_house_url:
-                self.save_success_image("e:/spider_img/temp.png", code)
+                self.save_success_image("e:/spider_img/temp.png", expression)
                 return True
 
     def image_corde_correct(self, succ_dict=None):
