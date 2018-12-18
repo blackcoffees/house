@@ -294,7 +294,7 @@ class RealEstateSpider(BaseSpider):
                 # 识别图片
                 int_code = -1
                 if expression:
-                    int_code = self.compute_code(code)
+                    int_code = self.compute_code(expression)
                 if int_code == -1:
                     code_str = pytesseract.image_to_string(out, lang="chi_sim")
                     location_img.close()
