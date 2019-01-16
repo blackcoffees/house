@@ -1,0 +1,1418 @@
+2019-01-15 13:22:32,726 - RealEstate.py[line:58] - INFO: 渝北房产信息收集完成
+2019-01-15 13:22:32,933 - RealEstate.py[line:62] - INFO: 江北：1
+2019-01-15 13:22:35,859 - RealEstate.py[line:163] - INFO: 2019-01-15 13:22:35.860000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 44-1（跃1）
+2019-01-15 13:22:40,723 - RealEstate.py[line:311] - INFO: 4笈刀6 等霁
+2019-01-15 13:22:40,792 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 13:22:40,798 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:22:40,803 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 13:22:44,492 - RealEstate.py[line:311] - INFO: 7减3 等于
+2019-01-15 13:22:44,492 - RealEstate.py[line:335] - INFO: 验证码:7-3
+2019-01-15 13:22:52,757 - RealEstate.py[line:210] - INFO: 套内单价：17344.88， 套内面积：174.55
+2019-01-15 13:22:52,759 - RealEstate.py[line:163] - INFO: 2019-01-15 13:22:52.759000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 44-2（跃1）
+2019-01-15 13:22:56,444 - RealEstate.py[line:311] - INFO: 3减1等于
+2019-01-15 13:22:56,446 - RealEstate.py[line:335] - INFO: 验证码:3-1
+2019-01-15 13:23:05,457 - RealEstate.py[line:210] - INFO: 套内单价：17342.79， 套内面积：199.66
+2019-01-15 13:23:05,457 - RealEstate.py[line:163] - INFO: 2019-01-15 13:23:05.457000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 44-3（跃1）
+2019-01-15 13:23:09,092 - RealEstate.py[line:311] - INFO: 1加8等于
+2019-01-15 13:23:09,092 - RealEstate.py[line:335] - INFO: 验证码:1+8
+2019-01-15 13:23:09,724 - RealEstate.py[line:163] - INFO: 2019-01-15 13:23:09.725000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 44-4（跃1）
+2019-01-15 13:23:17,147 - RealEstate.py[line:311] - INFO: 6减3等于
+2019-01-15 13:23:17,147 - RealEstate.py[line:335] - INFO: 验证码:6-3
+2019-01-15 13:23:17,371 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 13:23:17,371 - RealEstate.py[line:215] - INFO: 2019-01-15 13:23:17.372000 内层异常休眠5分钟
+2019-01-15 13:24:04,039 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 13:24:06,068 - RealEstate.py[line:163] - INFO: 2019-01-15 13:24:06.067000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 43-1
+2019-01-15 13:24:11,678 - RealEstate.py[line:311] - INFO: 7加蔓荨于
+2019-01-15 13:24:11,749 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 13:24:11,749 - RealEstate.py[line:335] - INFO: 验证码:7+5
+2019-01-15 13:24:15,966 - RealEstate.py[line:311] - INFO: 6减1等于
+2019-01-15 13:24:15,967 - RealEstate.py[line:335] - INFO: 验证码:6-1
+2019-01-15 13:25:25,430 - RealEstate.py[line:163] - INFO: 2019-01-15 13:25:25.430000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 43-2
+2019-01-15 13:25:29,743 - RealEstate.py[line:311] - INFO: 92亓乙7F莺 等于
+2019-01-15 13:25:29,809 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 13:25:30,040 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓江
+2019-01-15 13:25:30,046 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 13:25:34,851 - RealEstate.py[line:311] - INFO: 4减2荨于
+2019-01-15 13:25:34,851 - RealEstate.py[line:335] - INFO: 验证码:4-2
+2019-01-15 13:26:42,713 - RealEstate.py[line:163] - INFO: 2019-01-15 13:26:42.713000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 43-3
+2019-01-15 13:26:46,977 - RealEstate.py[line:311] - INFO: 32夕衢2乏家 荨干
+2019-01-15 13:26:47,045 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\\
+2019-01-15 13:26:47,051 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 13:26:47,055 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-15 13:26:50,803 - RealEstate.py[line:311] - INFO: 3减2荨芳
+2019-01-15 13:26:50,803 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 13:28:04,914 - RealEstate.py[line:163] - INFO: 2019-01-15 13:28:04.914000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 43-4
+2019-01-15 13:28:09,380 - RealEstate.py[line:311] - INFO: 9减4等于
+2019-01-15 13:28:09,380 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-15 13:28:25,170 - RealEstate.py[line:210] - INFO: 套内单价：19444.8， 套内面积：147.19
+2019-01-15 13:28:25,171 - RealEstate.py[line:163] - INFO: 2019-01-15 13:28:25.172000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 42-1
+2019-01-15 13:28:32,108 - RealEstate.py[line:311] - INFO: G2夕衢25 等于
+2019-01-15 13:28:32,173 - RealEstate.py[line:367] - INFO: 图片识别修正number1:6
+2019-01-15 13:28:32,236 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 13:28:32,456 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕娜
+2019-01-15 13:28:32,461 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:28:32,463 - RealEstate.py[line:335] - INFO: 验证码:6+5
+2019-01-15 13:28:40,979 - RealEstate.py[line:210] - INFO: 套内单价：20412.63， 套内面积：147.19
+2019-01-15 13:28:40,980 - RealEstate.py[line:163] - INFO: 2019-01-15 13:28:40.980000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 42-2
+2019-01-15 13:28:51,471 - RealEstate.py[line:311] - INFO: 42加1 等于
+2019-01-15 13:28:51,535 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 13:28:51,753 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 13:28:51,760 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:28:51,760 - RealEstate.py[line:335] - INFO: 验证码:4+1
+2019-01-15 13:30:02,858 - RealEstate.py[line:163] - INFO: 2019-01-15 13:30:02.858000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 42-3
+2019-01-15 13:30:07,921 - RealEstate.py[line:311] - INFO: 8加6 等于
+2019-01-15 13:30:07,921 - RealEstate.py[line:335] - INFO: 验证码:8+6
+2019-01-15 13:31:17,276 - RealEstate.py[line:163] - INFO: 2019-01-15 13:31:17.277000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 42-4
+2019-01-15 13:31:22,710 - RealEstate.py[line:311] - INFO: 5减4等于
+2019-01-15 13:31:22,710 - RealEstate.py[line:335] - INFO: 验证码:5-4
+2019-01-15 13:31:33,380 - RealEstate.py[line:210] - INFO: 套内单价：19444.8， 套内面积：147.19
+2019-01-15 13:31:33,381 - RealEstate.py[line:163] - INFO: 2019-01-15 13:31:33.381000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 41-1
+2019-01-15 13:31:37,115 - RealEstate.py[line:311] - INFO: 2减1荨于
+2019-01-15 13:31:37,117 - RealEstate.py[line:335] - INFO: 验证码:2-1
+2019-01-15 13:31:49,137 - RealEstate.py[line:210] - INFO: 套内单价：20412.63， 套内面积：147.19
+2019-01-15 13:31:49,137 - RealEstate.py[line:163] - INFO: 2019-01-15 13:31:49.137000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 41-2
+2019-01-15 13:31:52,891 - RealEstate.py[line:311] - INFO: 4减3荨芳
+2019-01-15 13:31:52,891 - RealEstate.py[line:335] - INFO: 验证码:4-3
+2019-01-15 13:32:05,486 - RealEstate.py[line:210] - INFO: 套内单价：20929.11， 套内面积：147.18
+2019-01-15 13:32:05,487 - RealEstate.py[line:163] - INFO: 2019-01-15 13:32:05.488000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 41-3
+2019-01-15 13:32:09,259 - RealEstate.py[line:311] - INFO: 9减1等于
+2019-01-15 13:32:09,259 - RealEstate.py[line:335] - INFO: 验证码:9-1
+2019-01-15 13:32:17,918 - RealEstate.py[line:210] - INFO: 套内单价：19574.5， 套内面积：147.24
+2019-01-15 13:32:17,920 - RealEstate.py[line:163] - INFO: 2019-01-15 13:32:17.920000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 41-4
+2019-01-15 13:32:21,658 - RealEstate.py[line:311] - INFO: 5减1荨于
+2019-01-15 13:32:21,658 - RealEstate.py[line:335] - INFO: 验证码:5-1
+2019-01-15 13:33:31,993 - RealEstate.py[line:163] - INFO: 2019-01-15 13:33:31.994000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 40-1
+2019-01-15 13:33:35,770 - RealEstate.py[line:311] - INFO: 3减1等于
+2019-01-15 13:33:35,770 - RealEstate.py[line:335] - INFO: 验证码:3-1
+2019-01-15 13:33:53,107 - RealEstate.py[line:210] - INFO: 套内单价：20412.63， 套内面积：147.19
+2019-01-15 13:33:53,107 - RealEstate.py[line:163] - INFO: 2019-01-15 13:33:53.107000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 40-2
+2019-01-15 13:34:00,433 - RealEstate.py[line:311] - INFO: 7彝梯E 等于
+2019-01-15 13:34:00,503 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 13:34:00,730 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蝉
+2019-01-15 13:34:00,736 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 13:34:00,736 - RealEstate.py[line:335] - INFO: 验证码:7-6
+2019-01-15 13:35:37,134 - RealEstate.py[line:163] - INFO: 2019-01-15 13:35:37.135000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 40-3
+2019-01-15 13:35:40,878 - RealEstate.py[line:311] - INFO: 之萦2夕/25 等于
+2019-01-15 13:35:40,951 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 13:35:40,951 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 13:35:41,173 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕刃
+2019-01-15 13:35:41,178 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:35:41,178 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 13:35:45,378 - RealEstate.py[line:311] - INFO: 9减7等于
+2019-01-15 13:35:45,380 - RealEstate.py[line:335] - INFO: 验证码:9-7
+2019-01-15 13:35:54,026 - RealEstate.py[line:210] - INFO: 套内单价：19445.45， 套内面积：147.24
+2019-01-15 13:35:54,028 - RealEstate.py[line:163] - INFO: 2019-01-15 13:35:54.028000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 40-4
+2019-01-15 13:35:57,757 - RealEstate.py[line:311] - INFO: 822奴2 等于
+2019-01-15 13:35:57,757 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 13:35:57,973 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐灯
+2019-01-15 13:35:57,980 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 13:36:01,726 - RealEstate.py[line:311] - INFO: 22亓夕6 荨于
+2019-01-15 13:36:01,792 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 13:36:01,799 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 13:36:01,803 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 13:36:05,586 - RealEstate.py[line:311] - INFO: 7减3 荨于
+2019-01-15 13:36:05,586 - RealEstate.py[line:335] - INFO: 验证码:7-3
+2019-01-15 13:36:14,210 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 13:36:14,211 - RealEstate.py[line:163] - INFO: 2019-01-15 13:36:14.212000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 39-1
+2019-01-15 13:36:29,009 - RealEstate.py[line:311] - INFO: 8减2荨于
+2019-01-15 13:36:29,009 - RealEstate.py[line:335] - INFO: 验证码:8-2
+2019-01-15 13:37:44,628 - RealEstate.py[line:163] - INFO: 2019-01-15 13:37:44.628000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 39-2
+2019-01-15 13:37:49,930 - RealEstate.py[line:311] - INFO: 7遂娜5 等于
+2019-01-15 13:37:49,993 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 13:37:50,213 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-15 13:37:50,219 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:37:50,219 - RealEstate.py[line:335] - INFO: 验证码:7+5
+2019-01-15 13:39:17,371 - RealEstate.py[line:163] - INFO: 2019-01-15 13:39:17.372000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 39-3
+2019-01-15 13:39:22,107 - RealEstate.py[line:311] - INFO: 6减2等干
+2019-01-15 13:39:22,108 - RealEstate.py[line:335] - INFO: 验证码:6-2
+2019-01-15 13:40:30,838 - RealEstate.py[line:163] - INFO: 2019-01-15 13:40:30.838000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 39-4
+2019-01-15 13:40:34,596 - RealEstate.py[line:311] - INFO: 22歹224 等于
+2019-01-15 13:40:34,664 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 13:40:34,891 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹奴
+2019-01-15 13:40:34,898 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:40:34,898 - RealEstate.py[line:335] - INFO: 验证码:2+4
+2019-01-15 13:40:50,367 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 13:40:50,368 - RealEstate.py[line:163] - INFO: 2019-01-15 13:40:50.369000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 38-1
+2019-01-15 13:40:56,601 - RealEstate.py[line:311] - INFO: 1汐刀3 等于
+2019-01-15 13:40:56,684 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 13:40:56,903 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-15 13:40:56,908 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:40:56,910 - RealEstate.py[line:335] - INFO: 验证码:1+3
+2019-01-15 13:42:13,878 - RealEstate.py[line:163] - INFO: 2019-01-15 13:42:13.878000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 38-2
+2019-01-15 13:42:18,315 - RealEstate.py[line:311] - INFO: 5加1 荨于
+2019-01-15 13:42:18,315 - RealEstate.py[line:335] - INFO: 验证码:5+1
+2019-01-15 13:42:29,796 - RealEstate.py[line:210] - INFO: 套内单价：20929.11， 套内面积：147.18
+2019-01-15 13:42:29,796 - RealEstate.py[line:163] - INFO: 2019-01-15 13:42:29.797000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 38-3
+2019-01-15 13:42:33,631 - RealEstate.py[line:311] - INFO: 4笈奴9 荨于
+2019-01-15 13:42:33,701 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 13:42:33,707 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:42:33,714 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 13:42:37,632 - RealEstate.py[line:311] - INFO: 8加3 等于
+2019-01-15 13:42:37,632 - RealEstate.py[line:335] - INFO: 验证码:8+3
+2019-01-15 13:43:53,928 - RealEstate.py[line:163] - INFO: 2019-01-15 13:43:53.929000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 38-4
+2019-01-15 13:44:06,711 - RealEstate.py[line:311] - INFO: 9加7 荨于
+2019-01-15 13:44:06,711 - RealEstate.py[line:335] - INFO: 验证码:9+7
+2019-01-15 13:44:38,233 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 13:44:38,234 - RealEstate.py[line:163] - INFO: 2019-01-15 13:44:38.235000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 37-1
+2019-01-15 13:44:41,967 - RealEstate.py[line:311] - INFO: 二寮2夕/~77 荨于
+2019-01-15 13:44:42,038 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 13:44:42,038 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 13:44:42,257 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓夕
+2019-01-15 13:44:42,263 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:44:42,263 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 13:44:54,056 - RealEstate.py[line:311] - INFO: 8减7等于
+2019-01-15 13:44:54,058 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-15 13:45:50,239 - RealEstate.py[line:210] - INFO: 套内单价：20477.15， 套内面积：147.19
+2019-01-15 13:45:50,239 - RealEstate.py[line:163] - INFO: 2019-01-15 13:45:50.239000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 37-2
+2019-01-15 13:45:54,757 - RealEstate.py[line:311] - INFO: 9兹奴3 等于
+2019-01-15 13:45:54,832 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 13:45:55,046 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 13:45:55,052 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:45:55,053 - RealEstate.py[line:335] - INFO: 验证码:9+3
+2019-01-15 13:46:05,463 - RealEstate.py[line:210] - INFO: 套内单价：20993.63， 套内面积：147.18
+2019-01-15 13:46:05,463 - RealEstate.py[line:163] - INFO: 2019-01-15 13:46:05.463000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 37-3
+2019-01-15 13:46:09,348 - RealEstate.py[line:311] - INFO: 6加9 等于
+2019-01-15 13:46:09,349 - RealEstate.py[line:335] - INFO: 验证码:6+9
+2019-01-15 13:47:32,571 - RealEstate.py[line:163] - INFO: 2019-01-15 13:47:32.571000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 37-4
+2019-01-15 13:47:37,171 - RealEstate.py[line:311] - INFO: 82加9 等于
+2019-01-15 13:47:37,233 - RealEstate.py[line:374] - INFO: 图片识别修正number2:9
+2019-01-15 13:47:37,447 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 13:47:37,454 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:47:37,456 - RealEstate.py[line:335] - INFO: 验证码:8+9
+2019-01-15 13:47:42,170 - RealEstate.py[line:311] - INFO: 4减3荨于
+2019-01-15 13:47:42,171 - RealEstate.py[line:335] - INFO: 验证码:4-3
+2019-01-15 13:48:00,892 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 13:48:00,892 - RealEstate.py[line:163] - INFO: 2019-01-15 13:48:00.893000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 36-1
+2019-01-15 13:48:04,806 - RealEstate.py[line:311] - INFO: 5加8 等于
+2019-01-15 13:48:04,808 - RealEstate.py[line:335] - INFO: 验证码:5+8
+2019-01-15 13:48:14,075 - RealEstate.py[line:210] - INFO: 套内单价：20477.15， 套内面积：147.19
+2019-01-15 13:48:14,075 - RealEstate.py[line:163] - INFO: 2019-01-15 13:48:14.075000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 36-2
+2019-01-15 13:48:17,803 - RealEstate.py[line:311] - INFO: 2减2等于
+2019-01-15 13:48:17,803 - RealEstate.py[line:335] - INFO: 验证码:2-2
+2019-01-15 13:48:18,309 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 13:48:18,309 - RealEstate.py[line:215] - INFO: 2019-01-15 13:48:18.309000 内层异常休眠5分钟
+2019-01-15 13:49:05,733 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-01-15 13:49:07,855 - RealEstate.py[line:163] - INFO: 2019-01-15 13:49:07.855000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 36-3
+2019-01-15 13:49:43,494 - RealEstate.py[line:311] - INFO: 42夕27二荤 等于
+2019-01-15 13:49:43,565 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 13:49:43,792 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 13:49:43,799 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:49:43,799 - RealEstate.py[line:335] - INFO: 验证码:4+3
+2019-01-15 13:51:24,138 - RealEstate.py[line:163] - INFO: 2019-01-15 13:51:24.138000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 36-4
+2019-01-15 13:56:47,907 - RealEstate.py[line:311] - INFO: 9癣8等于
+2019-01-15 13:56:47,907 - RealEstate.py[line:374] - INFO: 图片识别修正number2:8
+2019-01-15 13:56:48,125 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蝉
+2019-01-15 13:56:48,132 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 13:56:48,132 - RealEstate.py[line:335] - INFO: 验证码:9-8
+2019-01-15 13:56:51,904 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 13:56:51,904 - RealEstate.py[line:215] - INFO: 2019-01-15 13:56:51.905000 内层异常休眠5分钟
+2019-01-15 13:57:14,308 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-01-15 13:57:16,348 - RealEstate.py[line:163] - INFO: 2019-01-15 13:57:16.347000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 35-1
+2019-01-15 13:57:49,910 - RealEstate.py[line:311] - INFO: 4汐刀7等于
+2019-01-15 13:57:49,976 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 13:57:50,210 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-15 13:57:50,217 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:57:50,217 - RealEstate.py[line:335] - INFO: 验证码:4+7
+2019-01-15 13:58:12,036 - RealEstate.py[line:210] - INFO: 套内单价：20477.15， 套内面积：147.19
+2019-01-15 13:58:12,036 - RealEstate.py[line:163] - INFO: 2019-01-15 13:58:12.037000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 35-2
+2019-01-15 13:58:18,229 - RealEstate.py[line:311] - INFO: 72亓衢灭凛 等于
+2019-01-15 13:58:18,295 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 13:58:18,517 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹办
+2019-01-15 13:58:18,525 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 13:58:18,525 - RealEstate.py[line:335] - INFO: 验证码:7+4
+2019-01-15 13:58:34,625 - RealEstate.py[line:163] - INFO: 2019-01-15 13:58:34.625000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 35-3
+2019-01-15 13:58:40,467 - RealEstate.py[line:311] - INFO: 鑫122277 荨于
+2019-01-15 13:58:40,532 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 13:58:40,532 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 13:58:40,752 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐夕
+2019-01-15 13:58:40,759 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:03:59,142 - RealEstate.py[line:311] - INFO: 32夕衢2仨 等于
+2019-01-15 14:03:59,207 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 14:03:59,430 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 14:03:59,436 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:03:59,437 - RealEstate.py[line:335] - INFO: 验证码:3+5
+2019-01-15 14:04:16,338 - RealEstate.py[line:210] - INFO: 套内单价：19445.45， 套内面积：147.24
+2019-01-15 14:04:16,339 - RealEstate.py[line:163] - INFO: 2019-01-15 14:04:16.340000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 35-4
+2019-01-15 14:04:22,621 - RealEstate.py[line:311] - INFO: 72寮/2二寮 等于
+2019-01-15 14:04:22,694 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:04:22,921 - RealEstate.py[line:385] - INFO: 图片识别修正operator:劾
+2019-01-15 14:04:22,927 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:04:22,928 - RealEstate.py[line:335] - INFO: 验证码:7+3
+2019-01-15 14:04:35,519 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 14:04:35,520 - RealEstate.py[line:163] - INFO: 2019-01-15 14:04:35.521000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 34-1
+2019-01-15 14:04:41,329 - RealEstate.py[line:311] - INFO: 1加9等于
+2019-01-15 14:04:41,331 - RealEstate.py[line:335] - INFO: 验证码:1+9
+2019-01-15 14:05:56,917 - RealEstate.py[line:163] - INFO: 2019-01-15 14:05:56.917000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 34-2
+2019-01-15 14:06:03,178 - RealEstate.py[line:311] - INFO: 7减4荨于
+2019-01-15 14:06:03,180 - RealEstate.py[line:335] - INFO: 验证码:7-4
+2019-01-15 14:06:32,325 - RealEstate.py[line:210] - INFO: 套内单价：20993.63， 套内面积：147.18
+2019-01-15 14:06:32,326 - RealEstate.py[line:163] - INFO: 2019-01-15 14:06:32.327000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 34-3
+2019-01-15 14:06:45,816 - RealEstate.py[line:311] - INFO: 5加凛 等于
+2019-01-15 14:06:45,920 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:06:45,921 - RealEstate.py[line:335] - INFO: 验证码:5+4
+2019-01-15 14:06:57,290 - RealEstate.py[line:210] - INFO: 套内单价：19445.45， 套内面积：147.24
+2019-01-15 14:06:57,290 - RealEstate.py[line:163] - INFO: 2019-01-15 14:06:57.291000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 34-4
+2019-01-15 14:07:01,645 - RealEstate.py[line:311] - INFO: 9减8荨于
+2019-01-15 14:07:01,645 - RealEstate.py[line:335] - INFO: 验证码:9-8
+2019-01-15 14:07:11,940 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 14:07:11,941 - RealEstate.py[line:163] - INFO: 2019-01-15 14:07:11.942000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 33-1
+2019-01-15 14:07:16,361 - RealEstate.py[line:311] - INFO: B减1等于
+2019-01-15 14:07:16,434 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 14:07:16,434 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 14:07:16,440 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:07:16,447 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 14:07:20,809 - RealEstate.py[line:311] - INFO: 6减7荨于
+2019-01-15 14:07:20,809 - RealEstate.py[line:335] - INFO: 验证码:6-7
+2019-01-15 14:07:27,512 - RealEstate.py[line:311] - INFO: 3减1等芳
+2019-01-15 14:07:27,513 - RealEstate.py[line:335] - INFO: 验证码:3-1
+2019-01-15 14:07:30,073 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 14:07:30,075 - RealEstate.py[line:215] - INFO: 2019-01-15 14:07:30.075000 内层异常休眠5分钟
+2019-01-15 14:07:31,171 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 14:07:33,246 - RealEstate.py[line:163] - INFO: 2019-01-15 14:07:33.245000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 33-2
+2019-01-15 14:07:37,979 - RealEstate.py[line:311] - INFO: 8/读奴2 荨于
+2019-01-15 14:07:38,046 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:07:38,266 - RealEstate.py[line:385] - INFO: 图片识别修正operator:歹苡
+2019-01-15 14:07:38,272 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:07:38,272 - RealEstate.py[line:335] - INFO: 验证码:8+2
+2019-01-15 14:07:56,489 - RealEstate.py[line:210] - INFO: 套内单价：20994， 套内面积：147.18
+2019-01-15 14:07:56,489 - RealEstate.py[line:163] - INFO: 2019-01-15 14:07:56.489000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 33-3
+2019-01-15 14:08:05,368 - RealEstate.py[line:311] - INFO: 9加5 等于
+2019-01-15 14:08:05,368 - RealEstate.py[line:335] - INFO: 验证码:9+5
+2019-01-15 14:09:29,831 - RealEstate.py[line:163] - INFO: 2019-01-15 14:09:29.831000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 33-4
+2019-01-15 14:09:33,647 - RealEstate.py[line:311] - INFO: 6刀衢25 荸于
+2019-01-15 14:09:33,723 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 14:09:33,948 - RealEstate.py[line:385] - INFO: 图片识别修正operator:歹衢Z
+2019-01-15 14:09:33,957 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:09:33,957 - RealEstate.py[line:335] - INFO: 验证码:6+5
+2019-01-15 14:10:08,986 - RealEstate.py[line:210] - INFO: 套内单价：19315.75， 套内面积：147.19
+2019-01-15 14:10:08,987 - RealEstate.py[line:163] - INFO: 2019-01-15 14:10:08.988000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 32-1
+2019-01-15 14:10:15,469 - RealEstate.py[line:311] - INFO: 3加5 等于
+2019-01-15 14:10:15,469 - RealEstate.py[line:335] - INFO: 验证码:3+5
+2019-01-15 14:10:32,974 - RealEstate.py[line:210] - INFO: 套内单价：20477.15， 套内面积：147.19
+2019-01-15 14:10:32,976 - RealEstate.py[line:163] - INFO: 2019-01-15 14:10:32.976000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 32-2
+2019-01-15 14:10:38,599 - RealEstate.py[line:311] - INFO: 8减4荨于
+2019-01-15 14:10:38,599 - RealEstate.py[line:335] - INFO: 验证码:8-4
+2019-01-15 14:12:43,017 - RealEstate.py[line:163] - INFO: 2019-01-15 14:12:43.018000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 32-3
+2019-01-15 14:12:49,173 - RealEstate.py[line:311] - INFO: 7加7 等于
+2019-01-15 14:12:49,174 - RealEstate.py[line:335] - INFO: 验证码:7+7
+2019-01-15 14:13:00,489 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 14:13:00,489 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 14:14:23,546 - RealEstate.py[line:163] - INFO: 2019-01-15 14:14:23.546000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 32-4
+2019-01-15 14:14:27,329 - RealEstate.py[line:311] - INFO: 82夕224 等于
+2019-01-15 14:14:27,398 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:14:27,628 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 14:14:27,634 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:14:27,634 - RealEstate.py[line:335] - INFO: 验证码:8+4
+2019-01-15 14:14:31,835 - RealEstate.py[line:311] - INFO: 92亓乙7乏覆 荨于
+2019-01-15 14:14:31,907 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\
+2019-01-15 14:14:31,913 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:14:31,917 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-15 14:14:31,917 - RealEstate.py[line:335] - INFO: 验证码:9+8
+2019-01-15 14:14:39,979 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 14:14:39,979 - RealEstate.py[line:215] - INFO: 2019-01-15 14:14:39.979000 内层异常休眠5分钟
+2019-01-15 14:14:41,073 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 14:14:43,125 - RealEstate.py[line:163] - INFO: 2019-01-15 14:14:43.126000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 31-1
+2019-01-15 14:14:48,342 - RealEstate.py[line:311] - INFO: 5加6 等于
+2019-01-15 14:14:48,342 - RealEstate.py[line:335] - INFO: 验证码:5+6
+2019-01-15 14:14:50,078 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 14:14:50,078 - RealEstate.py[line:215] - INFO: 2019-01-15 14:14:50.078000 内层异常休眠5分钟
+2019-01-15 14:14:51,174 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 14:14:53,217 - RealEstate.py[line:163] - INFO: 2019-01-15 14:14:53.217000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 31-2
+2019-01-15 14:15:01,604 - RealEstate.py[line:311] - INFO: E2夕衢22 等于
+2019-01-15 14:15:01,678 - RealEstate.py[line:367] - INFO: 图片识别修正number1:5
+2019-01-15 14:15:01,747 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:15:01,974 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕刀
+2019-01-15 14:15:01,983 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:15:05,769 - RealEstate.py[line:311] - INFO: 8减轰等于
+2019-01-15 14:15:05,836 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 14:15:05,836 - RealEstate.py[line:335] - INFO: 验证码:8-5
+2019-01-15 14:15:10,173 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 14:15:10,174 - RealEstate.py[line:215] - INFO: 2019-01-15 14:15:10.174000 内层异常休眠5分钟
+2019-01-15 14:15:11,273 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 14:15:13,344 - RealEstate.py[line:163] - INFO: 2019-01-15 14:15:13.344000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 31-3
+2019-01-15 14:15:19,066 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 14:15:19,066 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 14:16:29,447 - RealEstate.py[line:163] - INFO: 2019-01-15 14:16:29.448000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 31-4
+2019-01-15 14:16:33,332 - RealEstate.py[line:311] - INFO: 22寮衢2二覃 荨于
+2019-01-15 14:16:33,408 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:16:33,644 - RealEstate.py[line:385] - INFO: 图片识别修正operator:加
+2019-01-15 14:16:33,644 - RealEstate.py[line:335] - INFO: 验证码:2+3
+2019-01-15 14:17:49,344 - RealEstate.py[line:163] - INFO: 2019-01-15 14:17:49.344000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 29-1（跃1）
+2019-01-15 14:17:53,164 - RealEstate.py[line:311] - INFO: 凛2夕衢23 荨于
+2019-01-15 14:17:53,240 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 14:17:53,313 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:17:53,575 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓厚
+2019-01-15 14:17:53,582 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:17:53,582 - RealEstate.py[line:335] - INFO: 验证码:4+3
+2019-01-15 14:17:57,974 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 14:17:57,974 - RealEstate.py[line:215] - INFO: 2019-01-15 14:17:57.975000 内层异常休眠5分钟
+2019-01-15 14:17:59,107 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 14:18:02,993 - RealEstate.py[line:163] - INFO: 2019-01-15 14:18:02.993000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 29-2（跃1）
+2019-01-15 14:18:08,713 - RealEstate.py[line:311] - INFO: 6减6 等于
+2019-01-15 14:18:08,713 - RealEstate.py[line:335] - INFO: 验证码:6-6
+2019-01-15 14:18:19,532 - RealEstate.py[line:210] - INFO: 套内单价：15192.92， 套内面积：193.14
+2019-01-15 14:18:19,532 - RealEstate.py[line:163] - INFO: 2019-01-15 14:18:19.533000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 29-3（跃1）
+2019-01-15 14:18:23,273 - RealEstate.py[line:311] - INFO: 9减5荨于
+2019-01-15 14:18:23,273 - RealEstate.py[line:335] - INFO: 验证码:9-5
+2019-01-15 14:19:02,555 - RealEstate.py[line:210] - INFO: 套内单价：15193.04， 套内面积：193.17
+2019-01-15 14:19:02,555 - RealEstate.py[line:163] - INFO: 2019-01-15 14:19:02.555000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 29-4（跃1）
+2019-01-15 14:19:06,892 - RealEstate.py[line:311] - INFO: 7减3 荨于
+2019-01-15 14:19:06,892 - RealEstate.py[line:335] - INFO: 验证码:7-3
+2019-01-15 14:19:18,770 - RealEstate.py[line:210] - INFO: 套内单价：15193.12， 套内面积：193.09
+2019-01-15 14:19:18,772 - RealEstate.py[line:163] - INFO: 2019-01-15 14:19:18.771000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 30-避难层
+2019-01-15 14:19:22,549 - RealEstate.py[line:311] - INFO: 8减3等于
+2019-01-15 14:19:22,549 - RealEstate.py[line:335] - INFO: 验证码:8-3
+2019-01-15 14:19:32,868 - RealEstate.py[line:163] - INFO: 2019-01-15 14:19:32.868000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 28-1
+2019-01-15 14:19:42,260 - RealEstate.py[line:311] - INFO: 9减5 等于
+2019-01-15 14:19:42,260 - RealEstate.py[line:335] - INFO: 验证码:9-5
+2019-01-15 14:21:00,473 - RealEstate.py[line:163] - INFO: 2019-01-15 14:21:00.473000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 28-2
+2019-01-15 14:21:05,473 - RealEstate.py[line:311] - INFO: 8癖1等于
+2019-01-15 14:21:05,473 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 14:21:05,698 - RealEstate.py[line:385] - INFO: 图片识别修正operator:癖
+2019-01-15 14:21:05,704 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 14:21:05,706 - RealEstate.py[line:335] - INFO: 验证码:8-1
+2019-01-15 14:22:15,098 - RealEstate.py[line:163] - INFO: 2019-01-15 14:22:15.098000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 28-3
+2019-01-15 14:22:21,243 - RealEstate.py[line:311] - INFO: 1加4等于
+2019-01-15 14:22:21,243 - RealEstate.py[line:335] - INFO: 验证码:1+4
+2019-01-15 14:22:38,096 - RealEstate.py[line:210] - INFO: 套内单价：19316， 套内面积：147.24
+2019-01-15 14:22:38,096 - RealEstate.py[line:163] - INFO: 2019-01-15 14:22:38.097000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 28-4
+2019-01-15 14:22:42,142 - RealEstate.py[line:311] - INFO: 8减2等于
+2019-01-15 14:22:42,144 - RealEstate.py[line:335] - INFO: 验证码:8-2
+2019-01-15 14:23:55,792 - RealEstate.py[line:163] - INFO: 2019-01-15 14:23:55.791000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 27-1
+2019-01-15 14:24:08,674 - RealEstate.py[line:311] - INFO: 1减1等于
+2019-01-15 14:24:08,674 - RealEstate.py[line:335] - INFO: 验证码:1-1
+2019-01-15 14:26:17,638 - RealEstate.py[line:163] - INFO: 2019-01-15 14:26:17.638000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 27-2
+2019-01-15 14:26:27,763 - RealEstate.py[line:311] - INFO: 72夕奚7摹冢 荨于
+2019-01-15 14:26:27,835 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 14:26:27,842 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 14:26:27,846 - RealEstate.py[line:441] - INFO: 图片比较修正number2:9
+2019-01-15 14:26:27,846 - RealEstate.py[line:335] - INFO: 验证码:7-9
+2019-01-15 14:26:39,430 - RealEstate.py[line:311] - INFO: 7炙黄21 荨于
+2019-01-15 14:26:39,497 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:26:39,709 - RealEstate.py[line:385] - INFO: 图片识别修正operator:游
+2019-01-15 14:26:39,716 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 14:26:39,716 - RealEstate.py[line:335] - INFO: 验证码:7-4
+2019-01-15 14:27:56,717 - RealEstate.py[line:163] - INFO: 2019-01-15 14:27:56.717000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 27-3
+2019-01-15 14:28:10,720 - RealEstate.py[line:311] - INFO: 52夕/2二荤 等于
+2019-01-15 14:28:10,789 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:28:11,015 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓夕
+2019-01-15 14:28:11,020 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:28:21,043 - RealEstate.py[line:311] - INFO: 乏22衢赏6 荨干
+2019-01-15 14:28:21,111 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-15 14:28:21,112 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:28:21,121 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:28:21,128 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 14:28:28,983 - RealEstate.py[line:311] - INFO: 9藜奴3 荨于
+2019-01-15 14:28:29,056 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:28:29,283 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹潺
+2019-01-15 14:28:29,290 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:28:29,290 - RealEstate.py[line:335] - INFO: 验证码:9+3
+2019-01-15 14:29:17,572 - RealEstate.py[line:210] - INFO: 套内单价：19316.4， 套内面积：147.24
+2019-01-15 14:29:17,573 - RealEstate.py[line:163] - INFO: 2019-01-15 14:29:17.574000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 27-4
+2019-01-15 14:29:21,647 - RealEstate.py[line:311] - INFO: 22加2 等于
+2019-01-15 14:29:21,743 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:29:21,966 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 14:29:21,971 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:29:21,973 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-15 14:29:46,480 - RealEstate.py[line:210] - INFO: 套内单价：19187， 套内面积：147.21
+2019-01-15 14:29:46,482 - RealEstate.py[line:163] - INFO: 2019-01-15 14:29:46.482000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 26-1
+2019-01-15 14:29:50,236 - RealEstate.py[line:311] - INFO: 7汐夕4 等于
+2019-01-15 14:29:50,302 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:29:50,517 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐奴
+2019-01-15 14:29:50,517 - RealEstate.py[line:335] - INFO: 验证码:7+4
+2019-01-15 14:30:03,163 - RealEstate.py[line:210] - INFO: 套内单价：20477.15， 套内面积：147.19
+2019-01-15 14:30:03,164 - RealEstate.py[line:163] - INFO: 2019-01-15 14:30:03.164000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 26-2
+2019-01-15 14:30:06,976 - RealEstate.py[line:311] - INFO: 8咸藜荨于
+2019-01-15 14:30:07,046 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:30:07,305 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蜂
+2019-01-15 14:30:07,312 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 14:30:07,313 - RealEstate.py[line:335] - INFO: 验证码:8-4
+2019-01-15 14:31:24,312 - RealEstate.py[line:163] - INFO: 2019-01-15 14:31:24.312000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 26-3
+2019-01-15 14:31:28,569 - RealEstate.py[line:311] - INFO: 4笈奴9 等于
+2019-01-15 14:31:28,644 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 14:31:28,651 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 14:31:28,658 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 14:31:32,398 - RealEstate.py[line:311] - INFO: 6汐衢灭3 荨于
+2019-01-15 14:31:32,467 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:31:32,690 - RealEstate.py[line:385] - INFO: 图片识别修正operator:歹苡
+2019-01-15 14:31:32,697 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:31:41,319 - RealEstate.py[line:311] - INFO: B22222 等于
+2019-01-15 14:31:41,385 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-15 14:31:41,387 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:31:41,392 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:31:41,398 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 14:31:45,151 - RealEstate.py[line:311] - INFO: 8歹2夕衢78 荨于
+2019-01-15 14:31:45,151 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:31:45,365 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕刀
+2019-01-15 14:31:45,372 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:31:49,921 - RealEstate.py[line:311] - INFO: 乏萦R衢赏5 等于
+2019-01-15 14:31:49,986 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 14:31:50,048 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 14:31:50,055 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:31:50,061 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 14:31:53,818 - RealEstate.py[line:311] - INFO: 3减1等于
+2019-01-15 14:31:53,818 - RealEstate.py[line:335] - INFO: 验证码:3-1
+2019-01-15 14:33:11,036 - RealEstate.py[line:163] - INFO: 2019-01-15 14:33:11.036000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 26-4
+2019-01-15 14:33:16,026 - RealEstate.py[line:311] - INFO: 9减4等于
+2019-01-15 14:33:16,026 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-15 14:34:32,286 - RealEstate.py[line:163] - INFO: 2019-01-15 14:34:32.287000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 25-1
+2019-01-15 14:34:36,089 - RealEstate.py[line:311] - INFO: 5减A等于
+2019-01-15 14:34:36,157 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:34:36,157 - RealEstate.py[line:335] - INFO: 验证码:5-3
+2019-01-15 14:36:09,947 - RealEstate.py[line:163] - INFO: 2019-01-15 14:36:09.947000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 25-2
+2019-01-15 14:36:13,786 - RealEstate.py[line:311] - INFO: 4加2 荨于
+2019-01-15 14:36:13,786 - RealEstate.py[line:335] - INFO: 验证码:4+2
+2019-01-15 14:37:26,226 - RealEstate.py[line:163] - INFO: 2019-01-15 14:37:26.226000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 25-3
+2019-01-15 14:37:30,019 - RealEstate.py[line:311] - INFO: 5放奴1 等于
+2019-01-15 14:37:30,084 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 14:37:30,312 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-15 14:37:30,319 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:37:30,319 - RealEstate.py[line:335] - INFO: 验证码:5+1
+2019-01-15 14:37:43,753 - RealEstate.py[line:210] - INFO: 套内单价：19316.4， 套内面积：147.24
+2019-01-15 14:37:43,755 - RealEstate.py[line:163] - INFO: 2019-01-15 14:37:43.755000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 25-4
+2019-01-15 14:37:47,540 - RealEstate.py[line:311] - INFO: 7减5 等于
+2019-01-15 14:37:47,540 - RealEstate.py[line:335] - INFO: 验证码:7-5
+2019-01-15 14:38:00,937 - RealEstate.py[line:210] - INFO: 套内单价：19187.17， 套内面积：147.21
+2019-01-15 14:38:00,937 - RealEstate.py[line:163] - INFO: 2019-01-15 14:38:00.938000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 24-1
+2019-01-15 14:38:04,720 - RealEstate.py[line:311] - INFO: 622衢7鳖董 等于
+2019-01-15 14:38:04,721 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:38:04,937 - RealEstate.py[line:385] - INFO: 图片识别修正operator:欢刀
+2019-01-15 14:38:04,944 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:38:08,667 - RealEstate.py[line:311] - INFO: 8减7等于
+2019-01-15 14:38:08,667 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-15 14:38:12,890 - RealEstate.py[line:311] - INFO: 7减蔓 等于
+2019-01-15 14:38:12,950 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 14:38:12,951 - RealEstate.py[line:335] - INFO: 验证码:7-5
+2019-01-15 14:38:38,585 - RealEstate.py[line:210] - INFO: 套内单价：20606.19， 套内面积：147.19
+2019-01-15 14:38:38,585 - RealEstate.py[line:163] - INFO: 2019-01-15 14:38:38.586000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 24-2
+2019-01-15 14:38:42,726 - RealEstate.py[line:311] - INFO: 42夕衢灭7 等于
+2019-01-15 14:38:42,792 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 14:38:43,016 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓办
+2019-01-15 14:38:43,023 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:38:49,372 - RealEstate.py[line:311] - INFO: 9减5等于
+2019-01-15 14:38:49,374 - RealEstate.py[line:335] - INFO: 验证码:9-5
+2019-01-15 14:40:11,819 - RealEstate.py[line:163] - INFO: 2019-01-15 14:40:11.819000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 24-3
+2019-01-15 14:40:15,750 - RealEstate.py[line:311] - INFO: 5万奴7等于
+2019-01-15 14:40:15,815 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 14:40:16,036 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 14:40:16,042 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:40:16,042 - RealEstate.py[line:335] - INFO: 验证码:5+7
+2019-01-15 14:40:33,839 - RealEstate.py[line:210] - INFO: 套内单价：19316.4， 套内面积：147.24
+2019-01-15 14:40:33,841 - RealEstate.py[line:163] - INFO: 2019-01-15 14:40:33.841000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 24-4
+2019-01-15 14:40:37,924 - RealEstate.py[line:311] - INFO: 72夕/77 等于
+2019-01-15 14:40:37,989 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 14:40:38,209 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓江
+2019-01-15 14:40:38,214 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 14:40:49,194 - RealEstate.py[line:311] - INFO: 92加7等于
+2019-01-15 14:40:49,255 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 14:40:49,476 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 14:40:49,483 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:40:49,483 - RealEstate.py[line:335] - INFO: 验证码:9+7
+2019-01-15 14:41:01,046 - RealEstate.py[line:210] - INFO: 套内单价：19187.17， 套内面积：147.21
+2019-01-15 14:41:01,048 - RealEstate.py[line:163] - INFO: 2019-01-15 14:41:01.048000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 23-1
+2019-01-15 14:41:05,796 - RealEstate.py[line:311] - INFO: 9减凛荨于
+2019-01-15 14:41:05,861 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:41:05,862 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-15 14:41:17,805 - RealEstate.py[line:210] - INFO: 套内单价：20606.19， 套内面积：147.19
+2019-01-15 14:41:17,805 - RealEstate.py[line:163] - INFO: 2019-01-15 14:41:17.805000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 23-2
+2019-01-15 14:41:21,598 - RealEstate.py[line:311] - INFO: 12加7 等于
+2019-01-15 14:41:21,660 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 14:41:21,875 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 14:41:21,881 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:41:21,881 - RealEstate.py[line:335] - INFO: 验证码:1+7
+2019-01-15 14:42:31,479 - RealEstate.py[line:163] - INFO: 2019-01-15 14:42:31.479000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 23-3
+2019-01-15 14:42:41,657 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 14:42:41,657 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 14:44:15,227 - RealEstate.py[line:163] - INFO: 2019-01-15 14:44:15.228000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 23-4
+2019-01-15 14:44:25,009 - RealEstate.py[line:311] - INFO: 凛减3等于
+2019-01-15 14:44:25,076 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 14:44:25,076 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:44:25,076 - RealEstate.py[line:335] - INFO: 验证码:4-3
+2019-01-15 14:45:16,163 - RealEstate.py[line:210] - INFO: 套内单价：19187.17， 套内面积：147.21
+2019-01-15 14:45:16,165 - RealEstate.py[line:163] - INFO: 2019-01-15 14:45:16.166000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 22-1
+2019-01-15 14:45:29,463 - RealEstate.py[line:311] - INFO: 之萦/读222 等于
+2019-01-15 14:45:29,530 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 14:45:29,594 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:45:29,811 - RealEstate.py[line:385] - INFO: 图片识别修正operator:歹夕
+2019-01-15 14:45:29,816 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:45:29,816 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 14:47:07,405 - RealEstate.py[line:163] - INFO: 2019-01-15 14:47:07.405000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 22-2
+2019-01-15 14:47:19,420 - RealEstate.py[line:311] - INFO: 2减2荨于
+2019-01-15 14:47:19,420 - RealEstate.py[line:335] - INFO: 验证码:2-2
+2019-01-15 14:48:21,038 - RealEstate.py[line:210] - INFO: 套内单价：21122.88， 套内面积：147.21
+2019-01-15 14:48:21,039 - RealEstate.py[line:163] - INFO: 2019-01-15 14:48:21.039000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 22-3
+2019-01-15 14:48:36,571 - RealEstate.py[line:311] - INFO: 2加4 等于
+2019-01-15 14:48:36,571 - RealEstate.py[line:335] - INFO: 验证码:2+4
+2019-01-15 14:50:15,526 - RealEstate.py[line:210] - INFO: 套内单价：19316， 套内面积：147.24
+2019-01-15 14:50:15,526 - RealEstate.py[line:163] - INFO: 2019-01-15 14:50:15.527000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 22-4
+2019-01-15 14:50:29,187 - RealEstate.py[line:311] - INFO: 7加4 等于
+2019-01-15 14:50:29,187 - RealEstate.py[line:335] - INFO: 验证码:7+4
+2019-01-15 14:51:53,505 - RealEstate.py[line:210] - INFO: 套内单价：19187.17， 套内面积：147.21
+2019-01-15 14:51:53,506 - RealEstate.py[line:163] - INFO: 2019-01-15 14:51:53.507000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 21-1
+2019-01-15 14:52:02,594 - RealEstate.py[line:311] - INFO: 62加1 荨于
+2019-01-15 14:52:02,660 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 14:52:02,891 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕刀
+2019-01-15 14:52:02,898 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:52:02,898 - RealEstate.py[line:335] - INFO: 验证码:6+1
+2019-01-15 14:53:38,558 - RealEstate.py[line:163] - INFO: 2019-01-15 14:53:38.558000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 21-2
+2019-01-15 14:53:56,457 - RealEstate.py[line:311] - INFO: 52艾27二寮 荨于
+2019-01-15 14:53:56,526 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:53:56,766 - RealEstate.py[line:385] - INFO: 图片识别修正operator:加
+2019-01-15 14:53:56,766 - RealEstate.py[line:335] - INFO: 验证码:5+3
+2019-01-15 14:55:26,539 - RealEstate.py[line:163] - INFO: 2019-01-15 14:55:26.540000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 21-3
+2019-01-15 14:55:38,923 - RealEstate.py[line:311] - INFO: 凛，2加5 荨于
+2019-01-15 14:55:38,994 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 14:55:38,994 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 14:55:39,223 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕苡
+2019-01-15 14:55:39,230 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:55:39,230 - RealEstate.py[line:335] - INFO: 验证码:4+2
+2019-01-15 14:55:55,382 - RealEstate.py[line:311] - INFO: 5加7荨于
+2019-01-15 14:55:55,382 - RealEstate.py[line:335] - INFO: 验证码:5+7
+2019-01-15 14:57:10,131 - RealEstate.py[line:163] - INFO: 2019-01-15 14:57:10.131000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 21-4
+2019-01-15 14:57:17,858 - RealEstate.py[line:311] - INFO: 3减1荨芳
+2019-01-15 14:57:17,859 - RealEstate.py[line:335] - INFO: 验证码:3-1
+2019-01-15 14:59:24,884 - RealEstate.py[line:163] - INFO: 2019-01-15 14:59:24.885000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 20-1
+2019-01-15 14:59:28,710 - RealEstate.py[line:311] - INFO: 9减8荨于
+2019-01-15 14:59:28,710 - RealEstate.py[line:335] - INFO: 验证码:9-8
+2019-01-15 14:59:38,838 - RealEstate.py[line:210] - INFO: 套内单价：20606.19， 套内面积：147.19
+2019-01-15 14:59:38,838 - RealEstate.py[line:163] - INFO: 2019-01-15 14:59:38.839000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 20-2
+2019-01-15 14:59:42,813 - RealEstate.py[line:311] - INFO: 32艾衢2二寮 等于
+2019-01-15 14:59:42,881 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 14:59:43,109 - RealEstate.py[line:385] - INFO: 图片识别修正operator:珈
+2019-01-15 14:59:43,115 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 14:59:43,115 - RealEstate.py[line:335] - INFO: 验证码:3+3
+2019-01-15 14:59:48,904 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 14:59:48,904 - RealEstate.py[line:215] - INFO: 2019-01-15 14:59:48.904000 内层异常休眠5分钟
+2019-01-15 14:59:50,013 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 14:59:52,664 - RealEstate.py[line:163] - INFO: 2019-01-15 14:59:52.665000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 20-3
+2019-01-15 14:59:58,157 - RealEstate.py[line:311] - INFO: 7加凛 荨于
+2019-01-15 14:59:58,221 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 14:59:58,223 - RealEstate.py[line:335] - INFO: 验证码:7+4
+2019-01-15 15:00:08,664 - RealEstate.py[line:210] - INFO: 套内单价：19251.88， 套内面积：147.24
+2019-01-15 15:00:08,664 - RealEstate.py[line:163] - INFO: 2019-01-15 15:00:08.665000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 20-4
+2019-01-15 15:00:12,414 - RealEstate.py[line:311] - INFO: 4减3等于
+2019-01-15 15:00:12,415 - RealEstate.py[line:335] - INFO: 验证码:4-3
+2019-01-15 15:01:31,549 - RealEstate.py[line:163] - INFO: 2019-01-15 15:01:31.550000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 19-1
+2019-01-15 15:01:35,740 - RealEstate.py[line:311] - INFO: 6加9 等于
+2019-01-15 15:01:35,742 - RealEstate.py[line:335] - INFO: 验证码:6+9
+2019-01-15 15:01:46,407 - RealEstate.py[line:210] - INFO: 套内单价：20606.19， 套内面积：147.19
+2019-01-15 15:01:46,408 - RealEstate.py[line:163] - INFO: 2019-01-15 15:01:46.409000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 19-2
+2019-01-15 15:01:50,257 - RealEstate.py[line:311] - INFO: 5笈奴7等于
+2019-01-15 15:01:50,322 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:01:50,548 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓厚
+2019-01-15 15:01:50,553 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:01:50,553 - RealEstate.py[line:335] - INFO: 验证码:5+7
+2019-01-15 15:03:08,000 - RealEstate.py[line:163] - INFO: 2019-01-15 15:03:08.001000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 19-3
+2019-01-15 15:03:15,260 - RealEstate.py[line:311] - INFO: 6减4荨于
+2019-01-15 15:03:15,260 - RealEstate.py[line:335] - INFO: 验证码:6-4
+2019-01-15 15:04:32,911 - RealEstate.py[line:163] - INFO: 2019-01-15 15:04:32.911000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 19-4
+2019-01-15 15:04:36,798 - RealEstate.py[line:311] - INFO: 7减6 荨于
+2019-01-15 15:04:36,798 - RealEstate.py[line:335] - INFO: 验证码:7-6
+2019-01-15 15:05:46,404 - RealEstate.py[line:163] - INFO: 2019-01-15 15:05:46.405000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 18-1
+2019-01-15 15:05:52,878 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 15:05:52,878 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 15:07:01,772 - RealEstate.py[line:163] - INFO: 2019-01-15 15:07:01.771000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 18-2
+2019-01-15 15:07:06,967 - RealEstate.py[line:311] - INFO: G27奴7 等于
+2019-01-15 15:07:07,036 - RealEstate.py[line:367] - INFO: 图片识别修正number1:.
+2019-01-15 15:07:07,036 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:07:07,042 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:07:07,049 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 15:07:12,108 - RealEstate.py[line:311] - INFO: 6加6 荨于
+2019-01-15 15:07:12,108 - RealEstate.py[line:335] - INFO: 验证码:6+6
+2019-01-15 15:07:36,529 - RealEstate.py[line:210] - INFO: 套内单价：21122.88， 套内面积：147.21
+2019-01-15 15:07:36,529 - RealEstate.py[line:163] - INFO: 2019-01-15 15:07:36.529000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 18-3
+2019-01-15 15:07:40,858 - RealEstate.py[line:311] - INFO: 8减1等于
+2019-01-15 15:07:40,858 - RealEstate.py[line:335] - INFO: 验证码:8-1
+2019-01-15 15:07:57,744 - RealEstate.py[line:210] - INFO: 套内单价：19251.88， 套内面积：147.24
+2019-01-15 15:07:57,746 - RealEstate.py[line:163] - INFO: 2019-01-15 15:07:57.746000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 18-4
+2019-01-15 15:08:02,075 - RealEstate.py[line:311] - INFO: 乏萦姥赏6 等于
+2019-01-15 15:08:02,140 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 15:08:02,203 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 15:08:02,211 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:08:02,219 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 15:08:06,061 - RealEstate.py[line:311] - INFO: 7加2荨于
+2019-01-15 15:08:06,062 - RealEstate.py[line:335] - INFO: 验证码:7+2
+2019-01-15 15:08:10,359 - RealEstate.py[line:311] - INFO: 9加3 荨于
+2019-01-15 15:08:10,359 - RealEstate.py[line:335] - INFO: 验证码:9+3
+2019-01-15 15:09:27,884 - RealEstate.py[line:163] - INFO: 2019-01-15 15:09:27.884000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 17-1
+2019-01-15 15:09:31,686 - RealEstate.py[line:311] - INFO: 8减7等于
+2019-01-15 15:09:31,687 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-15 15:10:41,736 - RealEstate.py[line:163] - INFO: 2019-01-15 15:10:41.737000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 17-2
+2019-01-15 15:10:47,187 - RealEstate.py[line:311] - INFO: 7减1荨于
+2019-01-15 15:10:47,188 - RealEstate.py[line:335] - INFO: 验证码:7-1
+2019-01-15 15:10:56,862 - RealEstate.py[line:210] - INFO: 套内单价：21122.88， 套内面积：147.21
+2019-01-15 15:10:56,862 - RealEstate.py[line:163] - INFO: 2019-01-15 15:10:56.863000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 17-3
+2019-01-15 15:11:00,615 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 15:11:00,615 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 15:11:13,071 - RealEstate.py[line:210] - INFO: 套内单价：19251.88， 套内面积：147.24
+2019-01-15 15:11:13,071 - RealEstate.py[line:163] - INFO: 2019-01-15 15:11:13.071000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 17-4
+2019-01-15 15:11:16,950 - RealEstate.py[line:311] - INFO: 9加7等芳
+2019-01-15 15:11:16,950 - RealEstate.py[line:335] - INFO: 验证码:9+7
+2019-01-15 15:12:43,619 - RealEstate.py[line:163] - INFO: 2019-01-15 15:12:43.620000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 16-1
+2019-01-15 15:12:47,368 - RealEstate.py[line:311] - INFO: 9减7等于
+2019-01-15 15:12:47,368 - RealEstate.py[line:335] - INFO: 验证码:9-7
+2019-01-15 15:12:56,816 - RealEstate.py[line:210] - INFO: 套内单价：20606.19， 套内面积：147.19
+2019-01-15 15:12:56,818 - RealEstate.py[line:163] - INFO: 2019-01-15 15:12:56.818000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 16-2
+2019-01-15 15:13:00,690 - RealEstate.py[line:311] - INFO: 9加3 等于
+2019-01-15 15:13:00,691 - RealEstate.py[line:335] - INFO: 验证码:9+3
+2019-01-15 15:13:32,931 - RealEstate.py[line:210] - INFO: 套内单价：21123， 套内面积：147.21
+2019-01-15 15:13:32,933 - RealEstate.py[line:163] - INFO: 2019-01-15 15:13:32.933000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 16-3
+2019-01-15 15:13:37,355 - RealEstate.py[line:311] - INFO: 5减2等于
+2019-01-15 15:13:37,355 - RealEstate.py[line:335] - INFO: 验证码:5-2
+2019-01-15 15:14:46,947 - RealEstate.py[line:163] - INFO: 2019-01-15 15:14:46.947000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 16-4
+2019-01-15 15:14:54,673 - RealEstate.py[line:311] - INFO: 一1汐衢75 等于
+2019-01-15 15:14:54,740 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 15:14:54,805 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 15:14:55,019 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐奴
+2019-01-15 15:14:55,019 - RealEstate.py[line:335] - INFO: 验证码:4+5
+2019-01-15 15:16:05,723 - RealEstate.py[line:163] - INFO: 2019-01-15 15:16:05.723000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 14-1（跃1）
+2019-01-15 15:16:09,584 - RealEstate.py[line:311] - INFO: 8减5 等子
+2019-01-15 15:16:09,584 - RealEstate.py[line:335] - INFO: 验证码:8-5
+2019-01-15 15:16:22,993 - RealEstate.py[line:210] - INFO: 套内单价：15193.12， 套内面积：193.09
+2019-01-15 15:16:22,994 - RealEstate.py[line:163] - INFO: 2019-01-15 15:16:22.995000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 14-2（跃1）
+2019-01-15 15:16:27,042 - RealEstate.py[line:311] - INFO: 8笈刀6 等于
+2019-01-15 15:16:27,111 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 15:16:27,326 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 15:16:27,332 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:16:27,332 - RealEstate.py[line:335] - INFO: 验证码:8+6
+2019-01-15 15:16:33,749 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 15:16:33,749 - RealEstate.py[line:215] - INFO: 2019-01-15 15:16:33.749000 内层异常休眠5分钟
+2019-01-15 15:16:34,851 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 15:16:36,927 - RealEstate.py[line:163] - INFO: 2019-01-15 15:16:36.927000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 14-3（跃1）
+2019-01-15 15:16:41,161 - RealEstate.py[line:311] - INFO: 1加4荨于
+2019-01-15 15:16:41,163 - RealEstate.py[line:335] - INFO: 验证码:1+4
+2019-01-15 15:17:51,094 - RealEstate.py[line:163] - INFO: 2019-01-15 15:17:51.093000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 14-4（跃1）
+2019-01-15 15:17:58,770 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 15:17:58,772 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 15:19:09,088 - RealEstate.py[line:163] - INFO: 2019-01-15 15:19:09.087000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 15-避难层
+2019-01-15 15:19:12,941 - RealEstate.py[line:311] - INFO: 5减2荨于
+2019-01-15 15:19:12,941 - RealEstate.py[line:335] - INFO: 验证码:5-2
+2019-01-15 15:19:32,670 - RealEstate.py[line:163] - INFO: 2019-01-15 15:19:32.670000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 13-1
+2019-01-15 15:19:36,480 - RealEstate.py[line:311] - INFO: 6减1荨于
+2019-01-15 15:19:36,480 - RealEstate.py[line:335] - INFO: 验证码:6-1
+2019-01-15 15:19:47,391 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:19:47,392 - RealEstate.py[line:163] - INFO: 2019-01-15 15:19:47.393000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 13-2
+2019-01-15 15:20:04,892 - RealEstate.py[line:311] - INFO: 5减3等于
+2019-01-15 15:20:04,892 - RealEstate.py[line:335] - INFO: 验证码:5-3
+2019-01-15 15:21:33,598 - RealEstate.py[line:163] - INFO: 2019-01-15 15:21:33.598000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 13-3
+2019-01-15 15:21:41,631 - RealEstate.py[line:311] - INFO: 7加7 荨于
+2019-01-15 15:21:41,631 - RealEstate.py[line:335] - INFO: 验证码:7+7
+2019-01-15 15:22:02,663 - RealEstate.py[line:210] - INFO: 套内单价：19251.03， 套内面积：147.27
+2019-01-15 15:22:02,664 - RealEstate.py[line:163] - INFO: 2019-01-15 15:22:02.664000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 13-4
+2019-01-15 15:22:08,762 - RealEstate.py[line:311] - INFO: 8加8 等于
+2019-01-15 15:22:08,762 - RealEstate.py[line:335] - INFO: 验证码:8+8
+2019-01-15 15:22:33,354 - RealEstate.py[line:210] - INFO: 套内单价：19122.65， 套内面积：147.21
+2019-01-15 15:22:33,355 - RealEstate.py[line:163] - INFO: 2019-01-15 15:22:33.355000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 12-1
+2019-01-15 15:22:37,525 - RealEstate.py[line:311] - INFO: 12夕衢72 等于
+2019-01-15 15:22:37,588 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:22:37,813 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 15:22:37,819 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:22:37,819 - RealEstate.py[line:335] - INFO: 验证码:1+2
+2019-01-15 15:23:03,210 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:23:03,210 - RealEstate.py[line:163] - INFO: 2019-01-15 15:23:03.211000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 12-2
+2019-01-15 15:23:07,224 - RealEstate.py[line:311] - INFO: 212夕衢74 荨于
+2019-01-15 15:23:07,224 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:23:07,443 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓刀
+2019-01-15 15:23:07,448 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:23:07,450 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-15 15:23:17,114 - RealEstate.py[line:311] - INFO: 9减3等芳
+2019-01-15 15:23:17,114 - RealEstate.py[line:335] - INFO: 验证码:9-3
+2019-01-15 15:23:54,174 - RealEstate.py[line:210] - INFO: 套内单价：21252， 套内面积：147.21
+2019-01-15 15:23:54,176 - RealEstate.py[line:163] - INFO: 2019-01-15 15:23:54.176000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 12-3
+2019-01-15 15:24:04,653 - RealEstate.py[line:311] - INFO: 52歹衢7矗亏 等于
+2019-01-15 15:24:04,714 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 15:24:04,720 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:24:04,726 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 15:24:16,091 - RealEstate.py[line:311] - INFO: 8万刀7荨于
+2019-01-15 15:24:16,153 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:24:16,378 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 15:24:16,384 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:24:16,384 - RealEstate.py[line:335] - INFO: 验证码:8+7
+2019-01-15 15:24:34,424 - RealEstate.py[line:210] - INFO: 套内单价：19251.03， 套内面积：147.27
+2019-01-15 15:24:34,424 - RealEstate.py[line:163] - INFO: 2019-01-15 15:24:34.424000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 12-4
+2019-01-15 15:24:40,368 - RealEstate.py[line:311] - INFO: 8加6 等于
+2019-01-15 15:24:40,369 - RealEstate.py[line:335] - INFO: 验证码:8+6
+2019-01-15 15:24:42,025 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 15:24:42,025 - RealEstate.py[line:215] - INFO: 2019-01-15 15:24:42.025000 内层异常休眠5分钟
+2019-01-15 15:24:43,131 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 15:24:45,163 - RealEstate.py[line:163] - INFO: 2019-01-15 15:24:45.162000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 11-1
+2019-01-15 15:24:56,278 - RealEstate.py[line:311] - INFO: 5减2等于
+2019-01-15 15:24:56,279 - RealEstate.py[line:335] - INFO: 验证码:5-2
+2019-01-15 15:25:27,789 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:25:27,789 - RealEstate.py[line:163] - INFO: 2019-01-15 15:25:27.790000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 11-2
+2019-01-15 15:25:37,295 - RealEstate.py[line:311] - INFO: 822/74 等于
+2019-01-15 15:25:37,295 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:25:37,522 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-15 15:25:37,528 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:25:37,528 - RealEstate.py[line:335] - INFO: 验证码:8+2
+2019-01-15 15:25:42,516 - RealEstate.py[line:311] - INFO: 9才夕7等于
+2019-01-15 15:25:42,579 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:25:42,795 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹奴
+2019-01-15 15:25:42,799 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:25:42,799 - RealEstate.py[line:335] - INFO: 验证码:9+7
+2019-01-15 15:26:15,828 - RealEstate.py[line:210] - INFO: 套内单价：21251.93， 套内面积：147.21
+2019-01-15 15:26:15,828 - RealEstate.py[line:163] - INFO: 2019-01-15 15:26:15.829000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 11-3
+2019-01-15 15:26:23,845 - RealEstate.py[line:311] - INFO: 82夕/75 等于
+2019-01-15 15:26:23,907 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 15:26:24,128 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓夕
+2019-01-15 15:26:24,134 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:26:24,134 - RealEstate.py[line:335] - INFO: 验证码:8+5
+2019-01-15 15:26:32,568 - RealEstate.py[line:311] - INFO: 8减8等于
+2019-01-15 15:26:32,568 - RealEstate.py[line:335] - INFO: 验证码:8-8
+2019-01-15 15:26:42,484 - RealEstate.py[line:210] - INFO: 套内单价：19251.88， 套内面积：147.27
+2019-01-15 15:26:42,486 - RealEstate.py[line:163] - INFO: 2019-01-15 15:26:42.486000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 11-4
+2019-01-15 15:26:46,247 - RealEstate.py[line:311] - INFO: 8减3等于
+2019-01-15 15:26:46,247 - RealEstate.py[line:335] - INFO: 验证码:8-3
+2019-01-15 15:28:08,953 - RealEstate.py[line:163] - INFO: 2019-01-15 15:28:08.954000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 10-1
+2019-01-15 15:28:14,276 - RealEstate.py[line:311] - INFO: 4烫袁黄4 等于
+2019-01-15 15:28:14,342 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 15:28:14,348 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:28:14,355 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 15:28:20,019 - RealEstate.py[line:311] - INFO: 8笈奴5 等于
+2019-01-15 15:28:20,084 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 15:28:20,306 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 15:28:20,312 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:28:20,312 - RealEstate.py[line:335] - INFO: 验证码:8+5
+2019-01-15 15:29:51,121 - RealEstate.py[line:163] - INFO: 2019-01-15 15:29:51.121000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 10-2
+2019-01-15 15:29:58,842 - RealEstate.py[line:311] - INFO: 8减1等芳
+2019-01-15 15:29:58,844 - RealEstate.py[line:335] - INFO: 验证码:8-1
+2019-01-15 15:31:08,443 - RealEstate.py[line:163] - INFO: 2019-01-15 15:31:08.443000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 10-3
+2019-01-15 15:31:14,605 - RealEstate.py[line:311] - INFO: 62夕衢灭5 等于
+2019-01-15 15:31:14,670 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 15:31:14,904 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 15:31:14,910 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:31:14,910 - RealEstate.py[line:335] - INFO: 验证码:6+5
+2019-01-15 15:31:21,276 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 15:31:21,276 - RealEstate.py[line:215] - INFO: 2019-01-15 15:31:21.277000 内层异常休眠5分钟
+2019-01-15 15:31:22,378 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 15:31:24,523 - RealEstate.py[line:163] - INFO: 2019-01-15 15:31:24.524000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 10-4
+2019-01-15 15:31:33,084 - RealEstate.py[line:311] - INFO: 9减1荨于
+2019-01-15 15:31:33,084 - RealEstate.py[line:335] - INFO: 验证码:9-1
+2019-01-15 15:32:55,184 - RealEstate.py[line:163] - INFO: 2019-01-15 15:32:55.185000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 9-1
+2019-01-15 15:33:02,151 - RealEstate.py[line:311] - INFO: 8加8 等于
+2019-01-15 15:33:02,151 - RealEstate.py[line:335] - INFO: 验证码:8+8
+2019-01-15 15:33:20,671 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:33:20,671 - RealEstate.py[line:163] - INFO: 2019-01-15 15:33:20.671000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 9-2
+2019-01-15 15:33:24,640 - RealEstate.py[line:311] - INFO: 8减8等于
+2019-01-15 15:33:24,641 - RealEstate.py[line:335] - INFO: 验证码:8-8
+2019-01-15 15:33:45,845 - RealEstate.py[line:210] - INFO: 套内单价：21251.93， 套内面积：147.21
+2019-01-15 15:33:45,846 - RealEstate.py[line:163] - INFO: 2019-01-15 15:33:45.847000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 9-3
+2019-01-15 15:33:54,857 - RealEstate.py[line:311] - INFO: 2，2夕瘁凛 荨于
+2019-01-15 15:33:54,857 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:33:55,088 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓娜
+2019-01-15 15:33:55,094 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:33:55,094 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-15 15:34:14,017 - RealEstate.py[line:311] - INFO: 7减6 等于
+2019-01-15 15:34:14,017 - RealEstate.py[line:335] - INFO: 验证码:7-6
+2019-01-15 15:34:46,167 - RealEstate.py[line:210] - INFO: 套内单价：19186.51， 套内面积：147.27
+2019-01-15 15:34:46,167 - RealEstate.py[line:163] - INFO: 2019-01-15 15:34:46.168000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 9-4
+2019-01-15 15:34:50,062 - RealEstate.py[line:311] - INFO: 6减1等于
+2019-01-15 15:34:50,062 - RealEstate.py[line:335] - INFO: 验证码:6-1
+2019-01-15 15:35:00,709 - RealEstate.py[line:210] - INFO: 套内单价：19058.12， 套内面积：147.21
+2019-01-15 15:35:00,710 - RealEstate.py[line:163] - INFO: 2019-01-15 15:35:00.710000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 8-1
+2019-01-15 15:35:06,729 - RealEstate.py[line:311] - INFO: 72夕衢71 等于
+2019-01-15 15:35:06,789 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 15:35:07,030 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓刀
+2019-01-15 15:35:07,036 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:35:07,036 - RealEstate.py[line:335] - INFO: 验证码:7+1
+2019-01-15 15:35:26,857 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:35:26,858 - RealEstate.py[line:163] - INFO: 2019-01-15 15:35:26.858000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 8-2
+2019-01-15 15:35:31,230 - RealEstate.py[line:311] - INFO: 6减2等于
+2019-01-15 15:35:31,230 - RealEstate.py[line:335] - INFO: 验证码:6-2
+2019-01-15 15:35:56,390 - RealEstate.py[line:210] - INFO: 套内单价：21251.93， 套内面积：147.21
+2019-01-15 15:35:56,391 - RealEstate.py[line:163] - INFO: 2019-01-15 15:35:56.391000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 8-3
+2019-01-15 15:36:00,121 - RealEstate.py[line:311] - INFO: 5汐刀7 等于
+2019-01-15 15:36:00,193 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:36:00,415 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-15 15:36:00,421 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:36:04,171 - RealEstate.py[line:311] - INFO: 6减4荨于
+2019-01-15 15:36:04,171 - RealEstate.py[line:335] - INFO: 验证码:6-4
+2019-01-15 15:36:17,838 - RealEstate.py[line:210] - INFO: 套内单价：19186.51， 套内面积：147.27
+2019-01-15 15:36:17,838 - RealEstate.py[line:163] - INFO: 2019-01-15 15:36:17.839000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 8-4
+2019-01-15 15:36:21,566 - RealEstate.py[line:311] - INFO: 12夕夕8 荨于
+2019-01-15 15:36:21,632 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\
+2019-01-15 15:36:21,638 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:36:21,644 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-15 15:36:28,016 - RealEstate.py[line:311] - INFO: 乏萦222衢(节 等于
+2019-01-15 15:36:28,084 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 15:36:28,084 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:36:28,091 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:36:28,098 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 15:36:33,997 - RealEstate.py[line:311] - INFO: 凛2加6 荨于
+2019-01-15 15:36:34,072 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 15:36:34,144 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 15:36:34,371 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 15:36:34,378 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:36:34,378 - RealEstate.py[line:335] - INFO: 验证码:4+6
+2019-01-15 15:36:44,105 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 15:36:44,105 - RealEstate.py[line:215] - INFO: 2019-01-15 15:36:44.106000 内层异常休眠5分钟
+2019-01-15 15:36:45,210 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 15:36:47,243 - RealEstate.py[line:163] - INFO: 2019-01-15 15:36:47.244000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 7-1
+2019-01-15 15:36:51,325 - RealEstate.py[line:311] - INFO: 9减A等于
+2019-01-15 15:36:51,398 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\
+2019-01-15 15:36:51,405 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:36:51,411 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-15 15:36:51,411 - RealEstate.py[line:335] - INFO: 验证码:9+8
+2019-01-15 15:36:55,651 - RealEstate.py[line:311] - INFO: 6减2等于
+2019-01-15 15:36:55,651 - RealEstate.py[line:335] - INFO: 验证码:6-2
+2019-01-15 15:37:55,668 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:37:55,668 - RealEstate.py[line:163] - INFO: 2019-01-15 15:37:55.669000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 7-2
+2019-01-15 15:38:00,078 - RealEstate.py[line:311] - INFO: 5减3等于
+2019-01-15 15:38:00,078 - RealEstate.py[line:335] - INFO: 验证码:5-3
+2019-01-15 15:39:35,897 - RealEstate.py[line:163] - INFO: 2019-01-15 15:39:35.897000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 7-3
+2019-01-15 15:39:40,891 - RealEstate.py[line:311] - INFO: 8减4等于
+2019-01-15 15:39:40,892 - RealEstate.py[line:335] - INFO: 验证码:8-4
+2019-01-15 15:40:00,322 - RealEstate.py[line:210] - INFO: 套内单价：19186.51， 套内面积：147.27
+2019-01-15 15:40:00,322 - RealEstate.py[line:163] - INFO: 2019-01-15 15:40:00.323000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 7-4
+2019-01-15 15:40:04,201 - RealEstate.py[line:311] - INFO: 乏萦汐赏6 等于
+2019-01-15 15:40:04,276 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 15:40:04,345 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 15:40:04,354 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:40:04,361 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 15:40:13,660 - RealEstate.py[line:311] - INFO: 4减4荨于
+2019-01-15 15:40:13,660 - RealEstate.py[line:335] - INFO: 验证码:4-4
+2019-01-15 15:41:23,453 - RealEstate.py[line:163] - INFO: 2019-01-15 15:41:23.454000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 6-1
+2019-01-15 15:41:35,177 - RealEstate.py[line:311] - INFO: 8兹奴7等于
+2019-01-15 15:41:35,243 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:41:35,479 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 15:41:35,486 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:41:35,486 - RealEstate.py[line:335] - INFO: 验证码:8+7
+2019-01-15 15:41:45,410 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:41:45,411 - RealEstate.py[line:163] - INFO: 2019-01-15 15:41:45.411000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 6-2
+2019-01-15 15:41:50,440 - RealEstate.py[line:311] - INFO: G2加5 等于
+2019-01-15 15:41:50,510 - RealEstate.py[line:367] - INFO: 图片识别修正number1:6
+2019-01-15 15:41:50,578 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 15:41:50,812 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 15:41:50,819 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:41:50,821 - RealEstate.py[line:335] - INFO: 验证码:6+5
+2019-01-15 15:43:17,217 - RealEstate.py[line:163] - INFO: 2019-01-15 15:43:17.217000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 6-3
+2019-01-15 15:43:23,368 - RealEstate.py[line:311] - INFO: 8减1等于
+2019-01-15 15:43:23,368 - RealEstate.py[line:335] - INFO: 验证码:8-1
+2019-01-15 15:44:40,661 - RealEstate.py[line:163] - INFO: 2019-01-15 15:44:40.661000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 6-4
+2019-01-15 15:44:48,433 - RealEstate.py[line:311] - INFO: 乏萦汐贾7 等于
+2019-01-15 15:44:48,500 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 15:44:48,566 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:44:48,572 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:44:48,578 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 15:44:56,165 - RealEstate.py[line:311] - INFO: G27乙72 等于
+2019-01-15 15:44:56,233 - RealEstate.py[line:367] - INFO: 图片识别修正number1:6
+2019-01-15 15:44:56,233 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:44:56,459 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-15 15:44:56,464 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:44:56,466 - RealEstate.py[line:335] - INFO: 验证码:6+7
+2019-01-15 15:45:01,779 - RealEstate.py[line:311] - INFO: 9笈奴8 等于
+2019-01-15 15:45:01,848 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\\
+2019-01-15 15:45:01,854 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:45:01,859 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-15 15:45:01,859 - RealEstate.py[line:335] - INFO: 验证码:9+8
+2019-01-15 15:45:35,559 - RealEstate.py[line:210] - INFO: 套内单价：19058， 套内面积：147.21
+2019-01-15 15:45:35,561 - RealEstate.py[line:163] - INFO: 2019-01-15 15:45:35.561000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 5-1
+2019-01-15 15:45:39,862 - RealEstate.py[line:311] - INFO: 6减1等于
+2019-01-15 15:45:39,864 - RealEstate.py[line:335] - INFO: 验证码:6-1
+2019-01-15 15:46:50,509 - RealEstate.py[line:163] - INFO: 2019-01-15 15:46:50.509000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 5-2
+2019-01-15 15:46:57,354 - RealEstate.py[line:311] - INFO: 乏雾2夕/衢9 等干
+2019-01-15 15:46:57,420 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-15 15:46:57,420 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:46:57,427 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:46:57,434 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 15:47:01,773 - RealEstate.py[line:311] - INFO: 9减缈荨于
+2019-01-15 15:47:01,839 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 15:47:01,839 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-15 15:47:19,838 - RealEstate.py[line:210] - INFO: 套内单价：21251.93， 套内面积：147.21
+2019-01-15 15:47:19,839 - RealEstate.py[line:163] - INFO: 2019-01-15 15:47:19.840000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 5-3
+2019-01-15 15:47:23,680 - RealEstate.py[line:311] - INFO: 2囊2歹227 等于
+2019-01-15 15:47:23,681 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:47:23,911 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹奴
+2019-01-15 15:47:23,917 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:47:23,917 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-15 15:47:34,946 - RealEstate.py[line:311] - INFO: 6汐乙7凛 等于
+2019-01-15 15:47:35,013 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 15:47:35,234 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐江
+2019-01-15 15:47:35,242 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:47:38,979 - RealEstate.py[line:311] - INFO: 22夕衢2乏萦 等于
+2019-01-15 15:47:39,048 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\\
+2019-01-15 15:47:39,055 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:47:39,059 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-15 15:47:50,926 - RealEstate.py[line:311] - INFO: 之萦2歹衢782 等于
+2019-01-15 15:47:50,996 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 15:47:50,996 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:47:51,226 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹奴
+2019-01-15 15:47:51,233 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:47:51,233 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 15:48:03,940 - RealEstate.py[line:311] - INFO: 4加3 等于
+2019-01-15 15:48:03,941 - RealEstate.py[line:335] - INFO: 验证码:4+3
+2019-01-15 15:48:29,703 - RealEstate.py[line:210] - INFO: 套内单价：19186.51， 套内面积：147.27
+2019-01-15 15:48:29,703 - RealEstate.py[line:163] - INFO: 2019-01-15 15:48:29.704000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 5-4
+2019-01-15 15:48:39,539 - RealEstate.py[line:311] - INFO: 22加1 荨于
+2019-01-15 15:48:39,609 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 15:48:39,845 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓夕
+2019-01-15 15:48:39,852 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:48:46,862 - RealEstate.py[line:311] - INFO: 2汐22乏雾 等于
+2019-01-15 15:48:46,862 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:48:47,086 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐夕
+2019-01-15 15:48:47,092 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:48:50,802 - RealEstate.py[line:311] - INFO: 7减7等于
+2019-01-15 15:48:50,802 - RealEstate.py[line:335] - INFO: 验证码:7-7
+2019-01-15 15:49:00,694 - RealEstate.py[line:210] - INFO: 套内单价：19058.12， 套内面积：147.21
+2019-01-15 15:49:00,696 - RealEstate.py[line:163] - INFO: 2019-01-15 15:49:00.696000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 4-1
+2019-01-15 15:49:04,502 - RealEstate.py[line:311] - INFO: 3加7 荨于
+2019-01-15 15:49:04,502 - RealEstate.py[line:335] - INFO: 验证码:3+7
+2019-01-15 15:49:21,825 - RealEstate.py[line:311] - INFO: 9减7荨于
+2019-01-15 15:49:21,825 - RealEstate.py[line:335] - INFO: 验证码:9-7
+2019-01-15 15:50:21,874 - RealEstate.py[line:210] - INFO: 套内单价：20735.74， 套内面积：147.21
+2019-01-15 15:50:21,874 - RealEstate.py[line:163] - INFO: 2019-01-15 15:50:21.874000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 4-2
+2019-01-15 15:50:38,421 - RealEstate.py[line:311] - INFO: 9才灯7 荨于
+2019-01-15 15:50:38,490 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:50:38,717 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-15 15:50:38,723 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:50:43,743 - RealEstate.py[line:311] - INFO: 7减7 等于
+2019-01-15 15:50:43,743 - RealEstate.py[line:335] - INFO: 验证码:7-7
+2019-01-15 15:51:25,680 - RealEstate.py[line:210] - INFO: 套内单价：21251.93， 套内面积：147.21
+2019-01-15 15:51:25,680 - RealEstate.py[line:163] - INFO: 2019-01-15 15:51:25.680000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 4-3
+2019-01-15 15:51:31,549 - RealEstate.py[line:311] - INFO: 6笈奴9 荨于
+2019-01-15 15:51:31,621 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 15:51:31,628 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:51:31,637 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 15:51:40,104 - RealEstate.py[line:311] - INFO: 5加6 荨于
+2019-01-15 15:51:40,105 - RealEstate.py[line:335] - INFO: 验证码:5+6
+2019-01-15 15:51:51,970 - RealEstate.py[line:210] - INFO: 套内单价：19057.47， 套内面积：147.27
+2019-01-15 15:51:51,970 - RealEstate.py[line:163] - INFO: 2019-01-15 15:51:51.971000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 4-4
+2019-01-15 15:51:55,907 - RealEstate.py[line:311] - INFO: 6加7等于
+2019-01-15 15:51:55,908 - RealEstate.py[line:335] - INFO: 验证码:6+7
+2019-01-15 15:52:51,509 - RealEstate.py[line:210] - INFO: 套内单价：18929.08， 套内面积：147.21
+2019-01-15 15:52:51,512 - RealEstate.py[line:163] - INFO: 2019-01-15 15:52:51.512000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 3-1
+2019-01-15 15:52:56,733 - RealEstate.py[line:311] - INFO: 5减2等于
+2019-01-15 15:52:56,734 - RealEstate.py[line:335] - INFO: 验证码:5-2
+2019-01-15 15:54:34,512 - RealEstate.py[line:163] - INFO: 2019-01-15 15:54:34.512000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 3-2
+2019-01-15 15:54:44,980 - RealEstate.py[line:311] - INFO: 6加E 等于
+2019-01-15 15:54:45,046 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 15:54:45,053 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 15:54:45,059 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 15:54:55,661 - RealEstate.py[line:311] - INFO: 5减1等于
+2019-01-15 15:54:55,661 - RealEstate.py[line:335] - INFO: 验证码:5-1
+2019-01-15 15:55:27,921 - RealEstate.py[line:210] - INFO: 套内单价：20735.45， 套内面积：147.11
+2019-01-15 15:55:27,921 - RealEstate.py[line:163] - INFO: 2019-01-15 15:55:27.921000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 3-3
+2019-01-15 15:55:32,660 - RealEstate.py[line:311] - INFO: 82夕227 等于
+2019-01-15 15:55:32,723 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 15:55:32,947 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓夕
+2019-01-15 15:55:32,953 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:55:32,953 - RealEstate.py[line:335] - INFO: 验证码:8+7
+2019-01-15 15:55:45,835 - RealEstate.py[line:311] - INFO: 5减1 等于
+2019-01-15 15:55:45,835 - RealEstate.py[line:335] - INFO: 验证码:5-1
+2019-01-15 15:57:44,134 - RealEstate.py[line:163] - INFO: 2019-01-15 15:57:44.135000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 3-4
+2019-01-15 15:57:53,532 - RealEstate.py[line:311] - INFO: 8减2等于
+2019-01-15 15:57:53,532 - RealEstate.py[line:335] - INFO: 验证码:8-2
+2019-01-15 15:59:21,759 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:21.760000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-1
+2019-01-15 15:59:25,525 - RealEstate.py[line:311] - INFO: 2加2 等于
+2019-01-15 15:59:25,525 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-15 15:59:37,836 - RealEstate.py[line:210] - INFO: 套内单价：20090.52， 套内面积：147.1
+2019-01-15 15:59:37,836 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:37.837000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-2
+2019-01-15 15:59:41,609 - RealEstate.py[line:311] - INFO: 22加2 荨于
+2019-01-15 15:59:41,671 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 15:59:41,898 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-15 15:59:41,904 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 15:59:41,904 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-15 15:59:51,920 - RealEstate.py[line:210] - INFO: 套内单价：20606.41， 套内面积：147.11
+2019-01-15 15:59:51,920 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.920000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-商业1
+2019-01-15 15:59:51,921 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.921000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-商业2
+2019-01-15 15:59:51,921 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.921000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-商业3
+2019-01-15 15:59:51,921 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.921000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-商业4
+2019-01-15 15:59:51,921 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.922000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 2-商业5
+2019-01-15 15:59:51,923 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.923000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 1-架空
+2019-01-15 15:59:51,924 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.923000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 1-商业1
+2019-01-15 15:59:51,924 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.924000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 1-商业2
+2019-01-15 15:59:51,924 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.924000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 1-商业3
+2019-01-15 15:59:51,924 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.925000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 1-商业4
+2019-01-15 15:59:51,924 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:51.925000 江北 中国铁建西派城-中国铁建西派城一期 1号楼 1单元 1-商业5
+2019-01-15 15:59:57,861 - RealEstate.py[line:163] - INFO: 2019-01-15 15:59:57.862000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 27-2（跃1）
+2019-01-15 16:00:01,601 - RealEstate.py[line:311] - INFO: 82加9 荨于
+2019-01-15 16:00:01,671 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 16:00:01,677 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:00:01,684 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 16:00:05,421 - RealEstate.py[line:311] - INFO: 8减7等于
+2019-01-15 16:00:05,421 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-15 16:00:17,752 - RealEstate.py[line:210] - INFO: 套内单价：16223.97， 套内面积：125.58
+2019-01-15 16:00:17,752 - RealEstate.py[line:163] - INFO: 2019-01-15 16:00:17.752000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 27-3（跃1）
+2019-01-15 16:00:21,599 - RealEstate.py[line:311] - INFO: 5加1 等于
+2019-01-15 16:00:21,599 - RealEstate.py[line:335] - INFO: 验证码:5+1
+2019-01-15 16:00:34,551 - RealEstate.py[line:311] - INFO: 9减3等于
+2019-01-15 16:00:34,551 - RealEstate.py[line:335] - INFO: 验证码:9-3
+2019-01-15 16:02:30,489 - RealEstate.py[line:163] - INFO: 2019-01-15 16:02:30.489000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 27-5（跃1）
+2019-01-15 16:02:36,380 - RealEstate.py[line:311] - INFO: 之萦2夕衢2R!聿 等于
+2019-01-15 16:02:36,448 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 16:02:36,448 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:02:36,670 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕娜
+2019-01-15 16:02:36,674 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:02:36,676 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 16:02:40,903 - RealEstate.py[line:311] - INFO: 7加2 等于
+2019-01-15 16:02:40,904 - RealEstate.py[line:335] - INFO: 验证码:7+2
+2019-01-15 16:04:15,769 - RealEstate.py[line:163] - INFO: 2019-01-15 16:04:15.770000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 27-1
+2019-01-15 16:04:19,519 - RealEstate.py[line:311] - INFO: 7减1等于
+2019-01-15 16:04:19,519 - RealEstate.py[line:335] - INFO: 验证码:7-1
+2019-01-15 16:04:52,391 - RealEstate.py[line:210] - INFO: 套内单价：19070.29， 套内面积：118.6
+2019-01-15 16:04:52,391 - RealEstate.py[line:163] - INFO: 2019-01-15 16:04:52.391000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 27-4
+2019-01-15 16:04:57,177 - RealEstate.py[line:311] - INFO: 4加2 荨于
+2019-01-15 16:04:57,177 - RealEstate.py[line:335] - INFO: 验证码:4+2
+2019-01-15 16:06:28,691 - RealEstate.py[line:163] - INFO: 2019-01-15 16:06:28.692000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 26-1
+2019-01-15 16:06:39,861 - RealEstate.py[line:311] - INFO: 7魏赏2薰 等干
+2019-01-15 16:06:39,927 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 16:06:40,157 - RealEstate.py[line:385] - INFO: 图片识别修正operator:搀
+2019-01-15 16:06:40,164 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:06:40,164 - RealEstate.py[line:335] - INFO: 验证码:7-4
+2019-01-15 16:07:54,267 - RealEstate.py[line:163] - INFO: 2019-01-15 16:07:54.268000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 26-2
+2019-01-15 16:08:02,158 - RealEstate.py[line:311] - INFO: 9减4 等于
+2019-01-15 16:08:02,160 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-15 16:10:14,388 - RealEstate.py[line:163] - INFO: 2019-01-15 16:10:14.388000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 26-3
+2019-01-15 16:10:35,413 - RealEstate.py[line:311] - INFO: 8加7等于
+2019-01-15 16:10:35,413 - RealEstate.py[line:335] - INFO: 验证码:8+7
+2019-01-15 16:12:02,782 - RealEstate.py[line:163] - INFO: 2019-01-15 16:12:02.783000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 26-4
+2019-01-15 16:12:06,526 - RealEstate.py[line:311] - INFO: 3加履 等于
+2019-01-15 16:12:06,595 - RealEstate.py[line:374] - INFO: 图片识别修正number2:E
+2019-01-15 16:12:06,601 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:12:06,607 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 16:12:10,323 - RealEstate.py[line:311] - INFO: 9减1等子
+2019-01-15 16:12:10,325 - RealEstate.py[line:335] - INFO: 验证码:9-1
+2019-01-15 16:13:45,753 - RealEstate.py[line:163] - INFO: 2019-01-15 16:13:45.752000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 26-5
+2019-01-15 16:13:51,457 - RealEstate.py[line:311] - INFO: 7加2 荨于
+2019-01-15 16:13:51,457 - RealEstate.py[line:335] - INFO: 验证码:7+2
+2019-01-15 16:13:55,648 - RealEstate.py[line:311] - INFO: 6减聂荨于
+2019-01-15 16:13:55,710 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 16:13:55,711 - RealEstate.py[line:335] - INFO: 验证码:6-5
+2019-01-15 16:15:15,440 - RealEstate.py[line:163] - INFO: 2019-01-15 16:15:15.440000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 25-1
+2019-01-15 16:15:25,229 - RealEstate.py[line:311] - INFO: 72夕衢7E 等于
+2019-01-15 16:15:25,292 - RealEstate.py[line:374] - INFO: 图片识别修正number2:E
+2019-01-15 16:15:25,296 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:15:25,303 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 16:15:29,381 - RealEstate.py[line:311] - INFO: 7加8 荨于
+2019-01-15 16:15:29,381 - RealEstate.py[line:335] - INFO: 验证码:7+8
+2019-01-15 16:16:48,891 - RealEstate.py[line:163] - INFO: 2019-01-15 16:16:48.891000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 25-2
+2019-01-15 16:16:52,703 - RealEstate.py[line:311] - INFO: 8减2等于
+2019-01-15 16:16:52,703 - RealEstate.py[line:335] - INFO: 验证码:8-2
+2019-01-15 16:17:11,463 - RealEstate.py[line:210] - INFO: 套内单价：18675.4， 套内面积：98.23
+2019-01-15 16:17:11,464 - RealEstate.py[line:163] - INFO: 2019-01-15 16:17:11.465000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 25-3
+2019-01-15 16:17:15,390 - RealEstate.py[line:311] - INFO: 之萦2夕衢75 等于
+2019-01-15 16:17:15,454 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 16:17:15,454 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:17:15,665 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕刀
+2019-01-15 16:17:15,671 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:17:15,671 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 16:17:19,894 - RealEstate.py[line:311] - INFO: 6减3等于
+2019-01-15 16:17:19,894 - RealEstate.py[line:335] - INFO: 验证码:6-3
+2019-01-15 16:17:47,845 - RealEstate.py[line:210] - INFO: 套内单价：18675.4， 套内面积：98.23
+2019-01-15 16:17:47,845 - RealEstate.py[line:163] - INFO: 2019-01-15 16:17:47.845000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 25-4
+2019-01-15 16:17:51,987 - RealEstate.py[line:311] - INFO: 乏馨2夕22一1 等于
+2019-01-15 16:17:52,055 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-15 16:17:52,055 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:17:52,061 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:17:52,066 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 16:17:55,881 - RealEstate.py[line:311] - INFO: 6减4等于
+2019-01-15 16:17:55,881 - RealEstate.py[line:335] - INFO: 验证码:6-4
+2019-01-15 16:18:03,471 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 16:18:03,471 - RealEstate.py[line:215] - INFO: 2019-01-15 16:18:03.472000 内层异常休眠5分钟
+2019-01-15 16:18:04,568 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 16:18:06,855 - RealEstate.py[line:163] - INFO: 2019-01-15 16:18:06.856000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 25-5
+2019-01-15 16:18:11,176 - RealEstate.py[line:311] - INFO: 8歹汐赏4 等于
+2019-01-15 16:18:11,243 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-15 16:18:11,457 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蝉
+2019-01-15 16:18:11,464 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:18:11,464 - RealEstate.py[line:335] - INFO: 验证码:8-4
+2019-01-15 16:18:21,305 - RealEstate.py[line:311] - INFO: 1加5 荨于
+2019-01-15 16:18:21,305 - RealEstate.py[line:335] - INFO: 验证码:1+5
+2019-01-15 16:20:04,371 - RealEstate.py[line:163] - INFO: 2019-01-15 16:20:04.371000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 24-1
+2019-01-15 16:20:08,151 - RealEstate.py[line:311] - INFO: 7姣奴5 荨于
+2019-01-15 16:20:08,213 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-15 16:20:08,453 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z歹苡
+2019-01-15 16:20:08,459 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:20:08,460 - RealEstate.py[line:335] - INFO: 验证码:7+5
+2019-01-15 16:20:37,789 - RealEstate.py[line:210] - INFO: 套内单价：19070.29， 套内面积：118.6
+2019-01-15 16:20:37,789 - RealEstate.py[line:163] - INFO: 2019-01-15 16:20:37.790000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 24-2
+2019-01-15 16:20:43,459 - RealEstate.py[line:311] - INFO: 2减2等于
+2019-01-15 16:20:43,459 - RealEstate.py[line:335] - INFO: 验证码:2-2
+2019-01-15 16:20:54,796 - RealEstate.py[line:210] - INFO: 套内单价：18675.4， 套内面积：98.23
+2019-01-15 16:20:54,796 - RealEstate.py[line:163] - INFO: 2019-01-15 16:20:54.797000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 24-3
+2019-01-15 16:20:58,624 - RealEstate.py[line:311] - INFO: 7炙梯二， 等于
+2019-01-15 16:20:58,694 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 16:20:58,914 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蟀
+2019-01-15 16:20:58,920 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:20:58,921 - RealEstate.py[line:335] - INFO: 验证码:7-3
+2019-01-15 16:22:17,823 - RealEstate.py[line:163] - INFO: 2019-01-15 16:22:17.824000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 24-4
+2019-01-15 16:22:21,697 - RealEstate.py[line:311] - INFO: 7加2 等干
+2019-01-15 16:22:21,697 - RealEstate.py[line:335] - INFO: 验证码:7+2
+2019-01-15 16:23:40,611 - RealEstate.py[line:163] - INFO: 2019-01-15 16:23:40.611000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 24-5
+2019-01-15 16:23:50,681 - RealEstate.py[line:311] - INFO: 2汐衢2圣】 等于
+2019-01-15 16:23:50,750 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 16:23:50,757 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:23:50,763 - RealEstate.py[line:441] - INFO: 图片比较修正number2:9
+2019-01-15 16:23:50,763 - RealEstate.py[line:335] - INFO: 验证码:2-9
+2019-01-15 16:23:54,980 - RealEstate.py[line:311] - INFO: 乏萦2夕衢22 荨于
+2019-01-15 16:23:55,049 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 16:23:55,051 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:23:55,056 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:23:55,065 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 16:23:58,825 - RealEstate.py[line:311] - INFO: 9减3荨于
+2019-01-15 16:23:58,826 - RealEstate.py[line:335] - INFO: 验证码:9-3
+2019-01-15 16:24:12,456 - RealEstate.py[line:210] - INFO: 套内单价：19909.4， 套内面积：140.24
+2019-01-15 16:24:12,457 - RealEstate.py[line:163] - INFO: 2019-01-15 16:24:12.457000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 23-1
+2019-01-15 16:24:16,188 - RealEstate.py[line:311] - INFO: 1减1荨于
+2019-01-15 16:24:16,190 - RealEstate.py[line:335] - INFO: 验证码:1-1
+2019-01-15 16:25:27,256 - RealEstate.py[line:163] - INFO: 2019-01-15 16:25:27.256000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 23-2
+2019-01-15 16:25:31,697 - RealEstate.py[line:311] - INFO: G2加8 荨于
+2019-01-15 16:25:31,763 - RealEstate.py[line:367] - INFO: 图片识别修正number1:6
+2019-01-15 16:25:31,829 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 16:25:31,838 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:25:31,842 - RealEstate.py[line:441] - INFO: 图片比较修正number2:9
+2019-01-15 16:25:31,842 - RealEstate.py[line:335] - INFO: 验证码:6-9
+2019-01-15 16:25:36,177 - RealEstate.py[line:311] - INFO: 6减5荨于
+2019-01-15 16:25:36,177 - RealEstate.py[line:335] - INFO: 验证码:6-5
+2019-01-15 16:26:56,928 - RealEstate.py[line:163] - INFO: 2019-01-15 16:26:56.929000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 23-3
+2019-01-15 16:27:04,966 - RealEstate.py[line:311] - INFO: 之寮/涝乙73 等于
+2019-01-15 16:27:05,036 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 16:27:05,104 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 16:27:05,336 - RealEstate.py[line:385] - INFO: 图片识别修正operator:加
+2019-01-15 16:27:05,336 - RealEstate.py[line:335] - INFO: 验证码:3+3
+2019-01-15 16:27:31,190 - RealEstate.py[line:210] - INFO: 套内单价：18675.4， 套内面积：98.23
+2019-01-15 16:27:31,190 - RealEstate.py[line:163] - INFO: 2019-01-15 16:27:31.191000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 23-4
+2019-01-15 16:27:38,990 - RealEstate.py[line:311] - INFO: 6减2等于
+2019-01-15 16:27:38,990 - RealEstate.py[line:335] - INFO: 验证码:6-2
+2019-01-15 16:29:23,957 - RealEstate.py[line:163] - INFO: 2019-01-15 16:29:23.957000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 23-5
+2019-01-15 16:29:31,529 - RealEstate.py[line:311] - INFO: 一12夕222 等于
+2019-01-15 16:29:31,595 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-15 16:29:31,595 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:29:31,821 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓夕
+2019-01-15 16:29:31,828 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 16:29:40,236 - RealEstate.py[line:311] - INFO: 72夕夕1 荨于
+2019-01-15 16:29:40,301 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 16:29:40,517 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓娜
+2019-01-15 16:29:40,526 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 16:29:44,572 - RealEstate.py[line:311] - INFO: 5减3等于
+2019-01-15 16:29:44,572 - RealEstate.py[line:335] - INFO: 验证码:5-3
+2019-01-15 16:29:57,167 - RealEstate.py[line:210] - INFO: 套内单价：19909.4， 套内面积：140.24
+2019-01-15 16:29:57,168 - RealEstate.py[line:163] - INFO: 2019-01-15 16:29:57.169000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 22-1
+2019-01-15 16:30:00,924 - RealEstate.py[line:311] - INFO: 1加4 荨于
+2019-01-15 16:30:00,924 - RealEstate.py[line:335] - INFO: 验证码:1+4
+2019-01-15 16:30:01,447 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 16:30:01,447 - RealEstate.py[line:215] - INFO: 2019-01-15 16:30:01.447000 内层异常休眠5分钟
+2019-01-15 16:30:02,905 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 16:30:04,940 - RealEstate.py[line:163] - INFO: 2019-01-15 16:30:04.941000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 22-2
+2019-01-15 16:30:08,992 - RealEstate.py[line:311] - INFO: 8减1 等于
+2019-01-15 16:30:08,993 - RealEstate.py[line:335] - INFO: 验证码:8-1
+2019-01-15 16:30:09,753 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 16:30:09,753 - RealEstate.py[line:215] - INFO: 2019-01-15 16:30:09.754000 内层异常休眠5分钟
+2019-01-15 16:30:10,825 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 16:30:13,365 - RealEstate.py[line:163] - INFO: 2019-01-15 16:30:13.365000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 22-3
+2019-01-15 16:30:21,680 - RealEstate.py[line:311] - INFO: 8减1等于
+2019-01-15 16:30:21,680 - RealEstate.py[line:335] - INFO: 验证码:8-1
+2019-01-15 16:32:06,565 - RealEstate.py[line:163] - INFO: 2019-01-15 16:32:06.565000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 22-4
+2019-01-15 16:32:13,174 - RealEstate.py[line:311] - INFO: 62夕衢78魔 荨于
+2019-01-15 16:32:13,246 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 16:32:13,253 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 16:32:13,260 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 16:32:17,043 - RealEstate.py[line:311] - INFO: 5减2等芳
+2019-01-15 16:32:17,043 - RealEstate.py[line:335] - INFO: 验证码:5-2
+2019-01-15 16:32:26,427 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 16:32:26,427 - RealEstate.py[line:215] - INFO: 2019-01-15 16:32:26.428000 内层异常休眠5分钟
+2019-01-15 16:32:27,526 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 16:32:29,549 - RealEstate.py[line:163] - INFO: 2019-01-15 16:32:29.550000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 22-5
+2019-01-15 16:32:33,578 - RealEstate.py[line:311] - INFO: 8减7等于
+2019-01-15 16:32:33,578 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-15 16:34:12,461 - RealEstate.py[line:163] - INFO: 2019-01-15 16:34:12.462000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 21-1
+2019-01-15 16:34:23,115 - RealEstate.py[line:311] - INFO: 乏萦汐赏6 等于
+2019-01-15 16:34:23,180 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 16:34:23,243 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 16:34:23,250 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-15 16:34:23,256 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 16:34:23,263 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-15 16:34:27,137 - RealEstate.py[line:311] - INFO: 5加8 荨于
+2019-01-15 16:34:27,137 - RealEstate.py[line:335] - INFO: 验证码:5+8
+2019-01-15 16:35:39,209 - RealEstate.py[line:163] - INFO: 2019-01-15 16:35:39.209000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 21-2
+2019-01-15 16:35:44,801 - RealEstate.py[line:311] - INFO: 6减4荨于
+2019-01-15 16:35:44,801 - RealEstate.py[line:335] - INFO: 验证码:6-4
+2019-01-15 16:37:24,417 - RealEstate.py[line:163] - INFO: 2019-01-15 16:37:24.417000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 21-3
+2019-01-15 16:37:28,190 - RealEstate.py[line:311] - INFO: 7减2 荨于
+2019-01-15 16:37:28,190 - RealEstate.py[line:335] - INFO: 验证码:7-2
+2019-01-15 16:37:54,440 - RealEstate.py[line:210] - INFO: 套内单价：18552， 套内面积：98.23
+2019-01-15 16:37:54,441 - RealEstate.py[line:163] - INFO: 2019-01-15 16:37:54.442000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 21-4
+2019-01-15 16:37:58,388 - RealEstate.py[line:311] - INFO: 7万奴7 等于
+2019-01-15 16:37:58,453 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-15 16:37:58,694 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 16:37:58,701 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:37:58,701 - RealEstate.py[line:335] - INFO: 验证码:7+7
+2019-01-15 16:39:08,707 - RealEstate.py[line:163] - INFO: 2019-01-15 16:39:08.708000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 21-5
+2019-01-15 16:39:18,183 - RealEstate.py[line:311] - INFO: 之萦2夕22二萦 等干
+2019-01-15 16:39:18,253 - RealEstate.py[line:367] - INFO: 图片识别修正number1:3
+2019-01-15 16:39:18,253 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:39:18,490 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓苡
+2019-01-15 16:39:18,496 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:39:18,496 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-15 16:39:29,071 - RealEstate.py[line:311] - INFO: 72夕/73 等于
+2019-01-15 16:39:29,144 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 16:39:29,378 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕夕
+2019-01-15 16:39:29,384 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:39:29,384 - RealEstate.py[line:335] - INFO: 验证码:7+3
+2019-01-15 16:39:40,213 - RealEstate.py[line:210] - INFO: 套内单价：19971.31， 套内面积：140.24
+2019-01-15 16:39:40,213 - RealEstate.py[line:163] - INFO: 2019-01-15 16:39:40.214000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 20-1
+2019-01-15 16:39:43,947 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-15 16:39:43,947 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-15 16:39:55,854 - RealEstate.py[line:210] - INFO: 套内单价：19132.2， 套内面积：118.6
+2019-01-15 16:39:55,854 - RealEstate.py[line:163] - INFO: 2019-01-15 16:39:55.854000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 20-2
+2019-01-15 16:39:59,628 - RealEstate.py[line:311] - INFO: 7衢衢赏2 等子
+2019-01-15 16:39:59,694 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:39:59,927 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蝉
+2019-01-15 16:39:59,933 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:39:59,933 - RealEstate.py[line:335] - INFO: 验证码:7-2
+2019-01-15 16:41:39,519 - RealEstate.py[line:163] - INFO: 2019-01-15 16:41:39.520000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 20-3
+2019-01-15 16:41:43,868 - RealEstate.py[line:311] - INFO: 7减7荨于
+2019-01-15 16:41:43,868 - RealEstate.py[line:335] - INFO: 验证码:7-7
+2019-01-15 16:42:06,709 - RealEstate.py[line:311] - INFO: 12夕衢71 等于
+2019-01-15 16:42:06,775 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-15 16:42:07,000 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕刀
+2019-01-15 16:42:07,006 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:42:07,006 - RealEstate.py[line:335] - INFO: 验证码:1+1
+2019-01-15 16:42:34,746 - RealEstate.py[line:210] - INFO: 套内单价：18551.59， 套内面积：98.23
+2019-01-15 16:42:34,746 - RealEstate.py[line:163] - INFO: 2019-01-15 16:42:34.747000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 20-4
+2019-01-15 16:42:45,286 - RealEstate.py[line:311] - INFO: 9减3荨于
+2019-01-15 16:42:45,286 - RealEstate.py[line:335] - INFO: 验证码:9-3
+2019-01-15 16:44:01,016 - RealEstate.py[line:163] - INFO: 2019-01-15 16:44:01.017000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 20-5
+2019-01-15 16:44:27,155 - RealEstate.py[line:311] - INFO: 乏魔夕赏6 等于
+2019-01-15 16:44:27,234 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-15 16:44:27,312 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-15 16:44:27,321 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:44:27,329 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-15 16:44:31,637 - RealEstate.py[line:311] - INFO: 4笈奴9 等于
+2019-01-15 16:44:31,707 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-15 16:44:31,714 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:44:31,721 - RealEstate.py[line:441] - INFO: 图片比较修正number2:9
+2019-01-15 16:44:31,721 - RealEstate.py[line:335] - INFO: 验证码:4+9
+2019-01-15 16:45:14,065 - RealEstate.py[line:210] - INFO: 套内单价：19971.31， 套内面积：140.24
+2019-01-15 16:45:14,068 - RealEstate.py[line:163] - INFO: 2019-01-15 16:45:14.068000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 19-1
+2019-01-15 16:45:18,378 - RealEstate.py[line:311] - INFO: 9遂229 等于
+2019-01-15 16:45:18,378 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-15 16:45:18,615 - RealEstate.py[line:385] - INFO: 图片识别修正operator:，歹夕
+2019-01-15 16:45:18,621 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-15 16:45:18,621 - RealEstate.py[line:335] - INFO: 验证码:9+2
+2019-01-15 16:45:22,832 - RealEstate.py[line:311] - INFO: 6减5荨于
+2019-01-15 16:45:22,832 - RealEstate.py[line:335] - INFO: 验证码:6-5
+2019-01-15 16:45:40,298 - RealEstate.py[line:210] - INFO: 套内单价：19132.2， 套内面积：118.6
+2019-01-15 16:45:40,299 - RealEstate.py[line:163] - INFO: 2019-01-15 16:45:40.299000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 19-2
+2019-01-15 16:45:46,233 - RealEstate.py[line:311] - INFO: 6减6 等于
+2019-01-15 16:45:46,233 - RealEstate.py[line:335] - INFO: 验证码:6-6
+2019-01-15 16:46:08,588 - RealEstate.py[line:210] - INFO: 套内单价：18551.59， 套内面积：98.23
+2019-01-15 16:46:08,589 - RealEstate.py[line:163] - INFO: 2019-01-15 16:46:08.590000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 19-3
+2019-01-15 16:46:12,342 - RealEstate.py[line:311] - INFO: 5减4等于
+2019-01-15 16:46:12,342 - RealEstate.py[line:335] - INFO: 验证码:5-4
+2019-01-15 16:46:21,082 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-15 16:46:21,082 - RealEstate.py[line:215] - INFO: 2019-01-15 16:46:21.083000 内层异常休眠5分钟
+2019-01-15 16:46:22,183 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-15 16:46:24,694 - RealEstate.py[line:163] - INFO: 2019-01-15 16:46:24.694000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 19-4
+2019-01-15 16:46:30,128 - RealEstate.py[line:311] - INFO: 4减3荨于
+2019-01-15 16:46:30,128 - RealEstate.py[line:335] - INFO: 验证码:4-3
+2019-01-15 16:47:41,247 - RealEstate.py[line:163] - INFO: 2019-01-15 16:47:41.247000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 19-5
+2019-01-15 16:47:46,484 - RealEstate.py[line:311] - INFO: 4减1等于
+2019-01-15 16:47:46,486 - RealEstate.py[line:335] - INFO: 验证码:4-1
+2019-01-15 16:48:15,368 - RealEstate.py[line:210] - INFO: 套内单价：19971.31， 套内面积：140.24
+2019-01-15 16:48:15,369 - RealEstate.py[line:163] - INFO: 2019-01-15 16:48:15.370000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 18-1
+2019-01-15 16:48:20,394 - RealEstate.py[line:311] - INFO: 6减5荨于
+2019-01-15 16:48:20,394 - RealEstate.py[line:335] - INFO: 验证码:6-5
+2019-01-15 16:49:38,673 - RealEstate.py[line:163] - INFO: 2019-01-15 16:49:38.673000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 18-2
+2019-01-15 16:49:42,453 - RealEstate.py[line:311] - INFO: 9减2荨于
+2019-01-15 16:49:42,453 - RealEstate.py[line:335] - INFO: 验证码:9-2
+2019-01-15 16:50:52,940 - RealEstate.py[line:163] - INFO: 2019-01-15 16:50:52.940000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 18-3
+2019-01-15 16:50:57,306 - RealEstate.py[line:311] - INFO: 2减1等于
+2019-01-15 16:50:57,308 - RealEstate.py[line:335] - INFO: 验证码:2-1
+2019-01-15 16:52:22,714 - RealEstate.py[line:163] - INFO: 2019-01-15 16:52:22.715000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 18-4
+2019-01-15 16:52:26,678 - RealEstate.py[line:311] - INFO: 7加7等于
+2019-01-15 16:52:26,680 - RealEstate.py[line:335] - INFO: 验证码:7+7
+2019-01-15 16:53:37,832 - RealEstate.py[line:163] - INFO: 2019-01-15 16:53:37.833000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 18-5
+2019-01-15 16:53:41,707 - RealEstate.py[line:311] - INFO: 8减8荨于
+2019-01-15 16:53:41,707 - RealEstate.py[line:335] - INFO: 验证码:8-8
+2019-01-15 16:55:00,743 - RealEstate.py[line:163] - INFO: 2019-01-15 16:55:00.744000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 17-1
+2019-01-15 16:55:05,211 - RealEstate.py[line:311] - INFO: 3加5 荨于
+2019-01-15 16:55:05,211 - RealEstate.py[line:335] - INFO: 验证码:3+5
+2019-01-15 16:56:23,569 - RealEstate.py[line:163] - INFO: 2019-01-15 16:56:23.570000 江北 中国铁建西派城-中国铁建西派城一期 3号楼 1单元 17-2
+2019-01-15 16:56:27,987 - RealEstate.py[line:311] - INFO: 7氦衢赏3 等于
+2019-01-15 16:56:28,058 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-15 16:56:28,298 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蝉
+2019-01-15 16:56:28,303 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-15 16:56:28,303 - RealEstate.py[line:335] - INFO: 验证码:7-3
+2019-01-15 17:07:48,595 - RealEstate.py[line:58] - INFO: 渝北房产信息收集完成
+2019-01-15 17:12:55,809 - RealEstate.py[line:58] - INFO: 江北房产信息收集完成
+2019-01-15 17:18:00,931 - RealEstate.py[line:58] - INFO: 南岸房产信息收集完成
+2019-01-15 17:24:17,345 - RealEstate.py[line:58] - INFO: 沙坪坝房产信息收集完成
+2019-01-15 17:30:47,244 - RealEstate.py[line:58] - INFO: 大渡口房产信息收集完成
+2019-01-15 17:37:31,108 - RealEstate.py[line:58] - INFO: 巴南房产信息收集完成
+2019-01-15 17:43:44,344 - RealEstate.py[line:58] - INFO: 渝中房产信息收集完成
+2019-01-15 17:53:19,197 - RealEstate.py[line:58] - INFO: 渝北房产信息收集完成
+2019-01-15 17:59:10,756 - RealEstate.py[line:58] - INFO: 江北房产信息收集完成
+2019-01-15 18:05:41,773 - RealEstate.py[line:58] - INFO: 南岸房产信息收集完成

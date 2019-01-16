@@ -115,7 +115,7 @@ class PoolDB(object):
                     item_query_param = item_query_param.split("as")[1].replace(" ", "")
                 if item_query_param in result_list:
                     raise BaseException("column %s param is ambiguous" % item_query_param)
-                result_list.append(item_query_param)
+                result_list.append(item_query_param.replace(" ", ""))
             return result_list
         return result_list
 

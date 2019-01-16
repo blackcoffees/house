@@ -5,6 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
+from util.ProxyIPUtil import proxy_pool
+
 
 class WebDriverManager(object):
     total_count = 0
@@ -25,13 +27,14 @@ class WebDriverManager(object):
         for index in range(count):
             self.create_web_driver()
 
-    def get_web_driver(self):
+    def get_web_driver(self, is_proxy=False):
         for web_driver in self.__list_web_driver__:
             if not web_driver.is_used():
                 web_driver.use()
                 return web_driver
         if len(self.__list_web_driver__) != self.total_count:
-            self.create_web_driver()
+            self.create_web_driver(is_proxy)
+            return self.__list_web_driver__[len(self.__list_web_driver__)-1]
 
     def destroy_all(self):
         for web_driver in range(len(self.__list_web_driver__)):
@@ -41,11 +44,17 @@ class WebDriverManager(object):
         for web_driver in self.__list_web_driver__:
             if web_driver.get_id() == web_driver_id:
                 web_driver.close()
-        self.create_web_driver()
+                self.__list_web_driver__.remove(web_driver)
+        # self.create_web_driver()
 
-    def create_web_driver(self):
+    def create_web_driver(self, is_proxy=False):
         if self.type == "chrome":
-            temp_driver = WebChromeDriver(self.options)
+            temp_options = self.options
+            if is_proxy:
+                proxy_ip = proxy_pool.get_proxy_ip()
+                if proxy_ip:
+                    temp_options.add_argument("--proxy-server={0}".format(proxy_ip))
+            temp_driver = WebChromeDriver(temp_options)
         else:
             raise BaseException("暂不支持该浏览器")
         self.__list_web_driver__.append(temp_driver)

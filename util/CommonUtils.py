@@ -8,7 +8,6 @@ import os
 
 import time
 from logging.handlers import TimedRotatingFileHandler
-from ProxyIPUtil import get_proxy_ip, remove_unvalidate_proxy_ip, get_switch_proxy, set_switch_proxy, list_proxy_ip
 
 
 class Region(type):
@@ -41,25 +40,11 @@ logger.addHandler(fh)
 logger.addHandler(console_handler)
 
 
-def send_request(url, headers=None, data=None, cookies=None, proxy_ip=None, is_get_proxy=False):
-    index = len(list_proxy_ip)
+def send_request(url, headers=None, data=None, cookies=None):
+    index = 5
     while True:
-        proxy_switch = get_switch_proxy()
         index = index - 1
         try:
-            # 使用代理ip, 当获取代理ip是不调用
-            if proxy_switch and not is_get_proxy:
-                if not proxy_ip:
-                    proxy_ip = get_proxy_ip()
-                if proxy_ip:
-                    logging.info("切换代理ip:%s" % proxy_ip)
-                    temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
-                    proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
-                    opener = urllib2.build_opener(proxy_support)
-                    urllib2.install_opener(opener)
-                    response = urllib2.urlopen(url, timeout=120)
-                    print response.read()
-            # 增加user_agent
             user_agent = list_user_agent[random.randrange(1, len(list_user_agent))]
             if headers:
                 headers_key = [x.lower() for x in headers.keys()]
@@ -86,28 +71,15 @@ def send_request(url, headers=None, data=None, cookies=None, proxy_ip=None, is_g
                 request = urllib2.Request(url)
             response = urllib2.urlopen(request, timeout=120)
             if response.code == 200:
-                response_text = response.read()
-                # 使用代理ip没有请求到数据
-                if proxy_switch and not response_text:
-                    remove_unvalidate_proxy_ip(proxy_ip)
-                    proxy_ip = None
-                elif response_text:
-                    return response_text
+                return response.read()
             else:
                 return False
             break
         except BaseException as e:
-            if index == 0:
-                if get_switch_proxy():
-                    set_switch_proxy(False)
-                else:
-                    return False
-                    break
-            if proxy_switch:
-                remove_unvalidate_proxy_ip(proxy_ip)
-                proxy_ip = None
-                proxy_switch = False
             print u"请求:%s error:%s" % (url, e)
+        finally:
+            if index == 0:
+                break
 
 
 def test_proxy_ip_send_request(proxy_ip, url=None):
@@ -117,32 +89,25 @@ def test_proxy_ip_send_request(proxy_ip, url=None):
     :param proxy_ip:
     :return:
     """
-    index = 10
     if not url:
-        url = "https://www.baidu.com"
+        url = "http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm"
     while True:
-        index = index - 1
         try:
             temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
             proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
             opener = urllib2.build_opener(proxy_support)
             urllib2.install_opener(opener)
             request = urllib2.Request(url)
-            response = urllib2.urlopen(request, timeout=120)
+            response = urllib2.urlopen(request, timeout=30)
             if response.code == 200:
                 if response.read():
                     logging.info("测试代理IP,切换代理IP:%s" % proxy_ip)
                     return True
-                else:
-                    return False
-            else:
-                return False
-            break
+            return False
         except BaseException as e:
-            if index == 0:
-                return False
-                break
-            print u"代理ip测试请求:%s error:%s" % (url, e)
+            print u"代理ip测试请求:%s error:%s" % (proxy_ip, e)
+            return False
+
 
 
 

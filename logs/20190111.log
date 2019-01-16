@@ -1,0 +1,1182 @@
+2019-01-11 10:53:49,147 - RealEstate.py[line:66] - INFO: 渝北：3
+2019-01-11 10:54:18,098 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:18.099000 渝北 复地·君屿墅-F区 15幢（规划F15号楼） 1单元 1-1（跃1）
+2019-01-11 10:54:19,654 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:19.653000 渝北 复地·君屿墅-F区 15幢（规划F15号楼） 1单元 1-2（跃1）
+2019-01-11 10:54:19,891 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:19.892000 渝北 复地·君屿墅-F区 15幢（规划F15号楼） 1单元 1-3（跃1）
+2019-01-11 10:54:19,894 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:19.895000 渝北 复地·君屿墅-F区 15幢（规划F15号楼） 1单元 1-4（跃1）
+2019-01-11 10:54:19,927 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:19.927000 渝北 复地·君屿墅-F区 15幢（规划F15号楼） 1单元 1-5（跃1）
+2019-01-11 10:54:19,928 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:19.929000 渝北 复地·君屿墅-F区 15幢（规划F15号楼） 1单元 1-6（跃1）
+2019-01-11 10:54:21,608 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.609000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-1（跃1）
+2019-01-11 10:54:21,611 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.612000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-2（跃1）
+2019-01-11 10:54:21,615 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.615000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-3（跃1）
+2019-01-11 10:54:21,618 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.618000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-4（跃1）
+2019-01-11 10:54:21,619 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.620000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-5（跃1）
+2019-01-11 10:54:21,622 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.623000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-6（跃1）
+2019-01-11 10:54:21,625 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:21.626000 渝北 复地·君屿墅-F区 19幢（规划F11号楼） 1单元 1-7（跃1）
+2019-01-11 10:54:23,147 - RealEstate.py[line:167] - INFO: 2019-01-11 10:54:23.147000 渝北 复地·君屿墅-F区 20幢（规划F12号楼） 1单元 1-1（跃1）
+2019-01-11 10:54:34,234 - RealEstate.py[line:313] - INFO: 7减5 等于
+2019-01-11 10:54:34,236 - RealEstate.py[line:337] - INFO: 验证码:7-5
+2019-01-11 10:55:36,871 - RealEstate.py[line:167] - INFO: 2019-01-11 10:55:36.871000 渝北 复地·君屿墅-F区 20幢（规划F12号楼） 1单元 1-2（跃1）
+2019-01-11 10:55:40,719 - RealEstate.py[line:313] - INFO: 1汐夕6 等芳
+2019-01-11 10:55:40,802 - RealEstate.py[line:376] - INFO: 图片识别修正number2:.
+2019-01-11 10:55:40,849 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 10:55:40,857 - RealEstate.py[line:443] - INFO: 图片比较修正number2:None
+2019-01-11 10:55:44,611 - RealEstate.py[line:313] - INFO: 1加7等于
+2019-01-11 10:55:44,611 - RealEstate.py[line:337] - INFO: 验证码:1+7
+2019-01-11 10:55:47,145 - RealEstate.py[line:214] - INFO: 套内单价：15492.35， 套内面积：220.34
+2019-01-11 10:55:47,145 - RealEstate.py[line:167] - INFO: 2019-01-11 10:55:47.146000 渝北 复地·君屿墅-F区 20幢（规划F12号楼） 1单元 1-3（跃1）
+2019-01-11 10:55:51,042 - RealEstate.py[line:313] - INFO: 9藜夕7等子
+2019-01-11 10:55:51,115 - RealEstate.py[line:376] - INFO: 图片识别修正number2:7
+2019-01-11 10:55:51,365 - RealEstate.py[line:387] - INFO: 图片识别修正operator:Z亓奴
+2019-01-11 10:55:51,371 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 10:55:51,371 - RealEstate.py[line:337] - INFO: 验证码:9+7
+2019-01-11 10:56:53,437 - RealEstate.py[line:167] - INFO: 2019-01-11 10:56:53.437000 渝北 复地·君屿墅-F区 20幢（规划F12号楼） 1单元 1-4（跃1）
+2019-01-11 10:56:57,170 - RealEstate.py[line:313] - INFO: 9汐刀9 等于
+2019-01-11 10:56:57,252 - RealEstate.py[line:376] - INFO: 图片识别修正number2:.
+2019-01-11 10:56:57,259 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 10:56:57,266 - RealEstate.py[line:443] - INFO: 图片比较修正number2:None
+2019-01-11 10:57:00,977 - RealEstate.py[line:313] - INFO: G2夕/~74 等于
+2019-01-11 10:57:01,063 - RealEstate.py[line:369] - INFO: 图片识别修正number1:6
+2019-01-11 10:57:01,135 - RealEstate.py[line:376] - INFO: 图片识别修正number2:4
+2019-01-11 10:57:01,378 - RealEstate.py[line:387] - INFO: 图片识别修正operator:Z夕夕
+2019-01-11 10:57:01,384 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 10:57:01,384 - RealEstate.py[line:337] - INFO: 验证码:6+4
+2019-01-11 10:57:05,176 - RealEstate.py[line:214] - INFO: 套内单价：16380.26， 套内面积：220.34
+2019-01-11 10:57:17,336 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.337000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-1（跃1）
+2019-01-11 10:57:17,341 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.341000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-2（跃1）
+2019-01-11 10:57:17,344 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.344000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-3（跃1）
+2019-01-11 10:57:17,346 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.347000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-4（跃1）
+2019-01-11 10:57:17,349 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.350000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-5（跃1）
+2019-01-11 10:57:17,351 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.352000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-6（跃1）
+2019-01-11 10:57:17,355 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.355000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-7（跃1）
+2019-01-11 10:57:17,357 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:17.357000 渝北 复地·君屿墅-F区 23幢（规划F6号楼） 1单元 1-8（跃1）
+2019-01-11 10:57:20,010 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:20.011000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-1（跃1）
+2019-01-11 10:57:23,928 - RealEstate.py[line:313] - INFO: 8减5 等于
+2019-01-11 10:57:23,928 - RealEstate.py[line:337] - INFO: 验证码:8-5
+2019-01-11 10:57:24,849 - RealEstate.py[line:214] - INFO: 套内单价：16033.76， 套内面积：176.03
+2019-01-11 10:57:24,849 - RealEstate.py[line:167] - INFO: 2019-01-11 10:57:24.850000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-2（跃1）
+2019-01-11 10:57:30,105 - RealEstate.py[line:313] - INFO: 1笈衢76 等于
+2019-01-11 10:57:30,206 - RealEstate.py[line:376] - INFO: 图片识别修正number2:.
+2019-01-11 10:57:30,213 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 10:57:30,221 - RealEstate.py[line:443] - INFO: 图片比较修正number2:None
+2019-01-11 10:57:34,151 - RealEstate.py[line:313] - INFO: 4减3等于
+2019-01-11 10:57:34,151 - RealEstate.py[line:337] - INFO: 验证码:4-3
+2019-01-11 10:57:34,413 - RealEstate.py[line:217] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 10:57:34,414 - RealEstate.py[line:218] - INFO: 2019-01-11 10:57:34.414000 内层异常休眠5分钟
+2019-01-11 11:02:43,069 - RealEstate.py[line:167] - INFO: 2019-01-11 11:02:43.069000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-3（跃1）
+2019-01-11 11:02:48,961 - RealEstate.py[line:313] - INFO: 9减7等于
+2019-01-11 11:02:48,963 - RealEstate.py[line:337] - INFO: 验证码:9-7
+2019-01-11 11:02:59,539 - RealEstate.py[line:313] - INFO: G22衢24 等于
+2019-01-11 11:02:59,617 - RealEstate.py[line:369] - INFO: 图片识别修正number1:6
+2019-01-11 11:02:59,618 - RealEstate.py[line:376] - INFO: 图片识别修正number2:2
+2019-01-11 11:02:59,862 - RealEstate.py[line:387] - INFO: 图片识别修正operator:汐奴
+2019-01-11 11:02:59,862 - RealEstate.py[line:337] - INFO: 验证码:6+2
+2019-01-11 11:03:09,658 - RealEstate.py[line:313] - INFO: 8烫衢赏F董 等于
+2019-01-11 11:03:09,740 - RealEstate.py[line:376] - INFO: 图片识别修正number2:.
+2019-01-11 11:03:09,746 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 11:03:09,753 - RealEstate.py[line:443] - INFO: 图片比较修正number2:None
+2019-01-11 11:03:13,773 - RealEstate.py[line:313] - INFO: 1加3等于
+2019-01-11 11:03:13,773 - RealEstate.py[line:337] - INFO: 验证码:1+3
+2019-01-11 11:03:16,582 - RealEstate.py[line:214] - INFO: 套内单价：15535.9， 套内面积：174.26
+2019-01-11 11:03:16,582 - RealEstate.py[line:167] - INFO: 2019-01-11 11:03:16.583000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-4（跃1）
+2019-01-11 11:03:20,351 - RealEstate.py[line:313] - INFO: 5玖万1 等霁
+2019-01-11 11:03:20,428 - RealEstate.py[line:376] - INFO: 图片识别修正number2:1
+2019-01-11 11:03:20,667 - RealEstate.py[line:387] - INFO: 图片识别修正operator:汐苡
+2019-01-11 11:03:20,674 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:03:24,401 - RealEstate.py[line:313] - INFO: 6减3等于
+2019-01-11 11:03:24,401 - RealEstate.py[line:337] - INFO: 验证码:6-3
+2019-01-11 11:03:26,529 - RealEstate.py[line:214] - INFO: 套内单价：15535.68， 套内面积：174.03
+2019-01-11 11:03:26,529 - RealEstate.py[line:167] - INFO: 2019-01-11 11:03:26.530000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-5（跃1）
+2019-01-11 11:03:35,404 - RealEstate.py[line:313] - INFO: 72夕衢25 等霁
+2019-01-11 11:03:35,474 - RealEstate.py[line:376] - INFO: 图片识别修正number2:5
+2019-01-11 11:03:35,710 - RealEstate.py[line:387] - INFO: 图片识别修正operator:Z夕娜
+2019-01-11 11:03:35,717 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:03:39,460 - RealEstate.py[line:313] - INFO: 矗】2夕/27 等子
+2019-01-11 11:03:39,539 - RealEstate.py[line:369] - INFO: 图片识别修正number1:\\
+2019-01-11 11:03:39,540 - RealEstate.py[line:376] - INFO: 图片识别修正number2:2
+2019-01-11 11:03:39,549 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:03:39,555 - RealEstate.py[line:438] - INFO: 图片比较修正number1:None
+2019-01-11 11:03:43,295 - RealEstate.py[line:313] - INFO: 9减8等芳
+2019-01-11 11:03:43,296 - RealEstate.py[line:337] - INFO: 验证码:9-8
+2019-01-11 11:03:45,960 - RealEstate.py[line:214] - INFO: 套内单价：15535.68， 套内面积：174.03
+2019-01-11 11:03:45,960 - RealEstate.py[line:167] - INFO: 2019-01-11 11:03:45.961000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-6（跃1）
+2019-01-11 11:03:49,681 - RealEstate.py[line:313] - INFO: 7减2 等于
+2019-01-11 11:03:49,683 - RealEstate.py[line:337] - INFO: 验证码:7-2
+2019-01-11 11:03:51,993 - RealEstate.py[line:214] - INFO: 套内单价：15535.9， 套内面积：174.26
+2019-01-11 11:03:51,993 - RealEstate.py[line:167] - INFO: 2019-01-11 11:03:51.994000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-7（跃1）
+2019-01-11 11:03:55,934 - RealEstate.py[line:313] - INFO: 凛加5 等于
+2019-01-11 11:03:56,029 - RealEstate.py[line:369] - INFO: 图片识别修正number1:4
+2019-01-11 11:03:56,029 - RealEstate.py[line:376] - INFO: 图片识别修正number2:5
+2019-01-11 11:03:56,029 - RealEstate.py[line:337] - INFO: 验证码:4+5
+2019-01-11 11:03:56,305 - RealEstate.py[line:217] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:03:56,305 - RealEstate.py[line:218] - INFO: 2019-01-11 11:03:56.305000 内层异常休眠5分钟
+2019-01-11 11:08:56,341 - RealEstate.py[line:167] - INFO: 2019-01-11 11:08:56.341000 渝北 复地·君屿墅-F区 28幢（规划F1号楼） 1单元 1-8（跃1）
+2019-01-11 11:09:00,525 - RealEstate.py[line:313] - INFO: G22/22 等于
+2019-01-11 11:09:00,605 - RealEstate.py[line:369] - INFO: 图片识别修正number1:6
+2019-01-11 11:09:00,605 - RealEstate.py[line:376] - INFO: 图片识别修正number2:2
+2019-01-11 11:09:00,868 - RealEstate.py[line:387] - INFO: 图片识别修正operator:ZZ/Z
+2019-01-11 11:09:00,878 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:09:04,687 - RealEstate.py[line:313] - INFO: 7减2 等于
+2019-01-11 11:09:04,688 - RealEstate.py[line:337] - INFO: 验证码:7-2
+2019-01-11 11:09:30,723 - RealEstate.py[line:214] - INFO: 套内单价：15858.24， 套内面积：176.03
+2019-01-11 11:09:35,118 - RealEstate.py[line:167] - INFO: 2019-01-11 11:09:35.118000 渝北 复地·君屿墅-F区 4幢（规划F32号楼） 1单元 1-1（跃1）
+2019-01-11 11:09:38,869 - RealEstate.py[line:313] - INFO: 9减8等于
+2019-01-11 11:09:38,871 - RealEstate.py[line:337] - INFO: 验证码:9-8
+2019-01-11 11:09:41,138 - RealEstate.py[line:214] - INFO: 套内单价：15887.04， 套内面积：176.03
+2019-01-11 11:09:41,140 - RealEstate.py[line:167] - INFO: 2019-01-11 11:09:41.140000 渝北 复地·君屿墅-F区 4幢（规划F32号楼） 1单元 1-2（跃1）
+2019-01-11 11:09:45,387 - RealEstate.py[line:313] - INFO: 12加9 等于
+2019-01-11 11:09:45,464 - RealEstate.py[line:376] - INFO: 图片识别修正number2:.
+2019-01-11 11:09:45,471 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:09:45,479 - RealEstate.py[line:443] - INFO: 图片比较修正number2:None
+2019-01-11 11:09:49,290 - RealEstate.py[line:313] - INFO: 7汐贾1薰 等于
+2019-01-11 11:09:49,365 - RealEstate.py[line:376] - INFO: 图片识别修正number2:.
+2019-01-11 11:09:49,374 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:09:49,380 - RealEstate.py[line:443] - INFO: 图片比较修正number2:None
+2019-01-11 11:09:58,982 - RealEstate.py[line:313] - INFO: 乏攫姥梯4 等于
+2019-01-11 11:09:59,062 - RealEstate.py[line:369] - INFO: 图片识别修正number1:\\
+2019-01-11 11:09:59,135 - RealEstate.py[line:376] - INFO: 图片识别修正number2:4
+2019-01-11 11:09:59,144 - RealEstate.py[line:433] - INFO: 图片比较修正operator:None
+2019-01-11 11:09:59,150 - RealEstate.py[line:438] - INFO: 图片比较修正number1:None
+2019-01-11 11:10:02,868 - RealEstate.py[line:313] - INFO: 22夕衢7二萦 等于
+2019-01-11 11:10:02,979 - RealEstate.py[line:376] - INFO: 图片识别修正number2:3
+2019-01-11 11:10:03,244 - RealEstate.py[line:387] - INFO: 图片识别修正operator:Z亓奴
+2019-01-11 11:10:03,252 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 11:10:03,252 - RealEstate.py[line:337] - INFO: 验证码:2+3
+2019-01-11 11:10:06,262 - RealEstate.py[line:214] - INFO: 套内单价：15564.24， 套内面积：174.02
+2019-01-11 11:10:06,263 - RealEstate.py[line:167] - INFO: 2019-01-11 11:10:06.263000 渝北 复地·君屿墅-F区 4幢（规划F32号楼） 1单元 1-3（跃1）
+2019-01-11 11:10:10,032 - RealEstate.py[line:313] - INFO: 52加1 等于
+2019-01-11 11:10:10,111 - RealEstate.py[line:376] - INFO: 图片识别修正number2:1
+2019-01-11 11:10:10,378 - RealEstate.py[line:387] - INFO: 图片识别修正operator:Z亓奴
+2019-01-11 11:10:10,384 - RealEstate.py[line:433] - INFO: 图片比较修正operator:add
+2019-01-11 11:10:10,384 - RealEstate.py[line:337] - INFO: 验证码:5+1
+2019-01-11 11:10:10,653 - RealEstate.py[line:217] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:10:10,654 - RealEstate.py[line:218] - INFO: 2019-01-11 11:10:10.654000 内层异常休眠5分钟
+2019-01-11 11:15:11,153 - RealEstate.py[line:167] - INFO: 2019-01-11 11:15:11.153000 渝北 复地·君屿墅-F区 4幢（规划F32号楼） 1单元 1-4（跃1）
+2019-01-11 11:15:11,160 - RealEstate.py[line:217] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:15:11,161 - RealEstate.py[line:218] - INFO: 2019-01-11 11:15:11.161000 内层异常休眠5分钟
+2019-01-11 11:18:08,346 - RealEstate.py[line:66] - INFO: 渝北：4
+2019-01-11 11:18:10,782 - RealEstate.py[line:167] - INFO: 2019-01-11 11:18:10.783000 渝北 复地·君屿墅-G区 10幢（规划G11号楼） 1单元 5-1(跃1)
+2019-01-11 11:18:14,729 - RealEstate.py[line:315] - INFO: 8减2等芳
+2019-01-11 11:18:14,729 - RealEstate.py[line:339] - INFO: 验证码:8-2
+2019-01-11 11:18:18,734 - RealEstate.py[line:214] - INFO: 套内单价：16055.35， 套内面积：113.9
+2019-01-11 11:18:18,736 - RealEstate.py[line:167] - INFO: 2019-01-11 11:18:18.736000 渝北 复地·君屿墅-G区 10幢（规划G11号楼） 1单元 5-2(跃1)
+2019-01-11 11:18:22,447 - RealEstate.py[line:315] - INFO: 2减2等芳
+2019-01-11 11:18:22,447 - RealEstate.py[line:339] - INFO: 验证码:2-2
+2019-01-11 11:18:25,519 - RealEstate.py[line:214] - INFO: 套内单价：15486.15， 套内面积：113.79
+2019-01-11 11:18:25,520 - RealEstate.py[line:167] - INFO: 2019-01-11 11:18:25.521000 渝北 复地·君屿墅-G区 10幢（规划G11号楼） 2单元 5-1(跃1)
+2019-01-11 11:18:29,888 - RealEstate.py[line:315] - INFO: 5加8 等于
+2019-01-11 11:18:29,888 - RealEstate.py[line:339] - INFO: 验证码:5+8
+2019-01-11 11:18:48,700 - RealEstate.py[line:218] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:18:49,186 - RealEstate.py[line:219] - INFO: 2019-01-11 11:18:49.186000 内层异常休眠5分钟
+2019-01-11 11:25:13,302 - RealEstate.py[line:167] - INFO: 2019-01-11 11:25:12.606000 渝北 复地·君屿墅-G区 10幢（规划G11号楼） 2单元 5-2(跃1)
+2019-01-11 11:25:57,730 - RealEstate.py[line:66] - INFO: 渝北：5
+2019-01-11 11:26:00,471 - RealEstate.py[line:167] - INFO: 2019-01-11 11:26:00.472000 渝北 复地·君屿墅-H区 5幢（规划H4号楼） 1单元 5-1(跃1)
+2019-01-11 11:26:05,138 - RealEstate.py[line:315] - INFO: 7炙赏、了 等于
+2019-01-11 11:26:05,220 - RealEstate.py[line:378] - INFO: 图片识别修正number2:3
+2019-01-11 11:26:05,434 - RealEstate.py[line:389] - INFO: 图片识别修正operator:游
+2019-01-11 11:26:05,441 - RealEstate.py[line:435] - INFO: 图片比较修正operator:reduce
+2019-01-11 11:26:05,441 - RealEstate.py[line:339] - INFO: 验证码:7-3
+2019-01-11 11:27:08,846 - RealEstate.py[line:167] - INFO: 2019-01-11 11:27:08.847000 渝北 复地·君屿墅-H区 5幢（规划H4号楼） 1单元 5-2(跃1)
+2019-01-11 11:27:12,618 - RealEstate.py[line:315] - INFO: 2减1等芳
+2019-01-11 11:27:12,618 - RealEstate.py[line:339] - INFO: 验证码:2-1
+2019-01-11 11:27:15,190 - RealEstate.py[line:214] - INFO: 套内单价：15478.43， 套内面积：115.36
+2019-01-11 11:27:15,190 - RealEstate.py[line:167] - INFO: 2019-01-11 11:27:15.191000 渝北 复地·君屿墅-H区 5幢（规划H4号楼） 2单元 5-1(跃1)
+2019-01-11 11:27:18,976 - RealEstate.py[line:315] - INFO: 凛减3等芳
+2019-01-11 11:27:19,049 - RealEstate.py[line:371] - INFO: 图片识别修正number1:4
+2019-01-11 11:27:19,051 - RealEstate.py[line:378] - INFO: 图片识别修正number2:3
+2019-01-11 11:27:19,051 - RealEstate.py[line:339] - INFO: 验证码:4-3
+2019-01-11 11:27:24,247 - RealEstate.py[line:214] - INFO: 套内单价：15478.43， 套内面积：115.36
+2019-01-11 11:27:24,249 - RealEstate.py[line:167] - INFO: 2019-01-11 11:27:24.249000 渝北 复地·君屿墅-H区 5幢（规划H4号楼） 2单元 5-2(跃1)
+2019-01-11 11:27:28,082 - RealEstate.py[line:315] - INFO: 8减F方 等于
+2019-01-11 11:27:28,160 - RealEstate.py[line:378] - INFO: 图片识别修正number2:.
+2019-01-11 11:27:28,167 - RealEstate.py[line:435] - INFO: 图片比较修正operator:reduce
+2019-01-11 11:27:28,177 - RealEstate.py[line:445] - INFO: 图片比较修正number2:None
+2019-01-11 11:27:32,229 - RealEstate.py[line:315] - INFO: 52夕衢721 等于
+2019-01-11 11:27:32,312 - RealEstate.py[line:378] - INFO: 图片识别修正number2:4
+2019-01-11 11:27:32,563 - RealEstate.py[line:389] - INFO: 图片识别修正operator:Z亓奴
+2019-01-11 11:27:32,569 - RealEstate.py[line:435] - INFO: 图片比较修正operator:add
+2019-01-11 11:27:32,571 - RealEstate.py[line:339] - INFO: 验证码:5+4
+2019-01-11 11:27:36,839 - RealEstate.py[line:218] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:27:37,107 - RealEstate.py[line:219] - INFO: 2019-01-11 11:27:37.107000 内层异常休眠5分钟
+2019-01-11 11:32:57,908 - RealEstate.py[line:167] - INFO: 2019-01-11 11:32:57.908000 渝北 复地·君屿墅-H区 5幢（规划H4号楼） 1单元 3-1(跃1)
+2019-01-11 11:33:19,763 - RealEstate.py[line:66] - INFO: 渝北：6
+2019-01-11 11:33:26,615 - RealEstate.py[line:167] - INFO: 2019-01-11 11:33:26.615000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-1
+2019-01-11 11:33:31,157 - RealEstate.py[line:315] - INFO: 32歹/2垂魔 等于
+2019-01-11 11:33:31,244 - RealEstate.py[line:378] - INFO: 图片识别修正number2:\\
+2019-01-11 11:33:31,252 - RealEstate.py[line:435] - INFO: 图片比较修正operator:add
+2019-01-11 11:33:31,256 - RealEstate.py[line:445] - INFO: 图片比较修正number2:8
+2019-01-11 11:33:31,256 - RealEstate.py[line:339] - INFO: 验证码:3+8
+2019-01-11 11:33:34,368 - RealEstate.py[line:214] - INFO: 套内单价：20440， 套内面积：77.07
+2019-01-11 11:33:34,368 - RealEstate.py[line:167] - INFO: 2019-01-11 11:33:34.368000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-2
+2019-01-11 11:33:38,094 - RealEstate.py[line:315] - INFO: 9减3等芳
+2019-01-11 11:33:38,095 - RealEstate.py[line:339] - INFO: 验证码:9-3
+2019-01-11 11:33:40,657 - RealEstate.py[line:214] - INFO: 套内单价：20073， 套内面积：77.07
+2019-01-11 11:33:40,658 - RealEstate.py[line:167] - INFO: 2019-01-11 11:33:40.659000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-3
+2019-01-11 11:33:45,257 - RealEstate.py[line:315] - INFO: 4加履 等于
+2019-01-11 11:33:46,017 - RealEstate.py[line:378] - INFO: 图片识别修正number2:E
+2019-01-11 11:33:46,023 - RealEstate.py[line:435] - INFO: 图片比较修正operator:add
+2019-01-11 11:33:46,030 - RealEstate.py[line:445] - INFO: 图片比较修正number2:None
+2019-01-11 11:33:50,302 - RealEstate.py[line:315] - INFO: 乏雾彝黄4 等于
+2019-01-11 11:33:57,226 - RealEstate.py[line:371] - INFO: 图片识别修正number1:\\
+2019-01-11 11:33:57,305 - RealEstate.py[line:378] - INFO: 图片识别修正number2:4
+2019-01-11 11:33:57,312 - RealEstate.py[line:435] - INFO: 图片比较修正operator:add
+2019-01-11 11:33:57,318 - RealEstate.py[line:440] - INFO: 图片比较修正number1:None
+2019-01-11 11:34:01,785 - RealEstate.py[line:315] - INFO: 8减3等芳
+2019-01-11 11:34:01,785 - RealEstate.py[line:339] - INFO: 验证码:8-3
+2019-01-11 11:34:09,443 - RealEstate.py[line:315] - INFO: 6笈奴A 等于
+2019-01-11 11:34:09,519 - RealEstate.py[line:378] - INFO: 图片识别修正number2:3
+2019-01-11 11:34:09,766 - RealEstate.py[line:389] - INFO: 图片识别修正operator:加
+2019-01-11 11:34:09,766 - RealEstate.py[line:339] - INFO: 验证码:6+3
+2019-01-11 11:34:20,992 - RealEstate.py[line:214] - INFO: 套内单价：19643， 套内面积：101.77
+2019-01-11 11:34:20,993 - RealEstate.py[line:167] - INFO: 2019-01-11 11:34:20.993000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-4
+2019-01-11 11:34:25,111 - RealEstate.py[line:315] - INFO: 7氦衢赏3 等子
+2019-01-11 11:34:25,196 - RealEstate.py[line:378] - INFO: 图片识别修正number2:3
+2019-01-11 11:34:25,437 - RealEstate.py[line:389] - INFO: 图片识别修正operator:瀹铑
+2019-01-11 11:34:25,444 - RealEstate.py[line:435] - INFO: 图片比较修正operator:reduce
+2019-01-11 11:34:25,446 - RealEstate.py[line:339] - INFO: 验证码:7-3
+2019-01-11 11:35:20,673 - RealEstate.py[line:218] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:35:22,559 - RealEstate.py[line:219] - INFO: 2019-01-11 11:35:22.559000 内层异常休眠5分钟
+2019-01-11 11:37:58,512 - RealEstate.py[line:66] - INFO: 渝北：6
+2019-01-11 11:38:03,336 - RealEstate.py[line:167] - INFO: 2019-01-11 11:38:03.337000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-1
+2019-01-11 11:38:03,341 - RealEstate.py[line:167] - INFO: 2019-01-11 11:38:03.341000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-2
+2019-01-11 11:38:03,342 - RealEstate.py[line:167] - INFO: 2019-01-11 11:38:03.343000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-3
+2019-01-11 11:38:03,345 - RealEstate.py[line:167] - INFO: 2019-01-11 11:38:03.346000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 18-4
+2019-01-11 11:38:07,885 - RealEstate.py[line:315] - INFO: 2减1等芳
+2019-01-11 11:38:07,885 - RealEstate.py[line:339] - INFO: 验证码:2-1
+2019-01-11 11:38:11,042 - RealEstate.py[line:214] - INFO: 套内单价：20205， 套内面积：101.77
+2019-01-11 11:38:11,043 - RealEstate.py[line:167] - INFO: 2019-01-11 11:38:11.043000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 17-1
+2019-01-11 11:38:15,282 - RealEstate.py[line:315] - INFO: 7减1等芳
+2019-01-11 11:38:15,282 - RealEstate.py[line:339] - INFO: 验证码:7-1
+2019-01-11 11:38:17,973 - RealEstate.py[line:214] - INFO: 套内单价：21172， 套内面积：77.07
+2019-01-11 11:38:17,973 - RealEstate.py[line:167] - INFO: 2019-01-11 11:38:17.974000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 17-2
+2019-01-11 11:38:23,334 - RealEstate.py[line:315] - INFO: 乏攫彝梯6 等于
+2019-01-11 11:38:23,414 - RealEstate.py[line:371] - INFO: 图片识别修正number1:\\
+2019-01-11 11:38:23,490 - RealEstate.py[line:378] - INFO: 图片识别修正number2:.
+2019-01-11 11:38:23,497 - RealEstate.py[line:435] - INFO: 图片比较修正operator:reduce
+2019-01-11 11:38:23,505 - RealEstate.py[line:440] - INFO: 图片比较修正number1:None
+2019-01-11 11:38:23,512 - RealEstate.py[line:445] - INFO: 图片比较修正number2:None
+2019-01-11 11:38:27,765 - RealEstate.py[line:315] - INFO: 5加4 等于
+2019-01-11 11:38:27,766 - RealEstate.py[line:339] - INFO: 验证码:5+4
+2019-01-11 11:38:36,359 - RealEstate.py[line:218] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:38:36,848 - RealEstate.py[line:219] - INFO: 2019-01-11 11:38:36.849000 内层异常休眠5分钟
+2019-01-11 11:43:52,976 - RealEstate.py[line:167] - INFO: 2019-01-11 11:43:52.977000 渝北 万科翡翠公园-万科中央公园项目一期（F113-1号地块） B1号楼 1单元 17-3
+2019-01-11 11:45:58,188 - RealEstate.py[line:66] - INFO: 渝北：7
+2019-01-11 11:45:59,803 - RealEstate.py[line:167] - INFO: 2019-01-11 11:45:59.804000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 11:46:04,017 - RealEstate.py[line:315] - INFO: 二′2歹22巳亨 等于
+2019-01-11 11:46:04,105 - RealEstate.py[line:371] - INFO: 图片识别修正number1:3
+2019-01-11 11:46:04,105 - RealEstate.py[line:378] - INFO: 图片识别修正number2:2
+2019-01-11 11:46:04,357 - RealEstate.py[line:389] - INFO: 图片识别修正operator:Z歹奴
+2019-01-11 11:46:04,364 - RealEstate.py[line:435] - INFO: 图片比较修正operator:add
+2019-01-11 11:46:04,364 - RealEstate.py[line:339] - INFO: 验证码:3+2
+2019-01-11 11:46:09,118 - RealEstate.py[line:315] - INFO: 9减7 等芳
+2019-01-11 11:46:09,118 - RealEstate.py[line:339] - INFO: 验证码:9-7
+2019-01-11 11:46:20,128 - RealEstate.py[line:214] - INFO: 套内单价：17863.68， 套内面积：135.6
+2019-01-11 11:46:20,128 - RealEstate.py[line:167] - INFO: 2019-01-11 11:46:20.129000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 11:46:25,910 - RealEstate.py[line:315] - INFO: 9减4等于
+2019-01-11 11:46:25,910 - RealEstate.py[line:339] - INFO: 验证码:9-4
+2019-01-11 11:46:40,013 - RealEstate.py[line:214] - INFO: 套内单价：17556.12， 套内面积：133.92
+2019-01-11 11:46:40,015 - RealEstate.py[line:167] - INFO: 2019-01-11 11:46:40.015000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 11:46:48,055 - RealEstate.py[line:315] - INFO: 3减1等于
+2019-01-11 11:46:48,055 - RealEstate.py[line:339] - INFO: 验证码:3-1
+2019-01-11 11:46:54,917 - RealEstate.py[line:315] - INFO: 6，汐夕1 等于
+2019-01-11 11:46:54,992 - RealEstate.py[line:378] - INFO: 图片识别修正number2:1
+2019-01-11 11:46:55,230 - RealEstate.py[line:389] - INFO: 图片识别修正operator:汐沤
+2019-01-11 11:46:55,240 - RealEstate.py[line:435] - INFO: 图片比较修正operator:add
+2019-01-11 11:46:55,240 - RealEstate.py[line:339] - INFO: 验证码:6+1
+2019-01-11 11:46:58,506 - RealEstate.py[line:214] - INFO: 套内单价：17313.43， 套内面积：133.92
+2019-01-11 11:46:58,506 - RealEstate.py[line:167] - INFO: 2019-01-11 11:46:58.506000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 11:47:02,246 - RealEstate.py[line:315] - INFO: 7汐赏A 等于
+2019-01-11 11:47:02,319 - RealEstate.py[line:378] - INFO: 图片识别修正number2:3
+2019-01-11 11:47:02,559 - RealEstate.py[line:389] - INFO: 图片识别修正operator:蜂
+2019-01-11 11:47:02,565 - RealEstate.py[line:435] - INFO: 图片比较修正operator:reduce
+2019-01-11 11:47:02,565 - RealEstate.py[line:339] - INFO: 验证码:7-3
+2019-01-11 11:47:06,753 - RealEstate.py[line:214] - INFO: 套内单价：17476.51， 套内面积：135.6
+2019-01-11 11:47:06,755 - RealEstate.py[line:167] - INFO: 2019-01-11 11:47:06.755000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 11:47:10,546 - RealEstate.py[line:315] - INFO: 9减2等于
+2019-01-11 11:47:10,546 - RealEstate.py[line:339] - INFO: 验证码:9-2
+2019-01-11 11:47:23,424 - RealEstate.py[line:218] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 11:47:23,720 - RealEstate.py[line:219] - INFO: 2019-01-11 11:47:23.721000 内层异常休眠5分钟
+2019-01-11 13:47:47,154 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:47:49,134 - RealEstate.py[line:163] - INFO: 2019-01-11 13:47:49.135000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:47:49,137 - RealEstate.py[line:163] - INFO: 2019-01-11 13:47:49.137000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:47:49,140 - RealEstate.py[line:163] - INFO: 2019-01-11 13:47:49.140000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:47:49,142 - RealEstate.py[line:163] - INFO: 2019-01-11 13:47:49.143000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:47:49,145 - RealEstate.py[line:163] - INFO: 2019-01-11 13:47:49.146000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:47:53,798 - RealEstate.py[line:311] - INFO: 凛27衢21 等于
+2019-01-11 13:47:53,875 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-11 13:47:53,875 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 13:47:54,177 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-11 13:47:54,190 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 13:47:57,907 - RealEstate.py[line:311] - INFO: 7减辜 等于
+2019-01-11 13:47:57,980 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-11 13:47:57,980 - RealEstate.py[line:335] - INFO: 验证码:7-5
+2019-01-11 13:48:02,918 - RealEstate.py[line:210] - INFO: 套内单价：18877.69， 套内面积：135.6
+2019-01-11 13:48:02,918 - RealEstate.py[line:163] - INFO: 2019-01-11 13:48:02.919000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:48:06,767 - RealEstate.py[line:311] - INFO: A魏贾6 等于
+2019-01-11 13:48:06,849 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-11 13:48:06,927 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-11 13:48:06,934 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 13:48:06,940 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 13:48:11,568 - RealEstate.py[line:311] - INFO: 4减4等芳
+2019-01-11 13:48:11,568 - RealEstate.py[line:335] - INFO: 验证码:4-4
+2019-01-11 13:48:29,859 - RealEstate.py[line:210] - INFO: 套内单价：18582.85， 套内面积：133.92
+2019-01-11 13:48:29,861 - RealEstate.py[line:163] - INFO: 2019-01-11 13:48:29.861000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:48:33,690 - RealEstate.py[line:311] - INFO: 6减董 等于
+2019-01-11 13:48:33,760 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-11 13:48:33,760 - RealEstate.py[line:335] - INFO: 验证码:6-5
+2019-01-11 13:48:39,134 - RealEstate.py[line:311] - INFO: 12夕衢26 等于
+2019-01-11 13:48:39,214 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 13:48:39,221 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 13:48:39,227 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 13:48:42,950 - RealEstate.py[line:311] - INFO: 9笈奴2 等于
+2019-01-11 13:48:43,023 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 13:48:43,280 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐奴
+2019-01-11 13:48:43,280 - RealEstate.py[line:335] - INFO: 验证码:9+2
+2019-01-11 13:48:50,533 - RealEstate.py[line:210] - INFO: 套内单价：18433.51， 套内面积：133.92
+2019-01-11 13:48:50,535 - RealEstate.py[line:163] - INFO: 2019-01-11 13:48:50.534000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:48:54,367 - RealEstate.py[line:311] - INFO: 8笈刀A 等于
+2019-01-11 13:48:54,440 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\\
+2019-01-11 13:48:54,447 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 13:48:54,453 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-11 13:48:54,453 - RealEstate.py[line:335] - INFO: 验证码:8+8
+2019-01-11 13:49:03,582 - RealEstate.py[line:210] - INFO: 套内单价：18582.71， 套内面积：135.6
+2019-01-11 13:49:03,585 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:03.585000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:49:07,641 - RealEstate.py[line:311] - INFO: 5笈灯2 等霁
+2019-01-11 13:49:07,713 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 13:49:07,950 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z夕江
+2019-01-11 13:49:07,956 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 13:49:07,957 - RealEstate.py[line:335] - INFO: 验证码:5+2
+2019-01-11 13:49:24,957 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:49:31,180 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.180000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:49:31,184 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.184000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:49:31,186 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.186000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:49:31,188 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.189000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:49:31,191 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.192000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:49:31,196 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.196000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:49:31,197 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.198000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:49:31,200 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.201000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:49:31,203 - RealEstate.py[line:163] - INFO: 2019-01-11 13:49:31.203000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:49:35,744 - RealEstate.py[line:311] - INFO: 鑫加1 等于
+2019-01-11 13:49:35,826 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\
+2019-01-11 13:49:35,826 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 13:49:35,834 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 13:49:35,841 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 13:49:40,526 - RealEstate.py[line:311] - INFO: 凛加2 等于
+2019-01-11 13:49:40,605 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-11 13:49:40,605 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 13:49:40,605 - RealEstate.py[line:335] - INFO: 验证码:4+2
+2019-01-11 13:49:48,517 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 13:49:48,838 - RealEstate.py[line:215] - INFO: 2019-01-11 13:49:48.838000 内层异常休眠5分钟
+2019-01-11 13:51:36,796 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:51:40,085 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.084000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:51:40,086 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.087000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:51:40,089 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.090000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:51:40,092 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.092000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:51:40,095 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.096000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:51:40,098 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.098000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:51:40,101 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.101000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:51:40,101 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.102000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:51:40,105 - RealEstate.py[line:163] - INFO: 2019-01-11 13:51:40.105000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:51:44,217 - RealEstate.py[line:311] - INFO: 8汐刀5 等于
+2019-01-11 13:51:44,289 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-11 13:51:44,532 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-11 13:51:44,539 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 13:51:44,539 - RealEstate.py[line:335] - INFO: 验证码:8+5
+2019-01-11 13:51:54,273 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 13:51:54,618 - RealEstate.py[line:215] - INFO: 2019-01-11 13:51:54.619000 内层异常休眠5分钟
+2019-01-11 13:53:23,789 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:53:27,973 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.974000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:53:27,976 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.976000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:53:27,977 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.978000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:53:27,980 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.980000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:53:27,983 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.983000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:53:27,984 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.985000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:53:27,986 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.987000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:53:27,990 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.990000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:53:27,993 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:27.994000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:53:32,209 - RealEstate.py[line:311] - INFO: 摹减1等于
+2019-01-11 13:53:32,305 - RealEstate.py[line:367] - INFO: 图片识别修正number1:.
+2019-01-11 13:53:32,305 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 13:53:32,318 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 13:53:32,328 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 13:53:36,641 - RealEstate.py[line:311] - INFO: 8加5 等于
+2019-01-11 13:53:36,641 - RealEstate.py[line:335] - INFO: 验证码:8+5
+2019-01-11 13:53:44,150 - RealEstate.py[line:210] - INFO: 套内单价：18508.96， 套内面积：135.6
+2019-01-11 13:53:44,150 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:44.150000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 13:53:47,885 - RealEstate.py[line:311] - INFO: 藜减1 等于
+2019-01-11 13:53:47,969 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-11 13:53:47,969 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 13:53:47,969 - RealEstate.py[line:335] - INFO: 验证码:4-1
+2019-01-11 13:53:57,723 - RealEstate.py[line:210] - INFO: 套内单价：18209.49， 套内面积：133.92
+2019-01-11 13:53:57,724 - RealEstate.py[line:163] - INFO: 2019-01-11 13:53:57.725000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 13:54:01,474 - RealEstate.py[line:311] - INFO: 1减1等于
+2019-01-11 13:54:01,474 - RealEstate.py[line:335] - INFO: 验证码:1-1
+2019-01-11 13:54:02,164 - RealEstate.py[line:163] - INFO: 2019-01-11 13:54:02.164000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 13:54:08,293 - RealEstate.py[line:311] - INFO: 8减4等于
+2019-01-11 13:54:08,293 - RealEstate.py[line:335] - INFO: 验证码:8-4
+2019-01-11 13:54:20,838 - RealEstate.py[line:210] - INFO: 套内单价：18213.97， 套内面积：135.6
+2019-01-11 13:54:20,841 - RealEstate.py[line:163] - INFO: 2019-01-11 13:54:20.841000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 13:54:24,617 - RealEstate.py[line:311] - INFO: 2加2 等于
+2019-01-11 13:54:24,617 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-11 13:54:34,765 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 13:54:35,019 - RealEstate.py[line:215] - INFO: 2019-01-11 13:54:35.019000 内层异常休眠5分钟
+2019-01-11 13:56:17,158 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:56:19,642 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.643000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:56:19,645 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.646000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:56:19,648 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.648000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:56:19,650 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.650000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:56:19,653 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.653000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:56:19,655 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.655000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:56:19,657 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.658000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:56:19,661 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.661000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:56:19,664 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.664000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:56:19,665 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.666000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 13:56:19,668 - RealEstate.py[line:163] - INFO: 2019-01-11 13:56:19.668000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 13:56:23,878 - RealEstate.py[line:311] - INFO: 8减7 等于
+2019-01-11 13:56:23,878 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-11 13:56:32,540 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 13:56:32,683 - RealEstate.py[line:215] - INFO: 2019-01-11 13:56:32.683000 内层异常休眠5分钟
+2019-01-11 13:57:02,565 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:57:05,213 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.213000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:57:05,216 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.216000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:57:05,219 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.219000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:57:05,221 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.222000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:57:05,224 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.225000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:57:05,226 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.227000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:57:05,229 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.228000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:57:05,230 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.231000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:57:05,234 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.235000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:57:05,237 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.238000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 13:57:05,240 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:05.241000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 13:57:09,250 - RealEstate.py[line:311] - INFO: 6减2等芳
+2019-01-11 13:57:09,250 - RealEstate.py[line:335] - INFO: 验证码:6-2
+2019-01-11 13:57:14,947 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 13:57:15,230 - RealEstate.py[line:215] - INFO: 2019-01-11 13:57:15.230000 内层异常休眠5分钟
+2019-01-11 13:57:36,700 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:57:38,302 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.303000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:57:38,306 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.307000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:57:38,309 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.309000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:57:38,312 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.312000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:57:38,313 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.314000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:57:38,315 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.316000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:57:38,318 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.318000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:57:38,319 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.320000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:57:38,322 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.322000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:57:38,325 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.326000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 13:57:38,326 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:38.327000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 13:57:42,510 - RealEstate.py[line:311] - INFO: 6减7等于
+2019-01-11 13:57:42,510 - RealEstate.py[line:335] - INFO: 验证码:6-7
+2019-01-11 13:57:46,532 - RealEstate.py[line:311] - INFO: 9减3等子
+2019-01-11 13:57:46,533 - RealEstate.py[line:335] - INFO: 验证码:9-3
+2019-01-11 13:57:51,539 - RealEstate.py[line:210] - INFO: 套内单价：18060.15， 套内面积：133.92
+2019-01-11 13:57:51,539 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:51.540000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 13:57:51,542 - RealEstate.py[line:163] - INFO: 2019-01-11 13:57:51.543000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 13:57:55,355 - RealEstate.py[line:311] - INFO: 6加9 等于
+2019-01-11 13:57:55,355 - RealEstate.py[line:335] - INFO: 验证码:6+9
+2019-01-11 13:58:06,566 - RealEstate.py[line:210] - INFO: 套内单价：17992.74， 套内面积：135.6
+2019-01-11 13:58:06,568 - RealEstate.py[line:163] - INFO: 2019-01-11 13:58:06.567000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 13:58:10,339 - RealEstate.py[line:311] - INFO: 1遂衢71 等于
+2019-01-11 13:58:10,414 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 13:58:10,661 - RealEstate.py[line:385] - INFO: 图片识别修正operator:，歹刀
+2019-01-11 13:58:10,667 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 13:58:10,667 - RealEstate.py[line:335] - INFO: 验证码:1+1
+2019-01-11 13:58:16,861 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-11 13:58:16,862 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-11 13:58:23,539 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 13:58:23,921 - RealEstate.py[line:215] - INFO: 2019-01-11 13:58:23.921000 内层异常休眠5分钟
+2019-01-11 13:59:32,496 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 13:59:34,165 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.166000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 13:59:34,170 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.170000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 13:59:34,173 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.173000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 13:59:34,176 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.176000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 13:59:34,178 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.179000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 13:59:34,181 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.182000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 13:59:34,184 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.184000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 13:59:34,187 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.187000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 13:59:34,191 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.192000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 13:59:34,194 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.195000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 13:59:34,197 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.198000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 13:59:34,200 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.201000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 13:59:34,204 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.205000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 13:59:34,209 - RealEstate.py[line:163] - INFO: 2019-01-11 13:59:34.209000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 13:59:38,831 - RealEstate.py[line:311] - INFO: 7减苟 等于
+2019-01-11 13:59:38,921 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-11 13:59:38,923 - RealEstate.py[line:335] - INFO: 验证码:7-5
+2019-01-11 14:00:08,141 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:00:08,457 - RealEstate.py[line:215] - INFO: 2019-01-11 14:00:08.458000 内层异常休眠5分钟
+2019-01-11 14:00:48,683 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 14:00:54,572 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.572000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 14:00:54,573 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.574000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 14:00:54,576 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.577000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 14:00:54,578 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.579000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 14:00:54,582 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.583000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 14:00:54,586 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.586000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 14:00:54,592 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.592000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 14:00:54,595 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.595000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 14:00:54,601 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.601000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 14:00:54,604 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.604000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 14:00:54,608 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.608000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 14:00:54,611 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.611000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 14:00:54,614 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.614000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 14:00:54,615 - RealEstate.py[line:163] - INFO: 2019-01-11 14:00:54.616000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 14:00:59,267 - RealEstate.py[line:311] - INFO: 7翼掌黄2 等于
+2019-01-11 14:00:59,336 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 14:00:59,625 - RealEstate.py[line:385] - INFO: 图片识别修正operator:潺
+2019-01-11 14:00:59,625 - RealEstate.py[line:335] - INFO: 验证码:7-2
+2019-01-11 14:01:06,562 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:01:06,848 - RealEstate.py[line:215] - INFO: 2019-01-11 14:01:06.848000 内层异常休眠5分钟
+2019-01-11 14:02:43,164 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 14:02:50,266 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.267000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 14:02:50,269 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.269000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 14:02:50,270 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.271000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 14:02:50,273 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.272000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 14:02:50,276 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.276000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 14:02:50,276 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.277000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 14:02:50,279 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.279000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 14:02:50,279 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.279000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 14:02:50,282 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.282000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 14:02:50,282 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.283000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 14:02:50,283 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.284000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 14:02:50,286 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.286000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 14:02:50,286 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.287000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 14:02:50,289 - RealEstate.py[line:163] - INFO: 2019-01-11 14:02:50.289000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 14:02:56,385 - RealEstate.py[line:311] - INFO: 3加6 荨干
+2019-01-11 14:02:56,385 - RealEstate.py[line:335] - INFO: 验证码:3+6
+2019-01-11 14:03:11,407 - RealEstate.py[line:210] - INFO: 套内单价：17612.12， 套内面积：133.92
+2019-01-11 14:03:11,408 - RealEstate.py[line:163] - INFO: 2019-01-11 14:03:11.409000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-1
+2019-01-11 14:03:15,339 - RealEstate.py[line:311] - INFO: 3减1等于
+2019-01-11 14:03:15,342 - RealEstate.py[line:335] - INFO: 验证码:3-1
+2019-01-11 14:03:27,457 - RealEstate.py[line:210] - INFO: 套内单价：17462.78， 套内面积：133.92
+2019-01-11 14:03:27,459 - RealEstate.py[line:163] - INFO: 2019-01-11 14:03:27.459000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-2
+2019-01-11 14:03:31,572 - RealEstate.py[line:311] - INFO: 4减2荨于
+2019-01-11 14:03:31,573 - RealEstate.py[line:335] - INFO: 验证码:4-2
+2019-01-11 14:03:39,233 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:03:39,234 - RealEstate.py[line:215] - INFO: 2019-01-11 14:03:39.235000 内层异常休眠5分钟
+2019-01-11 14:06:19,336 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 14:06:21,585 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.585000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 14:06:21,588 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.588000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 14:06:21,591 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.591000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 14:06:21,592 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.593000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 14:06:21,595 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.596000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 14:06:21,598 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.599000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 14:06:21,601 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.601000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 14:06:21,604 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.604000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 14:06:21,607 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.606000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 14:06:21,608 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.609000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 14:06:21,611 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.611000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 14:06:21,612 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.613000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 14:06:21,615 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.615000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 14:06:21,617 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.617000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 14:06:21,618 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.619000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-1
+2019-01-11 14:06:21,619 - RealEstate.py[line:163] - INFO: 2019-01-11 14:06:21.620000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-2
+2019-01-11 14:06:25,746 - RealEstate.py[line:311] - INFO: 9加7等于
+2019-01-11 14:06:25,747 - RealEstate.py[line:335] - INFO: 验证码:9+7
+2019-01-11 14:06:28,341 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:06:28,342 - RealEstate.py[line:215] - INFO: 2019-01-11 14:06:28.342000 内层异常休眠5分钟
+2019-01-11 14:10:52,845 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 14:10:54,365 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.365000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 14:10:54,367 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.367000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 14:10:54,369 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.370000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 14:10:54,371 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.372000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 14:10:54,375 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.376000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 14:10:54,378 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.378000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 14:10:54,380 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.380000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 14:10:54,381 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.382000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 14:10:54,384 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.385000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 14:10:54,385 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.386000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 14:10:54,390 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.389000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 14:10:54,391 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.391000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 14:10:54,394 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.395000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 14:10:54,397 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.397000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 14:10:54,400 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.400000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-1
+2019-01-11 14:10:54,401 - RealEstate.py[line:163] - INFO: 2019-01-11 14:10:54.401000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-2
+2019-01-11 14:10:58,651 - RealEstate.py[line:311] - INFO: 8减A等于
+2019-01-11 14:10:58,736 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\
+2019-01-11 14:10:58,743 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 14:10:58,750 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 14:11:02,582 - RealEstate.py[line:311] - INFO: 1加6 等于
+2019-01-11 14:11:02,582 - RealEstate.py[line:335] - INFO: 验证码:1+6
+2019-01-11 14:11:06,599 - RealEstate.py[line:210] - INFO: 套内单价：17624， 套内面积：135.6
+2019-01-11 14:11:06,601 - RealEstate.py[line:163] - INFO: 2019-01-11 14:11:06.601000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 4-1
+2019-01-11 14:11:10,631 - RealEstate.py[line:311] - INFO: 12夕乙7凛 等于
+2019-01-11 14:11:10,717 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-11 14:11:10,960 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓乙7
+2019-01-11 14:11:10,967 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 14:11:14,763 - RealEstate.py[line:311] - INFO: 5加7等于
+2019-01-11 14:11:14,765 - RealEstate.py[line:335] - INFO: 验证码:5+7
+2019-01-11 14:11:29,648 - RealEstate.py[line:210] - INFO: 套内单价：17402.77， 套内面积：135.6
+2019-01-11 14:11:29,648 - RealEstate.py[line:163] - INFO: 2019-01-11 14:11:29.649000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 4-2
+2019-01-11 14:11:33,477 - RealEstate.py[line:311] - INFO: 9汐刀8 等于
+2019-01-11 14:11:33,563 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\
+2019-01-11 14:11:33,572 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 14:11:33,575 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-11 14:11:39,405 - RealEstate.py[line:311] - INFO: 9减7 等于
+2019-01-11 14:11:39,407 - RealEstate.py[line:335] - INFO: 验证码:9-7
+2019-01-11 14:11:43,664 - RealEstate.py[line:210] - INFO: 套内单价：17014.75， 套内面积：133.92
+2019-01-11 14:11:43,665 - RealEstate.py[line:163] - INFO: 2019-01-11 14:11:43.665000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 4-1
+2019-01-11 14:11:47,516 - RealEstate.py[line:311] - INFO: 9减1 等芳
+2019-01-11 14:11:47,516 - RealEstate.py[line:335] - INFO: 验证码:9-1
+2019-01-11 14:11:58,171 - RealEstate.py[line:210] - INFO: 套内单价：16865.4， 套内面积：133.92
+2019-01-11 14:11:58,173 - RealEstate.py[line:163] - INFO: 2019-01-11 14:11:58.173000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 4-2
+2019-01-11 14:12:02,046 - RealEstate.py[line:311] - INFO: 7减霞 等于
+2019-01-11 14:12:02,131 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 14:12:02,138 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 14:12:02,145 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 14:12:05,861 - RealEstate.py[line:311] - INFO: 9放瘁4 等于
+2019-01-11 14:12:05,937 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-11 14:12:06,181 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-11 14:12:06,188 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:12:06,190 - RealEstate.py[line:335] - INFO: 验证码:9+4
+2019-01-11 14:12:08,990 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:12:08,990 - RealEstate.py[line:215] - INFO: 2019-01-11 14:12:08.991000 内层异常休眠5分钟
+2019-01-11 14:22:43,431 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 14:23:02,371 - RealEstate.py[line:62] - INFO: 渝北：7
+2019-01-11 14:23:14,148 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.148000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-1
+2019-01-11 14:23:14,150 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.150000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 8-2
+2019-01-11 14:23:14,153 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.153000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-1
+2019-01-11 14:23:14,154 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.155000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 8-2
+2019-01-11 14:23:14,160 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.160000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-1
+2019-01-11 14:23:14,161 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.162000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 7-2
+2019-01-11 14:23:14,164 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.165000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-1
+2019-01-11 14:23:14,165 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.166000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 7-2
+2019-01-11 14:23:14,168 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.169000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-1
+2019-01-11 14:23:14,171 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.171000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 6-2
+2019-01-11 14:23:14,174 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.174000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-1
+2019-01-11 14:23:14,176 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.176000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 6-2
+2019-01-11 14:23:14,178 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.179000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-1
+2019-01-11 14:23:14,180 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.181000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 5-2
+2019-01-11 14:23:14,183 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.183000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-1
+2019-01-11 14:23:14,184 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.185000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 5-2
+2019-01-11 14:23:14,187 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.188000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 4-1
+2019-01-11 14:23:14,190 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.191000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 4-2
+2019-01-11 14:23:14,193 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.193000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 4-1
+2019-01-11 14:23:14,194 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:14.195000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 4-2
+2019-01-11 14:23:18,575 - RealEstate.py[line:311] - INFO: 12夕乙71 等于
+2019-01-11 14:23:18,644 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 14:23:18,875 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓乙7
+2019-01-11 14:23:18,882 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:23:18,882 - RealEstate.py[line:335] - INFO: 验证码:1+1
+2019-01-11 14:23:23,637 - RealEstate.py[line:210] - INFO: 套内单价：17034.03， 套内面积：135.6
+2019-01-11 14:23:23,638 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:23.638000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 3-1
+2019-01-11 14:23:27,418 - RealEstate.py[line:311] - INFO: 22夕2衢1 等于
+2019-01-11 14:23:27,490 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 14:23:27,729 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-11 14:23:27,736 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:23:27,736 - RealEstate.py[line:335] - INFO: 验证码:2+1
+2019-01-11 14:23:33,135 - RealEstate.py[line:210] - INFO: 套内单价：17476.51， 套内面积：135.6
+2019-01-11 14:23:33,135 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:33.136000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 1单元 3-2
+2019-01-11 14:23:36,825 - RealEstate.py[line:311] - INFO: 2减7荨于
+2019-01-11 14:23:36,825 - RealEstate.py[line:335] - INFO: 验证码:2-7
+2019-01-11 14:23:42,213 - RealEstate.py[line:311] - INFO: 12夕夕3 等于
+2019-01-11 14:23:42,289 - RealEstate.py[line:374] - INFO: 图片识别修正number2:3
+2019-01-11 14:23:42,526 - RealEstate.py[line:385] - INFO: 图片识别修正operator:Z亓奴
+2019-01-11 14:23:42,533 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:23:42,533 - RealEstate.py[line:335] - INFO: 验证码:1+3
+2019-01-11 14:23:51,888 - RealEstate.py[line:210] - INFO: 套内单价：17089.42， 套内面积：133.92
+2019-01-11 14:23:51,888 - RealEstate.py[line:163] - INFO: 2019-01-11 14:23:51.888000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 3-1
+2019-01-11 14:23:55,806 - RealEstate.py[line:311] - INFO: 222/衢孳】 等于
+2019-01-11 14:23:55,806 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 14:23:56,039 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐夕
+2019-01-11 14:23:56,046 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:23:56,046 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-11 14:24:00,796 - RealEstate.py[line:311] - INFO: 32夕衢7乏覆 等于
+2019-01-11 14:24:00,869 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\\
+2019-01-11 14:24:00,877 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:24:00,881 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-11 14:24:00,881 - RealEstate.py[line:335] - INFO: 验证码:3+8
+2019-01-11 14:24:14,552 - RealEstate.py[line:210] - INFO: 套内单价：16940.08， 套内面积：133.92
+2019-01-11 14:24:14,552 - RealEstate.py[line:163] - INFO: 2019-01-11 14:24:14.553000 渝北 龙湖景粼玖序-F125-1号地块 2号楼 2单元 3-2
+2019-01-11 14:24:18,338 - RealEstate.py[line:311] - INFO: 9加8 荨于
+2019-01-11 14:24:18,338 - RealEstate.py[line:335] - INFO: 验证码:9+8
+2019-01-11 14:24:23,246 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:24:23,247 - RealEstate.py[line:215] - INFO: 2019-01-11 14:24:23.248000 内层异常休眠5分钟
+2019-01-11 14:24:28,214 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-01-11 14:25:11,526 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-01-11 14:25:55,114 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-11 14:26:21,153 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-01-11 14:27:15,414 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-01-11 14:34:02,131 - RealEstate.py[line:231] - INFO: 'NoneType' object has no attribute 'find'
+2019-01-11 14:34:02,131 - RealEstate.py[line:232] - INFO: 2019-01-11 14:34:02.131000 外层异常休眠5分钟
+2019-01-11 14:34:15,052 - RealEstate.py[line:62] - INFO: 渝北：8
+2019-01-11 14:34:18,904 - RealEstate.py[line:163] - INFO: 2019-01-11 14:34:18.904000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-1
+2019-01-11 14:34:22,855 - RealEstate.py[line:311] - INFO: 2加6 等于
+2019-01-11 14:34:22,855 - RealEstate.py[line:335] - INFO: 验证码:2+6
+2019-01-11 14:34:27,437 - RealEstate.py[line:210] - INFO: 套内单价：12270.73， 套内面积：77.49
+2019-01-11 14:34:27,438 - RealEstate.py[line:163] - INFO: 2019-01-11 14:34:27.439000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-2
+2019-01-11 14:34:31,160 - RealEstate.py[line:311] - INFO: 5减5等于
+2019-01-11 14:34:31,160 - RealEstate.py[line:335] - INFO: 验证码:5-5
+2019-01-11 14:34:36,545 - RealEstate.py[line:210] - INFO: 套内单价：12027.66， 套内面积：68.19
+2019-01-11 14:34:36,546 - RealEstate.py[line:163] - INFO: 2019-01-11 14:34:36.546000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-3
+2019-01-11 14:34:40,545 - RealEstate.py[line:311] - INFO: 3减2等芳
+2019-01-11 14:34:40,545 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-11 14:34:48,171 - RealEstate.py[line:210] - INFO: 套内单价：11701.39， 套内面积：79.97
+2019-01-11 14:34:48,171 - RealEstate.py[line:163] - INFO: 2019-01-11 14:34:48.172000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-4
+2019-01-11 14:34:53,657 - RealEstate.py[line:311] - INFO: 9魏黄2囊 等于
+2019-01-11 14:34:53,736 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-11 14:34:53,973 - RealEstate.py[line:385] - INFO: 图片识别修正operator:蟀
+2019-01-11 14:34:53,980 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 14:34:53,980 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-11 14:35:02,411 - RealEstate.py[line:210] - INFO: 套内单价：11670.51， 套内面积：72.25
+2019-01-11 14:35:02,411 - RealEstate.py[line:163] - INFO: 2019-01-11 14:35:02.412000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-5
+2019-01-11 14:35:06,115 - RealEstate.py[line:311] - INFO: 8减2等芳
+2019-01-11 14:35:06,115 - RealEstate.py[line:335] - INFO: 验证码:8-2
+2019-01-11 14:35:25,444 - RealEstate.py[line:210] - INFO: 套内单价：12033.53， 套内面积：80.19
+2019-01-11 14:35:25,444 - RealEstate.py[line:163] - INFO: 2019-01-11 14:35:25.444000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-6
+2019-01-11 14:35:30,717 - RealEstate.py[line:311] - INFO: 8减3等于
+2019-01-11 14:35:30,719 - RealEstate.py[line:335] - INFO: 验证码:8-3
+2019-01-11 14:35:34,808 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:35:34,808 - RealEstate.py[line:215] - INFO: 2019-01-11 14:35:34.808000 内层异常休眠5分钟
+2019-01-11 14:36:46,709 - RealEstate.py[line:62] - INFO: 渝北：8
+2019-01-11 14:36:46,750 - RealEstate.py[line:232] - INFO: 
+2019-01-11 14:36:46,750 - RealEstate.py[line:233] - INFO: 2019-01-11 14:36:46.751000 外层异常休眠5分钟
+2019-01-11 14:37:08,421 - RealEstate.py[line:62] - INFO: 渝北：8
+2019-01-11 14:37:16,141 - RealEstate.py[line:215] - INFO: 
+2019-01-11 14:37:16,141 - RealEstate.py[line:216] - INFO: 2019-01-11 14:37:16.141000 内层异常休眠5分钟
+2019-01-11 14:39:26,934 - RealEstate.py[line:62] - INFO: 渝北：8
+2019-01-11 14:39:31,934 - RealEstate.py[line:215] - INFO: 
+2019-01-11 14:39:31,934 - RealEstate.py[line:216] - INFO: 2019-01-11 14:39:31.935000 内层异常休眠5分钟
+2019-01-11 14:40:21,358 - RealEstate.py[line:62] - INFO: 渝北：8
+2019-01-11 14:40:26,197 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:26.198000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-1
+2019-01-11 14:40:26,200 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:26.201000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-2
+2019-01-11 14:40:26,203 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:26.203000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-3
+2019-01-11 14:40:26,203 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:26.204000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-4
+2019-01-11 14:40:26,207 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:26.207000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-5
+2019-01-11 14:40:26,209 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:26.209000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-6
+2019-01-11 14:40:30,776 - RealEstate.py[line:311] - INFO: 矗加7 等于
+2019-01-11 14:40:30,858 - RealEstate.py[line:367] - INFO: 图片识别修正number1:.
+2019-01-11 14:40:30,858 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 14:40:30,865 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 14:40:30,874 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 14:40:36,184 - RealEstate.py[line:311] - INFO: 2/读奴7 等霁
+2019-01-11 14:40:36,259 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 14:40:36,503 - RealEstate.py[line:385] - INFO: 图片识别修正operator:歹苡
+2019-01-11 14:40:36,510 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:40:36,512 - RealEstate.py[line:335] - INFO: 验证码:2+7
+2019-01-11 14:40:41,763 - RealEstate.py[line:210] - INFO: 套内单价：12597.61， 套内面积：78.63
+2019-01-11 14:40:41,765 - RealEstate.py[line:163] - INFO: 2019-01-11 14:40:41.765000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 27-7
+2019-01-11 14:40:45,947 - RealEstate.py[line:311] - INFO: 222228 等于
+2019-01-11 14:40:45,947 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 14:40:46,187 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐厚
+2019-01-11 14:40:46,194 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:40:46,194 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-11 14:40:52,299 - RealEstate.py[line:311] - INFO: 7汐夕7 等于
+2019-01-11 14:40:52,377 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 14:40:52,617 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐奴
+2019-01-11 14:40:52,617 - RealEstate.py[line:335] - INFO: 验证码:7+7
+2019-01-11 14:41:18,296 - RealEstate.py[line:210] - INFO: 套内单价：12592.02， 套内面积：66.8
+2019-01-11 14:41:18,299 - RealEstate.py[line:163] - INFO: 2019-01-11 14:41:18.300000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 26-1
+2019-01-11 14:41:23,019 - RealEstate.py[line:311] - INFO: 1欢乙71 等于
+2019-01-11 14:41:23,099 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 14:41:23,348 - RealEstate.py[line:385] - INFO: 图片识别修正operator:歹乙7
+2019-01-11 14:41:23,355 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:41:23,355 - RealEstate.py[line:335] - INFO: 验证码:1+1
+2019-01-11 14:41:39,546 - RealEstate.py[line:210] - INFO: 套内单价：12492.95， 套内面积：77.49
+2019-01-11 14:41:39,546 - RealEstate.py[line:163] - INFO: 2019-01-11 14:41:39.546000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 26-2
+2019-01-11 14:41:44,901 - RealEstate.py[line:311] - INFO: 7汐271鬟 等子
+2019-01-11 14:41:44,903 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 14:41:45,153 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-11 14:41:45,160 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:41:45,161 - RealEstate.py[line:335] - INFO: 验证码:7+2
+2019-01-11 14:41:51,940 - RealEstate.py[line:311] - INFO: 8减5等芳
+2019-01-11 14:41:51,941 - RealEstate.py[line:335] - INFO: 验证码:8-5
+2019-01-11 14:41:56,944 - RealEstate.py[line:210] - INFO: 套内单价：12249.88， 套内面积：68.19
+2019-01-11 14:41:56,946 - RealEstate.py[line:163] - INFO: 2019-01-11 14:41:56.946000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 26-3
+2019-01-11 14:42:00,845 - RealEstate.py[line:311] - INFO: 8加3 荨于
+2019-01-11 14:42:00,845 - RealEstate.py[line:335] - INFO: 验证码:8+3
+2019-01-11 14:42:24,927 - RealEstate.py[line:210] - INFO: 套内单价：11923.61， 套内面积：79.97
+2019-01-11 14:42:24,927 - RealEstate.py[line:163] - INFO: 2019-01-11 14:42:24.928000 渝北 北城空港天地-北城空港天地B区 1幢（规划B区B-1号楼） 1单元 26-4
+2019-01-11 14:42:30,032 - RealEstate.py[line:311] - INFO: 322/77 等于
+2019-01-11 14:42:30,032 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 14:42:30,282 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-11 14:42:30,289 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:42:30,290 - RealEstate.py[line:335] - INFO: 验证码:3+2
+2019-01-11 14:42:34,358 - RealEstate.py[line:311] - INFO: 9减6 等于
+2019-01-11 14:42:34,359 - RealEstate.py[line:335] - INFO: 验证码:9-6
+2019-01-11 14:42:37,904 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:42:37,904 - RealEstate.py[line:215] - INFO: 2019-01-11 14:42:37.904000 内层异常休眠5分钟
+2019-01-11 14:43:49,802 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:175.102.3.98:8089
+2019-01-11 14:44:00,177 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-01-11 14:44:54,730 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-01-11 14:45:50,563 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-01-11 14:52:42,579 - RealEstate.py[line:231] - INFO: object of type 'NoneType' has no len()
+2019-01-11 14:52:42,579 - RealEstate.py[line:232] - INFO: 2019-01-11 14:52:42.580000 外层异常休眠5分钟
+2019-01-11 14:53:05,782 - RealEstate.py[line:62] - INFO: 渝北：9
+2019-01-11 14:53:08,809 - RealEstate.py[line:163] - INFO: 2019-01-11 14:53:08.810000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-1
+2019-01-11 14:53:13,200 - RealEstate.py[line:311] - INFO: 7减4 等于
+2019-01-11 14:53:13,200 - RealEstate.py[line:335] - INFO: 验证码:7-4
+2019-01-11 14:53:19,461 - RealEstate.py[line:210] - INFO: 套内单价：15114.36， 套内面积：63.24
+2019-01-11 14:53:19,463 - RealEstate.py[line:163] - INFO: 2019-01-11 14:53:19.462000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-2
+2019-01-11 14:53:23,226 - RealEstate.py[line:311] - INFO: 2加2 等于
+2019-01-11 14:53:23,226 - RealEstate.py[line:335] - INFO: 验证码:2+2
+2019-01-11 14:53:48,552 - RealEstate.py[line:210] - INFO: 套内单价：14798.38， 套内面积：77.57
+2019-01-11 14:53:48,552 - RealEstate.py[line:163] - INFO: 2019-01-11 14:53:48.553000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-3
+2019-01-11 14:53:52,336 - RealEstate.py[line:311] - INFO: 7欢奴9 等于
+2019-01-11 14:53:52,413 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 14:53:52,418 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 14:53:52,426 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 14:53:56,142 - RealEstate.py[line:311] - INFO: 8笈奴2 等于
+2019-01-11 14:53:56,214 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 14:53:56,448 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐奴
+2019-01-11 14:53:56,448 - RealEstate.py[line:335] - INFO: 验证码:8+2
+2019-01-11 14:53:57,171 - RealEstate.py[line:163] - INFO: 2019-01-11 14:53:57.172000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-4
+2019-01-11 14:54:03,283 - RealEstate.py[line:311] - INFO: 9减3等芳
+2019-01-11 14:54:03,285 - RealEstate.py[line:335] - INFO: 验证码:9-3
+2019-01-11 14:55:34,019 - RealEstate.py[line:163] - INFO: 2019-01-11 14:55:34.020000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-5
+2019-01-11 14:55:37,802 - RealEstate.py[line:311] - INFO: 3加6 等于
+2019-01-11 14:55:37,803 - RealEstate.py[line:335] - INFO: 验证码:3+6
+2019-01-11 14:55:42,331 - RealEstate.py[line:210] - INFO: 套内单价：15304.88， 套内面积：61.32
+2019-01-11 14:55:42,332 - RealEstate.py[line:163] - INFO: 2019-01-11 14:55:42.332000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-6
+2019-01-11 14:55:46,033 - RealEstate.py[line:311] - INFO: 9减7等于
+2019-01-11 14:55:46,033 - RealEstate.py[line:335] - INFO: 验证码:9-7
+2019-01-11 14:55:54,414 - RealEstate.py[line:210] - INFO: 套内单价：14671.12， 套内面积：88.86
+2019-01-11 14:55:54,414 - RealEstate.py[line:163] - INFO: 2019-01-11 14:55:54.415000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-7
+2019-01-11 14:55:59,463 - RealEstate.py[line:311] - INFO: 6减1等于
+2019-01-11 14:55:59,463 - RealEstate.py[line:335] - INFO: 验证码:6-1
+2019-01-11 14:56:04,052 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 14:56:04,052 - RealEstate.py[line:215] - INFO: 2019-01-11 14:56:04.052000 内层异常休眠5分钟
+2019-01-11 14:56:31,273 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:119.57.108.53:53281
+2019-01-11 14:57:52,000 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:183.196.168.194:9000
+2019-01-11 14:57:52,339 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-01-11 14:58:13,546 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-01-11 14:58:40,848 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:180.76.111.69:3128
+2019-01-11 14:58:41,210 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-01-11 15:05:04,690 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:120.236.168.19:8060
+2019-01-11 15:05:17,380 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-11 15:06:47,084 - CommonUtils.py[line:105] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-01-11 15:12:09,062 - RealEstate.py[line:62] - INFO: 渝北：9
+2019-01-11 15:12:21,203 - RealEstate.py[line:231] - INFO: 'NoneType' object has no attribute 'find'
+2019-01-11 15:12:21,204 - RealEstate.py[line:232] - INFO: 2019-01-11 15:12:21.205000 外层异常休眠5分钟
+2019-01-11 15:13:41,112 - RealEstate.py[line:62] - INFO: 渝北：9
+2019-01-11 15:13:51,377 - RealEstate.py[line:163] - INFO: 2019-01-11 15:13:51.377000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-1
+2019-01-11 15:13:51,381 - RealEstate.py[line:163] - INFO: 2019-01-11 15:13:51.381000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-2
+2019-01-11 15:13:51,384 - RealEstate.py[line:163] - INFO: 2019-01-11 15:13:51.384000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-3
+2019-01-11 15:13:55,611 - RealEstate.py[line:311] - INFO: 5加2 等于
+2019-01-11 15:13:55,611 - RealEstate.py[line:335] - INFO: 验证码:5+2
+2019-01-11 15:14:16,907 - RealEstate.py[line:210] - INFO: 套内单价：15559.05， 套内面积：59.92
+2019-01-11 15:14:16,907 - RealEstate.py[line:163] - INFO: 2019-01-11 15:14:16.907000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-4
+2019-01-11 15:14:20,936 - RealEstate.py[line:311] - INFO: 9减4等芳
+2019-01-11 15:14:20,937 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-11 15:14:29,380 - RealEstate.py[line:210] - INFO: 套内单价：14671.58， 套内面积：77.61
+2019-01-11 15:14:29,381 - RealEstate.py[line:163] - INFO: 2019-01-11 15:14:29.380000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-5
+2019-01-11 15:14:29,382 - RealEstate.py[line:163] - INFO: 2019-01-11 15:14:29.383000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-6
+2019-01-11 15:14:29,385 - RealEstate.py[line:163] - INFO: 2019-01-11 15:14:29.386000 渝北 世茂·璀璨天城-D地块 2幢（规划4号楼） 1单元 27-7
+2019-01-11 15:14:33,187 - RealEstate.py[line:311] - INFO: 7氦衢赏7 等于
+2019-01-11 15:14:33,266 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 15:14:33,539 - RealEstate.py[line:385] - INFO: 图片识别修正operator:游
+2019-01-11 15:14:33,548 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 15:14:33,549 - RealEstate.py[line:335] - INFO: 验证码:7-7
+2019-01-11 15:14:36,131 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 15:14:36,131 - RealEstate.py[line:215] - INFO: 2019-01-11 15:14:36.132000 内层异常休眠5分钟
+2019-01-11 15:20:53,009 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:120.236.168.19:8060
+2019-01-11 15:20:55,417 - RealEstate.py[line:231] - INFO: list index out of range
+2019-01-11 15:20:55,417 - RealEstate.py[line:232] - INFO: 2019-01-11 15:20:55.417000 外层异常休眠5分钟
+2019-01-11 15:22:24,226 - RealEstate.py[line:62] - INFO: 渝北：10
+2019-01-11 15:22:26,901 - RealEstate.py[line:163] - INFO: 2019-01-11 15:22:26.902000 渝北 桥达·茂宸广场 10号（规划2号楼） 1单元 32-1
+2019-01-11 15:22:32,865 - RealEstate.py[line:311] - INFO: 乏魔汐224 等于
+2019-01-11 15:22:32,950 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-11 15:22:33,052 - RealEstate.py[line:374] - INFO: 图片识别修正number2:4
+2019-01-11 15:22:33,062 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 15:22:33,068 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 15:22:37,539 - RealEstate.py[line:311] - INFO: 1遂衢28 等霁
+2019-01-11 15:22:37,621 - RealEstate.py[line:374] - INFO: 图片识别修正number2:\\
+2019-01-11 15:22:37,628 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 15:22:37,632 - RealEstate.py[line:441] - INFO: 图片比较修正number2:8
+2019-01-11 15:22:37,632 - RealEstate.py[line:335] - INFO: 验证码:1-8
+2019-01-11 15:22:44,434 - RealEstate.py[line:311] - INFO: 5减3等于
+2019-01-11 15:22:44,434 - RealEstate.py[line:335] - INFO: 验证码:5-3
+2019-01-11 15:22:54,375 - RealEstate.py[line:210] - INFO: 套内单价：15106.39， 套内面积：64.92
+2019-01-11 15:22:54,377 - RealEstate.py[line:163] - INFO: 2019-01-11 15:22:54.377000 渝北 桥达·茂宸广场 10号（规划2号楼） 1单元 32-2
+2019-01-11 15:22:58,369 - RealEstate.py[line:311] - INFO: 矗加8 等于
+2019-01-11 15:22:58,447 - RealEstate.py[line:367] - INFO: 图片识别修正number1:.
+2019-01-11 15:22:58,447 - RealEstate.py[line:374] - INFO: 图片识别修正number2:8
+2019-01-11 15:22:58,454 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 15:22:58,461 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 15:23:02,180 - RealEstate.py[line:311] - INFO: 12夕2衢6 等霁
+2019-01-11 15:23:02,256 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 15:23:02,263 - RealEstate.py[line:431] - INFO: 图片比较修正operator:reduce
+2019-01-11 15:23:02,269 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 15:23:06,342 - RealEstate.py[line:311] - INFO: 6遂衢71 等于
+2019-01-11 15:23:06,414 - RealEstate.py[line:374] - INFO: 图片识别修正number2:1
+2019-01-11 15:23:06,650 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐刀
+2019-01-11 15:23:06,657 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 15:23:06,657 - RealEstate.py[line:335] - INFO: 验证码:6+1
+2019-01-11 15:23:13,243 - RealEstate.py[line:311] - INFO: 7减1等芳
+2019-01-11 15:23:13,243 - RealEstate.py[line:335] - INFO: 验证码:7-1
+2019-01-11 15:23:22,825 - RealEstate.py[line:210] - INFO: 套内单价：15032.35， 套内面积：74.55
+2019-01-11 15:23:22,825 - RealEstate.py[line:163] - INFO: 2019-01-11 15:23:22.826000 渝北 桥达·茂宸广场 10号（规划2号楼） 1单元 32-3
+2019-01-11 15:23:26,513 - RealEstate.py[line:311] - INFO: 9减4等于
+2019-01-11 15:23:26,513 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-11 15:23:27,607 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 15:23:27,607 - RealEstate.py[line:215] - INFO: 2019-01-11 15:23:27.607000 内层异常休眠5分钟
+2019-01-11 15:29:21,740 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:111.11.98.58:9000
+2019-01-11 15:29:57,936 - RealEstate.py[line:231] - INFO: list index out of range
+2019-01-11 15:31:00,053 - RealEstate.py[line:62] - INFO: 渝北：11
+2019-01-11 15:31:17,546 - RealEstate.py[line:163] - INFO: 2019-01-11 15:31:17.546000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-1
+2019-01-11 15:31:17,546 - RealEstate.py[line:163] - INFO: 2019-01-11 15:31:17.547000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-2
+2019-01-11 15:31:17,549 - RealEstate.py[line:163] - INFO: 2019-01-11 15:31:17.550000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-3
+2019-01-11 15:31:21,759 - RealEstate.py[line:311] - INFO: 1减1等于
+2019-01-11 15:31:21,759 - RealEstate.py[line:335] - INFO: 验证码:1-1
+2019-01-11 15:31:30,890 - RealEstate.py[line:210] - INFO: 套内单价：20814.81， 套内面积：76.5
+2019-01-11 15:31:30,891 - RealEstate.py[line:163] - INFO: 2019-01-11 15:31:30.891000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-4
+2019-01-11 15:31:30,894 - RealEstate.py[line:163] - INFO: 2019-01-11 15:31:30.894000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-1
+2019-01-11 15:31:30,894 - RealEstate.py[line:163] - INFO: 2019-01-11 15:31:30.895000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-2
+2019-01-11 15:31:34,619 - RealEstate.py[line:311] - INFO: 3减2等于
+2019-01-11 15:31:34,621 - RealEstate.py[line:335] - INFO: 验证码:3-2
+2019-01-11 15:32:01,640 - RealEstate.py[line:210] - INFO: 套内单价：21816.78， 套内面积：76.5
+2019-01-11 15:32:01,641 - RealEstate.py[line:163] - INFO: 2019-01-11 15:32:01.641000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-3
+2019-01-11 15:32:05,423 - RealEstate.py[line:311] - INFO: 9减4等芳
+2019-01-11 15:32:05,423 - RealEstate.py[line:335] - INFO: 验证码:9-4
+2019-01-11 15:32:08,513 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 15:32:08,513 - RealEstate.py[line:215] - INFO: 2019-01-11 15:32:08.514000 内层异常休眠5分钟
+2019-01-11 15:35:42,584 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-11 15:36:18,282 - RealEstate.py[line:231] - INFO: list index out of range
+2019-01-11 15:36:18,871 - RealEstate.py[line:232] - INFO: 2019-01-11 15:36:18.872000 外层异常休眠5分钟
+2019-01-11 15:36:56,349 - RealEstate.py[line:62] - INFO: 渝北：11
+2019-01-11 15:37:01,759 - RealEstate.py[line:215] - INFO: 
+2019-01-11 15:37:01,759 - RealEstate.py[line:216] - INFO: 2019-01-11 15:37:01.759000 内层异常休眠5分钟
+2019-01-11 15:38:13,226 - RealEstate.py[line:62] - INFO: 渝北：11
+2019-01-11 15:38:21,928 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.929000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-1
+2019-01-11 15:38:21,931 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.932000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-2
+2019-01-11 15:38:21,934 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.935000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-3
+2019-01-11 15:38:21,937 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.937000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-4
+2019-01-11 15:38:21,940 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.941000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-1
+2019-01-11 15:38:21,946 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.946000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-2
+2019-01-11 15:38:21,950 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:21.950000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-3
+2019-01-11 15:38:26,043 - RealEstate.py[line:311] - INFO: 7汐娜6 等于
+2019-01-11 15:38:26,119 - RealEstate.py[line:374] - INFO: 图片识别修正number2:6
+2019-01-11 15:38:26,349 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐娜
+2019-01-11 15:38:26,358 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 15:38:26,358 - RealEstate.py[line:335] - INFO: 验证码:7+6
+2019-01-11 15:38:44,223 - RealEstate.py[line:210] - INFO: 套内单价：21816.78， 套内面积：76.5
+2019-01-11 15:38:44,224 - RealEstate.py[line:163] - INFO: 2019-01-11 15:38:44.225000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-4
+2019-01-11 15:38:48,507 - RealEstate.py[line:311] - INFO: 8氦衢赏6 等于
+2019-01-11 15:38:48,582 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 15:38:48,588 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 15:38:48,595 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 15:38:52,275 - RealEstate.py[line:311] - INFO: 8减7等芳
+2019-01-11 15:38:52,275 - RealEstate.py[line:335] - INFO: 验证码:8-7
+2019-01-11 15:40:18,184 - RealEstate.py[line:163] - INFO: 2019-01-11 15:40:18.184000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-1
+2019-01-11 15:40:22,380 - RealEstate.py[line:311] - INFO: 2加8 等霁
+2019-01-11 15:40:22,380 - RealEstate.py[line:335] - INFO: 验证码:2+8
+2019-01-11 15:40:35,394 - RealEstate.py[line:210] - INFO: 套内单价：21431.06， 套内面积：89.93
+2019-01-11 15:40:35,395 - RealEstate.py[line:163] - INFO: 2019-01-11 15:40:35.395000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-2
+2019-01-11 15:40:39,737 - RealEstate.py[line:311] - INFO: 凛汐刀6 等于
+2019-01-11 15:40:39,819 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-11 15:40:39,894 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 15:40:39,904 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 15:40:39,914 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 15:40:43,823 - RealEstate.py[line:311] - INFO: 2加6 等于
+2019-01-11 15:40:43,823 - RealEstate.py[line:335] - INFO: 验证码:2+6
+2019-01-11 15:41:04,427 - RealEstate.py[line:210] - INFO: 套内单价：21495.63， 套内面积：76.5
+2019-01-11 15:41:04,427 - RealEstate.py[line:163] - INFO: 2019-01-11 15:41:04.428000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-3
+2019-01-11 15:41:08,332 - RealEstate.py[line:311] - INFO: 9减2等于
+2019-01-11 15:41:08,332 - RealEstate.py[line:335] - INFO: 验证码:9-2
+2019-01-11 15:41:18,536 - RealEstate.py[line:210] - INFO: 套内单价：21495.63， 套内面积：76.5
+2019-01-11 15:41:18,536 - RealEstate.py[line:163] - INFO: 2019-01-11 15:41:18.537000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-4
+2019-01-11 15:41:23,286 - RealEstate.py[line:311] - INFO: 9减5 等于
+2019-01-11 15:41:23,286 - RealEstate.py[line:335] - INFO: 验证码:9-5
+2019-01-11 15:41:26,263 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 15:41:26,263 - RealEstate.py[line:215] - INFO: 2019-01-11 15:41:26.264000 内层异常休眠5分钟
+2019-01-11 15:45:29,368 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-11 15:45:48,482 - RealEstate.py[line:163] - INFO: 2019-01-11 15:45:48.481000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 23-1
+2019-01-11 15:45:48,549 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 15:45:48,549 - RealEstate.py[line:215] - INFO: 2019-01-11 15:45:48.549000 内层异常休眠5分钟
+2019-01-11 15:49:15,773 - RealEstate.py[line:62] - INFO: 渝北：11
+2019-01-11 15:49:39,885 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.886000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-1
+2019-01-11 15:49:39,891 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.891000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-2
+2019-01-11 15:49:39,892 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.893000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-3
+2019-01-11 15:49:39,894 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.895000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 26-4
+2019-01-11 15:49:39,897 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.897000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-1
+2019-01-11 15:49:39,900 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.900000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-2
+2019-01-11 15:49:39,901 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.901000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-3
+2019-01-11 15:49:39,903 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:39.903000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 25-4
+2019-01-11 15:49:44,486 - RealEstate.py[line:311] - INFO: 1加8等于
+2019-01-11 15:49:44,486 - RealEstate.py[line:335] - INFO: 验证码:1+8
+2019-01-11 15:49:58,039 - RealEstate.py[line:210] - INFO: 套内单价：22586.5， 套内面积：68.01
+2019-01-11 15:49:58,040 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:58.041000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-1
+2019-01-11 15:49:58,045 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:58.045000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-2
+2019-01-11 15:49:58,046 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:58.047000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-3
+2019-01-11 15:49:58,049 - RealEstate.py[line:163] - INFO: 2019-01-11 15:49:58.050000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 24-4
+2019-01-11 15:50:01,993 - RealEstate.py[line:311] - INFO: 8加9 等于
+2019-01-11 15:50:01,993 - RealEstate.py[line:335] - INFO: 验证码:8+9
+2019-01-11 15:50:15,673 - RealEstate.py[line:210] - INFO: 套内单价：21880.66， 套内面积：89.93
+2019-01-11 15:50:15,674 - RealEstate.py[line:163] - INFO: 2019-01-11 15:50:15.674000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 23-1
+2019-01-11 15:50:19,588 - RealEstate.py[line:311] - INFO: B减匠 等于
+2019-01-11 15:50:19,671 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-11 15:50:19,753 - RealEstate.py[line:374] - INFO: 图片识别修正number2:.
+2019-01-11 15:50:19,760 - RealEstate.py[line:431] - INFO: 图片比较修正operator:add
+2019-01-11 15:50:19,766 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 15:50:19,773 - RealEstate.py[line:441] - INFO: 图片比较修正number2:None
+2019-01-11 15:50:23,473 - RealEstate.py[line:311] - INFO: 凛汐衢25 等霁
+2019-01-11 15:50:23,552 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-11 15:50:23,634 - RealEstate.py[line:374] - INFO: 图片识别修正number2:5
+2019-01-11 15:50:23,869 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐江
+2019-01-11 15:50:23,878 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 15:50:27,578 - RealEstate.py[line:311] - INFO: 乏歹2722一1 等于
+2019-01-11 15:50:27,661 - RealEstate.py[line:367] - INFO: 图片识别修正number1:\\
+2019-01-11 15:50:27,661 - RealEstate.py[line:374] - INFO: 图片识别修正number2:2
+2019-01-11 15:50:27,667 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 15:50:27,674 - RealEstate.py[line:436] - INFO: 图片比较修正number1:None
+2019-01-11 15:50:31,532 - RealEstate.py[line:311] - INFO: 凛放刀7等于
+2019-01-11 15:50:31,609 - RealEstate.py[line:367] - INFO: 图片识别修正number1:4
+2019-01-11 15:50:31,686 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 15:50:31,927 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐苡
+2019-01-11 15:50:31,934 - RealEstate.py[line:431] - INFO: 图片比较修正operator:None
+2019-01-11 15:50:37,176 - RealEstate.py[line:311] - INFO: 8放奴7等于
+2019-01-11 15:50:37,250 - RealEstate.py[line:374] - INFO: 图片识别修正number2:7
+2019-01-11 15:50:37,496 - RealEstate.py[line:385] - INFO: 图片识别修正operator:汐奴
+2019-01-11 15:50:37,496 - RealEstate.py[line:335] - INFO: 验证码:8+7
+2019-01-11 15:50:58,505 - RealEstate.py[line:210] - INFO: 套内单价：21623.75， 套内面积：89.93
+2019-01-11 15:50:58,506 - RealEstate.py[line:163] - INFO: 2019-01-11 15:50:58.506000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 23-2
+2019-01-11 15:51:02,345 - RealEstate.py[line:311] - INFO: 6减4等于
+2019-01-11 15:51:02,345 - RealEstate.py[line:335] - INFO: 验证码:6-4
+2019-01-11 15:51:33,861 - RealEstate.py[line:210] - INFO: 套内单价：21688.32， 套内面积：76.5
+2019-01-11 15:51:33,861 - RealEstate.py[line:163] - INFO: 2019-01-11 15:51:33.861000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 23-3
+2019-01-11 15:51:39,358 - RealEstate.py[line:311] - INFO: 2减2等芳
+2019-01-11 15:51:39,358 - RealEstate.py[line:335] - INFO: 验证码:2-2
+2019-01-11 15:51:47,878 - RealEstate.py[line:210] - INFO: 套内单价：21688.32， 套内面积：76.5
+2019-01-11 15:51:47,878 - RealEstate.py[line:163] - INFO: 2019-01-11 15:51:47.878000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 23-4
+2019-01-11 15:51:52,354 - RealEstate.py[line:311] - INFO: 8减5等干
+2019-01-11 15:51:52,355 - RealEstate.py[line:335] - INFO: 验证码:8-5
+2019-01-11 15:52:00,801 - RealEstate.py[line:210] - INFO: 套内单价：22073.34， 套内面积：89.93
+2019-01-11 15:52:00,802 - RealEstate.py[line:163] - INFO: 2019-01-11 15:52:00.802000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 22-1
+2019-01-11 15:52:04,548 - RealEstate.py[line:311] - INFO: 9加4 等于
+2019-01-11 15:52:04,549 - RealEstate.py[line:335] - INFO: 验证码:9+4
+2019-01-11 15:52:07,951 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 15:52:07,953 - RealEstate.py[line:215] - INFO: 2019-01-11 15:52:07.953000 内层异常休眠5分钟
+2019-01-11 16:09:53,191 - RealEstate.py[line:163] - INFO: 2019-01-11 16:09:53.192000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 22-2
+2019-01-11 16:09:53,265 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 16:09:53,266 - RealEstate.py[line:215] - INFO: 2019-01-11 16:09:53.266000 内层异常休眠5分钟
+2019-01-11 16:17:47,460 - RealEstate.py[line:163] - INFO: 2019-01-11 16:17:47.460000 渝北 合景泰富？誉峰-合景泰富﹒誉峰一期 3号楼 1单元 22-3
+2019-01-11 16:17:47,798 - RealEstate.py[line:214] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-11 16:17:47,798 - RealEstate.py[line:215] - INFO: 2019-01-11 16:17:47.798000 内层异常休眠5分钟
+2019-01-11 16:19:53,338 - RealEstate.py[line:62] - INFO: 渝北：11
+2019-01-11 16:20:01,665 - RealEstate.py[line:231] - INFO: 'NoneType' object has no attribute 'find'
+2019-01-11 16:20:01,665 - RealEstate.py[line:232] - INFO: 2019-01-11 16:20:01.666000 外层异常休眠5分钟

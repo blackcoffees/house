@@ -30,7 +30,7 @@ from db.DBUtil import get_real_estate_sale_status, get_real_estate, get_building
     get_real_estate_statictics_data, get_building_statictics_data, get_all_region, update_region
 import sys
 
-from util.ProxyIPUtil import get_proxy_ip, get_switch_proxy
+from util.ProxyIPUtil import get_switch_proxy
 from util.WebDriverUtil import WebDriverManager
 
 reload(sys)
@@ -43,12 +43,8 @@ class RealEstateSpider(BaseSpider):
                "pageindex=%s&roomtype=住宅&buildarea"
 
     def work(self):
-        proxy = get_switch_proxy()
         options = webdriver.ChromeOptions()
-        # options.add_argument("headless")
-        if proxy:
-            proxy_ip = get_proxy_ip()
-            options.add_argument("--proxy-server={0}".format(proxy_ip))
+        options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         real_estate_driver = web_driver_manager.get_web_driver()
         driver_house = web_driver_manager.get_web_driver()
@@ -188,13 +184,12 @@ class RealEstateSpider(BaseSpider):
                                         self.get_internet_validate_code(validate_driver, validate_url)
                                         one_house_soup = BeautifulSoup(validate_driver.page_source, "html.parser")
                                         if not one_house_soup.find("img"):
-                                            continue
+                                            raise BaseException("无法获取房子数据")
                                         one_house_data = unquote(one_house_soup.find("img", attrs={"id": "roomInfo_img"}).attrs.get("src").split("text=")[1].replace("%u", "\\u").decode("unicode-escape"))
                                         if not one_house_data:
-                                            continue
+                                            raise BaseException("无法获取房子数据")
                                         if one_house_data and "undefined-undefined" in one_house_data:
-                                            time.sleep(60)
-                                            continue
+                                            raise BaseException("无法获取房子数据")
                                         json_data = json.loads(one_house_data)
                                         if json_data.get("HX") == u"其他":
                                             continue
@@ -213,10 +208,10 @@ class RealEstateSpider(BaseSpider):
                                         house.__add__()
                                         logger.info("套内单价：%s， 套内面积：%s" % (house.inside_price, house.inside_area))
                                     except BaseException as e:
-                                        is_exception = True
+                                        # is_exception = True
+                                        web_driver_manager.destory_web_driver(validate_driver.get_id())
                                         logger.info(e)
-                                        logger.info("%s 内层异常休眠5分钟" % datetime.datetime.now())
-                                        time.sleep(300)
+                                        validate_driver = web_driver_manager.get_web_driver(True)
                                         continue
                                     finally:
                                         if is_exception:
