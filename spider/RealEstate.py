@@ -44,7 +44,7 @@ class RealEstateSpider(BaseSpider):
 
     def work(self):
         options = webdriver.ChromeOptions()
-        options.add_argument("headless")
+        # options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         real_estate_driver = web_driver_manager.get_web_driver()
         driver_house = web_driver_manager.get_web_driver()
@@ -132,7 +132,7 @@ class RealEstateSpider(BaseSpider):
                             # 预售许可证
                             house_number = json.loads(unquote(house_soup.find("img", attrs={"id": "projectInfo_img"}).
                                                               attrs.get("src").split("text=")[1])).get("presaleCert")
-                            house_number = unquote(house_number)
+                            house_number = house_number.replace("%u", "\\u").decode("raw_unicode_escape").encode("utf-8")
                             update_building(house_number, building_id)
                             tbody = house_soup.find("table", attrs={"id": "_mybuilding"}).find("tbody")
                             trs = tbody.find_all("tr")
@@ -226,6 +226,7 @@ class RealEstateSpider(BaseSpider):
                                                  static_data.get("sum(sale_count)"))
                     except BaseException as e:
                         logger.info(e)
+                        logger.info(e.reason)
                         logger.info("%s 外层异常休眠5分钟" % datetime.datetime.now())
                         time.sleep(300)
                         continue
@@ -448,6 +449,11 @@ class RealEstateSpider(BaseSpider):
             raise ""
 
     def get_compare_image(self, image_url):
+        """
+        图片比较
+        :param image_url:
+        :return:
+        """
         with open(image_url, "rb") as fp:
             hash2 = imagehash.average_hash(Image.open(fp))
         image = Image.open(image_url)
@@ -546,7 +552,7 @@ class RealEstateSpider(BaseSpider):
                         image_histogram))
                 if differ == 0.0:
                     operation_str = compare_image_str.split(".png")[0]
-                    logger.info("%s 成功图片对比:%s" % (datetime.datetime.now(), operation_str))
+                    logger.info(u"%s 成功图片对比:%s" % (datetime.datetime.now(), operation_str))
                     break
             else:
                 image2.close()

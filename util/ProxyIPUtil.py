@@ -1,6 +1,7 @@
 # -*- coding:utf8 -*-
 import random
 
+import datetime
 from bs4 import BeautifulSoup
 switch_proxy = False
 
@@ -89,11 +90,15 @@ class ProxyPool(object):
         if not self.switch_proxy:
             self.switch_proxy = True
         if (len(self.list_proxy_ip)) > 0:
+            start_time = datetime.datetime.now()
             for proxy_ip in self.list_proxy_ip:
                 if test_proxy_ip_send_request(proxy_ip):
                     return proxy_ip
                 else:
                     self.list_proxy_ip.remove(proxy_ip)
+                end_time = datetime.datetime.now()
+                if (end_time - start_time).seconds > 300:
+                    return None
         else:
             return None
 

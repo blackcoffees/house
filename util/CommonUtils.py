@@ -174,6 +174,8 @@ def div_list_return_dict(array, n):
     :param n:
     :return:
     """
+    if n == 0:
+        return {0: len(array)}
     n = len(array) / n
     if not isinstance(array, list) or not isinstance(n, int):
         return {0: array}

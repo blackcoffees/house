@@ -1416,3 +1416,344 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-01-15 17:53:19,197 - RealEstate.py[line:58] - INFO: 渝北房产信息收集完成
 2019-01-15 17:59:10,756 - RealEstate.py[line:58] - INFO: 江北房产信息收集完成
 2019-01-15 18:05:41,773 - RealEstate.py[line:58] - INFO: 南岸房产信息收集完成
+2019-01-16 09:25:45,667 - RealEstate.py[line:62] - INFO: 渝北：16
+2019-01-16 09:25:47,529 - RealEstate.py[line:163] - INFO: 2019-01-16 09:25:47.529000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 12-1
+2019-01-16 09:25:47,532 - RealEstate.py[line:163] - INFO: 2019-01-16 09:25:47.533000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 12-2
+2019-01-16 09:25:47,536 - RealEstate.py[line:163] - INFO: 2019-01-16 09:25:47.536000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 12-3
+2019-01-16 09:25:52,151 - RealEstate.py[line:308] - INFO: 9才奴5 等于
+2019-01-16 09:25:52,214 - RealEstate.py[line:371] - INFO: 图片识别修正number2:5
+2019-01-16 09:25:52,421 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z歹潺
+2019-01-16 09:25:52,428 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 09:25:52,428 - RealEstate.py[line:332] - INFO: 验证码:9+5
+2019-01-16 09:26:09,099 - RealEstate.py[line:209] - INFO: 套内单价：15907.79， 套内面积：79.98
+2019-01-16 09:26:09,099 - RealEstate.py[line:163] - INFO: 2019-01-16 09:26:09.100000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 12-4
+2019-01-16 09:26:13,398 - RealEstate.py[line:308] - INFO: 9加4 等于
+2019-01-16 09:26:13,398 - RealEstate.py[line:332] - INFO: 验证码:9+4
+2019-01-16 09:26:20,841 - RealEstate.py[line:209] - INFO: 套内单价：15756.98， 套内面积：100.14
+2019-01-16 09:26:20,842 - RealEstate.py[line:163] - INFO: 2019-01-16 09:26:20.843000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 12-5
+2019-01-16 09:26:25,046 - RealEstate.py[line:308] - INFO: 12夕夕3 荨于
+2019-01-16 09:26:25,125 - RealEstate.py[line:371] - INFO: 图片识别修正number2:3
+2019-01-16 09:26:25,345 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z夕奴
+2019-01-16 09:26:25,354 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 09:26:25,354 - RealEstate.py[line:332] - INFO: 验证码:1+3
+2019-01-16 09:26:27,963 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 09:58:30,813 - RealEstate.py[line:163] - INFO: 2019-01-16 09:58:30.814000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 11-1
+2019-01-16 09:58:36,168 - RealEstate.py[line:308] - INFO: 乏萦R衢赏6 等于
+2019-01-16 09:58:36,236 - RealEstate.py[line:364] - INFO: 图片识别修正number1:\
+2019-01-16 09:58:36,302 - RealEstate.py[line:371] - INFO: 图片识别修正number2:.
+2019-01-16 09:58:36,309 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 09:58:36,315 - RealEstate.py[line:433] - INFO: 图片比较修正number1:None
+2019-01-16 09:58:36,322 - RealEstate.py[line:438] - INFO: 图片比较修正number2:None
+2019-01-16 09:58:41,236 - RealEstate.py[line:308] - INFO: 6减4荨于
+2019-01-16 09:58:41,236 - RealEstate.py[line:332] - INFO: 验证码:6-4
+2019-01-16 09:58:46,210 - RealEstate.py[line:209] - INFO: 套内单价：14420.7， 套内面积：121.96
+2019-01-16 09:58:46,210 - RealEstate.py[line:163] - INFO: 2019-01-16 09:58:46.211000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 11-2
+2019-01-16 09:58:49,913 - RealEstate.py[line:308] - INFO: 8减7荨于
+2019-01-16 09:58:49,914 - RealEstate.py[line:332] - INFO: 验证码:8-7
+2019-01-16 09:59:04,710 - RealEstate.py[line:209] - INFO: 套内单价：15938.24， 套内面积：103.99
+2019-01-16 09:59:04,710 - RealEstate.py[line:163] - INFO: 2019-01-16 09:59:04.710000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 11-3
+2019-01-16 09:59:08,397 - RealEstate.py[line:308] - INFO: 4癖2荨于
+2019-01-16 09:59:08,397 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 09:59:08,624 - RealEstate.py[line:382] - INFO: 图片识别修正operator:癖
+2019-01-16 09:59:08,631 - RealEstate.py[line:428] - INFO: 图片比较修正operator:reduce
+2019-01-16 09:59:08,631 - RealEstate.py[line:332] - INFO: 验证码:4-2
+2019-01-16 09:59:09,023 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:14:55,895 - RealEstate.py[line:163] - INFO: 2019-01-16 10:14:55.895000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 11-4
+2019-01-16 10:15:04,694 - RealEstate.py[line:308] - INFO: 5加6 荨于
+2019-01-16 10:15:04,696 - RealEstate.py[line:332] - INFO: 验证码:5+6
+2019-01-16 10:15:20,915 - RealEstate.py[line:209] - INFO: 套内单价：15938.24， 套内面积：103.99
+2019-01-16 10:15:20,917 - RealEstate.py[line:163] - INFO: 2019-01-16 10:15:20.917000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 11-5
+2019-01-16 10:15:24,561 - RealEstate.py[line:308] - INFO: 9遂229 等于
+2019-01-16 10:15:24,562 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:15:24,795 - RealEstate.py[line:382] - INFO: 图片识别修正operator:汐奴
+2019-01-16 10:15:24,795 - RealEstate.py[line:332] - INFO: 验证码:9+2
+2019-01-16 10:15:28,645 - RealEstate.py[line:308] - INFO: 二覃2夕273 等于
+2019-01-16 10:15:28,713 - RealEstate.py[line:364] - INFO: 图片识别修正number1:3
+2019-01-16 10:15:28,713 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:15:28,947 - RealEstate.py[line:382] - INFO: 图片识别修正operator:加
+2019-01-16 10:15:28,947 - RealEstate.py[line:332] - INFO: 验证码:3+2
+2019-01-16 10:15:33,637 - RealEstate.py[line:308] - INFO: 5减2等于
+2019-01-16 10:15:33,637 - RealEstate.py[line:332] - INFO: 验证码:5-2
+2019-01-16 10:15:50,930 - RealEstate.py[line:209] - INFO: 套内单价：14420.7， 套内面积：121.96
+2019-01-16 10:15:50,931 - RealEstate.py[line:163] - INFO: 2019-01-16 10:15:50.932000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 10-1
+2019-01-16 10:15:54,720 - RealEstate.py[line:308] - INFO: 127衢7二萦 荨于
+2019-01-16 10:15:54,720 - RealEstate.py[line:371] - INFO: 图片识别修正number2:7
+2019-01-16 10:15:54,933 - RealEstate.py[line:382] - INFO: 图片识别修正operator:汐夕
+2019-01-16 10:15:54,938 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:15:54,938 - RealEstate.py[line:332] - INFO: 验证码:1+7
+2019-01-16 10:16:02,220 - RealEstate.py[line:308] - INFO: 8减2荨于
+2019-01-16 10:16:02,220 - RealEstate.py[line:332] - INFO: 验证码:8-2
+2019-01-16 10:16:13,119 - RealEstate.py[line:209] - INFO: 套内单价：14384.29， 套内面积：121.96
+2019-01-16 10:16:13,121 - RealEstate.py[line:163] - INFO: 2019-01-16 10:16:13.120000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 10-2
+2019-01-16 10:16:16,848 - RealEstate.py[line:308] - INFO: 3加7 等于
+2019-01-16 10:16:16,849 - RealEstate.py[line:332] - INFO: 验证码:3+7
+2019-01-16 10:16:20,671 - RealEstate.py[line:209] - INFO: 套内单价：15901.83， 套内面积：103.99
+2019-01-16 10:16:20,671 - RealEstate.py[line:163] - INFO: 2019-01-16 10:16:20.671000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 10-3
+2019-01-16 10:16:24,334 - RealEstate.py[line:308] - INFO: 6减1等于
+2019-01-16 10:16:24,334 - RealEstate.py[line:332] - INFO: 验证码:6-1
+2019-01-16 10:16:25,046 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:25:14,752 - RealEstate.py[line:163] - INFO: 2019-01-16 10:25:14.751000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 10-4
+2019-01-16 10:25:19,091 - RealEstate.py[line:308] - INFO: 鑫122衢27 等于
+2019-01-16 10:25:19,163 - RealEstate.py[line:364] - INFO: 图片识别修正number1:4
+2019-01-16 10:25:19,163 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:25:19,397 - RealEstate.py[line:382] - INFO: 图片识别修正operator:汐苡
+2019-01-16 10:25:19,403 - RealEstate.py[line:428] - INFO: 图片比较修正operator:None
+2019-01-16 10:25:23,029 - RealEstate.py[line:308] - INFO: 乏萦2夕乙76 荨于
+2019-01-16 10:25:23,101 - RealEstate.py[line:364] - INFO: 图片识别修正number1:\\
+2019-01-16 10:25:23,101 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:25:23,108 - RealEstate.py[line:428] - INFO: 图片比较修正operator:None
+2019-01-16 10:25:23,114 - RealEstate.py[line:433] - INFO: 图片比较修正number1:None
+2019-01-16 10:25:26,729 - RealEstate.py[line:308] - INFO: 6减2等于
+2019-01-16 10:25:26,729 - RealEstate.py[line:332] - INFO: 验证码:6-2
+2019-01-16 10:25:34,367 - RealEstate.py[line:209] - INFO: 套内单价：15901.83， 套内面积：103.99
+2019-01-16 10:25:34,368 - RealEstate.py[line:163] - INFO: 2019-01-16 10:25:34.368000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 10-5
+2019-01-16 10:25:38,035 - RealEstate.py[line:308] - INFO: 7加9 等于
+2019-01-16 10:25:38,035 - RealEstate.py[line:332] - INFO: 验证码:7+9
+2019-01-16 10:25:51,256 - RealEstate.py[line:209] - INFO: 套内单价：14384.29， 套内面积：121.96
+2019-01-16 10:25:51,259 - RealEstate.py[line:163] - INFO: 2019-01-16 10:25:51.259000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 9-1
+2019-01-16 10:25:56,931 - RealEstate.py[line:308] - INFO: 22加6 等于
+2019-01-16 10:25:57,026 - RealEstate.py[line:371] - INFO: 图片识别修正number2:6
+2019-01-16 10:25:57,273 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z夕奴
+2019-01-16 10:25:57,280 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:25:57,282 - RealEstate.py[line:332] - INFO: 验证码:2+6
+2019-01-16 10:26:17,839 - RealEstate.py[line:209] - INFO: 套内单价：14347.87， 套内面积：121.96
+2019-01-16 10:26:17,841 - RealEstate.py[line:163] - INFO: 2019-01-16 10:26:17.841000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 9-2
+2019-01-16 10:26:22,063 - RealEstate.py[line:308] - INFO: 9减3等于
+2019-01-16 10:26:22,063 - RealEstate.py[line:332] - INFO: 验证码:9-3
+2019-01-16 10:26:22,315 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:29:58,487 - RealEstate.py[line:163] - INFO: 2019-01-16 10:29:58.488000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 9-3
+2019-01-16 10:29:58,492 - RealEstate.py[line:163] - INFO: 2019-01-16 10:29:58.492000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 9-4
+2019-01-16 10:29:58,493 - RealEstate.py[line:163] - INFO: 2019-01-16 10:29:58.494000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 9-5
+2019-01-16 10:29:58,497 - RealEstate.py[line:163] - INFO: 2019-01-16 10:29:58.498000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 8-1
+2019-01-16 10:30:02,559 - RealEstate.py[line:308] - INFO: 7汐赏衢1 等于
+2019-01-16 10:30:02,634 - RealEstate.py[line:371] - INFO: 图片识别修正number2:4
+2019-01-16 10:30:02,858 - RealEstate.py[line:382] - INFO: 图片识别修正operator:蝉
+2019-01-16 10:30:02,865 - RealEstate.py[line:428] - INFO: 图片比较修正operator:reduce
+2019-01-16 10:30:02,865 - RealEstate.py[line:332] - INFO: 验证码:7-4
+2019-01-16 10:30:19,855 - RealEstate.py[line:209] - INFO: 套内单价：14311.46， 套内面积：121.96
+2019-01-16 10:30:19,855 - RealEstate.py[line:163] - INFO: 2019-01-16 10:30:19.855000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 8-2
+2019-01-16 10:30:23,875 - RealEstate.py[line:308] - INFO: 4加5 等于
+2019-01-16 10:30:23,877 - RealEstate.py[line:332] - INFO: 验证码:4+5
+2019-01-16 10:31:00,128 - RealEstate.py[line:209] - INFO: 套内单价：15829.01， 套内面积：103.99
+2019-01-16 10:31:00,130 - RealEstate.py[line:163] - INFO: 2019-01-16 10:31:00.129000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 8-3
+2019-01-16 10:31:03,937 - RealEstate.py[line:308] - INFO: 4笈奴7等于
+2019-01-16 10:31:04,000 - RealEstate.py[line:371] - INFO: 图片识别修正number2:7
+2019-01-16 10:31:04,226 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓苡
+2019-01-16 10:31:04,233 - RealEstate.py[line:428] - INFO: 图片比较修正operator:None
+2019-01-16 10:31:08,433 - RealEstate.py[line:308] - INFO: 12夕夕3 荨于
+2019-01-16 10:31:08,500 - RealEstate.py[line:371] - INFO: 图片识别修正number2:3
+2019-01-16 10:31:08,716 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓奴
+2019-01-16 10:31:08,721 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:31:08,721 - RealEstate.py[line:332] - INFO: 验证码:1+3
+2019-01-16 10:31:18,903 - RealEstate.py[line:209] - INFO: 套内单价：15980.33， 套内面积：77.21
+2019-01-16 10:31:18,904 - RealEstate.py[line:163] - INFO: 2019-01-16 10:31:18.904000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 8-4
+2019-01-16 10:31:24,483 - RealEstate.py[line:308] - INFO: 12夕衢76 荨于
+2019-01-16 10:31:24,549 - RealEstate.py[line:371] - INFO: 图片识别修正number2:.
+2019-01-16 10:31:24,555 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:31:24,561 - RealEstate.py[line:438] - INFO: 图片比较修正number2:None
+2019-01-16 10:31:28,848 - RealEstate.py[line:308] - INFO: 7减3 荨于
+2019-01-16 10:31:28,849 - RealEstate.py[line:332] - INFO: 验证码:7-3
+2019-01-16 10:32:00,818 - RealEstate.py[line:209] - INFO: 套内单价：15829.01， 套内面积：103.99
+2019-01-16 10:32:00,819 - RealEstate.py[line:163] - INFO: 2019-01-16 10:32:00.819000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 8-5
+2019-01-16 10:32:06,059 - RealEstate.py[line:308] - INFO: 8减4荨于
+2019-01-16 10:32:06,059 - RealEstate.py[line:332] - INFO: 验证码:8-4
+2019-01-16 10:32:12,542 - RealEstate.py[line:209] - INFO: 套内单价：14311.46， 套内面积：121.96
+2019-01-16 10:32:12,543 - RealEstate.py[line:163] - INFO: 2019-01-16 10:32:12.544000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 7-1
+2019-01-16 10:32:16,154 - RealEstate.py[line:308] - INFO: 1加7荨于
+2019-01-16 10:32:16,155 - RealEstate.py[line:332] - INFO: 验证码:1+7
+2019-01-16 10:33:08,959 - RealEstate.py[line:209] - INFO: 套内单价：14275.05， 套内面积：121.96
+2019-01-16 10:33:08,959 - RealEstate.py[line:163] - INFO: 2019-01-16 10:33:08.959000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 7-2
+2019-01-16 10:33:14,326 - RealEstate.py[line:308] - INFO: 5加9 等于
+2019-01-16 10:33:14,328 - RealEstate.py[line:332] - INFO: 验证码:5+9
+2019-01-16 10:33:23,898 - RealEstate.py[line:209] - INFO: 套内单价：15792.6， 套内面积：103.99
+2019-01-16 10:33:23,898 - RealEstate.py[line:163] - INFO: 2019-01-16 10:33:23.899000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 7-3
+2019-01-16 10:33:27,585 - RealEstate.py[line:308] - INFO: 7加匠 等于
+2019-01-16 10:33:27,655 - RealEstate.py[line:371] - INFO: 图片识别修正number2:6
+2019-01-16 10:33:27,657 - RealEstate.py[line:332] - INFO: 验证码:7+6
+2019-01-16 10:33:46,697 - RealEstate.py[line:209] - INFO: 套内单价：15943.91， 套内面积：77.21
+2019-01-16 10:33:46,698 - RealEstate.py[line:163] - INFO: 2019-01-16 10:33:46.699000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 7-4
+2019-01-16 10:33:51,065 - RealEstate.py[line:308] - INFO: 1汐2衢8 荨于
+2019-01-16 10:33:51,066 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:33:51,282 - RealEstate.py[line:382] - INFO: 图片识别修正operator:汐奴
+2019-01-16 10:33:51,283 - RealEstate.py[line:332] - INFO: 验证码:1+2
+2019-01-16 10:33:55,575 - RealEstate.py[line:308] - INFO: 4减3荨芳
+2019-01-16 10:33:55,575 - RealEstate.py[line:332] - INFO: 验证码:4-3
+2019-01-16 10:34:13,578 - RealEstate.py[line:209] - INFO: 套内单价：15792.6， 套内面积：103.99
+2019-01-16 10:34:13,578 - RealEstate.py[line:163] - INFO: 2019-01-16 10:34:13.579000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 7-5
+2019-01-16 10:34:17,411 - RealEstate.py[line:308] - INFO: 82夕乙78冢 荨于
+2019-01-16 10:34:17,477 - RealEstate.py[line:371] - INFO: 图片识别修正number2:.
+2019-01-16 10:34:17,484 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:34:17,490 - RealEstate.py[line:438] - INFO: 图片比较修正number2:9
+2019-01-16 10:34:17,490 - RealEstate.py[line:332] - INFO: 验证码:8+9
+2019-01-16 10:34:23,279 - RealEstate.py[line:209] - INFO: 套内单价：14275.05， 套内面积：121.96
+2019-01-16 10:34:23,280 - RealEstate.py[line:163] - INFO: 2019-01-16 10:34:23.281000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 6-1
+2019-01-16 10:34:26,931 - RealEstate.py[line:308] - INFO: 22夕衢71 等于
+2019-01-16 10:34:26,993 - RealEstate.py[line:371] - INFO: 图片识别修正number2:1
+2019-01-16 10:34:27,223 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓奴
+2019-01-16 10:34:27,229 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:34:27,230 - RealEstate.py[line:332] - INFO: 验证码:2+1
+2019-01-16 10:34:30,563 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:36:59,697 - RealEstate.py[line:163] - INFO: 2019-01-16 10:36:59.697000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 6-2
+2019-01-16 10:37:04,398 - RealEstate.py[line:308] - INFO: 9加7 等于
+2019-01-16 10:37:04,398 - RealEstate.py[line:332] - INFO: 验证码:9+7
+2019-01-16 10:37:05,976 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:38:11,173 - RealEstate.py[line:163] - INFO: 2019-01-16 10:38:11.173000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 6-3
+2019-01-16 10:38:17,163 - RealEstate.py[line:308] - INFO: 42夕衢71 等于
+2019-01-16 10:38:17,226 - RealEstate.py[line:371] - INFO: 图片识别修正number2:1
+2019-01-16 10:38:17,460 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓奴
+2019-01-16 10:38:17,466 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:38:17,466 - RealEstate.py[line:332] - INFO: 验证码:4+1
+2019-01-16 10:38:42,135 - RealEstate.py[line:209] - INFO: 套内单价：15907.5， 套内面积：77.21
+2019-01-16 10:38:42,137 - RealEstate.py[line:163] - INFO: 2019-01-16 10:38:42.137000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 6-4
+2019-01-16 10:38:46,089 - RealEstate.py[line:308] - INFO: 12夕衢27 等于
+2019-01-16 10:38:46,153 - RealEstate.py[line:371] - INFO: 图片识别修正number2:1
+2019-01-16 10:38:46,368 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓苡
+2019-01-16 10:38:46,375 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:38:46,377 - RealEstate.py[line:332] - INFO: 验证码:1+1
+2019-01-16 10:38:58,244 - RealEstate.py[line:209] - INFO: 套内单价：15756.18， 套内面积：103.99
+2019-01-16 10:38:58,246 - RealEstate.py[line:163] - INFO: 2019-01-16 10:38:58.246000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 6-5
+2019-01-16 10:38:58,250 - RealEstate.py[line:163] - INFO: 2019-01-16 10:38:58.250000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 5-1
+2019-01-16 10:38:58,253 - RealEstate.py[line:163] - INFO: 2019-01-16 10:38:58.254000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 5-2
+2019-01-16 10:39:02,130 - RealEstate.py[line:308] - INFO: 3减2荨于
+2019-01-16 10:39:02,131 - RealEstate.py[line:332] - INFO: 验证码:3-2
+2019-01-16 10:39:26,950 - RealEstate.py[line:209] - INFO: 套内单价：15731.91， 套内面积：103.99
+2019-01-16 10:39:26,950 - RealEstate.py[line:163] - INFO: 2019-01-16 10:39:26.951000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 5-3
+2019-01-16 10:39:36,121 - RealEstate.py[line:308] - INFO: 乏萦!梯7 荨于
+2019-01-16 10:39:36,193 - RealEstate.py[line:364] - INFO: 图片识别修正number1:\
+2019-01-16 10:39:36,255 - RealEstate.py[line:371] - INFO: 图片识别修正number2:7
+2019-01-16 10:39:36,259 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:39:36,266 - RealEstate.py[line:433] - INFO: 图片比较修正number1:None
+2019-01-16 10:39:40,094 - RealEstate.py[line:308] - INFO: 3加6 等于
+2019-01-16 10:39:40,095 - RealEstate.py[line:332] - INFO: 验证码:3+6
+2019-01-16 10:40:00,092 - RealEstate.py[line:209] - INFO: 套内单价：15883.23， 套内面积：77.21
+2019-01-16 10:40:00,092 - RealEstate.py[line:163] - INFO: 2019-01-16 10:40:00.092000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 5-4
+2019-01-16 10:40:04,598 - RealEstate.py[line:308] - INFO: 乏萦!梯6 等芳
+2019-01-16 10:40:04,670 - RealEstate.py[line:364] - INFO: 图片识别修正number1:\
+2019-01-16 10:40:04,739 - RealEstate.py[line:371] - INFO: 图片识别修正number2:.
+2019-01-16 10:40:04,746 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:40:04,752 - RealEstate.py[line:433] - INFO: 图片比较修正number1:None
+2019-01-16 10:40:04,765 - RealEstate.py[line:438] - INFO: 图片比较修正number2:None
+2019-01-16 10:40:08,790 - RealEstate.py[line:308] - INFO: 82夕227 荨于
+2019-01-16 10:40:08,855 - RealEstate.py[line:371] - INFO: 图片识别修正number2:1
+2019-01-16 10:40:09,075 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓奴
+2019-01-16 10:40:09,082 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:40:09,082 - RealEstate.py[line:332] - INFO: 验证码:8+1
+2019-01-16 10:40:13,855 - RealEstate.py[line:308] - INFO: 之寮2夕衢2乏2 荨干
+2019-01-16 10:40:13,924 - RealEstate.py[line:364] - INFO: 图片识别修正number1:3
+2019-01-16 10:40:13,924 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:40:14,153 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓苡
+2019-01-16 10:40:14,160 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:40:14,160 - RealEstate.py[line:332] - INFO: 验证码:3+2
+2019-01-16 10:40:22,403 - RealEstate.py[line:308] - INFO: 9减8等于
+2019-01-16 10:40:22,403 - RealEstate.py[line:332] - INFO: 验证码:9-8
+2019-01-16 10:41:20,996 - RealEstate.py[line:209] - INFO: 套内单价：15731.91， 套内面积：103.99
+2019-01-16 10:41:20,997 - RealEstate.py[line:163] - INFO: 2019-01-16 10:41:20.998000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 5-5
+2019-01-16 10:41:28,440 - RealEstate.py[line:308] - INFO: 5加2 荨于
+2019-01-16 10:41:28,440 - RealEstate.py[line:332] - INFO: 验证码:5+2
+2019-01-16 10:41:38,763 - RealEstate.py[line:209] - INFO: 套内单价：14214.35， 套内面积：121.96
+2019-01-16 10:41:38,765 - RealEstate.py[line:163] - INFO: 2019-01-16 10:41:38.765000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 4-1
+2019-01-16 10:41:42,549 - RealEstate.py[line:308] - INFO: 8减7 等子
+2019-01-16 10:41:42,549 - RealEstate.py[line:332] - INFO: 验证码:8-7
+2019-01-16 10:41:48,163 - RealEstate.py[line:209] - INFO: 套内单价：14190.08， 套内面积：121.96
+2019-01-16 10:41:48,164 - RealEstate.py[line:163] - INFO: 2019-01-16 10:41:48.164000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 4-2
+2019-01-16 10:41:51,811 - RealEstate.py[line:308] - INFO: 8减3荨于
+2019-01-16 10:41:51,811 - RealEstate.py[line:332] - INFO: 验证码:8-3
+2019-01-16 10:41:57,038 - RealEstate.py[line:209] - INFO: 套内单价：15707.64， 套内面积：103.99
+2019-01-16 10:41:57,038 - RealEstate.py[line:163] - INFO: 2019-01-16 10:41:57.038000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 4-3
+2019-01-16 10:42:00,766 - RealEstate.py[line:308] - INFO: 5减5 等于
+2019-01-16 10:42:00,766 - RealEstate.py[line:332] - INFO: 验证码:5-5
+2019-01-16 10:42:01,907 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:42:45,976 - RealEstate.py[line:163] - INFO: 2019-01-16 10:42:45.976000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 4-4
+2019-01-16 10:42:50,161 - RealEstate.py[line:308] - INFO: 之萦22衢75 荨于
+2019-01-16 10:42:50,233 - RealEstate.py[line:364] - INFO: 图片识别修正number1:3
+2019-01-16 10:42:50,233 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:42:50,466 - RealEstate.py[line:382] - INFO: 图片识别修正operator:汐刀
+2019-01-16 10:42:50,471 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:42:50,471 - RealEstate.py[line:332] - INFO: 验证码:3+2
+2019-01-16 10:42:54,362 - RealEstate.py[line:308] - INFO: 3加2 荨于
+2019-01-16 10:42:54,362 - RealEstate.py[line:332] - INFO: 验证码:3+2
+2019-01-16 10:42:54,700 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:43:17,990 - RealEstate.py[line:163] - INFO: 2019-01-16 10:43:17.990000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 4-5
+2019-01-16 10:43:21,956 - RealEstate.py[line:308] - INFO: 2加9 等于
+2019-01-16 10:43:21,956 - RealEstate.py[line:332] - INFO: 验证码:2+9
+2019-01-16 10:43:23,336 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-16 10:45:31,828 - CommonUtils.py[line:104] - INFO: 测试代理IP,切换代理IP:58.243.50.184:53281
+2019-01-16 10:45:33,858 - RealEstate.py[line:163] - INFO: 2019-01-16 10:45:33.858000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 3-1
+2019-01-16 10:45:44,398 - RealEstate.py[line:308] - INFO: 乏2彝剪4 等于
+2019-01-16 10:45:44,471 - RealEstate.py[line:364] - INFO: 图片识别修正number1:\\
+2019-01-16 10:45:44,543 - RealEstate.py[line:371] - INFO: 图片识别修正number2:4
+2019-01-16 10:45:44,549 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:45:44,555 - RealEstate.py[line:433] - INFO: 图片比较修正number1:None
+2019-01-16 10:45:54,809 - RealEstate.py[line:308] - INFO: 222衢28 荨于
+2019-01-16 10:45:54,811 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:45:55,033 - RealEstate.py[line:382] - INFO: 图片识别修正operator:汐厚
+2019-01-16 10:45:55,039 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:45:55,039 - RealEstate.py[line:332] - INFO: 验证码:2+2
+2019-01-16 10:46:04,141 - RealEstate.py[line:308] - INFO: 6减3荨于
+2019-01-16 10:46:04,141 - RealEstate.py[line:332] - INFO: 验证码:6-3
+2019-01-16 10:46:25,144 - RealEstate.py[line:209] - INFO: 套内单价：14165.81， 套内面积：121.96
+2019-01-16 10:46:25,144 - RealEstate.py[line:163] - INFO: 2019-01-16 10:46:25.145000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 3-2
+2019-01-16 10:46:29,213 - RealEstate.py[line:308] - INFO: 之萦2夕228 等于
+2019-01-16 10:46:29,290 - RealEstate.py[line:364] - INFO: 图片识别修正number1:3
+2019-01-16 10:46:29,290 - RealEstate.py[line:371] - INFO: 图片识别修正number2:2
+2019-01-16 10:46:29,591 - RealEstate.py[line:382] - INFO: 图片识别修正operator:Z亓奴
+2019-01-16 10:46:29,602 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:46:29,602 - RealEstate.py[line:332] - INFO: 验证码:3+2
+2019-01-16 10:46:34,398 - RealEstate.py[line:308] - INFO: 5笈奴8 荨于
+2019-01-16 10:46:34,476 - RealEstate.py[line:371] - INFO: 图片识别修正number2:\\
+2019-01-16 10:46:34,483 - RealEstate.py[line:428] - INFO: 图片比较修正operator:add
+2019-01-16 10:46:34,489 - RealEstate.py[line:438] - INFO: 图片比较修正number2:8
+2019-01-16 10:46:34,489 - RealEstate.py[line:332] - INFO: 验证码:5+8
+2019-01-16 10:47:05,476 - RealEstate.py[line:209] - INFO: 套内单价：15683.37， 套内面积：103.99
+2019-01-16 10:47:05,476 - RealEstate.py[line:163] - INFO: 2019-01-16 10:47:05.477000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 3-3
+2019-01-16 10:47:09,739 - RealEstate.py[line:308] - INFO: 6减4等于
+2019-01-16 10:47:09,740 - RealEstate.py[line:332] - INFO: 验证码:6-4
+2019-01-16 10:47:18,700 - RealEstate.py[line:209] - INFO: 套内单价：15834.69， 套内面积：77.21
+2019-01-16 10:47:18,700 - RealEstate.py[line:163] - INFO: 2019-01-16 10:47:18.700000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 3-4
+2019-01-16 10:47:22,640 - RealEstate.py[line:308] - INFO: 6减4荨于
+2019-01-16 10:47:22,641 - RealEstate.py[line:332] - INFO: 验证码:6-4
+2019-01-16 10:47:29,108 - RealEstate.py[line:209] - INFO: 套内单价：15683.37， 套内面积：103.99
+2019-01-16 10:47:29,108 - RealEstate.py[line:163] - INFO: 2019-01-16 10:47:29.109000 渝北 隆鑫·鸿府-爱普新鸿府 8幢（规划11号楼） 1单元 3-5
+2019-01-16 10:47:33,108 - RealEstate.py[line:308] - INFO: 5减4荨于
+2019-01-16 10:47:33,109 - RealEstate.py[line:332] - INFO: 验证码:5-4
+2019-01-16 10:47:35,676 - RealEstate.py[line:213] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
