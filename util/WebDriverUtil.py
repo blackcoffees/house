@@ -12,6 +12,7 @@ class WebDriverManager(object):
     total_count = 0
     options = None
     type = None
+    proxy_ip = None
     __list_web_driver__ = list()
 
     def __base_result__(self):
@@ -44,6 +45,9 @@ class WebDriverManager(object):
         for web_driver in self.__list_web_driver__:
             if web_driver.get_id() == web_driver_id:
                 web_driver.close()
+                if self.proxy_ip:
+                    proxy_pool.remove_proxy_ip(self.proxy_ip)
+                    self.proxy_ip = None
                 self.__list_web_driver__.remove(web_driver)
         # self.create_web_driver()
 
@@ -53,6 +57,7 @@ class WebDriverManager(object):
             if is_proxy:
                 proxy_ip = proxy_pool.get_proxy_ip()
                 if proxy_ip:
+                    self.proxy_ip = proxy_ip
                     temp_options.add_argument("--proxy-server={0}".format(proxy_ip))
             temp_driver = WebChromeDriver(temp_options)
         else:

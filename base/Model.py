@@ -23,7 +23,7 @@ class RealEstate(BaseModel):
     developer = None
     sale_building = None
     source_id = 0
-    created = datetime.datetime.now()
+    created = None
     updated = None
 
     def __add__(self):

@@ -102,5 +102,7 @@ class ProxyPool(object):
         else:
             return None
 
+    def remove_proxy_ip(self, ip):
+        self.list_proxy_ip.remove(ip)
 
 proxy_pool = ProxyPool()

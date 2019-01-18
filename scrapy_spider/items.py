@@ -19,5 +19,5 @@ class RealEstateItem(scrapy.Item):
     region = scrapy.Field()
     building = scrapy.Field()
     developer = scrapy.Field()
-    sale_count = scrapy.Field()
     sale_building = scrapy.Field()
+    source_id = scrapy.Field()

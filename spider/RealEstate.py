@@ -44,7 +44,7 @@ class RealEstateSpider(BaseSpider):
 
     def work(self):
         options = webdriver.ChromeOptions()
-        # options.add_argument("headless")
+        options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         real_estate_driver = web_driver_manager.get_web_driver()
         driver_house = web_driver_manager.get_web_driver()
