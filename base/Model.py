@@ -25,6 +25,9 @@ class RealEstate(BaseModel):
     source_id = 0
     created = None
     updated = None
+    sale_count = 0
+    house_total_count = 0
+    house_sale_count = 0
 
     def __add__(self):
         real_estate_id = self.__find__()

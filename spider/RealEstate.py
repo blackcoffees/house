@@ -41,10 +41,11 @@ class RealEstateSpider(BaseSpider):
     base_url = "http://www.cq315house.com/315web/webservice/GetMyData999.ashx?" \
                "projectname=&site=%s&kfs=&projectaddr=&pagesize=1&" \
                "pageindex=%s&roomtype=住宅&buildarea"
+    base_image_path = os.path.realpath("image").split("main")[0] + "\\image\\"
 
     def work(self):
         options = webdriver.ChromeOptions()
-        options.add_argument("headless")
+        # options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         real_estate_driver = web_driver_manager.get_web_driver()
         driver_house = web_driver_manager.get_web_driver()
@@ -260,12 +261,13 @@ class RealEstateSpider(BaseSpider):
         while True:
             expression = ""
             # 成功请求到网页
-            validate_driver.send_url(validate_url, tag_name="img")
+            if not validate_driver.send_url(validate_url, tag_name="img"):
+                raise BaseException("无法获取验证网页")
             # 截图整个网页
-            validate_driver.save_screenshot("e:/spider_img/temp.png")
+            validate_driver.save_screenshot(self.base_image_path + "temp.png")
             try:
                 img = validate_driver.find_element_by_tag_name("img")
-                location_img_url = "e:/spider_img/temp.png"
+                location_img_url = self.base_image_path + "temp.png"
                 # 保存验证码图片
                 left = img.location.get("x")
                 top = img.location.get("y")
@@ -273,8 +275,6 @@ class RealEstateSpider(BaseSpider):
                 height = top + img.size.get("height")
                 # image = Image.open(BytesIO(response.read()))
                 image = Image.open(location_img_url).crop((left, top, width, height))
-                if not os.path.exists("e:/spider_img"):
-                    os.mkdir("e:/spider_img")
                 image.save(location_img_url)
                 # 解析验证码
                 # 防止图片没有保存下来
@@ -338,7 +338,7 @@ class RealEstateSpider(BaseSpider):
             validate_driver.find_element_by_id("Button1").click()
             one_house_url = validate_driver.current_url
             if "bid" in one_house_url:
-                self.save_success_image("e:/spider_img/temp.png", expression)
+                self.save_success_image(self.base_image_path + "temp.png", expression)
                 return True
 
     def image_corde_correct(self, succ_dict=None):
@@ -353,20 +353,20 @@ class RealEstateSpider(BaseSpider):
             succ_number1 = succ_dict.get("succ_number1")
             succ_number2 = succ_dict.get("succ_number2")
             succ_operation = succ_dict.get("succ_operation")
-        operator_img_url = "e:/spider_img/operator.png"
-        number1_img_url = "e:/spider_img/num1.png"
-        number2_img_url = "e:/spider_img/num2.png"
+        operator_img_url = self.base_image_path + "operator.png"
+        number1_img_url = self.base_image_path + "num1.png"
+        number2_img_url = self.base_image_path + "num2.png"
         if succ_number1:
             number1_str = succ_number1
         else:
-            number1_img = Image.open("e:/spider_img/temp.png").crop((0, 0, 17, 20))
+            number1_img = Image.open(self.base_image_path + "temp.png").crop((0, 0, 17, 20))
             number1_img.save(number1_img_url)
             number1_str = pytesseract.image_to_string(number1_img, lang="eng", config="-psm 8 digist")
             logger.info("图片识别修正number1:%s" % number1_str)
         if succ_number2:
             number2_str = succ_number2
         else:
-            number2_img = Image.open("e:/spider_img/temp.png").crop((53, 1, 66, 22))
+            number2_img = Image.open(self.base_image_path + "temp.png").crop((53, 1, 66, 22))
             number2_img.save(number2_img_url)
             number2_str = pytesseract.image_to_string(number2_img, lang="eng", config="-psm 8 digist")
         logger.info("图片识别修正number2:%s" % number2_str)
@@ -377,7 +377,7 @@ class RealEstateSpider(BaseSpider):
             if succ_operation:
                 operator_str = succ_operation
             else:
-                operator_img = Image.open("e:/spider_img/temp.png").crop((26, 1, 52, 21))
+                operator_img = Image.open(self.base_image_path + "temp.png").crop((26, 1, 52, 21))
                 operator_img.save(operator_img_url)
                 operator_str = pytesseract.image_to_string(operator_img, lang="chi_sim", config="-psm 8")
                 logger.info("图片识别修正operator:%s" % operator_str)
@@ -460,7 +460,7 @@ class RealEstateSpider(BaseSpider):
         ImageFile.LOAD_TRUNCATED_IMAGES = True
         compare_image_list = [u"1", u"2", u"3", u"4", u"5", u"6", u"7", u"8", u"9", u"add", u"reduce"]
         for compare_image_str in compare_image_list:
-            compare_image_str_url = "e:/spider_img/%s.png" % compare_image_str
+            compare_image_str_url = self.base_image_path + ("%s.png" % compare_image_str)
             try:
                 compare_image = Image.open(compare_image_str_url)
                 if not compare_image:
@@ -506,7 +506,7 @@ class RealEstateSpider(BaseSpider):
         :param expression_str:
         :return:
         """
-        success_base_url = "e:/spider_img/success/"
+        success_base_url = self.base_image_path + "success\\"
         succ_img_url = os.listdir(success_base_url)
         if str(expression_str) + ".png" in succ_img_url:
             return True
@@ -537,14 +537,14 @@ class RealEstateSpider(BaseSpider):
         :return:
         """
         operation_str = -1
-        success_base_url = "e:/spider_img/success"
+        success_base_url = self.base_image_path +"success"
         compare_image_list = os.listdir(success_base_url)
         if not compare_image_list:
             return -1
         image1 = Image.open(image_url)
         image_histogram = image1.histogram()
         for compare_image_str in compare_image_list:
-            image2 = Image.open("e:/spider_img/success/%s" % compare_image_str)
+            image2 = Image.open(self.base_image_path + ("success\\%s" % compare_image_str))
             histogram2 = image2.histogram()
             if image_histogram == histogram2:
                 differ = math.sqrt(

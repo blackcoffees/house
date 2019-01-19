@@ -1,0 +1,779 @@
+2019-01-19 09:06:09,516 - RealEstate.py[line:63] - INFO: 渝北：21
+2019-01-19 09:06:31,181 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.181000 渝北 籣亭新都汇 D幢 1单元 22-1
+2019-01-19 09:06:31,184 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.185000 渝北 籣亭新都汇 D幢 1单元 22-2
+2019-01-19 09:06:31,187 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.187000 渝北 籣亭新都汇 D幢 1单元 22-3
+2019-01-19 09:06:31,187 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.188000 渝北 籣亭新都汇 D幢 1单元 22-4
+2019-01-19 09:06:31,190 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.190000 渝北 籣亭新都汇 D幢 1单元 22-5
+2019-01-19 09:06:31,191 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.192000 渝北 籣亭新都汇 D幢 1单元 22-6
+2019-01-19 09:06:31,194 - RealEstate.py[line:164] - INFO: 2019-01-19 09:06:31.194000 渝北 籣亭新都汇 D幢 1单元 22-7
+2019-01-19 09:09:21,964 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:14:27,707 - RealEstate.py[line:63] - INFO: 渝北：21
+2019-01-19 09:14:40,956 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.956000 渝北 籣亭新都汇 D幢 1单元 22-1
+2019-01-19 09:14:40,959 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.959000 渝北 籣亭新都汇 D幢 1单元 22-2
+2019-01-19 09:14:40,961 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.962000 渝北 籣亭新都汇 D幢 1单元 22-3
+2019-01-19 09:14:40,963 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.963000 渝北 籣亭新都汇 D幢 1单元 22-4
+2019-01-19 09:14:40,966 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.966000 渝北 籣亭新都汇 D幢 1单元 22-5
+2019-01-19 09:14:40,967 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.967000 渝北 籣亭新都汇 D幢 1单元 22-6
+2019-01-19 09:14:40,969 - RealEstate.py[line:164] - INFO: 2019-01-19 09:14:40.969000 渝北 籣亭新都汇 D幢 1单元 22-7
+2019-01-19 09:14:51,236 - RealEstate.py[line:309] - INFO: 肇】遂/~74 荨于
+2019-01-19 09:14:51,326 - RealEstate.py[line:365] - INFO: 图片识别修正number1:.
+2019-01-19 09:14:51,401 - RealEstate.py[line:372] - INFO: 图片识别修正number2:4
+2019-01-19 09:14:51,408 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:14:51,417 - RealEstate.py[line:434] - INFO: 图片比较修正number1:None
+2019-01-19 09:14:58,392 - RealEstate.py[line:309] - INFO: 6减1等于
+2019-01-19 09:14:58,392 - RealEstate.py[line:333] - INFO: 验证码:6-1
+2019-01-19 09:15:13,818 - RealEstate.py[line:210] - INFO: 套内单价：14875， 套内面积：57.76
+2019-01-19 09:15:13,818 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:13.818000 渝北 籣亭新都汇 D幢 1单元 22-8
+2019-01-19 09:15:13,821 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:13.821000 渝北 籣亭新都汇 D幢 1单元 22-9
+2019-01-19 09:15:17,532 - RealEstate.py[line:309] - INFO: 9加2 等于
+2019-01-19 09:15:17,532 - RealEstate.py[line:333] - INFO: 验证码:9+2
+2019-01-19 09:15:31,214 - RealEstate.py[line:210] - INFO: 套内单价：15122， 套内面积：72.78
+2019-01-19 09:15:31,216 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.216000 渝北 籣亭新都汇 D幢 1单元 22-10
+2019-01-19 09:15:31,220 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.220000 渝北 籣亭新都汇 D幢 1单元 22-11
+2019-01-19 09:15:31,223 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.224000 渝北 籣亭新都汇 D幢 1单元 22-12
+2019-01-19 09:15:31,233 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.233000 渝北 籣亭新都汇 D幢 1单元 21-1
+2019-01-19 09:15:31,236 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.237000 渝北 籣亭新都汇 D幢 1单元 21-2
+2019-01-19 09:15:31,242 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.241000 渝北 籣亭新都汇 D幢 1单元 21-3
+2019-01-19 09:15:31,246 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.245000 渝北 籣亭新都汇 D幢 1单元 21-4
+2019-01-19 09:15:31,247 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.248000 渝北 籣亭新都汇 D幢 1单元 21-5
+2019-01-19 09:15:31,250 - RealEstate.py[line:164] - INFO: 2019-01-19 09:15:31.251000 渝北 籣亭新都汇 D幢 1单元 21-6
+2019-01-19 09:15:41,328 - RealEstate.py[line:309] - INFO: 9减8等芳
+2019-01-19 09:15:41,328 - RealEstate.py[line:333] - INFO: 验证码:9-8
+2019-01-19 09:16:15,779 - RealEstate.py[line:210] - INFO: 套内单价：15122， 套内面积：57.76
+2019-01-19 09:16:15,779 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.779000 渝北 籣亭新都汇 D幢 1单元 21-7
+2019-01-19 09:16:15,780 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.781000 渝北 籣亭新都汇 D幢 1单元 21-8
+2019-01-19 09:16:15,783 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.784000 渝北 籣亭新都汇 D幢 1单元 21-9
+2019-01-19 09:16:15,786 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.786000 渝北 籣亭新都汇 D幢 1单元 21-10
+2019-01-19 09:16:15,788 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.788000 渝北 籣亭新都汇 D幢 1单元 21-11
+2019-01-19 09:16:15,790 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.791000 渝北 籣亭新都汇 D幢 1单元 21-12
+2019-01-19 09:16:15,796 - RealEstate.py[line:164] - INFO: 2019-01-19 09:16:15.796000 渝北 籣亭新都汇 D幢 1单元 20-1
+2019-01-19 09:16:19,539 - RealEstate.py[line:309] - INFO: 孚占萦222衢7 等于
+2019-01-19 09:16:19,622 - RealEstate.py[line:365] - INFO: 图片识别修正number1:\\
+2019-01-19 09:16:19,707 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:16:19,716 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:16:19,721 - RealEstate.py[line:434] - INFO: 图片比较修正number1:None
+2019-01-19 09:16:36,835 - RealEstate.py[line:309] - INFO: 9减8等于
+2019-01-19 09:16:36,835 - RealEstate.py[line:333] - INFO: 验证码:9-8
+2019-01-19 09:17:17,012 - RealEstate.py[line:210] - INFO: 套内单价：12759， 套内面积：57.76
+2019-01-19 09:17:17,013 - RealEstate.py[line:164] - INFO: 2019-01-19 09:17:17.013000 渝北 籣亭新都汇 D幢 1单元 20-2
+2019-01-19 09:17:21,085 - RealEstate.py[line:309] - INFO: 凛减1等芳
+2019-01-19 09:17:21,174 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 09:17:21,174 - RealEstate.py[line:372] - INFO: 图片识别修正number2:1
+2019-01-19 09:17:21,174 - RealEstate.py[line:333] - INFO: 验证码:4-1
+2019-01-19 09:17:57,059 - RealEstate.py[line:210] - INFO: 套内单价：12759， 套内面积：57.76
+2019-01-19 09:17:57,059 - RealEstate.py[line:164] - INFO: 2019-01-19 09:17:57.059000 渝北 籣亭新都汇 D幢 1单元 20-3
+2019-01-19 09:18:03,891 - RealEstate.py[line:309] - INFO: 5减2等芳
+2019-01-19 09:18:03,891 - RealEstate.py[line:333] - INFO: 验证码:5-2
+2019-01-19 09:18:04,161 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:18:35,576 - RealEstate.py[line:210] - INFO: 套内单价：15208， 套内面积：72.78
+2019-01-19 09:18:35,576 - RealEstate.py[line:164] - INFO: 2019-01-19 09:18:35.577000 渝北 籣亭新都汇 D幢 1单元 20-4
+2019-01-19 09:18:47,371 - RealEstate.py[line:309] - INFO: 6加4 荨于
+2019-01-19 09:18:47,371 - RealEstate.py[line:333] - INFO: 验证码:6+4
+2019-01-19 09:18:50,586 - CommonUtils.py[line:106] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-01-19 09:18:50,592 - engine.py[line:256] - INFO: Spider opened
+2019-01-19 09:18:50,763 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-19 09:18:51,246 - scraper.py[line:208] - ERROR: Error downloading %(request)s
+Traceback (most recent call last):
+  File "E:\virtualenv\python27\lib\site-packages\twisted\internet\defer.py", line 1416, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\python\failure.py", line 491, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\utils\defer.py", line 45, in mustbe_deferred
+    result = f(*args, **kw)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\__init__.py", line 65, in download_request
+    return handler.download_request(request, spider)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 67, in download_request
+    return agent.download_request(request)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 331, in download_request
+    method, to_bytes(url, encoding='ascii'), headers, bodyproducer)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 252, in request
+    proxyEndpoint = self._getEndpoint(self._proxyURI)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\web\client.py", line 1635, in _getEndpoint
+    return self._endpointFactory.endpointForURI(uri)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\web\client.py", line 1513, in endpointForURI
+    raise SchemeNotSupported("Unsupported scheme: %r" % (uri.scheme,))
+SchemeNotSupported: Unsupported scheme: ''
+2019-01-19 09:18:51,400 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-19 09:18:51,401 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web.error.SchemeNotSupported': 1,
+ 'downloader/request_bytes': 597,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 1293,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 19, 1, 18, 51, 401000),
+ 'log_count/DEBUG': 2,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2019, 1, 19, 1, 18, 50, 763000)}
+2019-01-19 09:18:51,403 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-19 09:19:37,334 - RealEstate.py[line:210] - INFO: 套内单价：14838， 套内面积：48.51
+2019-01-19 09:19:37,335 - RealEstate.py[line:164] - INFO: 2019-01-19 09:19:37.334000 渝北 籣亭新都汇 D幢 1单元 20-5
+2019-01-19 09:19:37,336 - RealEstate.py[line:164] - INFO: 2019-01-19 09:19:37.337000 渝北 籣亭新都汇 D幢 1单元 20-6
+2019-01-19 09:19:37,339 - RealEstate.py[line:164] - INFO: 2019-01-19 09:19:37.339000 渝北 籣亭新都汇 D幢 1单元 20-7
+2019-01-19 09:19:45,390 - RealEstate.py[line:309] - INFO: 5减7等于
+2019-01-19 09:19:45,390 - RealEstate.py[line:333] - INFO: 验证码:5-7
+2019-01-19 09:19:51,960 - RealEstate.py[line:309] - INFO: 2万22二寮 等于
+2019-01-19 09:19:51,960 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:19:52,177 - RealEstate.py[line:383] - INFO: 图片识别修正operator:兹奴
+2019-01-19 09:19:52,184 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:19:52,184 - RealEstate.py[line:333] - INFO: 验证码:2+2
+2019-01-19 09:20:08,013 - RealEstate.py[line:309] - INFO: 6加9 等于
+2019-01-19 09:20:08,013 - RealEstate.py[line:333] - INFO: 验证码:6+9
+2019-01-19 09:20:40,908 - RealEstate.py[line:210] - INFO: 套内单价：15085， 套内面积：57.76
+2019-01-19 09:20:40,908 - RealEstate.py[line:164] - INFO: 2019-01-19 09:20:40.909000 渝北 籣亭新都汇 D幢 1单元 20-8
+2019-01-19 09:20:40,911 - RealEstate.py[line:164] - INFO: 2019-01-19 09:20:40.911000 渝北 籣亭新都汇 D幢 1单元 20-9
+2019-01-19 09:20:40,913 - RealEstate.py[line:164] - INFO: 2019-01-19 09:20:40.913000 渝北 籣亭新都汇 D幢 1单元 20-10
+2019-01-19 09:20:40,915 - RealEstate.py[line:164] - INFO: 2019-01-19 09:20:40.916000 渝北 籣亭新都汇 D幢 1单元 20-11
+2019-01-19 09:20:40,917 - RealEstate.py[line:164] - INFO: 2019-01-19 09:20:40.918000 渝北 籣亭新都汇 D幢 1单元 20-12
+2019-01-19 09:20:45,588 - RealEstate.py[line:309] - INFO: 8汐衢7二爹 等霁
+2019-01-19 09:20:45,670 - RealEstate.py[line:372] - INFO: 图片识别修正number2:3
+2019-01-19 09:20:46,062 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐奴
+2019-01-19 09:20:46,062 - RealEstate.py[line:333] - INFO: 验证码:8+3
+2019-01-19 09:20:56,776 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:21:01,562 - RealEstate.py[line:210] - INFO: 套内单价：12836， 套内面积：58.21
+2019-01-19 09:21:01,568 - RealEstate.py[line:164] - INFO: 2019-01-19 09:21:01.568000 渝北 籣亭新都汇 D幢 1单元 19-1
+2019-01-19 09:21:07,131 - RealEstate.py[line:309] - INFO: 6遂衢2口 等于
+2019-01-19 09:21:07,200 - RealEstate.py[line:372] - INFO: 图片识别修正number2:6
+2019-01-19 09:21:07,437 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐苡
+2019-01-19 09:21:07,443 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:21:11,176 - RealEstate.py[line:309] - INFO: 2加1 等芳
+2019-01-19 09:21:11,177 - RealEstate.py[line:333] - INFO: 验证码:2+1
+2019-01-19 09:21:29,898 - RealEstate.py[line:210] - INFO: 套内单价：12722， 套内面积：57.76
+2019-01-19 09:21:29,900 - RealEstate.py[line:164] - INFO: 2019-01-19 09:21:29.900000 渝北 籣亭新都汇 D幢 1单元 19-2
+2019-01-19 09:21:44,270 - RealEstate.py[line:309] - INFO: 霞遂刀9 等霁
+2019-01-19 09:21:44,348 - RealEstate.py[line:365] - INFO: 图片识别修正number1:6
+2019-01-19 09:21:44,421 - RealEstate.py[line:372] - INFO: 图片识别修正number2:.
+2019-01-19 09:21:44,428 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:21:44,434 - RealEstate.py[line:439] - INFO: 图片比较修正number2:None
+2019-01-19 09:22:02,967 - RealEstate.py[line:309] - INFO: 9减7等于
+2019-01-19 09:22:02,969 - RealEstate.py[line:333] - INFO: 验证码:9-7
+2019-01-19 09:22:18,073 - RealEstate.py[line:309] - INFO: 9减5 等芳
+2019-01-19 09:22:18,075 - RealEstate.py[line:333] - INFO: 验证码:9-5
+2019-01-19 09:22:45,101 - RealEstate.py[line:210] - INFO: 套内单价：12722， 套内面积：57.76
+2019-01-19 09:22:45,101 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.101000 渝北 籣亭新都汇 D幢 1单元 19-3
+2019-01-19 09:22:45,104 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.104000 渝北 籣亭新都汇 D幢 1单元 19-4
+2019-01-19 09:22:45,107 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.107000 渝北 籣亭新都汇 D幢 1单元 19-5
+2019-01-19 09:22:45,108 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.109000 渝北 籣亭新都汇 D幢 1单元 19-6
+2019-01-19 09:22:45,111 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.111000 渝北 籣亭新都汇 D幢 1单元 19-7
+2019-01-19 09:22:45,112 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.113000 渝北 籣亭新都汇 D幢 1单元 19-8
+2019-01-19 09:22:45,115 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.115000 渝北 籣亭新都汇 D幢 1单元 19-9
+2019-01-19 09:22:45,117 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.117000 渝北 籣亭新都汇 D幢 1单元 19-10
+2019-01-19 09:22:45,119 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.120000 渝北 籣亭新都汇 D幢 1单元 19-11
+2019-01-19 09:22:45,121 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.122000 渝北 籣亭新都汇 D幢 1单元 19-12
+2019-01-19 09:22:45,125 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.126000 渝北 籣亭新都汇 D幢 1单元 18-1
+2019-01-19 09:22:45,127 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.127000 渝北 籣亭新都汇 D幢 1单元 18-2
+2019-01-19 09:22:45,128 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.129000 渝北 籣亭新都汇 D幢 1单元 18-3
+2019-01-19 09:22:45,131 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.131000 渝北 籣亭新都汇 D幢 1单元 18-4
+2019-01-19 09:22:45,132 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.133000 渝北 籣亭新都汇 D幢 1单元 18-5
+2019-01-19 09:22:45,134 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.135000 渝北 籣亭新都汇 D幢 1单元 18-6
+2019-01-19 09:22:45,137 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.137000 渝北 籣亭新都汇 D幢 1单元 18-7
+2019-01-19 09:22:45,138 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.139000 渝北 籣亭新都汇 D幢 1单元 18-8
+2019-01-19 09:22:45,141 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.141000 渝北 籣亭新都汇 D幢 1单元 18-9
+2019-01-19 09:22:45,141 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.142000 渝北 籣亭新都汇 D幢 1单元 18-10
+2019-01-19 09:22:45,144 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.144000 渝北 籣亭新都汇 D幢 1单元 18-11
+2019-01-19 09:22:45,145 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.146000 渝北 籣亭新都汇 D幢 1单元 18-12
+2019-01-19 09:22:45,150 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.150000 渝北 籣亭新都汇 D幢 1单元 17-1
+2019-01-19 09:22:45,151 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.152000 渝北 籣亭新都汇 D幢 1单元 17-2
+2019-01-19 09:22:45,154 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.154000 渝北 籣亭新都汇 D幢 1单元 17-3
+2019-01-19 09:22:45,155 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.156000 渝北 籣亭新都汇 D幢 1单元 17-4
+2019-01-19 09:22:45,157 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.158000 渝北 籣亭新都汇 D幢 1单元 17-5
+2019-01-19 09:22:45,161 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.161000 渝北 籣亭新都汇 D幢 1单元 17-6
+2019-01-19 09:22:45,163 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.163000 渝北 籣亭新都汇 D幢 1单元 17-7
+2019-01-19 09:22:45,165 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.166000 渝北 籣亭新都汇 D幢 1单元 17-8
+2019-01-19 09:22:45,167 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.168000 渝北 籣亭新都汇 D幢 1单元 17-9
+2019-01-19 09:22:45,170 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.170000 渝北 籣亭新都汇 D幢 1单元 17-10
+2019-01-19 09:22:45,171 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.172000 渝北 籣亭新都汇 D幢 1单元 17-11
+2019-01-19 09:22:45,174 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.174000 渝北 籣亭新都汇 D幢 1单元 17-12
+2019-01-19 09:22:45,178 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.179000 渝北 籣亭新都汇 D幢 1单元 16-1
+2019-01-19 09:22:45,180 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.181000 渝北 籣亭新都汇 D幢 1单元 16-2
+2019-01-19 09:22:45,184 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.184000 渝北 籣亭新都汇 D幢 1单元 16-3
+2019-01-19 09:22:45,186 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.186000 渝北 籣亭新都汇 D幢 1单元 16-4
+2019-01-19 09:22:45,187 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.188000 渝北 籣亭新都汇 D幢 1单元 16-5
+2019-01-19 09:22:45,190 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.190000 渝北 籣亭新都汇 D幢 1单元 16-6
+2019-01-19 09:22:45,191 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.192000 渝北 籣亭新都汇 D幢 1单元 16-7
+2019-01-19 09:22:45,194 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.193000 渝北 籣亭新都汇 D幢 1单元 16-8
+2019-01-19 09:22:45,196 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.196000 渝北 籣亭新都汇 D幢 1单元 16-9
+2019-01-19 09:22:45,197 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.197000 渝北 籣亭新都汇 D幢 1单元 16-10
+2019-01-19 09:22:45,200 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.200000 渝北 籣亭新都汇 D幢 1单元 16-11
+2019-01-19 09:22:45,200 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.201000 渝北 籣亭新都汇 D幢 1单元 16-12
+2019-01-19 09:22:45,206 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.206000 渝北 籣亭新都汇 D幢 1单元 15-1
+2019-01-19 09:22:45,207 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.207000 渝北 籣亭新都汇 D幢 1单元 15-2
+2019-01-19 09:22:45,209 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.209000 渝北 籣亭新都汇 D幢 1单元 15-3
+2019-01-19 09:22:45,210 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.211000 渝北 籣亭新都汇 D幢 1单元 15-4
+2019-01-19 09:22:45,213 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.213000 渝北 籣亭新都汇 D幢 1单元 15-5
+2019-01-19 09:22:45,214 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.215000 渝北 籣亭新都汇 D幢 1单元 15-6
+2019-01-19 09:22:45,217 - RealEstate.py[line:164] - INFO: 2019-01-19 09:22:45.218000 渝北 籣亭新都汇 D幢 1单元 15-7
+2019-01-19 09:23:08,696 - RealEstate.py[line:309] - INFO: 3减2等芳
+2019-01-19 09:23:08,696 - RealEstate.py[line:333] - INFO: 验证码:3-2
+2019-01-19 09:24:25,704 - RealEstate.py[line:210] - INFO: 套内单价：14900， 套内面积：57.76
+2019-01-19 09:24:25,704 - RealEstate.py[line:164] - INFO: 2019-01-19 09:24:25.705000 渝北 籣亭新都汇 D幢 1单元 15-8
+2019-01-19 09:24:25,707 - RealEstate.py[line:164] - INFO: 2019-01-19 09:24:25.707000 渝北 籣亭新都汇 D幢 1单元 15-9
+2019-01-19 09:24:25,709 - RealEstate.py[line:164] - INFO: 2019-01-19 09:24:25.709000 渝北 籣亭新都汇 D幢 1单元 15-10
+2019-01-19 09:24:37,381 - RealEstate.py[line:309] - INFO: 927/~78 等于
+2019-01-19 09:24:37,381 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:24:37,608 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐奴
+2019-01-19 09:24:37,608 - RealEstate.py[line:333] - INFO: 验证码:9+7
+2019-01-19 09:24:51,551 - RealEstate.py[line:309] - INFO: 9减B等于
+2019-01-19 09:24:51,627 - RealEstate.py[line:372] - INFO: 图片识别修正number2:\\
+2019-01-19 09:24:51,632 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:24:51,638 - RealEstate.py[line:439] - INFO: 图片比较修正number2:8
+2019-01-19 09:24:58,190 - RealEstate.py[line:309] - INFO: 藜2夕乙73 等子
+2019-01-19 09:24:58,266 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 09:24:58,346 - RealEstate.py[line:372] - INFO: 图片识别修正number2:3
+2019-01-19 09:24:58,578 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z夕乙7
+2019-01-19 09:24:58,584 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:24:58,584 - RealEstate.py[line:333] - INFO: 验证码:4+3
+2019-01-19 09:26:15,526 - RealEstate.py[line:210] - INFO: 套内单价：14900， 套内面积：48.51
+2019-01-19 09:26:15,526 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:15.527000 渝北 籣亭新都汇 D幢 1单元 15-11
+2019-01-19 09:26:15,529 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:15.529000 渝北 籣亭新都汇 D幢 1单元 15-12
+2019-01-19 09:26:15,533 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:15.534000 渝北 籣亭新都汇 D幢 1单元 14-1
+2019-01-19 09:26:23,648 - RealEstate.py[line:309] - INFO: 9减3等于
+2019-01-19 09:26:23,648 - RealEstate.py[line:333] - INFO: 验证码:9-3
+2019-01-19 09:26:58,052 - RealEstate.py[line:210] - INFO: 套内单价：14986， 套内面积：57.76
+2019-01-19 09:26:58,053 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.054000 渝北 籣亭新都汇 D幢 1单元 14-2
+2019-01-19 09:26:58,056 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.057000 渝北 籣亭新都汇 D幢 1单元 14-3
+2019-01-19 09:26:58,059 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.058000 渝北 籣亭新都汇 D幢 1单元 14-4
+2019-01-19 09:26:58,061 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.061000 渝北 籣亭新都汇 D幢 1单元 14-5
+2019-01-19 09:26:58,062 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.062000 渝北 籣亭新都汇 D幢 1单元 14-6
+2019-01-19 09:26:58,063 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.064000 渝北 籣亭新都汇 D幢 1单元 14-7
+2019-01-19 09:26:58,065 - RealEstate.py[line:164] - INFO: 2019-01-19 09:26:58.066000 渝北 籣亭新都汇 D幢 1单元 14-8
+2019-01-19 09:27:01,773 - RealEstate.py[line:309] - INFO: 322/75 等于
+2019-01-19 09:27:01,773 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:27:02,003 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐夕
+2019-01-19 09:27:02,009 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:27:07,630 - RealEstate.py[line:309] - INFO: 5减4等芳
+2019-01-19 09:27:07,630 - RealEstate.py[line:333] - INFO: 验证码:5-4
+2019-01-19 09:28:11,608 - RealEstate.py[line:210] - INFO: 套内单价：14924， 套内面积：58.21
+2019-01-19 09:28:11,609 - RealEstate.py[line:164] - INFO: 2019-01-19 09:28:11.610000 渝北 籣亭新都汇 D幢 1单元 14-9
+2019-01-19 09:28:30,033 - RealEstate.py[line:309] - INFO: 凛加2 等于
+2019-01-19 09:28:30,107 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 09:28:30,107 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:28:30,107 - RealEstate.py[line:333] - INFO: 验证码:4+2
+2019-01-19 09:29:56,849 - RealEstate.py[line:210] - INFO: 套内单价：15109， 套内面积：72.78
+2019-01-19 09:29:56,851 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.851000 渝北 籣亭新都汇 D幢 1单元 14-10
+2019-01-19 09:29:56,852 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.853000 渝北 籣亭新都汇 D幢 1单元 14-11
+2019-01-19 09:29:56,855 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.855000 渝北 籣亭新都汇 D幢 1单元 14-12
+2019-01-19 09:29:56,858 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.859000 渝北 籣亭新都汇 D幢 1单元 13-1
+2019-01-19 09:29:56,861 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.862000 渝北 籣亭新都汇 D幢 1单元 13-2
+2019-01-19 09:29:56,862 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.863000 渝北 籣亭新都汇 D幢 1单元 13-3
+2019-01-19 09:29:56,865 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.865000 渝北 籣亭新都汇 D幢 1单元 13-4
+2019-01-19 09:29:56,867 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.867000 渝北 籣亭新都汇 D幢 1单元 13-5
+2019-01-19 09:29:56,869 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.869000 渝北 籣亭新都汇 D幢 1单元 13-6
+2019-01-19 09:29:56,872 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.873000 渝北 籣亭新都汇 D幢 1单元 13-7
+2019-01-19 09:29:56,874 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.874000 渝北 籣亭新都汇 D幢 1单元 13-8
+2019-01-19 09:29:56,877 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.876000 渝北 籣亭新都汇 D幢 1单元 13-9
+2019-01-19 09:29:56,878 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.878000 渝北 籣亭新都汇 D幢 1单元 13-10
+2019-01-19 09:29:56,881 - RealEstate.py[line:164] - INFO: 2019-01-19 09:29:56.880000 渝北 籣亭新都汇 D幢 1单元 13-11
+2019-01-19 09:30:04,690 - RealEstate.py[line:309] - INFO: 12夕娜2 等于
+2019-01-19 09:30:04,759 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:30:05,003 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z亓苡
+2019-01-19 09:30:05,012 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:30:05,012 - RealEstate.py[line:333] - INFO: 验证码:1+2
+2019-01-19 09:30:18,434 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:30:27,674 - engine.py[line:256] - INFO: Spider opened
+2019-01-19 09:30:27,707 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-19 09:30:47,240 - RealEstate.py[line:210] - INFO: 套内单价：15196， 套内面积：72.78
+2019-01-19 09:30:47,240 - RealEstate.py[line:164] - INFO: 2019-01-19 09:30:47.241000 渝北 籣亭新都汇 D幢 1单元 13-12
+2019-01-19 09:30:47,246 - RealEstate.py[line:164] - INFO: 2019-01-19 09:30:47.246000 渝北 籣亭新都汇 D幢 1单元 12-1
+2019-01-19 09:30:50,961 - RealEstate.py[line:309] - INFO: 3加4 等霁
+2019-01-19 09:30:50,961 - RealEstate.py[line:333] - INFO: 验证码:3+4
+2019-01-19 09:31:03,759 - RealEstate.py[line:210] - INFO: 套内单价：14912， 套内面积：57.76
+2019-01-19 09:31:03,760 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:03.761000 渝北 籣亭新都汇 D幢 1单元 12-2
+2019-01-19 09:31:03,763 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:03.763000 渝北 籣亭新都汇 D幢 1单元 12-3
+2019-01-19 09:31:03,765 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:03.765000 渝北 籣亭新都汇 D幢 1单元 12-4
+2019-01-19 09:31:07,573 - RealEstate.py[line:309] - INFO: 7遂瘁7等于
+2019-01-19 09:31:07,655 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:31:07,888 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐江
+2019-01-19 09:31:07,894 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:31:07,894 - RealEstate.py[line:333] - INFO: 验证码:7+7
+2019-01-19 09:31:28,279 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-19 09:31:57,522 - RealEstate.py[line:210] - INFO: 套内单价：14542， 套内面积：48.51
+2019-01-19 09:31:57,522 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.522000 渝北 籣亭新都汇 D幢 1单元 12-5
+2019-01-19 09:31:57,525 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.525000 渝北 籣亭新都汇 D幢 1单元 12-6
+2019-01-19 09:31:57,526 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.527000 渝北 籣亭新都汇 D幢 1单元 12-7
+2019-01-19 09:31:57,529 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.529000 渝北 籣亭新都汇 D幢 1单元 12-8
+2019-01-19 09:31:57,532 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.532000 渝北 籣亭新都汇 D幢 1单元 12-9
+2019-01-19 09:31:57,533 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.534000 渝北 籣亭新都汇 D幢 1单元 12-10
+2019-01-19 09:31:57,536 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.536000 渝北 籣亭新都汇 D幢 1单元 12-11
+2019-01-19 09:31:57,538 - RealEstate.py[line:164] - INFO: 2019-01-19 09:31:57.538000 渝北 籣亭新都汇 D幢 1单元 12-12
+2019-01-19 09:32:01,648 - RealEstate.py[line:309] - INFO: 8减2等于
+2019-01-19 09:32:01,650 - RealEstate.py[line:333] - INFO: 验证码:8-2
+2019-01-19 09:32:09,224 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:32:15,806 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:32:17,904 - RealEstate.py[line:210] - INFO: 套内单价：14974， 套内面积：58.21
+2019-01-19 09:32:17,907 - RealEstate.py[line:164] - INFO: 2019-01-19 09:32:17.907000 渝北 籣亭新都汇 D幢 1单元 11-1
+2019-01-19 09:32:17,908 - RealEstate.py[line:164] - INFO: 2019-01-19 09:32:17.909000 渝北 籣亭新都汇 D幢 1单元 11-2
+2019-01-19 09:32:17,911 - RealEstate.py[line:164] - INFO: 2019-01-19 09:32:17.911000 渝北 籣亭新都汇 D幢 1单元 11-3
+2019-01-19 09:32:17,913 - RealEstate.py[line:164] - INFO: 2019-01-19 09:32:17.913000 渝北 籣亭新都汇 D幢 1单元 11-4
+2019-01-19 09:32:21,607 - RealEstate.py[line:309] - INFO: 927/78 等于
+2019-01-19 09:32:21,608 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:32:21,848 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z7/Z
+2019-01-19 09:32:21,855 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:32:21,855 - RealEstate.py[line:333] - INFO: 验证码:9+7
+2019-01-19 09:32:25,724 - RealEstate.py[line:309] - INFO: 乏魔2夕衢24 等于
+2019-01-19 09:32:25,799 - RealEstate.py[line:365] - INFO: 图片识别修正number1:\\
+2019-01-19 09:32:25,799 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:32:25,805 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:32:25,812 - RealEstate.py[line:434] - INFO: 图片比较修正number1:None
+2019-01-19 09:32:29,532 - RealEstate.py[line:309] - INFO: 2减2等芳
+2019-01-19 09:32:29,533 - RealEstate.py[line:333] - INFO: 验证码:2-2
+2019-01-19 09:33:01,858 - CommonUtils.py[line:106] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-19 09:33:01,861 - engine.py[line:256] - INFO: Spider opened
+2019-01-19 09:33:01,871 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-19 09:33:02,112 - scraper.py[line:208] - ERROR: Error downloading %(request)s
+Traceback (most recent call last):
+  File "E:\virtualenv\python27\lib\site-packages\twisted\internet\defer.py", line 1416, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\python\failure.py", line 491, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\utils\defer.py", line 45, in mustbe_deferred
+    result = f(*args, **kw)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\__init__.py", line 65, in download_request
+    return handler.download_request(request, spider)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 67, in download_request
+    return agent.download_request(request)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 331, in download_request
+    method, to_bytes(url, encoding='ascii'), headers, bodyproducer)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 252, in request
+    proxyEndpoint = self._getEndpoint(self._proxyURI)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\web\client.py", line 1635, in _getEndpoint
+    return self._endpointFactory.endpointForURI(uri)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\web\client.py", line 1513, in endpointForURI
+    raise SchemeNotSupported("Unsupported scheme: %r" % (uri.scheme,))
+SchemeNotSupported: Unsupported scheme: ''
+2019-01-19 09:33:02,214 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-19 09:33:02,217 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web.error.SchemeNotSupported': 1,
+ 'downloader/request_bytes': 597,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 1293,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 19, 1, 33, 2, 216000),
+ 'log_count/DEBUG': 2,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2019, 1, 19, 1, 33, 1, 872000)}
+2019-01-19 09:33:02,217 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-19 09:33:15,697 - RealEstate.py[line:210] - INFO: 套内单价：14505， 套内面积：48.51
+2019-01-19 09:33:15,697 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.698000 渝北 籣亭新都汇 D幢 1单元 11-5
+2019-01-19 09:33:15,700 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.700000 渝北 籣亭新都汇 D幢 1单元 11-6
+2019-01-19 09:33:15,701 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.702000 渝北 籣亭新都汇 D幢 1单元 11-7
+2019-01-19 09:33:15,703 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.704000 渝北 籣亭新都汇 D幢 1单元 11-8
+2019-01-19 09:33:15,706 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.706000 渝北 籣亭新都汇 D幢 1单元 11-9
+2019-01-19 09:33:15,707 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.708000 渝北 籣亭新都汇 D幢 1单元 11-10
+2019-01-19 09:33:15,710 - RealEstate.py[line:164] - INFO: 2019-01-19 09:33:15.710000 渝北 籣亭新都汇 D幢 1单元 11-11
+2019-01-19 09:33:27,401 - RealEstate.py[line:309] - INFO: 6减3 等于
+2019-01-19 09:33:27,401 - RealEstate.py[line:333] - INFO: 验证码:6-3
+2019-01-19 09:35:08,471 - RealEstate.py[line:210] - INFO: 套内单价：15122， 套内面积：72.78
+2019-01-19 09:35:08,473 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.473000 渝北 籣亭新都汇 D幢 1单元 11-12
+2019-01-19 09:35:08,476 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.477000 渝北 籣亭新都汇 D幢 1单元 10-1
+2019-01-19 09:35:08,480 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.479000 渝北 籣亭新都汇 D幢 1单元 10-2
+2019-01-19 09:35:08,482 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.482000 渝北 籣亭新都汇 D幢 1单元 10-3
+2019-01-19 09:35:08,483 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.483000 渝北 籣亭新都汇 D幢 1单元 10-4
+2019-01-19 09:35:08,484 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.485000 渝北 籣亭新都汇 D幢 1单元 10-5
+2019-01-19 09:35:08,486 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.487000 渝北 籣亭新都汇 D幢 1单元 10-6
+2019-01-19 09:35:08,489 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.489000 渝北 籣亭新都汇 D幢 1单元 10-7
+2019-01-19 09:35:08,490 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.491000 渝北 籣亭新都汇 D幢 1单元 10-8
+2019-01-19 09:35:08,492 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.492000 渝北 籣亭新都汇 D幢 1单元 10-9
+2019-01-19 09:35:08,493 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:08.494000 渝北 籣亭新都汇 D幢 1单元 10-10
+2019-01-19 09:35:12,596 - RealEstate.py[line:309] - INFO: 5加5 等于
+2019-01-19 09:35:12,596 - RealEstate.py[line:333] - INFO: 验证码:5+5
+2019-01-19 09:35:53,608 - RealEstate.py[line:210] - INFO: 套内单价：14715， 套内面积：48.51
+2019-01-19 09:35:53,608 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.609000 渝北 籣亭新都汇 D幢 1单元 10-11
+2019-01-19 09:35:53,611 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.611000 渝北 籣亭新都汇 D幢 1单元 10-12
+2019-01-19 09:35:53,615 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.615000 渝北 籣亭新都汇 D幢 1单元 9-1
+2019-01-19 09:35:53,618 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.618000 渝北 籣亭新都汇 D幢 1单元 9-2
+2019-01-19 09:35:53,619 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.620000 渝北 籣亭新都汇 D幢 1单元 9-3
+2019-01-19 09:35:53,621 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.622000 渝北 籣亭新都汇 D幢 1单元 9-4
+2019-01-19 09:35:53,624 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.624000 渝北 籣亭新都汇 D幢 1单元 9-5
+2019-01-19 09:35:53,625 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.626000 渝北 籣亭新都汇 D幢 1单元 9-6
+2019-01-19 09:35:53,628 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.628000 渝北 籣亭新都汇 D幢 1单元 9-7
+2019-01-19 09:35:53,630 - RealEstate.py[line:164] - INFO: 2019-01-19 09:35:53.630000 渝北 籣亭新都汇 D幢 1单元 9-8
+2019-01-19 09:35:59,204 - RealEstate.py[line:309] - INFO: 32加1 荨于
+2019-01-19 09:35:59,328 - RealEstate.py[line:372] - INFO: 图片识别修正number2:1
+2019-01-19 09:35:59,565 - RealEstate.py[line:383] - INFO: 图片识别修正operator:，歹奴
+2019-01-19 09:35:59,572 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:36:05,049 - RealEstate.py[line:309] - INFO: 1，27衢2恙歹 等芳
+2019-01-19 09:36:05,049 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:36:05,263 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐夕
+2019-01-19 09:36:05,269 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:36:09,943 - RealEstate.py[line:309] - INFO: 藜减凛等芳
+2019-01-19 09:36:10,073 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 09:36:10,141 - RealEstate.py[line:372] - INFO: 图片识别修正number2:.
+2019-01-19 09:36:10,147 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:36:10,154 - RealEstate.py[line:439] - INFO: 图片比较修正number2:None
+2019-01-19 09:36:13,930 - RealEstate.py[line:309] - INFO: 5减4 等于
+2019-01-19 09:36:13,930 - RealEstate.py[line:333] - INFO: 验证码:5-4
+2019-01-19 09:37:13,851 - RealEstate.py[line:210] - INFO: 套内单价：14739， 套内面积：58.21
+2019-01-19 09:37:13,851 - RealEstate.py[line:164] - INFO: 2019-01-19 09:37:13.852000 渝北 籣亭新都汇 D幢 1单元 9-9
+2019-01-19 09:37:13,854 - RealEstate.py[line:164] - INFO: 2019-01-19 09:37:13.854000 渝北 籣亭新都汇 D幢 1单元 9-10
+2019-01-19 09:37:13,857 - RealEstate.py[line:164] - INFO: 2019-01-19 09:37:13.857000 渝北 籣亭新都汇 D幢 1单元 9-11
+2019-01-19 09:37:13,859 - RealEstate.py[line:164] - INFO: 2019-01-19 09:37:13.860000 渝北 籣亭新都汇 D幢 1单元 9-12
+2019-01-19 09:37:13,864 - RealEstate.py[line:164] - INFO: 2019-01-19 09:37:13.864000 渝北 籣亭新都汇 D幢 1单元 8-1
+2019-01-19 09:37:42,351 - RealEstate.py[line:309] - INFO: 2才瘁9 等于
+2019-01-19 09:37:42,470 - RealEstate.py[line:372] - INFO: 图片识别修正number2:.
+2019-01-19 09:37:42,479 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:37:42,484 - RealEstate.py[line:439] - INFO: 图片比较修正number2:None
+2019-01-19 09:37:46,348 - RealEstate.py[line:309] - INFO: 12夕衢77 等子
+2019-01-19 09:37:46,420 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:37:46,660 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z亓奴
+2019-01-19 09:37:46,667 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:37:46,667 - RealEstate.py[line:333] - INFO: 验证码:1+7
+2019-01-19 09:38:18,990 - RealEstate.py[line:210] - INFO: 套内单价：14517， 套内面积：57.76
+2019-01-19 09:38:18,990 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:18.990000 渝北 籣亭新都汇 D幢 1单元 8-2
+2019-01-19 09:38:18,994 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:18.995000 渝北 籣亭新都汇 D幢 1单元 8-3
+2019-01-19 09:38:22,697 - RealEstate.py[line:309] - INFO: 4减A等于
+2019-01-19 09:38:22,825 - RealEstate.py[line:372] - INFO: 图片识别修正number2:3
+2019-01-19 09:38:22,826 - RealEstate.py[line:333] - INFO: 验证码:4-3
+2019-01-19 09:38:38,026 - RealEstate.py[line:210] - INFO: 套内单价：14764， 套内面积：72.78
+2019-01-19 09:38:38,026 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:38.027000 渝北 籣亭新都汇 D幢 1单元 8-4
+2019-01-19 09:38:38,029 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:38.029000 渝北 籣亭新都汇 D幢 1单元 8-5
+2019-01-19 09:38:38,029 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:38.030000 渝北 籣亭新都汇 D幢 1单元 8-6
+2019-01-19 09:38:38,032 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:38.032000 渝北 籣亭新都汇 D幢 1单元 8-7
+2019-01-19 09:38:38,033 - RealEstate.py[line:164] - INFO: 2019-01-19 09:38:38.034000 渝北 籣亭新都汇 D幢 1单元 8-8
+2019-01-19 09:38:58,345 - RealEstate.py[line:309] - INFO: 1加3等芳
+2019-01-19 09:38:58,345 - RealEstate.py[line:333] - INFO: 验证码:1+3
+2019-01-19 09:39:28,322 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-19 09:39:55,779 - RealEstate.py[line:210] - INFO: 套内单价：14702， 套内面积：58.21
+2019-01-19 09:39:55,779 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.780000 渝北 籣亭新都汇 D幢 1单元 8-9
+2019-01-19 09:39:55,783 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.784000 渝北 籣亭新都汇 D幢 1单元 8-10
+2019-01-19 09:39:55,789 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.789000 渝北 籣亭新都汇 D幢 1单元 8-11
+2019-01-19 09:39:55,792 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.792000 渝北 籣亭新都汇 D幢 1单元 8-12
+2019-01-19 09:39:55,796 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.797000 渝北 籣亭新都汇 D幢 1单元 7-1
+2019-01-19 09:39:55,799 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.799000 渝北 籣亭新都汇 D幢 1单元 7-2
+2019-01-19 09:39:55,801 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.801000 渝北 籣亭新都汇 D幢 1单元 7-3
+2019-01-19 09:39:55,802 - RealEstate.py[line:164] - INFO: 2019-01-19 09:39:55.803000 渝北 籣亭新都汇 D幢 1单元 7-4
+2019-01-19 09:40:02,286 - RealEstate.py[line:309] - INFO: 一1汐衢74 等于
+2019-01-19 09:40:02,361 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 09:40:02,436 - RealEstate.py[line:372] - INFO: 图片识别修正number2:4
+2019-01-19 09:40:02,680 - RealEstate.py[line:383] - INFO: 图片识别修正operator:，歹刀
+2019-01-19 09:40:02,686 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:40:02,687 - RealEstate.py[line:333] - INFO: 验证码:4+4
+2019-01-19 09:40:59,618 - RealEstate.py[line:210] - INFO: 套内单价：14357， 套内面积：48.51
+2019-01-19 09:40:59,619 - RealEstate.py[line:164] - INFO: 2019-01-19 09:40:59.620000 渝北 籣亭新都汇 D幢 1单元 7-5
+2019-01-19 09:40:59,621 - RealEstate.py[line:164] - INFO: 2019-01-19 09:40:59.622000 渝北 籣亭新都汇 D幢 1单元 7-6
+2019-01-19 09:41:15,094 - RealEstate.py[line:309] - INFO: 5减1等于
+2019-01-19 09:41:15,094 - RealEstate.py[line:333] - INFO: 验证码:5-1
+2019-01-19 09:42:16,138 - RealEstate.py[line:210] - INFO: 套内单价：14604， 套内面积：57.76
+2019-01-19 09:42:16,140 - RealEstate.py[line:164] - INFO: 2019-01-19 09:42:16.140000 渝北 籣亭新都汇 D幢 1单元 7-7
+2019-01-19 09:42:16,142 - RealEstate.py[line:164] - INFO: 2019-01-19 09:42:16.143000 渝北 籣亭新都汇 D幢 1单元 7-8
+2019-01-19 09:42:34,707 - RealEstate.py[line:309] - INFO: 4减1等于
+2019-01-19 09:42:34,707 - RealEstate.py[line:333] - INFO: 验证码:4-1
+2019-01-19 09:44:12,585 - RealEstate.py[line:210] - INFO: 套内单价：7704， 套内面积：58.21
+2019-01-19 09:44:12,585 - RealEstate.py[line:164] - INFO: 2019-01-19 09:44:12.586000 渝北 籣亭新都汇 D幢 1单元 7-9
+2019-01-19 09:44:12,588 - RealEstate.py[line:164] - INFO: 2019-01-19 09:44:12.588000 渝北 籣亭新都汇 D幢 1单元 7-10
+2019-01-19 09:44:24,296 - RealEstate.py[line:309] - INFO: 8减7等芳
+2019-01-19 09:44:24,296 - RealEstate.py[line:333] - INFO: 验证码:8-7
+2019-01-19 09:44:54,737 - RealEstate.py[line:210] - INFO: 套内单价：7519， 套内面积：48.51
+2019-01-19 09:44:54,739 - RealEstate.py[line:164] - INFO: 2019-01-19 09:44:54.738000 渝北 籣亭新都汇 D幢 1单元 7-11
+2019-01-19 09:44:54,740 - RealEstate.py[line:164] - INFO: 2019-01-19 09:44:54.741000 渝北 籣亭新都汇 D幢 1单元 7-12
+2019-01-19 09:44:54,746 - RealEstate.py[line:164] - INFO: 2019-01-19 09:44:54.747000 渝北 籣亭新都汇 D幢 1单元 6-1
+2019-01-19 09:44:54,750 - RealEstate.py[line:164] - INFO: 2019-01-19 09:44:54.750000 渝北 籣亭新都汇 D幢 1单元 6-2
+2019-01-19 09:45:00,450 - RealEstate.py[line:309] - INFO: 3减1等芳
+2019-01-19 09:45:00,450 - RealEstate.py[line:333] - INFO: 验证码:3-1
+2019-01-19 09:46:02,979 - RealEstate.py[line:210] - INFO: 套内单价：14443， 套内面积：57.76
+2019-01-19 09:46:02,980 - RealEstate.py[line:164] - INFO: 2019-01-19 09:46:02.981000 渝北 籣亭新都汇 D幢 1单元 6-3
+2019-01-19 09:46:06,753 - RealEstate.py[line:309] - INFO: 9减7等于
+2019-01-19 09:46:06,753 - RealEstate.py[line:333] - INFO: 验证码:9-7
+2019-01-19 09:46:20,051 - RealEstate.py[line:210] - INFO: 套内单价：14320， 套内面积：72.78
+2019-01-19 09:46:20,051 - RealEstate.py[line:164] - INFO: 2019-01-19 09:46:20.051000 渝北 籣亭新都汇 D幢 1单元 6-4
+2019-01-19 09:46:23,746 - RealEstate.py[line:309] - INFO: 一12夕/~7圣) 等于
+2019-01-19 09:46:23,819 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 09:46:23,819 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:46:24,039 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z夕刀
+2019-01-19 09:46:24,046 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:46:24,046 - RealEstate.py[line:333] - INFO: 验证码:4+2
+2019-01-19 09:46:27,969 - RealEstate.py[line:309] - INFO: 8减8等芳
+2019-01-19 09:46:27,969 - RealEstate.py[line:333] - INFO: 验证码:8-8
+2019-01-19 09:46:52,332 - RealEstate.py[line:210] - INFO: 套内单价：13950， 套内面积：48.51
+2019-01-19 09:46:52,334 - RealEstate.py[line:164] - INFO: 2019-01-19 09:46:52.334000 渝北 籣亭新都汇 D幢 1单元 6-5
+2019-01-19 09:46:56,108 - RealEstate.py[line:309] - INFO: 7减6 等于
+2019-01-19 09:46:56,108 - RealEstate.py[line:333] - INFO: 验证码:7-6
+2019-01-19 09:47:22,451 - RealEstate.py[line:210] - INFO: 套内单价：14197， 套内面积：72.78
+2019-01-19 09:47:22,453 - RealEstate.py[line:164] - INFO: 2019-01-19 09:47:22.453000 渝北 籣亭新都汇 D幢 1单元 6-6
+2019-01-19 09:47:26,118 - RealEstate.py[line:309] - INFO: 72寮衢7二寮 等于
+2019-01-19 09:47:26,201 - RealEstate.py[line:372] - INFO: 图片识别修正number2:3
+2019-01-19 09:47:26,437 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z寮办
+2019-01-19 09:47:26,444 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:47:26,444 - RealEstate.py[line:333] - INFO: 验证码:7+3
+2019-01-19 09:48:08,411 - RealEstate.py[line:210] - INFO: 套内单价：14567， 套内面积：57.76
+2019-01-19 09:48:08,413 - RealEstate.py[line:164] - INFO: 2019-01-19 09:48:08.413000 渝北 籣亭新都汇 D幢 1单元 6-7
+2019-01-19 09:48:14,035 - RealEstate.py[line:309] - INFO: 1汐衢24 等于
+2019-01-19 09:48:14,111 - RealEstate.py[line:372] - INFO: 图片识别修正number2:4
+2019-01-19 09:48:14,321 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐衢Z
+2019-01-19 09:48:14,328 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:48:19,604 - RealEstate.py[line:309] - INFO: 乏家2夕衢22 等霁
+2019-01-19 09:48:19,676 - RealEstate.py[line:365] - INFO: 图片识别修正number1:\
+2019-01-19 09:48:19,676 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:48:19,681 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:48:19,688 - RealEstate.py[line:434] - INFO: 图片比较修正number1:None
+2019-01-19 09:48:37,594 - RealEstate.py[line:309] - INFO: 9藜奴7 等于
+2019-01-19 09:48:37,661 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:48:37,884 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z亓奴
+2019-01-19 09:48:37,891 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:48:37,891 - RealEstate.py[line:333] - INFO: 验证码:9+7
+2019-01-19 09:49:16,951 - RealEstate.py[line:210] - INFO: 套内单价：14567， 套内面积：57.76
+2019-01-19 09:49:16,953 - RealEstate.py[line:164] - INFO: 2019-01-19 09:49:16.953000 渝北 籣亭新都汇 D幢 1单元 6-8
+2019-01-19 09:49:27,720 - RealEstate.py[line:309] - INFO: 5加6 等霁
+2019-01-19 09:49:27,721 - RealEstate.py[line:333] - INFO: 验证码:5+6
+2019-01-19 09:50:26,987 - RealEstate.py[line:210] - INFO: 套内单价：14628， 套内面积：58.21
+2019-01-19 09:50:26,987 - RealEstate.py[line:164] - INFO: 2019-01-19 09:50:26.988000 渝北 籣亭新都汇 D幢 1单元 6-9
+2019-01-19 09:50:31,170 - RealEstate.py[line:309] - INFO: G27刀4 等于
+2019-01-19 09:50:31,252 - RealEstate.py[line:365] - INFO: 图片识别修正number1:6
+2019-01-19 09:50:31,252 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 09:50:31,486 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐苡
+2019-01-19 09:50:31,493 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:50:31,494 - RealEstate.py[line:333] - INFO: 验证码:6+7
+2019-01-19 09:50:46,279 - RealEstate.py[line:309] - INFO: 8加4 等芳
+2019-01-19 09:50:46,280 - RealEstate.py[line:333] - INFO: 验证码:8+4
+2019-01-19 09:51:38,029 - RealEstate.py[line:210] - INFO: 套内单价：8000， 套内面积：75.47
+2019-01-19 09:51:38,030 - RealEstate.py[line:164] - INFO: 2019-01-19 09:51:38.031000 渝北 籣亭新都汇 D幢 1单元 6-10
+2019-01-19 09:51:41,765 - RealEstate.py[line:309] - INFO: 6减3等于
+2019-01-19 09:51:41,765 - RealEstate.py[line:333] - INFO: 验证码:6-3
+2019-01-19 09:52:44,065 - RealEstate.py[line:210] - INFO: 套内单价：14443， 套内面积：48.51
+2019-01-19 09:52:44,065 - RealEstate.py[line:164] - INFO: 2019-01-19 09:52:44.066000 渝北 籣亭新都汇 D幢 1单元 6-11
+2019-01-19 09:52:48,697 - RealEstate.py[line:309] - INFO: 9减A等于
+2019-01-19 09:52:48,786 - RealEstate.py[line:372] - INFO: 图片识别修正number2:\
+2019-01-19 09:52:48,792 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 09:52:48,796 - RealEstate.py[line:439] - INFO: 图片比较修正number2:8
+2019-01-19 09:52:48,796 - RealEstate.py[line:333] - INFO: 验证码:9+8
+2019-01-19 09:53:07,095 - RealEstate.py[line:309] - INFO: 3加1 等于
+2019-01-19 09:53:07,095 - RealEstate.py[line:333] - INFO: 验证码:3+1
+2019-01-19 09:53:27,108 - RealEstate.py[line:210] - INFO: 套内单价：14937， 套内面积：72.78
+2019-01-19 09:53:27,109 - RealEstate.py[line:164] - INFO: 2019-01-19 09:53:27.110000 渝北 籣亭新都汇 D幢 1单元 6-12
+2019-01-19 09:53:30,936 - RealEstate.py[line:309] - INFO: 3，加1 等于
+2019-01-19 09:53:31,009 - RealEstate.py[line:372] - INFO: 图片识别修正number2:1
+2019-01-19 09:53:31,232 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐苡
+2019-01-19 09:53:31,239 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:53:41,049 - RealEstate.py[line:309] - INFO: 9加3 等于
+2019-01-19 09:53:41,049 - RealEstate.py[line:333] - INFO: 验证码:9+3
+2019-01-19 09:54:01,420 - RealEstate.py[line:210] - INFO: 套内单价：14505， 套内面积：58.21
+2019-01-19 09:54:01,423 - RealEstate.py[line:164] - INFO: 2019-01-19 09:54:01.423000 渝北 籣亭新都汇 D幢 1单元 5-1
+2019-01-19 09:54:06,045 - RealEstate.py[line:309] - INFO: 3减1等芳
+2019-01-19 09:54:06,045 - RealEstate.py[line:333] - INFO: 验证码:3-1
+2019-01-19 09:54:18,940 - CommonUtils.py[line:106] - INFO: 测试代理IP,切换代理IP:110.52.235.79:9999
+2019-01-19 09:55:21,776 - RealEstate.py[line:210] - INFO: 套内单价：14406， 套内面积：57.76
+2019-01-19 09:55:21,776 - RealEstate.py[line:164] - INFO: 2019-01-19 09:55:21.777000 渝北 籣亭新都汇 D幢 1单元 5-2
+2019-01-19 09:55:26,200 - RealEstate.py[line:309] - INFO: 8减哎 等于
+2019-01-19 09:55:26,282 - RealEstate.py[line:372] - INFO: 图片识别修正number2:6
+2019-01-19 09:55:26,282 - RealEstate.py[line:333] - INFO: 验证码:8-6
+2019-01-19 09:56:13,382 - RealEstate.py[line:210] - INFO: 套内单价：14406， 套内面积：57.76
+2019-01-19 09:56:13,384 - RealEstate.py[line:164] - INFO: 2019-01-19 09:56:13.384000 渝北 籣亭新都汇 D幢 1单元 5-3
+2019-01-19 09:56:17,230 - RealEstate.py[line:309] - INFO: 5加9 等芳
+2019-01-19 09:56:17,230 - RealEstate.py[line:333] - INFO: 验证码:5+9
+2019-01-19 09:56:46,469 - RealEstate.py[line:210] - INFO: 套内单价：14283， 套内面积：72.78
+2019-01-19 09:56:46,469 - RealEstate.py[line:164] - INFO: 2019-01-19 09:56:46.469000 渝北 籣亭新都汇 D幢 1单元 5-4
+2019-01-19 09:56:50,265 - RealEstate.py[line:309] - INFO: 7衢多赏2 等于
+2019-01-19 09:56:50,339 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:56:50,611 - RealEstate.py[line:383] - INFO: 图片识别修正operator:减
+2019-01-19 09:56:50,611 - RealEstate.py[line:333] - INFO: 验证码:7-2
+2019-01-19 09:57:05,134 - RealEstate.py[line:210] - INFO: 套内单价：13913， 套内面积：48.51
+2019-01-19 09:57:05,135 - RealEstate.py[line:164] - INFO: 2019-01-19 09:57:05.136000 渝北 籣亭新都汇 D幢 1单元 5-5
+2019-01-19 09:57:08,845 - RealEstate.py[line:309] - INFO: A减1等芳
+2019-01-19 09:57:08,920 - RealEstate.py[line:365] - INFO: 图片识别修正number1:3
+2019-01-19 09:57:08,920 - RealEstate.py[line:372] - INFO: 图片识别修正number2:1
+2019-01-19 09:57:08,920 - RealEstate.py[line:333] - INFO: 验证码:3-1
+2019-01-19 09:57:47,683 - RealEstate.py[line:210] - INFO: 套内单价：14160， 套内面积：72.78
+2019-01-19 09:57:47,684 - RealEstate.py[line:164] - INFO: 2019-01-19 09:57:47.684000 渝北 籣亭新都汇 D幢 1单元 5-6
+2019-01-19 09:57:51,348 - RealEstate.py[line:309] - INFO: 1加7等于
+2019-01-19 09:57:51,348 - RealEstate.py[line:333] - INFO: 验证码:1+7
+2019-01-19 09:58:16,789 - RealEstate.py[line:210] - INFO: 套内单价：14530， 套内面积：57.76
+2019-01-19 09:58:16,790 - RealEstate.py[line:164] - INFO: 2019-01-19 09:58:16.791000 渝北 籣亭新都汇 D幢 1单元 5-7
+2019-01-19 09:58:20,480 - RealEstate.py[line:309] - INFO: 8减2等于
+2019-01-19 09:58:20,480 - RealEstate.py[line:333] - INFO: 验证码:8-2
+2019-01-19 09:58:36,035 - RealEstate.py[line:210] - INFO: 套内单价：14530， 套内面积：57.76
+2019-01-19 09:58:36,036 - RealEstate.py[line:164] - INFO: 2019-01-19 09:58:36.036000 渝北 籣亭新都汇 D幢 1单元 5-8
+2019-01-19 09:58:39,759 - RealEstate.py[line:309] - INFO: 1加7等于
+2019-01-19 09:58:39,759 - RealEstate.py[line:333] - INFO: 验证码:1+7
+2019-01-19 09:59:02,323 - RealEstate.py[line:210] - INFO: 套内单价：14591， 套内面积：58.21
+2019-01-19 09:59:02,325 - RealEstate.py[line:164] - INFO: 2019-01-19 09:59:02.325000 渝北 籣亭新都汇 D幢 1单元 5-9
+2019-01-19 09:59:06,105 - RealEstate.py[line:309] - INFO: 6凑覆 等于
+2019-01-19 09:59:06,700 - RealEstate.py[line:372] - INFO: 图片识别修正number2:5
+2019-01-19 09:59:06,961 - RealEstate.py[line:383] - INFO: 图片识别修正operator:嫦
+2019-01-19 09:59:06,969 - RealEstate.py[line:429] - INFO: 图片比较修正operator:reduce
+2019-01-19 09:59:06,969 - RealEstate.py[line:333] - INFO: 验证码:6-5
+2019-01-19 09:59:24,084 - RealEstate.py[line:210] - INFO: 套内单价：7976， 套内面积：72.78
+2019-01-19 09:59:24,084 - RealEstate.py[line:164] - INFO: 2019-01-19 09:59:24.084000 渝北 籣亭新都汇 D幢 1单元 5-10
+2019-01-19 09:59:39,812 - RealEstate.py[line:309] - INFO: 722衢7乏覆 等于
+2019-01-19 09:59:39,812 - RealEstate.py[line:372] - INFO: 图片识别修正number2:2
+2019-01-19 09:59:40,040 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐奴
+2019-01-19 09:59:40,040 - RealEstate.py[line:333] - INFO: 验证码:7+2
+2019-01-19 09:59:53,490 - RealEstate.py[line:309] - INFO: 6才夕4 等于
+2019-01-19 09:59:53,566 - RealEstate.py[line:372] - INFO: 图片识别修正number2:4
+2019-01-19 09:59:53,786 - RealEstate.py[line:383] - INFO: 图片识别修正operator:，歹苡
+2019-01-19 09:59:53,792 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 09:59:59,344 - RealEstate.py[line:309] - INFO: 6减1等于
+2019-01-19 09:59:59,345 - RealEstate.py[line:333] - INFO: 验证码:6-1
+2019-01-19 10:00:35,430 - RealEstate.py[line:210] - INFO: 套内单价：14406， 套内面积：48.51
+2019-01-19 10:00:35,431 - RealEstate.py[line:164] - INFO: 2019-01-19 10:00:35.432000 渝北 籣亭新都汇 D幢 1单元 5-11
+2019-01-19 10:00:43,243 - RealEstate.py[line:309] - INFO: 5减2等芳
+2019-01-19 10:00:43,243 - RealEstate.py[line:333] - INFO: 验证码:5-2
+2019-01-19 10:01:30,016 - RealEstate.py[line:210] - INFO: 套内单价：14900， 套内面积：72.78
+2019-01-19 10:01:30,016 - RealEstate.py[line:164] - INFO: 2019-01-19 10:01:30.017000 渝北 籣亭新都汇 D幢 1单元 5-12
+2019-01-19 10:01:33,737 - RealEstate.py[line:309] - INFO: 凛27衢2凛 等子
+2019-01-19 10:01:33,828 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 10:01:33,828 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 10:01:34,061 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐苡
+2019-01-19 10:01:34,066 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 10:01:34,068 - RealEstate.py[line:333] - INFO: 验证码:4+7
+2019-01-19 10:01:37,903 - RealEstate.py[line:309] - INFO: 9减2等于
+2019-01-19 10:01:37,903 - RealEstate.py[line:333] - INFO: 验证码:9-2
+2019-01-19 10:02:27,219 - RealEstate.py[line:210] - INFO: 套内单价：14468， 套内面积：58.21
+2019-01-19 10:02:27,220 - RealEstate.py[line:164] - INFO: 2019-01-19 10:02:27.221000 渝北 籣亭新都汇 D幢 1单元 4-1
+2019-01-19 10:02:30,947 - RealEstate.py[line:309] - INFO: 3减2等芳
+2019-01-19 10:02:30,947 - RealEstate.py[line:333] - INFO: 验证码:3-2
+2019-01-19 10:02:45,970 - RealEstate.py[line:210] - INFO: 套内单价：14369， 套内面积：57.76
+2019-01-19 10:02:45,971 - RealEstate.py[line:164] - INFO: 2019-01-19 10:02:45.972000 渝北 籣亭新都汇 D幢 1单元 4-2
+2019-01-19 10:02:49,736 - RealEstate.py[line:309] - INFO: 3加6 等于
+2019-01-19 10:02:49,736 - RealEstate.py[line:333] - INFO: 验证码:3+6
+2019-01-19 10:03:21,509 - RealEstate.py[line:210] - INFO: 套内单价：14369， 套内面积：57.76
+2019-01-19 10:03:21,509 - RealEstate.py[line:164] - INFO: 2019-01-19 10:03:21.509000 渝北 籣亭新都汇 D幢 1单元 4-3
+2019-01-19 10:03:34,552 - RealEstate.py[line:309] - INFO: 2加1 等子
+2019-01-19 10:03:34,552 - RealEstate.py[line:333] - INFO: 验证码:2+1
+2019-01-19 10:04:59,266 - RealEstate.py[line:210] - INFO: 套内单价：14246， 套内面积：72.78
+2019-01-19 10:04:59,266 - RealEstate.py[line:164] - INFO: 2019-01-19 10:04:59.267000 渝北 籣亭新都汇 D幢 1单元 4-4
+2019-01-19 10:05:31,194 - RealEstate.py[line:309] - INFO: 22夕乙73 等子
+2019-01-19 10:05:31,276 - RealEstate.py[line:372] - INFO: 图片识别修正number2:3
+2019-01-19 10:05:31,492 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z夕乙7
+2019-01-19 10:05:31,497 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 10:05:31,497 - RealEstate.py[line:333] - INFO: 验证码:2+3
+2019-01-19 10:06:33,355 - RealEstate.py[line:210] - INFO: 套内单价：13876， 套内面积：48.51
+2019-01-19 10:06:33,355 - RealEstate.py[line:164] - INFO: 2019-01-19 10:06:33.356000 渝北 籣亭新都汇 D幢 1单元 4-5
+2019-01-19 10:06:42,556 - RealEstate.py[line:309] - INFO: 9减7等于
+2019-01-19 10:06:42,556 - RealEstate.py[line:333] - INFO: 验证码:9-7
+2019-01-19 10:07:43,980 - RealEstate.py[line:309] - INFO: 3加5 荨芳
+2019-01-19 10:07:43,980 - RealEstate.py[line:333] - INFO: 验证码:3+5
+2019-01-19 10:09:16,003 - RealEstate.py[line:210] - INFO: 套内单价：14123， 套内面积：72.78
+2019-01-19 10:09:16,003 - RealEstate.py[line:164] - INFO: 2019-01-19 10:09:16.003000 渝北 籣亭新都汇 D幢 1单元 4-6
+2019-01-19 10:09:39,793 - RealEstate.py[line:309] - INFO: 5减2等于
+2019-01-19 10:09:39,793 - RealEstate.py[line:333] - INFO: 验证码:5-2
+2019-01-19 10:10:45,674 - RealEstate.py[line:210] - INFO: 套内单价：14493， 套内面积：57.76
+2019-01-19 10:10:45,676 - RealEstate.py[line:164] - INFO: 2019-01-19 10:10:45.676000 渝北 籣亭新都汇 D幢 1单元 4-7
+2019-01-19 10:10:55,551 - RealEstate.py[line:309] - INFO: 8加5 等霁
+2019-01-19 10:10:55,551 - RealEstate.py[line:333] - INFO: 验证码:8+5
+2019-01-19 10:12:50,512 - RealEstate.py[line:210] - INFO: 套内单价：14493， 套内面积：57.76
+2019-01-19 10:12:50,512 - RealEstate.py[line:164] - INFO: 2019-01-19 10:12:50.512000 渝北 籣亭新都汇 D幢 1单元 4-8
+2019-01-19 10:13:07,585 - RealEstate.py[line:309] - INFO: 22加7 等于
+2019-01-19 10:13:07,653 - RealEstate.py[line:372] - INFO: 图片识别修正number2:1
+2019-01-19 10:13:07,882 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z亓苡
+2019-01-19 10:13:07,891 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 10:13:07,891 - RealEstate.py[line:333] - INFO: 验证码:2+1
+2019-01-19 10:14:03,108 - RealEstate.py[line:210] - INFO: 套内单价：14554， 套内面积：58.21
+2019-01-19 10:14:03,109 - RealEstate.py[line:164] - INFO: 2019-01-19 10:14:03.110000 渝北 籣亭新都汇 D幢 1单元 4-9
+2019-01-19 10:14:06,762 - RealEstate.py[line:309] - INFO: 9减8等于
+2019-01-19 10:14:06,762 - RealEstate.py[line:333] - INFO: 验证码:9-8
+2019-01-19 10:14:36,466 - RealEstate.py[line:210] - INFO: 套内单价：8100， 套内面积：72.78
+2019-01-19 10:14:36,467 - RealEstate.py[line:164] - INFO: 2019-01-19 10:14:36.467000 渝北 籣亭新都汇 D幢 1单元 4-10
+2019-01-19 10:14:42,867 - RealEstate.py[line:309] - INFO: 5炙梯工爹 等芳
+2019-01-19 10:14:42,940 - RealEstate.py[line:372] - INFO: 图片识别修正number2:3
+2019-01-19 10:14:43,176 - RealEstate.py[line:383] - INFO: 图片识别修正operator:蜂
+2019-01-19 10:14:43,184 - RealEstate.py[line:429] - INFO: 图片比较修正operator:reduce
+2019-01-19 10:14:43,184 - RealEstate.py[line:333] - INFO: 验证码:5-3
+2019-01-19 10:15:43,707 - RealEstate.py[line:210] - INFO: 套内单价：14369， 套内面积：48.51
+2019-01-19 10:15:43,709 - RealEstate.py[line:164] - INFO: 2019-01-19 10:15:43.709000 渝北 籣亭新都汇 D幢 1单元 4-11
+2019-01-19 10:16:19,744 - RealEstate.py[line:309] - INFO: 2加3 等子
+2019-01-19 10:16:19,744 - RealEstate.py[line:333] - INFO: 验证码:2+3
+2019-01-19 10:17:15,252 - RealEstate.py[line:210] - INFO: 套内单价：14863， 套内面积：72.78
+2019-01-19 10:17:15,253 - RealEstate.py[line:164] - INFO: 2019-01-19 10:17:15.253000 渝北 籣亭新都汇 D幢 1单元 4-12
+2019-01-19 10:17:23,572 - RealEstate.py[line:309] - INFO: 凛2加5 等霁
+2019-01-19 10:17:23,641 - RealEstate.py[line:365] - INFO: 图片识别修正number1:4
+2019-01-19 10:17:23,710 - RealEstate.py[line:372] - INFO: 图片识别修正number2:5
+2019-01-19 10:17:23,931 - RealEstate.py[line:383] - INFO: 图片识别修正operator:Z亓苡
+2019-01-19 10:17:23,937 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 10:17:27,844 - RealEstate.py[line:309] - INFO: 8减7等芳
+2019-01-19 10:17:27,844 - RealEstate.py[line:333] - INFO: 验证码:8-7
+2019-01-19 10:17:41,013 - RealEstate.py[line:210] - INFO: 套内单价：14431， 套内面积：58.21
+2019-01-19 10:17:41,016 - RealEstate.py[line:164] - INFO: 2019-01-19 10:17:41.016000 渝北 籣亭新都汇 D幢 1单元 3-1
+2019-01-19 10:17:44,690 - RealEstate.py[line:309] - INFO: 9减8等于
+2019-01-19 10:17:44,690 - RealEstate.py[line:333] - INFO: 验证码:9-8
+2019-01-19 10:17:57,828 - RealEstate.py[line:210] - INFO: 套内单价：14123， 套内面积：57.76
+2019-01-19 10:17:57,829 - RealEstate.py[line:164] - INFO: 2019-01-19 10:17:57.830000 渝北 籣亭新都汇 D幢 1单元 3-2
+2019-01-19 10:18:01,565 - RealEstate.py[line:309] - INFO: 1汐娜7等于
+2019-01-19 10:18:01,638 - RealEstate.py[line:372] - INFO: 图片识别修正number2:7
+2019-01-19 10:18:01,846 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐苡
+2019-01-19 10:18:01,855 - RealEstate.py[line:429] - INFO: 图片比较修正operator:None
+2019-01-19 10:18:07,194 - RealEstate.py[line:309] - INFO: 9汐娜5 等于
+2019-01-19 10:18:07,263 - RealEstate.py[line:372] - INFO: 图片识别修正number2:5
+2019-01-19 10:18:07,476 - RealEstate.py[line:383] - INFO: 图片识别修正operator:汐沤
+2019-01-19 10:18:07,483 - RealEstate.py[line:429] - INFO: 图片比较修正operator:add
+2019-01-19 10:18:07,483 - RealEstate.py[line:333] - INFO: 验证码:9+5
+2019-01-19 10:18:51,388 - RealEstate.py[line:210] - INFO: 套内单价：14123， 套内面积：57.76
+2019-01-19 10:18:51,390 - RealEstate.py[line:164] - INFO: 2019-01-19 10:18:51.390000 渝北 籣亭新都汇 D幢 1单元 3-3
+2019-01-19 10:18:55,072 - RealEstate.py[line:309] - INFO: 9减5等芳
+2019-01-19 10:18:55,072 - RealEstate.py[line:333] - INFO: 验证码:9-5
+2019-01-19 10:19:34,490 - engine.py[line:256] - INFO: Spider opened
+2019-01-19 10:19:34,510 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-19 10:19:34,776 - scraper.py[line:208] - ERROR: Error downloading %(request)s
+Traceback (most recent call last):
+  File "E:\virtualenv\python27\lib\site-packages\twisted\internet\defer.py", line 1416, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\python\failure.py", line 491, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\utils\defer.py", line 45, in mustbe_deferred
+    result = f(*args, **kw)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\__init__.py", line 65, in download_request
+    return handler.download_request(request, spider)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 67, in download_request
+    return agent.download_request(request)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 331, in download_request
+    method, to_bytes(url, encoding='ascii'), headers, bodyproducer)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 252, in request
+    proxyEndpoint = self._getEndpoint(self._proxyURI)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\web\client.py", line 1635, in _getEndpoint
+    return self._endpointFactory.endpointForURI(uri)
+  File "E:\virtualenv\python27\lib\site-packages\twisted\web\client.py", line 1513, in endpointForURI
+    raise SchemeNotSupported("Unsupported scheme: %r" % (uri.scheme,))
+SchemeNotSupported: Unsupported scheme: ''
+2019-01-19 10:19:34,880 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-19 10:19:34,881 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web.error.SchemeNotSupported': 1,
+ 'downloader/request_bytes': 597,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 1293,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 19, 2, 19, 34, 881000),
+ 'log_count/DEBUG': 2,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 8,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2019, 1, 19, 2, 19, 34, 511000)}
+2019-01-19 10:19:34,881 - engine.py[line:326] - INFO: Spider closed (%(reason)s)

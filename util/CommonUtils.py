@@ -9,6 +9,8 @@ import os
 import time
 from logging.handlers import TimedRotatingFileHandler
 
+import datetime
+
 
 class Region(type):
     BaNan = "巴南"
@@ -101,11 +103,11 @@ def test_proxy_ip_send_request(proxy_ip, url=None):
             response = urllib2.urlopen(request, timeout=30)
             if response.code == 200:
                 if response.read():
-                    logging.info("测试代理IP,切换代理IP:%s" % proxy_ip)
+                    logging.info(u"测试代理IP,切换代理IP:%s" % proxy_ip)
                     return True
             return False
         except BaseException as e:
-            print u"代理ip测试请求:%s error:%s" % (proxy_ip, e)
+            print u"%s，代理ip测试请求:%s error:%s" % (datetime.datetime.now(), proxy_ip, e)
             return False
 
 

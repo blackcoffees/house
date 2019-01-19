@@ -69,7 +69,7 @@ class ProxyPool(object):
         soup = BeautifulSoup(response, "html.parser")
         table = soup.find("table", attrs={"id": "ip_list"})
         list_trs = table.find_all("tr")[1:]
-        base_url = "https://www.xicidaili.com/nt/%s" % random_number
+        base_url = "https://www.xicidaili.com/nt/%s" % random.randrange(1, 723)
         response = send_request(base_url)
         soup = BeautifulSoup(response, "html.parser")
         table = soup.find("table", attrs={"id": "ip_list"})
@@ -81,7 +81,7 @@ class ProxyPool(object):
             proxy_ip = "%s:%s" % (ip, port)
             self.list_proxy_ip.append(proxy_ip)
 
-    def get_proxy_ip(self):
+    def get_proxy_ip(self, is_count_time=True):
         from util.CommonUtils import test_proxy_ip_send_request
         if self.switch_proxy and len(self.list_proxy_ip) == 0:
             self.__get_proxy_ip_kuaidaili()
@@ -97,7 +97,7 @@ class ProxyPool(object):
                 else:
                     self.list_proxy_ip.remove(proxy_ip)
                 end_time = datetime.datetime.now()
-                if (end_time - start_time).seconds > 300:
+                if is_count_time and (end_time - start_time).seconds > 300:
                     return None
         else:
             return None
