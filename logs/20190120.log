@@ -1332,3 +1332,197 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-01-20 14:48:50,267 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
 2019-01-20 14:48:50,750 - ImageRecognitionUtil.py[line:295] - INFO: 图片比较修正number2:None
 2019-01-20 14:49:44,509 - ImageRecognitionUtil.py[line:105] - INFO: 验证码:9-2
+2019-01-20 14:50:06,414 - RealEstate.py[line:50] - INFO: 渝北：23
+2019-01-20 14:50:22,171 - RealEstate.py[line:151] - INFO: 2019-01-20 14:50:22.172000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-1
+2019-01-20 14:50:22,174 - RealEstate.py[line:151] - INFO: 2019-01-20 14:50:22.174000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-2
+2019-01-20 14:50:22,177 - RealEstate.py[line:151] - INFO: 2019-01-20 14:50:22.177000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-3
+2019-01-20 14:50:26,591 - ImageRecognitionUtil.py[line:181] - INFO: 6减1等芳
+2019-01-20 14:50:26,667 - ImageRecognitionUtil.py[line:221] - INFO: 图片识别修正number1:6
+2019-01-20 14:50:26,734 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:1
+2019-01-20 14:50:26,969 - ImageRecognitionUtil.py[line:239] - INFO: 图片识别修正operator:懿
+2019-01-20 14:50:26,976 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:reduce
+2019-01-20 14:50:26,982 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:reduce
+2019-01-20 14:50:26,990 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
+2019-01-20 14:50:26,997 - ImageRecognitionUtil.py[line:295] - INFO: 图片比较修正number2:None
+2019-01-20 14:52:29,519 - ImageRecognitionUtil.py[line:105] - INFO: 验证码:6-1
+2019-01-20 14:53:33,579 - RealEstate.py[line:199] - INFO: 套内单价：15119.09， 套内面积：65.28
+2019-01-20 14:53:33,581 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.581000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-4
+2019-01-20 14:53:33,582 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.583000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-5
+2019-01-20 14:53:33,585 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.585000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-6
+2019-01-20 14:53:33,586 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.587000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-7
+2019-01-20 14:53:33,591 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.591000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-8
+2019-01-20 14:53:33,594 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.594000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-1
+2019-01-20 14:53:33,595 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.596000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-2
+2019-01-20 14:53:33,598 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.598000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-3
+2019-01-20 14:53:33,599 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.600000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-4
+2019-01-20 14:53:33,601 - RealEstate.py[line:151] - INFO: 2019-01-20 14:53:33.601000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-5
+2019-01-20 14:53:43,526 - ImageRecognitionUtil.py[line:181] - INFO: 凛加7等于
+2019-01-20 14:53:43,608 - ImageRecognitionUtil.py[line:221] - INFO: 图片识别修正number1:4
+2019-01-20 14:53:43,608 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:7
+2019-01-20 14:53:43,723 - ImageRecognitionUtil.py[line:221] - INFO: 图片识别修正number1:4
+2019-01-20 14:53:43,796 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:7
+2019-01-20 14:53:44,055 - ImageRecognitionUtil.py[line:239] - INFO: 图片识别修正operator:加
+2019-01-20 14:53:44,065 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:add
+2019-01-20 14:53:44,075 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
+2019-01-20 14:53:44,082 - ImageRecognitionUtil.py[line:295] - INFO: 图片比较修正number2:7
+2019-01-20 14:53:44,102 - ImageRecognitionUtil.py[line:411] - INFO: 2019-01-20 14:53:44.103000 成功图片对比:5+6
+2019-01-20 14:53:55,667 - ImageRecognitionUtil.py[line:105] - INFO: 验证码:4+7
+2019-01-20 14:55:15,851 - RealEstate.py[line:199] - INFO: 套内单价：15370.79， 套内面积：61.62
+2019-01-20 14:55:15,851 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.852000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-6
+2019-01-20 14:55:15,855 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.855000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-7
+2019-01-20 14:55:15,858 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.859000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-8
+2019-01-20 14:55:15,862 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.863000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-1
+2019-01-20 14:55:15,864 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.864000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-2
+2019-01-20 14:55:15,865 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.866000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-3
+2019-01-20 14:55:15,868 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.869000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-4
+2019-01-20 14:55:15,871 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.872000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-5
+2019-01-20 14:55:15,875 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.875000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-6
+2019-01-20 14:55:15,877 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.877000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-7
+2019-01-20 14:55:15,880 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.880000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-8
+2019-01-20 14:55:15,882 - RealEstate.py[line:151] - INFO: 2019-01-20 14:55:15.883000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 24-1
+2019-01-20 14:55:29,861 - ImageRecognitionUtil.py[line:181] - INFO: 8衢衢黄E 等于
+2019-01-20 14:55:29,936 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:6
+2019-01-20 14:55:30,168 - ImageRecognitionUtil.py[line:239] - INFO: 图片识别修正operator:懿
+2019-01-20 14:55:30,174 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:reduce
+2019-01-20 14:55:30,269 - ImageRecognitionUtil.py[line:221] - INFO: 图片识别修正number1:\\
+2019-01-20 14:55:30,359 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:6
+2019-01-20 14:55:30,369 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:reduce
+2019-01-20 14:55:30,377 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
+2019-01-20 14:55:30,385 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:reduce
+2019-01-20 14:55:30,394 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
+2019-01-20 14:55:30,401 - ImageRecognitionUtil.py[line:295] - INFO: 图片比较修正number2:None
+2019-01-20 14:55:34,193 - ImageRecognitionUtil.py[line:105] - INFO: 验证码:None
+2019-01-20 14:55:36,236 - RealEstate.py[line:203] - INFO: argument of type 'NoneType' is not iterable
+2019-01-20 14:58:05,892 - RealEstate.py[line:50] - INFO: 渝北：23
+2019-01-20 14:58:35,378 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.378000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-1
+2019-01-20 14:58:35,381 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.382000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-2
+2019-01-20 14:58:35,384 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.385000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-3
+2019-01-20 14:58:35,388 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.387000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-4
+2019-01-20 14:58:35,391 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.392000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-5
+2019-01-20 14:58:35,394 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.395000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-6
+2019-01-20 14:58:35,398 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.398000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-7
+2019-01-20 14:58:35,400 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.400000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-8
+2019-01-20 14:58:35,404 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.404000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-1
+2019-01-20 14:58:35,405 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.406000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-2
+2019-01-20 14:58:35,407 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.408000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-3
+2019-01-20 14:58:35,410 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.410000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-4
+2019-01-20 14:58:35,411 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.412000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-5
+2019-01-20 14:58:35,413 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.413000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-6
+2019-01-20 14:58:35,414 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.415000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-7
+2019-01-20 14:58:35,415 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.416000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-8
+2019-01-20 14:58:35,420 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.420000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-1
+2019-01-20 14:58:35,421 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.422000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-2
+2019-01-20 14:58:35,424 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.424000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-3
+2019-01-20 14:58:35,426 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.426000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-4
+2019-01-20 14:58:35,427 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.427000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-5
+2019-01-20 14:58:35,428 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.429000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-6
+2019-01-20 14:58:35,430 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.431000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-7
+2019-01-20 14:58:35,433 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.433000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-8
+2019-01-20 14:58:35,437 - RealEstate.py[line:151] - INFO: 2019-01-20 14:58:35.437000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 24-1
+2019-01-20 14:58:40,305 - ImageRecognitionUtil.py[line:181] - INFO: 812夕228 等于
+2019-01-20 14:58:40,306 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:2
+2019-01-20 14:58:40,559 - ImageRecognitionUtil.py[line:239] - INFO: 图片识别修正operator:Z亓苡
+2019-01-20 14:58:40,565 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:add
+2019-01-20 14:58:40,640 - ImageRecognitionUtil.py[line:221] - INFO: 图片识别修正number1:.
+2019-01-20 14:58:40,713 - ImageRecognitionUtil.py[line:228] - INFO: 图片识别修正number2:5
+2019-01-20 14:58:40,719 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:add
+2019-01-20 14:58:40,726 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
+2019-01-20 14:58:40,732 - ImageRecognitionUtil.py[line:285] - INFO: 图片比较修正operator:add
+2019-01-20 14:58:40,737 - ImageRecognitionUtil.py[line:290] - INFO: 图片比较修正number1:None
+2019-01-20 14:58:40,742 - ImageRecognitionUtil.py[line:295] - INFO: 图片比较修正number2:5
+2019-01-20 14:58:40,767 - ImageRecognitionUtil.py[line:411] - INFO: 成功图片对比:8+8
+2019-01-20 15:00:07,589 - RealEstate.py[line:50] - INFO: 渝北：23
+2019-01-20 15:00:28,130 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.130000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-1
+2019-01-20 15:00:28,131 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.131000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-2
+2019-01-20 15:00:28,134 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.133000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-3
+2019-01-20 15:00:28,134 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.135000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-4
+2019-01-20 15:00:28,137 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.137000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-5
+2019-01-20 15:00:28,138 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.139000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-6
+2019-01-20 15:00:28,140 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.140000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-7
+2019-01-20 15:00:28,141 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.142000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-8
+2019-01-20 15:00:28,144 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.145000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-1
+2019-01-20 15:00:28,148 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.148000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-2
+2019-01-20 15:00:28,153 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.153000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-3
+2019-01-20 15:00:28,155 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.156000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-4
+2019-01-20 15:00:28,160 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.160000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-5
+2019-01-20 15:00:28,163 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.163000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-6
+2019-01-20 15:00:28,167 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.167000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-7
+2019-01-20 15:00:28,170 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.170000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-8
+2019-01-20 15:00:28,174 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.175000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-1
+2019-01-20 15:00:28,177 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.178000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-2
+2019-01-20 15:00:28,180 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.181000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-3
+2019-01-20 15:00:28,181 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.182000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-4
+2019-01-20 15:00:28,184 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.185000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-5
+2019-01-20 15:00:28,187 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.187000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-6
+2019-01-20 15:00:28,191 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.192000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-7
+2019-01-20 15:00:28,194 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.194000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-8
+2019-01-20 15:00:28,200 - RealEstate.py[line:151] - INFO: 2019-01-20 15:00:28.200000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 24-1
+2019-01-20 15:00:46,017 - ImageRecognitionUtil.py[line:183] - INFO: 4笈刀7等于
+2019-01-20 15:00:46,088 - ImageRecognitionUtil.py[line:230] - INFO: 图片识别修正number2:7
+2019-01-20 15:00:46,349 - ImageRecognitionUtil.py[line:241] - INFO: 图片识别修正operator:Z亓苡
+2019-01-20 15:00:46,357 - ImageRecognitionUtil.py[line:287] - INFO: 图片比较修正operator:add
+2019-01-20 15:00:46,428 - ImageRecognitionUtil.py[line:223] - INFO: 图片识别修正number1:4
+2019-01-20 15:00:46,502 - ImageRecognitionUtil.py[line:230] - INFO: 图片识别修正number2:7
+2019-01-20 15:00:46,776 - ImageRecognitionUtil.py[line:241] - INFO: 图片识别修正operator:Z亓苡
+2019-01-20 15:00:46,785 - ImageRecognitionUtil.py[line:287] - INFO: 图片比较修正operator:add
+2019-01-20 15:00:46,792 - ImageRecognitionUtil.py[line:287] - INFO: 图片比较修正operator:add
+2019-01-20 15:00:46,809 - ImageRecognitionUtil.py[line:292] - INFO: 图片比较修正number1:None
+2019-01-20 15:00:46,816 - ImageRecognitionUtil.py[line:297] - INFO: 图片比较修正number2:7
+2019-01-20 15:00:46,836 - ImageRecognitionUtil.py[line:413] - INFO: 成功图片对比:6+3
+2019-01-20 15:01:29,135 - ImageRecognitionUtil.py[line:105] - INFO: 验证码:4+7
+2019-01-20 15:02:20,043 - RealEstate.py[line:199] - INFO: 套内单价：15596.61， 套内面积：64.04
+2019-01-20 15:02:20,043 - RealEstate.py[line:151] - INFO: 2019-01-20 15:02:20.044000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 24-2
+2019-01-20 15:02:26,342 - ImageRecognitionUtil.py[line:183] - INFO: 乏攫姥黄6 等于
+2019-01-20 15:02:26,426 - ImageRecognitionUtil.py[line:223] - INFO: 图片识别修正number1:\\
+2019-01-20 15:02:26,503 - ImageRecognitionUtil.py[line:230] - INFO: 图片识别修正number2:.
+2019-01-20 15:02:26,510 - ImageRecognitionUtil.py[line:287] - INFO: 图片比较修正operator:add
+2019-01-20 15:02:26,516 - ImageRecognitionUtil.py[line:292] - INFO: 图片比较修正number1:None
+2019-01-20 15:02:26,525 - ImageRecognitionUtil.py[line:297] - INFO: 图片比较修正number2:None
+2019-01-20 15:02:26,612 - ImageRecognitionUtil.py[line:223] - INFO: 图片识别修正number1:\\
+2019-01-20 15:02:26,687 - ImageRecognitionUtil.py[line:230] - INFO: 图片识别修正number2:.
+2019-01-20 15:02:26,694 - ImageRecognitionUtil.py[line:287] - INFO: 图片比较修正operator:add
+2019-01-20 15:02:26,703 - ImageRecognitionUtil.py[line:292] - INFO: 图片比较修正number1:None
+2019-01-20 15:02:26,710 - ImageRecognitionUtil.py[line:297] - INFO: 图片比较修正number2:None
+2019-01-20 15:02:26,717 - ImageRecognitionUtil.py[line:287] - INFO: 图片比较修正operator:add
+2019-01-20 15:02:26,723 - ImageRecognitionUtil.py[line:292] - INFO: 图片比较修正number1:None
+2019-01-20 15:02:26,730 - ImageRecognitionUtil.py[line:297] - INFO: 图片比较修正number2:None
+2019-01-20 15:02:57,164 - ImageRecognitionUtil.py[line:104] - ERROR: 图片识别失败
+2019-01-20 15:03:01,467 - ImageRecognitionUtil.py[line:105] - INFO: 验证码:None
+2019-01-20 15:07:01,395 - RealEstate.py[line:50] - INFO: 渝北：23
+2019-01-20 15:07:14,013 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.013000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-1
+2019-01-20 15:07:14,016 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.017000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-2
+2019-01-20 15:07:14,022 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.022000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-3
+2019-01-20 15:07:14,026 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.025000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-4
+2019-01-20 15:07:14,029 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.029000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-5
+2019-01-20 15:07:14,030 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.031000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-6
+2019-01-20 15:07:14,032 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.033000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-7
+2019-01-20 15:07:14,035 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.035000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 27-8
+2019-01-20 15:07:14,039 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.039000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-1
+2019-01-20 15:07:14,040 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.041000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-2
+2019-01-20 15:07:14,043 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.044000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-3
+2019-01-20 15:07:14,046 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.046000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-4
+2019-01-20 15:07:14,046 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.047000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-5
+2019-01-20 15:07:14,049 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.049000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-6
+2019-01-20 15:07:14,051 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.051000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-7
+2019-01-20 15:07:14,052 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.053000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 26-8
+2019-01-20 15:07:14,056 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.057000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-1
+2019-01-20 15:07:14,059 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.059000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-2
+2019-01-20 15:07:14,061 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.061000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-3
+2019-01-20 15:07:14,063 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.063000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-4
+2019-01-20 15:07:14,065 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.066000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-5
+2019-01-20 15:07:14,068 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.068000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-6
+2019-01-20 15:07:14,069 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.070000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-7
+2019-01-20 15:07:14,073 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.074000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 25-8
+2019-01-20 15:07:14,076 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.077000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 24-1
+2019-01-20 15:07:14,078 - RealEstate.py[line:151] - INFO: 2019-01-20 15:07:14.079000 渝北 世茂·璀璨天城-B地块 2幢(规划1号楼) 1单元 24-2
+2019-01-20 15:07:28,378 - ImageRecognitionUtil.py[line:187] - INFO: 3放夕1 等于
+2019-01-20 15:07:28,697 - ImageRecognitionUtil.py[line:67] - ERROR: 图片识别：None
+2019-01-20 15:07:29,132 - ImageRecognitionUtil.py[line:73] - ERROR: 图片识别修正：None
+2019-01-20 15:07:29,151 - ImageRecognitionUtil.py[line:81] - ERROR: 图片比较识别：None
+2019-01-20 15:07:29,157 - ImageRecognitionUtil.py[line:87] - ERROR: 成功图片比较：3+2
+2019-01-20 15:08:26,641 - ImageRecognitionUtil.py[line:109] - INFO: 验证码:3+2
+2019-01-20 15:08:49,403 - ImageRecognitionUtil.py[line:187] - INFO: 9减4等芳
+2019-01-20 15:08:49,403 - ImageRecognitionUtil.py[line:67] - ERROR: 图片识别：9-4
+2019-01-20 15:08:49,575 - ImageRecognitionUtil.py[line:73] - ERROR: 图片识别修正：None
+2019-01-20 15:08:49,595 - ImageRecognitionUtil.py[line:81] - ERROR: 图片比较识别：None
+2019-01-20 15:08:49,631 - ImageRecognitionUtil.py[line:87] - ERROR: 成功图片比较：None

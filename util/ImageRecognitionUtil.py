@@ -64,11 +64,13 @@ class ImageRecognition(object):
                     expression1 = self.get_internet_validate_code()
                 except:
                     expression1 = None
+                logger.error(u"图片识别：%s" % expression1)
                 # 图片修正识别
                 try:
                     expression2 = self.image_corde_correct()
                 except:
                     expression2 = None
+                logger.error(u"图片识别修正：%s" % expression2)
                 # 图片比较识别
                 try:
                     expression3 = self.compare_image_correct(operator_img_url=(self.base_image_path + "operator.png"),
@@ -76,16 +78,18 @@ class ImageRecognition(object):
                                                              number2_img_url=(self.base_image_path + "num2.png"))
                 except:
                     expression3 = None
+                logger.error(u"图片比较识别：%s" % expression3)
                 # 成功图片比较
                 try:
                     expression4 = self.compare_success_img(location_img_url)
                 except:
                     expression4 = None
+                logger.error(u"成功图片比较：%s" % expression4)
                 if not (expression1 or expression2 or expression3):
                     if expression4:
                         expression = expression4
                     else:
-                        raise BaseException(u"图片识别失败")
+                        logger.error(u"图片识别失败")
                 else:
                     succ_size_expression1 = self.confirm_return_express(expression1, [expression2, expression3])
                     succ_size_expression2 = self.confirm_return_express(expression2, [expression1, expression3])
@@ -126,7 +130,9 @@ class ImageRecognition(object):
         if not origin_expression:
             return succ_size
         for compare_expression in list_compare_expression:
-            if origin_expression == compare_expression:
+            if not compare_expression:
+                succ_size += 1
+            elif origin_expression == compare_expression:
                 succ_size += 1
         return succ_size
 
@@ -178,7 +184,7 @@ class ImageRecognition(object):
         code_str = code_str.upper()
         # 替换字符
         code_str = self.replace_character(code_str)
-        logger.info(code_str)
+        # logger.info(code_str)
         succ_dict = self.get_succ_dict(code_str[1], code_str[0], code_str[2])
         if code_str[0].isdigit() and code_str[2].isdigit():
             number1 = str(code_str[0])
@@ -218,14 +224,14 @@ class ImageRecognition(object):
             number1_img = Image.open(self.base_image_path + "temp.png").crop((0, 0, 17, 20))
             number1_img.save(number1_img_url)
             number1_str = pytesseract.image_to_string(number1_img, lang="eng", config="-psm 8 digist")
-            logger.info("图片识别修正number1:%s" % number1_str)
+            # logger.info("图片识别修正number1:%s" % number1_str)
         if succ_number2:
             number2_str = succ_number2
         else:
             number2_img = Image.open(self.base_image_path + "temp.png").crop((53, 1, 66, 22))
             number2_img.save(number2_img_url)
             number2_str = pytesseract.image_to_string(number2_img, lang="eng", config="-psm 8 digist")
-        logger.info("图片识别修正number2:%s" % number2_str)
+        # logger.info("图片识别修正number2:%s" % number2_str)
         # 替换字符
         number1_str = self.replace_character(number1_str)
         number2_str = self.replace_character(number2_str)
@@ -236,7 +242,7 @@ class ImageRecognition(object):
                 operator_img = Image.open(self.base_image_path + "temp.png").crop((26, 1, 52, 21))
                 operator_img.save(operator_img_url)
                 operator_str = pytesseract.image_to_string(operator_img, lang="chi_sim", config="-psm 8")
-                logger.info("图片识别修正operator:%s" % operator_str)
+                # logger.info("图片识别修正operator:%s" % operator_str)
             # 替换字符
             operator_str = self.replace_character(operator_str)
             succ_dict = self.get_succ_dict(operator_str, number1_str, number2_str)
@@ -282,17 +288,17 @@ class ImageRecognition(object):
             operation_str = succ_operation
         else:
             operation_str = self.get_compare_image(operator_img_url)
-            logger.info("图片比较修正operator:%s" % operation_str)
+            # logger.info("图片比较修正operator:%s" % operation_str)
         if succ_number1:
             number1_str = succ_number1
         else:
             number1_str = self.get_compare_image(number1_img_url)
-            logger.info("图片比较修正number1:%s" % number1_str)
+            # logger.info("图片比较修正number1:%s" % number1_str)
         if succ_number2:
             number2_str = succ_number2
         else:
             number2_str = self.get_compare_image(number2_img_url)
-            logger.info("图片比较修正number2:%s" % number2_str)
+            # logger.info("图片比较修正number2:%s" % number2_str)
         if operation_str == "add":
             return number1_str + "+" + number2_str
         elif operation_str == "reduce":
@@ -408,7 +414,7 @@ class ImageRecognition(object):
                         image_histogram))
                 if differ == 0.0:
                     operation_str = compare_image_str.split(".png")[0]
-                    logger.info(u"成功图片对比:%s" % operation_str)
+                    # logger.info(u"成功图片对比:%s" % operation_str)
                     break
             else:
                 image2.close()
