@@ -124,24 +124,6 @@ def get_fields(obj):
 class WebSource(type):
     RealEstate = 1
 
-# 二值化
-threshold = 140
-table = []
-for i in range(256):
-    if i < threshold:
-        table.append(0)
-    else:
-        table.append(1)
-
-# 由于都是数字
-# 对于识别成字母的 采用该表进行修正
-rep = {"O": "0", "I": "1", "L": "1", "Z": "2", "S": "8"}
-
-chinese_correct = {
-    u"夕刀": u"加", u"夕奴": u"加", u"潺": u"减", u"汐奴": u"加", u"遂夕": u"加", u"儡": u"1", u"喊": u"减", u"遂奴": u"加"
-}
-
-
 ColorStatus = {
     "#c0c0c0": 1, # 限制销售
     "#00ff00": 2, # 可售
