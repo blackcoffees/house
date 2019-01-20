@@ -71,9 +71,10 @@ class Building(BaseModel):
             return id
         self.created = datetime.datetime.now()
         sql = """insert into building(web_build_id, register_time, created, real_estate_id, sale_residence_count, 
-                  sale_none_residence_count , source_id, sale_building) values (%s, %s, %s, %s, %s, %s, %s, %s)"""
+                  sale_none_residence_count , source_id, sale_building, building_name)
+                   values (%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.web_build_id, self.register_time, self.created, self.real_estate_id, self.sale_residence_count,
-                 self.sale_none_residence_count, self.source_id, self.sale_building]
+                 self.sale_none_residence_count, self.source_id, self.sale_building, self.building_name]
         return DBUtil.save(sql, param)
 
     def __get__(self):
