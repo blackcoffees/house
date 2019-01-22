@@ -25,13 +25,13 @@ def get_real_estate_sale_status(real_estate_id=None, real_estate_name=None):
     :return:
     """
     if real_estate_id and real_estate_name:
-        sql = """select house_total_count, house_sale_count from real_estate where id = %s and building=%s"""
+        sql = """select house_total_count, house_sell_out_count from real_estate where id = %s and name=%s"""
         param = [real_estate_id, real_estate_name]
     elif real_estate_name:
-        sql = """select house_total_count, house_sale_count from real_estate where  building=%s"""
+        sql = """select house_total_count, house_sell_out_count from real_estate where  name=%s"""
         param = [real_estate_name]
     elif real_estate_id:
-        sql = """select house_total_count, house_sale_count from real_estate where id = %s"""
+        sql = """select house_total_count, house_sell_out_count from real_estate where id = %s"""
         param = [real_estate_id]
     else:
         return False
@@ -39,7 +39,7 @@ def get_real_estate_sale_status(real_estate_id=None, real_estate_name=None):
 
 
 def get_real_estate(real_estate_name, region):
-    sql = """select id, house_total_count, house_sale_count from real_estate where building=%s and region=%s"""
+    sql = """select id, house_total_count, house_sell_out_count from real_estate where name=%s and region=%s"""
     param = [real_estate_name, region]
     return pool.find_one(sql, param)
 
@@ -72,7 +72,7 @@ def get_house_status(door_number, real_estate_id, buliding_id, house_unit):
     :param house_id:
     :return:
     """
-    sql = """select status, id from house where door_number=%s and real_estate_id=%s and buliding_id=%s and unit=%s"""
+    sql = """select status, id, web_house_id from house where door_number=%s and real_estate_id=%s and buliding_id=%s and unit=%s"""
     param = [door_number, real_estate_id, buliding_id, house_unit]
     return pool.find_one(sql, param)
 
@@ -106,15 +106,15 @@ def get_all_region():
 # ---------------------------  更新 start ---------------------------
 
 
-def update_building(house_number, id):
+def update_building(pre_sale_number, id):
     """
     更改大楼预售许可证
-    :param house_number:
+    :param pre_sale_number:
     :param id:
     :return:
     """
-    sql = """update building set house_number=%s where id=%s"""
-    param = [house_number, id]
+    sql = """update building set pre_sale_number=%s where id=%s"""
+    param = [pre_sale_number, id]
     pool.commit(sql, param)
 
 
@@ -130,16 +130,16 @@ def update_house_status(house_id, status):
     pool.commit(sql, param)
 
 
-def update_real_estate_count(real_estate_id, house_total_count, house_sale_count):
+def update_real_estate_count(real_estate_id, house_total_count, house_sell_out_count):
     """
     更改楼盘房子总数量，出售总数量
     :param real_estate_id:
     :param house_total_count:
-    :param house_sale_count:
+    :param house_sell_out_count:
     :return:
     """
-    sql = """update real_estate set house_total_count=%s, house_sale_count=%s, updated=%s where id=%s"""
-    param = [house_total_count, house_sale_count, datetime.datetime.now(), real_estate_id]
+    sql = """update real_estate set house_total_count=%s, house_sell_out_count=%s, updated=%s where id=%s"""
+    param = [house_total_count, house_sell_out_count, datetime.datetime.now(), real_estate_id]
     pool.commit(sql, param)
 
 
@@ -160,5 +160,16 @@ def update_region(region_id, now_page):
     sql = """update region set now_page=%s, updated=%s where id=%s"""
     param = [now_page, datetime.datetime.now(), region_id]
     pool.commit(sql, param)
+
+
+def update_web_house_id(web_house_id, id):
+    """
+    修改房子网页id
+    :param web_house_id:
+    :param id:
+    :return:
+    """
+    sql = """update house set web_house_id=%s, updated=%s where id=%s"""
+    pool.commit(sql, [web_house_id, datetime.datetime.now(), id])
 
 # ---------------------------  更新 end ---------------------------

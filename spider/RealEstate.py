@@ -13,7 +13,7 @@ from util.CommonUtils import Region, send_request, WebSource, get_status, \
     div_list_return_dict, get_unit, proxy_list, logger, validate_house_door_number
 from db.DBUtil import get_real_estate_sale_status, get_real_estate, get_building_sale_status, get_building, \
     get_house_status, update_building, update_house_status, update_real_estate_count, update_building_count, \
-    get_real_estate_statictics_data, get_building_statictics_data, get_all_region, update_region
+    get_real_estate_statictics_data, get_building_statictics_data, get_all_region, update_region, update_web_house_id
 import sys
 
 from util.ImageRecognitionUtil import ImageRecognition
@@ -32,7 +32,7 @@ class RealEstateSpider(BaseSpider):
 
     def work(self):
         options = webdriver.ChromeOptions()
-        # options.add_argument("headless")
+        options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         real_estate_driver = web_driver_manager.get_web_driver()
         driver_house = web_driver_manager.get_web_driver()
@@ -63,8 +63,8 @@ class RealEstateSpider(BaseSpider):
                         real_estate_name = item.get("ZPROJECT")
                         real_estate_result = get_real_estate_sale_status(real_estate_name=real_estate_name)
                         if real_estate_result and real_estate_result.get("house_total_count") != 0 \
-                                and real_estate_result.get("house_sale_count") != 0 \
-                                and real_estate_result.get("house_total_count") == real_estate_result.get("house_sale_count"):
+                                and real_estate_result.get("house_sell_out_count") != 0 \
+                                and real_estate_result.get("house_total_count") == real_estate_result.get("house_sell_out_count"):
                             continue
                         # 新增或查询楼盘
                         real_estate = get_real_estate(real_estate_name, region.get("id"))
@@ -80,7 +80,7 @@ class RealEstateSpider(BaseSpider):
                             real_estate.sale_count = item.get("NUM")
                             real_estate.source_id = WebSource.RealEstate
                             real_estate.house_total_count = 0
-                            real_estate.house_sale_count = 0
+                            real_estate.house_sell_out_count = 0
                             real_estate_id = real_estate.__add__()
                         # 大楼数据
                         build_name = item.get("F_BLOCK").split(",")
@@ -118,10 +118,10 @@ class RealEstateSpider(BaseSpider):
                             driver_house.send_url(houses_url)
                             house_soup = BeautifulSoup(driver_house.page_source, "html.parser")
                             # 预售许可证
-                            house_number = json.loads(unquote(house_soup.find("img", attrs={"id": "projectInfo_img"}).
+                            pre_sale_number = json.loads(unquote(house_soup.find("img", attrs={"id": "projectInfo_img"}).
                                                               attrs.get("src").split("text=")[1])).get("presaleCert")
-                            house_number = house_number.replace("%u", "\\u").decode("raw_unicode_escape").encode("utf-8")
-                            update_building(house_number, building_id)
+                            pre_sale_number = pre_sale_number.replace("%u", "\\u").decode("raw_unicode_escape").encode("utf-8")
+                            update_building(pre_sale_number, building_id)
                             tbody = house_soup.find("table", attrs={"id": "_mybuilding"}).find("tbody")
                             trs = tbody.find_all("tr")
                             # 单元列表
@@ -163,6 +163,8 @@ class RealEstateSpider(BaseSpider):
                                             # 状态改变改状态
                                             if int(house_status.get("status")) != house_status_page:
                                                 update_house_status(house_status.get("id"), house_status_page)
+                                            if not house_status.get("web_house_id"):
+                                                update_web_house_id(td.find("input").attrs.get("value"), house_status.get("id"))
                                             continue
                                         is_add_house = True
                                         # 未售出房子
@@ -195,6 +197,7 @@ class RealEstateSpider(BaseSpider):
                                         house.real_estate_id = real_estate_id
                                         house.source_id = 1
                                         house.unit = house_unit
+                                        house.web_house_id = td.find("input").attrs.get("value")
                                         house.__add__()
                                         logger.info("套内单价：%s， 套内面积：%s" % (house.inside_price, house.inside_area))
                                     except BaseException as e:

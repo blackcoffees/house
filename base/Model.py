@@ -19,7 +19,7 @@ class BaseModel(object):
 class RealEstate(BaseModel):
     address = None
     region = None
-    building = None
+    name = None
     developer = None
     sale_building = None
     source_id = 0
@@ -27,7 +27,7 @@ class RealEstate(BaseModel):
     updated = None
     sale_count = 0
     house_total_count = 0
-    house_sale_count = 0
+    house_sell_out_count = 0
 
     def __add__(self):
         real_estate_id = self.__find__()
@@ -53,8 +53,8 @@ class RealEstate(BaseModel):
 
 
 class Building(BaseModel):
-    house_number = None
-    building_name = None
+    pre_sale_number = None
+    real_estate_name = None
     sale_building = None
     sale_residence_count = 0
     sale_none_residence_count = 0
@@ -71,10 +71,10 @@ class Building(BaseModel):
             return id
         self.created = datetime.datetime.now()
         sql = """insert into building(web_build_id, register_time, created, real_estate_id, sale_residence_count, 
-                  sale_none_residence_count , source_id, sale_building, building_name)
+                  sale_none_residence_count , source_id, sale_building, real_estate_name)
                    values (%s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.web_build_id, self.register_time, self.created, self.real_estate_id, self.sale_residence_count,
-                 self.sale_none_residence_count, self.source_id, self.sale_building, self.building_name]
+                 self.sale_none_residence_count, self.source_id, self.sale_building, self.real_estate_name]
         return DBUtil.save(sql, param)
 
     def __get__(self):
@@ -100,6 +100,7 @@ class House(BaseModel):
     source_id = 0
     created = datetime.datetime.now()
     unit = None
+    web_house_id = 0
 
     def __add__(self):
         id = self.__get__()
@@ -107,9 +108,10 @@ class House(BaseModel):
             return id
         self.created = datetime.datetime.now()
         sql = """insert into house(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
-                  real_estate_id, buliding_id, source_id, created, unit) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+                  real_estate_id, buliding_id, source_id, created, unit, web_house_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.door_number, self.status, self.inside_area, self.built_area, self.house_type, self.inside_price,
-                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id, self.created, self.unit]
+                 self.built_price, self.real_estate_id, self.buliding_id, self.source_id, self.created, self.unit,
+                 self.web_house_id]
         return DBUtil.save(sql, param)
 
     def __get__(self):
@@ -118,8 +120,12 @@ class House(BaseModel):
         result = DBUtil.get(sql, param)
         if result:
             old_status = DBUtil.get_house_status(self.door_number, self.real_estate_id, self.buliding_id, self.unit)
-            if not old_status == self.status:
-                DBUtil.update_house_status(result.get("id"), self.status)
+            if not old_status == self.status and self.status != 6:
+                # DBUtil.update_house_status(result.get("id"), self.status)
+                update_sql = """update house set status=%s, inside_area=%s, built_area=%s, house_typ=%s,
+                                inside_price=%s, built_price=%s, updated=%s where id=%s"""
+                DBUtil.save(sql, [self.status, self.inside_price, self.buliding_id, self.house_type, self.inside_price,
+                                  self.built_price, datetime.datetime.now()])
             return result.get("id")
         else:
             False

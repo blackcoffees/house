@@ -218,7 +218,7 @@ proxy_list = list()
 
 
 def validate_house_door_number(door_number):
-    list_nonvalidate = [u"井", u"商业", u"架空", u"消控", u"车库梯", u"避难间", u"消防控制室"]
+    list_nonvalidate = [u"井", u"商业", u"架空", u"消控", u"车库梯", u"避难间", u"消防控制室", u"楼梯间"]
     for nonvalidate in list_nonvalidate:
         if nonvalidate in door_number:
             return False

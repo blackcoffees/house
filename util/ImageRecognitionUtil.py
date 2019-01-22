@@ -382,6 +382,8 @@ class ImageRecognition(object):
         :param expression_str:
         :return:
         """
+        if not expression_str:
+            return 0
         if "+" in expression_str:
             return int(expression_str.split("+")[0]) + int(expression_str.split("+")[1])
         elif "-" in expression_str:
@@ -390,7 +392,6 @@ class ImageRecognition(object):
             return int(expression_str.split("*")[0]) * int(expression_str.split("*")[1])
         elif "/" in expression_str:
             return int(expression_str.split("/")[0]) / int(expression_str.split("/")[1])
-        return 0
 
     def compare_success_img(self, image_url, maxhash=-1):
         """
