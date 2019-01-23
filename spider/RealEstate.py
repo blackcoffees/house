@@ -219,8 +219,6 @@ class RealEstateSpider(BaseSpider):
                                                  static_data.get("sum(sale_count)"))
                     except BaseException as e:
                         logger.info(e)
-                        logger.info("%s 外层异常休眠5分钟" % datetime.datetime.now())
-                        time.sleep(300)
                         continue
                     finally:
                         update_region(region.get("id"), now_page)

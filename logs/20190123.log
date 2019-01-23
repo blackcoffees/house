@@ -1,0 +1,1502 @@
+2019-01-23 09:34:19,542 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 09:34:19,549 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 09:34:19,559 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 09:34:19,608 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:34:20,046 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:34:20,053 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:34:20,058 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:34:20,076 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 09:34:20,088 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:35:34,181 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 09:35:34,187 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 09:35:34,200 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 09:35:34,252 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:35:34,697 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:35:34,700 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:35:34,706 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 09:36:10,765 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 09:36:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:37:10,796 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:38:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:39:10,798 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:40:10,788 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:41:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:42:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:43:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:44:10,780 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:45:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:46:10,806 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:47:10,798 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:48:10,801 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:49:10,793 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:49:25,976 - RealEstate.py[line:50] - INFO: 渝北：61
+2019-01-23 09:49:29,987 - RealEstate.py[line:151] - INFO: 2019-01-23 09:49:29.988000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-1
+2019-01-23 09:49:34,226 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-4
+2019-01-23 09:49:34,388 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:49:34,417 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:49:34,460 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:49:43,459 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-4
+2019-01-23 09:49:44,171 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 无效的验证，请重新打开本页}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 09:49:47,124 - CommonUtils.py[line:106] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-01-23 09:49:49,349 - RealEstate.py[line:151] - INFO: 2019-01-23 09:49:49.350000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-2
+2019-01-23 09:49:56,545 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4-2
+2019-01-23 09:49:56,913 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4-2
+2019-01-23 09:49:56,933 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:49:56,971 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-4
+2019-01-23 09:49:56,971 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4-2
+2019-01-23 09:50:10,499 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5-3
+2019-01-23 09:50:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:50:10,881 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：5-3
+2019-01-23 09:50:10,897 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:50:10,903 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2-2
+2019-01-23 09:50:10,904 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5-3
+2019-01-23 09:50:25,303 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 09:50:25,460 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:50:25,482 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:50:25,513 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-8
+2019-01-23 09:50:25,513 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-8
+2019-01-23 09:50:34,668 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-8
+2019-01-23 09:50:34,825 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:50:34,845 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:50:34,881 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:50:34,881 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-8
+2019-01-23 09:50:43,888 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3-7
+2019-01-23 09:50:44,255 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3-1
+2019-01-23 09:50:44,276 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:50:44,308 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9+3
+2019-01-23 09:50:44,309 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3-1
+2019-01-23 09:51:01,483 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 09:51:01,855 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:51:01,875 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:51:01,913 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:51:01,914 - ImageRecognitionUtil.py[line:94] - ERROR: 图片识别失败
+2019-01-23 09:51:01,914 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 09:51:07,885 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：2+5
+2019-01-23 09:51:08,250 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：2+5
+2019-01-23 09:51:08,269 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:51:08,292 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7+9
+2019-01-23 09:51:08,293 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:2+5
+2019-01-23 09:51:10,782 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:51:27,020 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 09:51:27,020 - RealEstate.py[line:151] - INFO: 2019-01-23 09:51:27.021000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-3
+2019-01-23 09:51:31,532 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4-3
+2019-01-23 09:51:31,905 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4-3
+2019-01-23 09:51:31,921 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:51:31,940 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5-5
+2019-01-23 09:51:31,940 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4-3
+2019-01-23 09:51:39,938 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：2-1
+2019-01-23 09:51:40,298 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：2-1
+2019-01-23 09:51:40,319 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:51:40,355 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:51:40,355 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:2-1
+2019-01-23 09:51:45,816 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4-2
+2019-01-23 09:51:46,186 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4-2
+2019-01-23 09:51:46,213 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:51:46,233 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-3
+2019-01-23 09:51:46,234 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4-2
+2019-01-23 09:52:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:52:36,802 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6+1
+2019-01-23 09:52:36,954 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:52:36,974 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:52:36,982 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3+2
+2019-01-23 09:52:36,982 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6+1
+2019-01-23 09:52:41,420 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 09:52:41,421 - RealEstate.py[line:151] - INFO: 2019-01-23 09:52:41.420000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-4
+2019-01-23 09:52:45,467 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-7
+2019-01-23 09:52:45,832 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-1
+2019-01-23 09:52:45,851 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:52:45,858 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+9
+2019-01-23 09:52:45,858 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-1
+2019-01-23 09:52:50,381 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-4
+2019-01-23 09:52:50,535 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:52:50,555 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:52:50,591 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:52:50,591 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-4
+2019-01-23 09:52:55,381 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5-4
+2019-01-23 09:52:55,750 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：5-4
+2019-01-23 09:52:55,770 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:52:55,792 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-5
+2019-01-23 09:52:55,792 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5-4
+2019-01-23 09:53:00,535 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 09:53:00,680 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:53:00,700 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:00,711 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+4
+2019-01-23 09:53:00,713 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+4
+2019-01-23 09:53:05,224 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5-4
+2019-01-23 09:53:05,595 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：5-4
+2019-01-23 09:53:05,619 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:05,632 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4-2
+2019-01-23 09:53:05,634 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5-4
+2019-01-23 09:53:10,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:53:11,279 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4-4
+2019-01-23 09:53:11,848 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4-4
+2019-01-23 09:53:11,868 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:11,882 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4-4
+2019-01-23 09:53:11,882 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4-4
+2019-01-23 09:53:20,900 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 09:53:21,049 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:53:21,069 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:21,099 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-5
+2019-01-23 09:53:21,099 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-5
+2019-01-23 09:53:28,694 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-2
+2019-01-23 09:53:28,839 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:53:28,859 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:28,895 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:53:28,897 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-2
+2019-01-23 09:53:34,515 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4-2
+2019-01-23 09:53:34,878 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4-2
+2019-01-23 09:53:34,910 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:34,963 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:53:34,963 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4-2
+2019-01-23 09:53:39,684 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-8
+2019-01-23 09:53:39,838 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:53:39,857 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:39,891 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:53:39,891 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-8
+2019-01-23 09:53:46,467 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-4
+2019-01-23 09:53:46,832 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-4
+2019-01-23 09:53:46,861 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:46,910 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7-5
+2019-01-23 09:53:46,910 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-4
+2019-01-23 09:53:56,029 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-3
+2019-01-23 09:53:56,401 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-3
+2019-01-23 09:53:56,420 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:53:56,430 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3-1
+2019-01-23 09:53:56,430 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-3
+2019-01-23 09:54:00,882 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-7
+2019-01-23 09:54:01,255 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：9-1
+2019-01-23 09:54:01,276 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:01,311 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:54:01,311 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-1
+2019-01-23 09:54:06,430 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-2
+2019-01-23 09:54:06,795 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-2
+2019-01-23 09:54:06,813 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:06,832 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6+8
+2019-01-23 09:54:06,834 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-2
+2019-01-23 09:54:10,799 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:54:12,141 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+2
+2019-01-23 09:54:12,489 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+2
+2019-01-23 09:54:12,510 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:12,549 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:54:12,549 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+2
+2019-01-23 09:54:17,757 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3+2
+2019-01-23 09:54:18,155 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3+5
+2019-01-23 09:54:18,180 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:18,203 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7+6
+2019-01-23 09:54:18,204 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+5
+2019-01-23 09:54:22,986 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-3
+2019-01-23 09:54:23,134 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:54:23,150 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:23,165 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5-2
+2019-01-23 09:54:23,167 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-3
+2019-01-23 09:54:26,118 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.43
+2019-01-23 09:54:26,121 - RealEstate.py[line:151] - INFO: 2019-01-23 09:54:26.122000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-1
+2019-01-23 09:54:31,180 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 09:54:31,553 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:54:31,575 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:31,601 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7+6
+2019-01-23 09:54:31,601 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7+6
+2019-01-23 09:54:36,650 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-3
+2019-01-23 09:54:37,013 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-3
+2019-01-23 09:54:37,029 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:37,062 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:54:37,063 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-3
+2019-01-23 09:54:41,983 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-7
+2019-01-23 09:54:42,127 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:54:42,148 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:42,164 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5-3
+2019-01-23 09:54:42,164 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-7
+2019-01-23 09:54:47,109 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 09:54:47,451 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:54:47,467 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:47,477 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+4
+2019-01-23 09:54:47,477 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+4
+2019-01-23 09:54:55,829 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-8
+2019-01-23 09:54:55,990 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 09:54:56,009 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:54:56,043 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:54:56,043 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-8
+2019-01-23 09:55:03,970 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-2
+2019-01-23 09:55:04,334 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-2
+2019-01-23 09:55:04,358 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:55:04,384 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7-5
+2019-01-23 09:55:04,384 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-2
+2019-01-23 09:55:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:55:11,098 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4+3
+2019-01-23 09:55:11,461 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4+3
+2019-01-23 09:55:11,482 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:55:11,486 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：1+6
+2019-01-23 09:55:11,486 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+3
+2019-01-23 09:55:20,986 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3-2
+2019-01-23 09:55:21,348 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3-2
+2019-01-23 09:55:21,368 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:55:21,375 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2-2
+2019-01-23 09:55:21,375 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3-2
+2019-01-23 09:55:24,585 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 无效的验证，请重新打开本页}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 09:56:10,803 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:56:23,701 - CommonUtils.py[line:106] - INFO: 测试代理IP,切换代理IP:124.152.32.140:53281
+2019-01-23 09:56:26,076 - RealEstate.py[line:151] - INFO: 2019-01-23 09:56:26.077000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-2
+2019-01-23 09:56:35,911 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-6
+2019-01-23 09:56:36,302 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-6
+2019-01-23 09:56:36,322 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 09:56:36,355 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 09:56:36,357 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-6
+2019-01-23 09:56:42,930 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 无效的验证，请重新打开本页}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 09:57:10,795 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:58:10,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 09:59:10,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:00:10,795 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:01:10,792 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:02:01,545 - RealEstate.py[line:151] - INFO: 2019-01-23 10:02:01.545000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-3
+2019-01-23 10:02:10,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:02:20,658 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4+9
+2019-01-23 10:02:20,825 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:02:20,849 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:02:20,885 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 10:02:20,887 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+9
+2019-01-23 10:02:32,443 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-5
+2019-01-23 10:02:32,822 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:02:32,838 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:02:32,854 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4-4
+2019-01-23 10:02:32,854 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-5
+2019-01-23 10:03:06,592 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：
+2019-01-23 10:03:06,747 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:03:06,769 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:03:06,808 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 10:03:06,809 - ImageRecognitionUtil.py[line:94] - ERROR: 图片识别失败
+2019-01-23 10:03:06,809 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:03:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:03:35,686 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+7
+2019-01-23 10:03:36,115 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+7
+2019-01-23 10:03:36,135 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:03:36,183 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 10:03:36,183 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+7
+2019-01-23 10:03:49,799 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-5
+2019-01-23 10:03:50,177 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-5
+2019-01-23 10:03:50,194 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:03:50,224 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-4
+2019-01-23 10:03:50,224 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-5
+2019-01-23 10:04:07,525 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+2
+2019-01-23 10:04:07,884 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+2
+2019-01-23 10:04:07,903 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:04:07,913 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+2
+2019-01-23 10:04:07,913 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+2
+2019-01-23 10:04:10,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:04:20,684 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-7
+2019-01-23 10:04:21,052 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-7
+2019-01-23 10:04:21,069 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:04:21,088 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6+8
+2019-01-23 10:04:21,088 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-7
+2019-01-23 10:04:56,099 - ImageRecognitionUtil.py[line:110] - ERROR: tile cannot extend outside image
+2019-01-23 10:04:56,099 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:04:56,173 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:05:10,809 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:06:10,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:07:10,785 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:08:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:09:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:10:01,641 - RealEstate.py[line:151] - INFO: 2019-01-23 10:10:01.642000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-4
+2019-01-23 10:10:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:10:22,960 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7+3
+2019-01-23 10:10:23,335 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7+3
+2019-01-23 10:10:23,352 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:10:23,388 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9+7
+2019-01-23 10:10:23,388 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7+3
+2019-01-23 10:10:29,884 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3-3
+2019-01-23 10:10:30,246 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3-3
+2019-01-23 10:10:30,263 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:10:30,299 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 10:10:30,299 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3-3
+2019-01-23 10:11:00,782 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 10:11:00,927 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:11:00,944 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:11:00,980 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 10:11:00,980 - ImageRecognitionUtil.py[line:94] - ERROR: 图片识别失败
+2019-01-23 10:11:00,980 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:11:10,788 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:11:22,476 - ImageRecognitionUtil.py[line:110] - ERROR: tile cannot extend outside image
+2019-01-23 10:11:22,477 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:11:22,532 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:12:10,779 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:13:10,801 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:14:10,779 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:15:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:16:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:16:43,355 - RealEstate.py[line:151] - INFO: 2019-01-23 10:16:43.354000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-1
+2019-01-23 10:17:10,819 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:18:10,779 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:19:10,793 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:20:10,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:21:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:22:10,790 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:22:54,859 - ImageRecognitionUtil.py[line:110] - ERROR: 无法获取验证网页
+2019-01-23 10:22:54,859 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:22:57,134 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:23:10,832 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:24:10,799 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:25:10,798 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:26:10,798 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:27:10,785 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:28:07,105 - RealEstate.py[line:151] - INFO: 2019-01-23 10:28:07.106000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-2
+2019-01-23 10:28:07,305 - RealEstate.py[line:151] - INFO: 2019-01-23 10:28:07.306000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-3
+2019-01-23 10:28:10,842 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:28:29,595 - ImageRecognitionUtil.py[line:110] - ERROR: tile cannot extend outside image
+2019-01-23 10:28:29,596 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:28:29,661 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:29:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:30:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:31:10,778 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:32:10,822 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:33:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:33:50,397 - RealEstate.py[line:151] - INFO: 2019-01-23 10:33:50.397000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-4
+2019-01-23 10:34:10,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:35:10,819 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:36:10,788 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:37:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:38:10,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:38:55,342 - ImageRecognitionUtil.py[line:110] - ERROR: 无法获取验证网页
+2019-01-23 10:38:55,342 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:38:55,733 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:39:10,796 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:40:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:41:10,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:42:10,792 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:43:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:44:10,789 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:44:14,193 - RealEstate.py[line:151] - INFO: 2019-01-23 10:44:14.193000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-1
+2019-01-23 10:44:39,838 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-3
+2019-01-23 10:44:39,989 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:44:40,003 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:44:40,035 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-6
+2019-01-23 10:44:40,035 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-3
+2019-01-23 10:45:10,805 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:45:16,437 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4+3
+2019-01-23 10:45:16,602 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:45:16,621 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:45:16,634 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+4
+2019-01-23 10:45:16,634 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+3
+2019-01-23 10:45:36,625 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 10:45:36,773 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:45:36,793 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:45:36,805 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+9
+2019-01-23 10:45:36,805 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+9
+2019-01-23 10:45:58,236 - ImageRecognitionUtil.py[line:110] - ERROR: tile cannot extend outside image
+2019-01-23 10:45:58,236 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:45:58,293 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:46:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:47:10,782 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:48:10,789 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:49:10,790 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:50:10,809 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:51:10,808 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:51:17,815 - RealEstate.py[line:151] - INFO: 2019-01-23 10:51:17.815000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-2
+2019-01-23 10:51:25,201 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-6
+2019-01-23 10:51:25,584 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-6
+2019-01-23 10:51:25,605 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:51:25,627 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-4
+2019-01-23 10:51:25,627 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-6
+2019-01-23 10:51:42,190 - ImageRecognitionUtil.py[line:110] - ERROR: tile cannot extend outside image
+2019-01-23 10:51:42,190 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 10:51:42,246 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:52:10,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:53:10,788 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:54:10,782 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:55:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:56:10,796 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:57:03,188 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:03.189000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-3
+2019-01-23 10:57:03,390 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:03.390000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-4
+2019-01-23 10:57:10,788 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:57:17,196 - RealEstate.py[line:50] - INFO: 渝北：61
+2019-01-23 10:57:19,332 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:19.332000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-1
+2019-01-23 10:57:24,138 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：2+2
+2019-01-23 10:57:24,500 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4+2
+2019-01-23 10:57:24,517 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:57:24,525 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+9
+2019-01-23 10:57:24,525 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+2
+2019-01-23 10:57:27,752 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 10:57:27,753 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:27.753000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-2
+2019-01-23 10:57:27,756 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:27.756000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-3
+2019-01-23 10:57:27,757 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:27.758000 渝北 恒大御景台一期-2号楼 2幢 1单元 25-4
+2019-01-23 10:57:27,762 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:27.762000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-1
+2019-01-23 10:57:31,951 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 10:57:32,105 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:57:32,127 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:57:32,132 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+9
+2019-01-23 10:57:32,132 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:2+9
+2019-01-23 10:57:39,786 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 10:57:39,786 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:39.787000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-2
+2019-01-23 10:57:43,450 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-3
+2019-01-23 10:57:43,611 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:57:43,631 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:57:43,653 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-1
+2019-01-23 10:57:43,653 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-3
+2019-01-23 10:57:49,270 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 10:57:49,272 - RealEstate.py[line:151] - INFO: 2019-01-23 10:57:49.272000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-3
+2019-01-23 10:57:53,048 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 10:57:53,198 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:57:53,217 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:57:53,223 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+2
+2019-01-23 10:57:53,223 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:2+2
+2019-01-23 10:57:57,349 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+1
+2019-01-23 10:57:57,713 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+1
+2019-01-23 10:57:57,733 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:57:57,770 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 10:57:57,770 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+1
+2019-01-23 10:58:01,789 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-7
+2019-01-23 10:58:02,138 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-7
+2019-01-23 10:58:02,157 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:58:02,190 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9+9
+2019-01-23 10:58:02,191 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-7
+2019-01-23 10:58:06,476 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-5
+2019-01-23 10:58:06,832 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-5
+2019-01-23 10:58:06,851 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:58:06,888 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8+9
+2019-01-23 10:58:06,888 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-5
+2019-01-23 10:58:10,792 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 10:58:12,686 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 10:58:12,686 - RealEstate.py[line:151] - INFO: 2019-01-23 10:58:12.686000 渝北 恒大御景台一期-2号楼 2幢 1单元 24-4
+2019-01-23 10:58:16,266 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-4
+2019-01-23 10:58:16,424 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 10:58:16,446 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 10:58:16,480 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-5
+2019-01-23 10:58:16,480 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-4
+2019-01-23 10:58:16,920 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 10:59:10,780 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:00:10,796 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:01:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:02:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:03:10,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:03:42,026 - RealEstate.py[line:151] - INFO: 2019-01-23 11:03:42.026000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-1
+2019-01-23 11:03:46,767 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+7
+2019-01-23 11:03:47,130 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+7
+2019-01-23 11:03:47,147 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:03:47,181 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:03:47,181 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+7
+2019-01-23 11:03:51,460 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-5
+2019-01-23 11:03:51,604 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:03:51,619 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:03:51,655 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:03:51,655 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-5
+2019-01-23 11:03:55,730 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7+5
+2019-01-23 11:03:56,128 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7+5
+2019-01-23 11:03:56,144 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:03:56,180 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:03:56,180 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7+5
+2019-01-23 11:04:00,441 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3-1
+2019-01-23 11:04:00,809 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3-1
+2019-01-23 11:04:00,828 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:04:00,848 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6+8
+2019-01-23 11:04:00,848 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3-1
+2019-01-23 11:04:05,298 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-3
+2019-01-23 11:04:05,690 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-3
+2019-01-23 11:04:05,711 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:04:05,739 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8+8
+2019-01-23 11:04:05,739 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-3
+2019-01-23 11:04:10,779 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:04:11,155 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 11:04:11,157 - RealEstate.py[line:151] - INFO: 2019-01-23 11:04:11.157000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-2
+2019-01-23 11:04:11,164 - RealEstate.py[line:151] - INFO: 2019-01-23 11:04:11.163000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-3
+2019-01-23 11:04:15,233 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-4
+2019-01-23 11:04:15,384 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:04:15,404 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:04:15,440 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:04:15,441 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-4
+2019-01-23 11:04:19,096 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 11:04:19,096 - RealEstate.py[line:151] - INFO: 2019-01-23 11:04:19.097000 渝北 恒大御景台一期-2号楼 2幢 1单元 23-4
+2019-01-23 11:04:23,364 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-8
+2019-01-23 11:04:23,533 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:04:23,552 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:04:23,586 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:04:23,588 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-8
+2019-01-23 11:04:23,839 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 11:05:10,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:06:10,805 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:07:10,799 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:08:10,849 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:09:44,484 - RealEstate.py[line:151] - INFO: 2019-01-23 11:09:44.485000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-1
+2019-01-23 11:09:49,456 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4+5
+2019-01-23 11:09:49,828 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4+5
+2019-01-23 11:09:49,848 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:09:49,859 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+4
+2019-01-23 11:09:49,859 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+5
+2019-01-23 11:09:52,857 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 11:09:52,857 - RealEstate.py[line:151] - INFO: 2019-01-23 11:09:52.857000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-2
+2019-01-23 11:09:57,009 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+2
+2019-01-23 11:09:57,371 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+1
+2019-01-23 11:09:57,391 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:09:57,427 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:09:57,427 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+1
+2019-01-23 11:10:00,444 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 11:10:00,444 - RealEstate.py[line:151] - INFO: 2019-01-23 11:10:00.445000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-3
+2019-01-23 11:10:00,446 - RealEstate.py[line:151] - INFO: 2019-01-23 11:10:00.446000 渝北 恒大御景台一期-2号楼 2幢 1单元 22-4
+2019-01-23 11:10:04,194 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-1
+2019-01-23 11:10:04,573 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-1
+2019-01-23 11:10:04,596 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:10:04,625 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7-2
+2019-01-23 11:10:04,625 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-1
+2019-01-23 11:10:05,924 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 11:11:15,010 - house.py[line:149] - ERROR: No JSON object could be decoded
+2019-01-23 11:12:00,826 - CommonUtils.py[line:106] - INFO: 测试代理IP,切换代理IP:58.243.50.184:53281
+2019-01-23 11:12:00,875 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:12:10,782 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:13:10,789 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:14:10,782 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:15:10,799 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:15:14,493 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:14.493000 渝北 恒大御景台一期-2号楼 2幢 1单元 21-1
+2019-01-23 11:15:14,588 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:14.588000 渝北 恒大御景台一期-2号楼 2幢 1单元 21-2
+2019-01-23 11:15:14,612 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:14.613000 渝北 恒大御景台一期-2号楼 2幢 1单元 21-3
+2019-01-23 11:15:14,663 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:14.663000 渝北 恒大御景台一期-2号楼 2幢 1单元 21-4
+2019-01-23 11:15:19,848 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 11:15:20,000 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:15:20,020 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:20,029 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3+8
+2019-01-23 11:15:20,029 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+8
+2019-01-23 11:15:24,176 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8+2
+2019-01-23 11:15:24,329 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:15:24,351 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:24,380 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8+7
+2019-01-23 11:15:24,380 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8+2
+2019-01-23 11:15:28,700 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4+2
+2019-01-23 11:15:29,078 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4+2
+2019-01-23 11:15:29,096 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:29,101 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+4
+2019-01-23 11:15:29,102 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+2
+2019-01-23 11:15:33,053 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.43
+2019-01-23 11:15:33,059 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:33.060000 渝北 恒大御景台一期-2号楼 2幢 1单元 20-1
+2019-01-23 11:15:36,750 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-1
+2019-01-23 11:15:37,111 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-1
+2019-01-23 11:15:37,130 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:37,138 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3+8
+2019-01-23 11:15:37,138 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-1
+2019-01-23 11:15:39,302 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 11:15:39,303 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:39.304000 渝北 恒大御景台一期-2号楼 2幢 1单元 20-2
+2019-01-23 11:15:43,325 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7+1
+2019-01-23 11:15:43,707 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7+1
+2019-01-23 11:15:43,727 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:43,729 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：1+1
+2019-01-23 11:15:43,730 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7+1
+2019-01-23 11:15:44,119 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 11:15:44,121 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:44.121000 渝北 恒大御景台一期-2号楼 2幢 1单元 20-3
+2019-01-23 11:15:49,323 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-1
+2019-01-23 11:15:49,473 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:15:49,493 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:49,526 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9-1
+2019-01-23 11:15:49,528 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-1
+2019-01-23 11:15:54,578 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 11:15:54,578 - RealEstate.py[line:151] - INFO: 2019-01-23 11:15:54.579000 渝北 恒大御景台一期-2号楼 2幢 1单元 20-4
+2019-01-23 11:15:59,009 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3+7
+2019-01-23 11:15:59,371 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3+7
+2019-01-23 11:15:59,394 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:15:59,394 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：1+5
+2019-01-23 11:15:59,395 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+7
+2019-01-23 11:16:00,336 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 11:16:04,683 - httperror.py[line:55] - INFO: Ignoring response %(response)r: HTTP status code is not handled or not allowed
+2019-01-23 11:16:04,690 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-23 11:16:04,693 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 4,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 1,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 3,
+ 'downloader/request_bytes': 475549,
+ 'downloader/request_count': 1173,
+ 'downloader/request_method_count/GET': 1173,
+ 'downloader/response_bytes': 252624716,
+ 'downloader/response_count': 1169,
+ 'downloader/response_status_count/200': 1167,
+ 'downloader/response_status_count/404': 2,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 23, 3, 16, 4, 691000),
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/404': 1,
+ 'item_scraped_count': 100215,
+ 'log_count/DEBUG': 101389,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 106,
+ 'request_depth_max': 1167,
+ 'response_received_count': 1169,
+ 'retry/count': 4,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 1,
+ 'retry/reason_count/twisted.internet.error.TimeoutError': 3,
+ 'scheduler/dequeued': 1172,
+ 'scheduler/dequeued/memory': 1172,
+ 'scheduler/enqueued': 1172,
+ 'scheduler/enqueued/memory': 1172,
+ 'start_time': datetime.datetime(2019, 1, 23, 1, 36, 10, 777000)}
+2019-01-23 11:16:04,693 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-23 11:21:20,954 - RealEstate.py[line:151] - INFO: 2019-01-23 11:21:20.955000 渝北 恒大御景台一期-2号楼 2幢 1单元 19-1
+2019-01-23 11:21:25,674 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4-3
+2019-01-23 11:21:26,036 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4-3
+2019-01-23 11:21:26,051 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:21:26,071 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-1
+2019-01-23 11:21:26,072 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4-3
+2019-01-23 11:21:30,424 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 11:21:30,426 - RealEstate.py[line:151] - INFO: 2019-01-23 11:21:30.426000 渝北 恒大御景台一期-2号楼 2幢 1单元 19-2
+2019-01-23 11:21:34,104 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-7
+2019-01-23 11:21:34,256 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:21:34,276 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:21:34,311 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:21:34,311 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-7
+2019-01-23 11:21:38,371 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7+5
+2019-01-23 11:21:38,721 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7+5
+2019-01-23 11:21:38,742 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:21:38,772 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9+1
+2019-01-23 11:21:38,772 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7+5
+2019-01-23 11:21:41,607 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 11:21:41,608 - RealEstate.py[line:151] - INFO: 2019-01-23 11:21:41.608000 渝北 恒大御景台一期-2号楼 2幢 1单元 19-3
+2019-01-23 11:21:41,631 - RealEstate.py[line:151] - INFO: 2019-01-23 11:21:41.632000 渝北 恒大御景台一期-2号楼 2幢 1单元 19-4
+2019-01-23 11:21:45,555 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6+2
+2019-01-23 11:21:45,927 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6+2
+2019-01-23 11:21:45,947 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:21:45,957 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+9
+2019-01-23 11:21:45,957 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6+2
+2019-01-23 11:21:50,292 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.43
+2019-01-23 11:21:50,299 - RealEstate.py[line:151] - INFO: 2019-01-23 11:21:50.299000 渝北 恒大御景台一期-2号楼 2幢 1单元 18-1
+2019-01-23 11:21:54,009 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：2+3
+2019-01-23 11:21:54,381 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：2+3
+2019-01-23 11:21:54,401 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:21:54,405 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：2+5
+2019-01-23 11:21:54,407 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:2+3
+2019-01-23 11:21:54,592 - RealEstate.py[line:206] - INFO: 无法获取房子数据
+2019-01-23 11:23:49,448 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 11:23:49,454 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 11:23:49,466 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 11:23:49,509 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:23:49,961 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:23:49,967 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:23:49,971 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:23:49,984 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 11:23:49,994 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:24:50,016 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:25:49,999 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:26:49,996 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:27:14,128 - RealEstate.py[line:151] - INFO: 2019-01-23 11:27:14.128000 渝北 恒大御景台一期-2号楼 2幢 1单元 18-2
+2019-01-23 11:27:19,391 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5-3
+2019-01-23 11:27:19,759 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：5-3
+2019-01-23 11:27:19,775 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:27:19,789 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4-2
+2019-01-23 11:27:19,789 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5-3
+2019-01-23 11:27:49,994 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:28:49,994 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:29:49,993 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:30:49,994 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:31:16,385 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 11:31:16,387 - RealEstate.py[line:151] - INFO: 2019-01-23 11:31:16.387000 渝北 恒大御景台一期-2号楼 2幢 1单元 18-3
+2019-01-23 11:31:49,994 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:32:12,165 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-3
+2019-01-23 11:32:12,551 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-3
+2019-01-23 11:32:12,566 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:32:12,595 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8+9
+2019-01-23 11:32:12,595 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-3
+2019-01-23 11:32:55,339 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 11:32:55,341 - RealEstate.py[line:151] - INFO: 2019-01-23 11:32:55.341000 渝北 恒大御景台一期-2号楼 2幢 1单元 18-4
+2019-01-23 11:32:55,398 - RealEstate.py[line:151] - INFO: 2019-01-23 11:32:55.399000 渝北 恒大御景台一期-2号楼 2幢 1单元 17-1
+2019-01-23 11:37:58,742 - ImageRecognitionUtil.py[line:110] - ERROR: 无法获取验证网页
+2019-01-23 11:37:58,743 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 11:37:59,114 - RealEstate.py[line:206] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 11:43:02,270 - RealEstate.py[line:151] - INFO: 2019-01-23 11:43:02.271000 渝北 恒大御景台一期-2号楼 2幢 1单元 17-2
+2019-01-23 11:43:06,444 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3+4
+2019-01-23 11:43:06,834 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3+4
+2019-01-23 11:43:06,854 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:43:06,868 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5+3
+2019-01-23 11:43:06,868 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+4
+2019-01-23 11:43:08,207 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 11:43:08,207 - RealEstate.py[line:151] - INFO: 2019-01-23 11:43:08.208000 渝北 恒大御景台一期-2号楼 2幢 1单元 17-3
+2019-01-23 11:43:11,915 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 11:43:12,062 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:43:12,082 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:43:12,088 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3+1
+2019-01-23 11:43:12,088 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+1
+2019-01-23 11:43:16,084 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 11:43:16,246 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:43:16,267 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:43:16,305 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:43:16,305 - ImageRecognitionUtil.py[line:94] - ERROR: 图片识别失败
+2019-01-23 11:43:16,305 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 11:43:20,052 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-2
+2019-01-23 11:43:20,437 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-2
+2019-01-23 11:43:20,459 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:43:20,480 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-5
+2019-01-23 11:43:20,480 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-2
+2019-01-23 11:43:21,858 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 11:43:21,858 - RealEstate.py[line:151] - INFO: 2019-01-23 11:43:21.859000 渝北 恒大御景台一期-2号楼 2幢 1单元 17-4
+2019-01-23 11:43:21,897 - RealEstate.py[line:151] - INFO: 2019-01-23 11:43:21.897000 渝北 恒大御景台一期-2号楼 2幢 1单元 16-1
+2019-01-23 11:43:21,933 - RealEstate.py[line:151] - INFO: 2019-01-23 11:43:21.933000 渝北 恒大御景台一期-2号楼 2幢 1单元 16-2
+2019-01-23 11:43:28,249 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3+4
+2019-01-23 11:43:28,644 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3+4
+2019-01-23 11:43:28,664 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:43:28,697 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9+7
+2019-01-23 11:43:28,697 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+4
+2019-01-23 11:43:28,907 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 11:46:06,107 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 11:46:06,112 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 11:46:06,124 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 11:46:06,171 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:06,618 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:06,625 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:06,630 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:06,660 - _legacy.py[line:154] - CRITICAL: Unhandled error in Deferred:
+2019-01-23 11:46:06,661 - _legacy.py[line:154] - CRITICAL: 
+Traceback (most recent call last):
+  File "E:\virtualenv\python27\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\crawler.py", line 98, in crawl
+    six.reraise(*exc_info)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\crawler.py", line 81, in crawl
+    start_requests = iter(self.spider.start_requests())
+  File "E:\workspace\pycharm\house_spider\scrapy_spider\spiders\house.py", line 112, in start_requests
+    url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-01-23 11:46:31,351 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 11:46:31,355 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 11:46:31,368 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 11:46:31,415 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:31,875 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:31,880 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:31,884 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:46:31,900 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 11:46:31,911 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:48:47,302 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:47.302000 渝北 恒大御景台一期-2号楼 2幢 1单元 16-3
+2019-01-23 11:48:51,717 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1+7
+2019-01-23 11:48:52,119 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1+7
+2019-01-23 11:48:52,137 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:48:52,173 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 11:48:52,173 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+7
+2019-01-23 11:48:53,206 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 11:48:53,207 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.207000 渝北 恒大御景台一期-2号楼 2幢 1单元 16-4
+2019-01-23 11:48:53,240 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.241000 渝北 恒大御景台一期-2号楼 2幢 1单元 15-1
+2019-01-23 11:48:53,273 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.273000 渝北 恒大御景台一期-2号楼 2幢 1单元 15-2
+2019-01-23 11:48:53,303 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.304000 渝北 恒大御景台一期-2号楼 2幢 1单元 15-3
+2019-01-23 11:48:53,332 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.332000 渝北 恒大御景台一期-2号楼 2幢 1单元 15-4
+2019-01-23 11:48:53,365 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.365000 渝北 恒大御景台一期-2号楼 2幢 1单元 14-1
+2019-01-23 11:48:53,398 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.398000 渝北 恒大御景台一期-2号楼 2幢 1单元 14-2
+2019-01-23 11:48:53,428 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.429000 渝北 恒大御景台一期-2号楼 2幢 1单元 14-3
+2019-01-23 11:48:53,456 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.456000 渝北 恒大御景台一期-2号楼 2幢 1单元 14-4
+2019-01-23 11:48:53,490 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.490000 渝北 恒大御景台一期-2号楼 2幢 1单元 13-1
+2019-01-23 11:48:53,523 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.523000 渝北 恒大御景台一期-2号楼 2幢 1单元 13-2
+2019-01-23 11:48:53,555 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.555000 渝北 恒大御景台一期-2号楼 2幢 1单元 13-3
+2019-01-23 11:48:53,588 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.589000 渝北 恒大御景台一期-2号楼 2幢 1单元 13-4
+2019-01-23 11:48:53,622 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.623000 渝北 恒大御景台一期-2号楼 2幢 1单元 12-1
+2019-01-23 11:48:53,657 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.657000 渝北 恒大御景台一期-2号楼 2幢 1单元 12-2
+2019-01-23 11:48:53,687 - RealEstate.py[line:151] - INFO: 2019-01-23 11:48:53.688000 渝北 恒大御景台一期-2号楼 2幢 1单元 12-3
+2019-01-23 11:48:57,543 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 11:48:57,704 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:48:57,726 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:48:57,760 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9-4
+2019-01-23 11:48:57,760 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-4
+2019-01-23 11:49:01,946 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3+2
+2019-01-23 11:49:02,108 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3+8
+2019-01-23 11:49:02,128 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:49:02,137 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3+8
+2019-01-23 11:49:02,137 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3+8
+2019-01-23 11:49:03,388 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 11:49:03,388 - RealEstate.py[line:151] - INFO: 2019-01-23 11:49:03.389000 渝北 恒大御景台一期-2号楼 2幢 1单元 12-4
+2019-01-23 11:49:03,421 - RealEstate.py[line:151] - INFO: 2019-01-23 11:49:03.422000 渝北 恒大御景台一期-2号楼 2幢 1单元 11-1
+2019-01-23 11:49:07,436 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：4+2
+2019-01-23 11:49:07,594 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：4+8
+2019-01-23 11:49:07,611 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:49:07,627 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5+6
+2019-01-23 11:49:07,627 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:4+8
+2019-01-23 11:49:08,394 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 11:50:24,236 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 11:50:24,242 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 11:50:24,253 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 11:50:24,299 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:50:24,759 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:50:24,765 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:50:24,769 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:50:24,785 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 11:50:24,795 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:51:00,246 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 11:51:00,253 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 11:51:00,263 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 11:51:00,308 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:51:00,760 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:51:00,766 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:51:00,770 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 11:51:00,786 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 11:51:00,796 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 11:54:28,015 - RealEstate.py[line:151] - INFO: 2019-01-23 11:54:28.015000 渝北 恒大御景台一期-2号楼 2幢 1单元 11-2
+2019-01-23 11:54:32,187 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 11:54:32,342 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 11:54:32,357 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:54:32,372 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5+9
+2019-01-23 11:54:32,374 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5+9
+2019-01-23 11:54:36,141 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：1-7
+2019-01-23 11:54:36,503 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：1-1
+2019-01-23 11:54:36,523 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:54:36,532 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：3+8
+2019-01-23 11:54:36,532 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1-1
+2019-01-23 11:54:37,641 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 11:54:37,641 - RealEstate.py[line:151] - INFO: 2019-01-23 11:54:37.642000 渝北 恒大御景台一期-2号楼 2幢 1单元 11-3
+2019-01-23 11:54:41,336 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-5
+2019-01-23 11:54:41,707 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-5
+2019-01-23 11:54:41,727 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 11:54:41,744 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：5-2
+2019-01-23 11:54:41,744 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-5
+2019-01-23 11:54:43,289 - RealEstate.py[line:206] - INFO: 无法获取房子数据
+2019-01-23 12:00:02,733 - RealEstate.py[line:151] - INFO: 2019-01-23 12:00:02.734000 渝北 恒大御景台一期-2号楼 2幢 1单元 11-4
+2019-01-23 12:00:07,227 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-3
+2019-01-23 12:00:07,388 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:00:07,405 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:00:07,426 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6-4
+2019-01-23 12:00:07,426 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-3
+2019-01-23 12:00:08,769 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.43
+2019-01-23 12:00:08,773 - RealEstate.py[line:151] - INFO: 2019-01-23 12:00:08.774000 渝北 恒大御景台一期-2号楼 2幢 1单元 10-1
+2019-01-23 12:00:08,805 - RealEstate.py[line:151] - INFO: 2019-01-23 12:00:08.806000 渝北 恒大御景台一期-2号楼 2幢 1单元 10-2
+2019-01-23 12:01:57,483 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-3
+2019-01-23 12:01:57,640 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:01:57,655 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:01:57,691 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 12:01:57,691 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-3
+2019-01-23 12:01:59,000 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 12:01:59,000 - RealEstate.py[line:151] - INFO: 2019-01-23 12:01:59 渝北 恒大御景台一期-2号楼 2幢 1单元 10-3
+2019-01-23 12:02:02,730 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：3+8
+2019-01-23 12:02:02,880 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：3-8
+2019-01-23 12:02:02,900 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:02:02,924 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：7-7
+2019-01-23 12:02:02,924 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:3-8
+2019-01-23 12:02:06,872 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 12:02:07,020 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:02:07,036 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:02:07,053 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6+3
+2019-01-23 12:02:07,053 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6+3
+2019-01-23 12:02:11,176 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9+5
+2019-01-23 12:02:11,322 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:02:11,342 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:02:11,372 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9+2
+2019-01-23 12:02:11,372 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9+5
+2019-01-23 12:02:12,641 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：132.32
+2019-01-23 12:02:12,641 - RealEstate.py[line:151] - INFO: 2019-01-23 12:02:12.642000 渝北 恒大御景台一期-2号楼 2幢 1单元 10-4
+2019-01-23 12:02:16,466 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9+7
+2019-01-23 12:02:16,611 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:02:16,627 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:02:16,638 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+8
+2019-01-23 12:02:16,638 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9+7
+2019-01-23 12:02:20,289 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：
+2019-01-23 12:02:20,447 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:02:20,467 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:02:20,502 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 12:02:20,503 - ImageRecognitionUtil.py[line:94] - ERROR: 图片识别失败
+2019-01-23 12:02:20,503 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:None
+2019-01-23 12:02:26,857 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5-7
+2019-01-23 12:02:27,200 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：5-1
+2019-01-23 12:02:27,220 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:02:27,240 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6+8
+2019-01-23 12:02:27,240 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5-1
+2019-01-23 12:02:28,453 - RealEstate.py[line:206] - INFO: 无法获取房子数据
+2019-01-23 12:07:48,920 - RealEstate.py[line:151] - INFO: 2019-01-23 12:07:48.920000 渝北 恒大御景台一期-2号楼 2幢 1单元 9-1
+2019-01-23 12:07:53,197 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：None
+2019-01-23 12:07:53,552 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:07:53,569 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:07:53,572 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：1+8
+2019-01-23 12:07:53,572 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:1+8
+2019-01-23 12:07:57,461 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-4
+2019-01-23 12:07:57,615 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:07:57,634 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:07:57,668 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9-8
+2019-01-23 12:07:57,668 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-4
+2019-01-23 12:07:59,086 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 12:07:59,086 - RealEstate.py[line:151] - INFO: 2019-01-23 12:07:59.087000 渝北 恒大御景台一期-2号楼 2幢 1单元 9-2
+2019-01-23 12:08:02,736 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：7-3
+2019-01-23 12:08:03,115 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：7-3
+2019-01-23 12:08:03,130 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:08:03,157 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8+9
+2019-01-23 12:08:03,158 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:7-3
+2019-01-23 12:08:04,762 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：136
+2019-01-23 12:08:04,762 - RealEstate.py[line:151] - INFO: 2019-01-23 12:08:04.762000 渝北 恒大御景台一期-2号楼 2幢 1单元 9-3
+2019-01-23 12:08:08,484 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5+6
+2019-01-23 12:08:08,631 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:08:08,651 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:08:08,663 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：4+4
+2019-01-23 12:08:08,663 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5+6
+2019-01-23 12:08:09,548 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:12:54,546 - RealEstate.py[line:151] - INFO: 2019-01-23 12:12:54.547000 渝北 恒大御景台一期-2号楼 2幢 1单元 9-4
+2019-01-23 12:12:58,526 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-1
+2019-01-23 12:12:58,888 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-1
+2019-01-23 12:12:58,908 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:12:58,937 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：8-3
+2019-01-23 12:12:58,938 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-1
+2019-01-23 12:13:00,369 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.43
+2019-01-23 12:13:00,372 - RealEstate.py[line:151] - INFO: 2019-01-23 12:13:00.373000 渝北 恒大御景台一期-2号楼 2幢 1单元 8-1
+2019-01-23 12:13:04,230 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-9
+2019-01-23 12:13:04,381 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：6-9
+2019-01-23 12:13:04,401 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:13:04,420 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：6+9
+2019-01-23 12:13:04,420 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-9
+2019-01-23 12:13:08,141 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：8-7
+2019-01-23 12:13:08,302 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:13:08,323 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:13:08,361 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 12:13:08,361 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:8-7
+2019-01-23 12:13:09,885 - RealEstate.py[line:202] - INFO: 套内单价：14152， 套内面积：77.92
+2019-01-23 12:13:09,887 - RealEstate.py[line:151] - INFO: 2019-01-23 12:13:09.887000 渝北 恒大御景台一期-2号楼 2幢 1单元 8-2
+2019-01-23 12:13:13,486 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：6-4
+2019-01-23 12:13:13,638 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:13:13,660 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:13:13,694 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：None
+2019-01-23 12:13:13,694 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:6-4
+2019-01-23 12:13:13,923 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:16:05,230 - RealEstate.py[line:151] - INFO: 2019-01-23 12:16:05.231000 渝北 恒大御景台一期-2号楼 2幢 1单元 8-3
+2019-01-23 12:16:09,283 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：9-3
+2019-01-23 12:16:09,440 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:16:09,454 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:16:09,487 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：9-2
+2019-01-23 12:16:09,489 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:9-3
+2019-01-23 12:16:09,700 - RealEstate.py[line:206] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:17:17,075 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.076000 渝北 恒大御景台一期-2号楼 2幢 1单元 8-4
+2019-01-23 12:17:17,121 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.121000 渝北 恒大御景台一期-2号楼 2幢 1单元 7-1
+2019-01-23 12:17:17,158 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.158000 渝北 恒大御景台一期-2号楼 2幢 1单元 7-2
+2019-01-23 12:17:17,186 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.186000 渝北 恒大御景台一期-2号楼 2幢 1单元 7-3
+2019-01-23 12:17:17,217 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.217000 渝北 恒大御景台一期-2号楼 2幢 1单元 7-4
+2019-01-23 12:17:17,246 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.247000 渝北 恒大御景台一期-2号楼 2幢 1单元 6-1
+2019-01-23 12:17:17,283 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:17.284000 渝北 恒大御景台一期-2号楼 2幢 1单元 6-2
+2019-01-23 12:17:21,371 - ImageRecognitionUtil.py[line:69] - ERROR: 图片识别：5+3
+2019-01-23 12:17:21,743 - ImageRecognitionUtil.py[line:75] - ERROR: 图片识别修正：None
+2019-01-23 12:17:21,759 - ImageRecognitionUtil.py[line:83] - ERROR: 图片比较识别：None
+2019-01-23 12:17:21,762 - ImageRecognitionUtil.py[line:89] - ERROR: 成功图片比较：1+9
+2019-01-23 12:17:21,762 - ImageRecognitionUtil.py[line:111] - INFO: 验证码:5+3
+2019-01-23 12:17:23,253 - RealEstate.py[line:206] - INFO: 无法获取房子数据
+2019-01-23 12:17:27,625 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:27.626000 渝北 恒大御景台一期-2号楼 2幢 1单元 6-3
+2019-01-23 12:17:27,668 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:27.668000 渝北 恒大御景台一期-2号楼 2幢 1单元 6-4
+2019-01-23 12:17:27,703 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:27.703000 渝北 恒大御景台一期-2号楼 2幢 1单元 5-1
+2019-01-23 12:17:27,736 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:27.736000 渝北 恒大御景台一期-2号楼 2幢 1单元 5-2
+2019-01-23 12:17:28,921 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:28.921000 渝北 恒大御景台一期-2号楼 2幢 1单元 5-3
+2019-01-23 12:17:28,951 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:28.951000 渝北 恒大御景台一期-2号楼 2幢 1单元 5-4
+2019-01-23 12:17:28,993 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:28.993000 渝北 恒大御景台一期-2号楼 2幢 1单元 4-1
+2019-01-23 12:17:29,026 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.026000 渝北 恒大御景台一期-2号楼 2幢 1单元 4-2
+2019-01-23 12:17:29,062 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.061000 渝北 恒大御景台一期-2号楼 2幢 1单元 4-3
+2019-01-23 12:17:29,095 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.095000 渝北 恒大御景台一期-2号楼 2幢 1单元 4-4
+2019-01-23 12:17:29,140 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.140000 渝北 恒大御景台一期-2号楼 2幢 1单元 3-1
+2019-01-23 12:17:29,167 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.167000 渝北 恒大御景台一期-2号楼 2幢 1单元 3-2
+2019-01-23 12:17:29,194 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.195000 渝北 恒大御景台一期-2号楼 2幢 1单元 3-3
+2019-01-23 12:17:29,226 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.226000 渝北 恒大御景台一期-2号楼 2幢 1单元 3-4
+2019-01-23 12:17:29,256 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.256000 渝北 恒大御景台一期-2号楼 2幢 1单元 2-1
+2019-01-23 12:17:29,283 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.283000 渝北 恒大御景台一期-2号楼 2幢 1单元 2-2
+2019-01-23 12:17:29,313 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.314000 渝北 恒大御景台一期-2号楼 2幢 1单元 2-3
+2019-01-23 12:17:29,352 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.353000 渝北 恒大御景台一期-2号楼 2幢 1单元 2-4
+2019-01-23 12:17:29,397 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.397000 渝北 恒大御景台一期-2号楼 2幢 1单元 1-1
+2019-01-23 12:17:29,436 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.436000 渝北 恒大御景台一期-2号楼 2幢 1单元 1-2
+2019-01-23 12:17:29,496 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.496000 渝北 恒大御景台一期-2号楼 2幢 1单元 1-3
+2019-01-23 12:17:29,528 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.528000 渝北 恒大御景台一期-2号楼 2幢 1单元 1-井
+2019-01-23 12:17:29,529 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.530000 渝北 恒大御景台一期-2号楼 2幢 1单元 1-消防控制室
+2019-01-23 12:17:29,532 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.532000 渝北 恒大御景台一期-2号楼 2幢 1单元 1-梯间
+2019-01-23 12:17:29,543 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.544000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业1（跃1）
+2019-01-23 12:17:29,546 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.545000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业2（跃1）
+2019-01-23 12:17:29,546 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.547000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业3（跃1）
+2019-01-23 12:17:29,549 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.549000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业4（跃1）
+2019-01-23 12:17:29,551 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.551000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业5（跃1）
+2019-01-23 12:17:29,552 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.553000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业6（跃1）
+2019-01-23 12:17:29,555 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.555000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业7（跃1）
+2019-01-23 12:17:29,556 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.557000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业8（跃1）
+2019-01-23 12:17:29,559 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.559000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业9（跃1）
+2019-01-23 12:17:29,561 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.561000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业10（跃1）
+2019-01-23 12:17:29,562 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.562000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业12（跃1）
+2019-01-23 12:17:29,565 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.565000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业13（跃1）
+2019-01-23 12:17:29,566 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.567000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业14（跃1）
+2019-01-23 12:17:29,569 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.569000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业15（跃1）
+2019-01-23 12:17:29,571 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.570000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业16（跃1）
+2019-01-23 12:17:29,572 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.572000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业17（跃1）
+2019-01-23 12:17:29,573 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.574000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业18（跃1）
+2019-01-23 12:17:29,582 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.582000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-商业11
+2019-01-23 12:17:29,582 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.583000 渝北 恒大御景台一期-2号楼 2幢 1单元 负2-梯间
+2019-01-23 12:17:29,591 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.591000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附25号（跃2）
+2019-01-23 12:17:29,592 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.592000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附24号（跃2）
+2019-01-23 12:17:29,594 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.593000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附23号（跃2）
+2019-01-23 12:17:29,595 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.595000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附22号（跃2）
+2019-01-23 12:17:29,595 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.596000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附21号（跃2）
+2019-01-23 12:17:29,596 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.597000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附20号（跃2）
+2019-01-23 12:17:29,598 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.598000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附19号（跃2）
+2019-01-23 12:17:29,598 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.599000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附18号（跃2）
+2019-01-23 12:17:29,601 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.600000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附17号（跃2）
+2019-01-23 12:17:29,601 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.602000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附16号（跃2）
+2019-01-23 12:17:29,602 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.603000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附14号（跃2）
+2019-01-23 12:17:29,604 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.604000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附13号（跃2）
+2019-01-23 12:17:29,604 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.604000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附12号（跃2）
+2019-01-23 12:17:29,605 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.605000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附11号（跃2）
+2019-01-23 12:17:29,605 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.606000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附10号（跃2）
+2019-01-23 12:17:29,605 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.606000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附9号（跃2）
+2019-01-23 12:17:29,607 - RealEstate.py[line:151] - INFO: 2019-01-23 12:17:29.607000 渝北 恒大御景台一期-2号楼 2幢 1单元 负1-附8号（跃2）
+2019-01-23 12:23:24,322 - RealEstate.py[line:46] - INFO: 渝北房产信息收集完成
+2019-01-23 12:23:24,515 - RealEstate.py[line:50] - INFO: 江北：11
+2019-01-23 12:23:24,838 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:23:24,838 - RealEstate.py[line:222] - INFO: 2019-01-23 12:23:24.839000 外层异常休眠5分钟
+2019-01-23 12:28:25,082 - RealEstate.py[line:50] - INFO: 江北：12
+2019-01-23 12:28:25,125 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:28:25,125 - RealEstate.py[line:222] - INFO: 2019-01-23 12:28:25.126000 外层异常休眠5分钟
+2019-01-23 12:33:25,315 - RealEstate.py[line:50] - INFO: 江北：13
+2019-01-23 12:33:25,357 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:33:25,357 - RealEstate.py[line:222] - INFO: 2019-01-23 12:33:25.357000 外层异常休眠5分钟
+2019-01-23 12:38:25,747 - RealEstate.py[line:50] - INFO: 江北：14
+2019-01-23 12:38:25,792 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:38:25,792 - RealEstate.py[line:222] - INFO: 2019-01-23 12:38:25.792000 外层异常休眠5分钟
+2019-01-23 12:43:26,035 - RealEstate.py[line:50] - INFO: 江北：15
+2019-01-23 12:43:26,089 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:43:26,089 - RealEstate.py[line:222] - INFO: 2019-01-23 12:43:26.090000 外层异常休眠5分钟
+2019-01-23 12:48:26,302 - RealEstate.py[line:50] - INFO: 江北：16
+2019-01-23 12:48:26,349 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 12:48:26,349 - RealEstate.py[line:222] - INFO: 2019-01-23 12:48:26.350000 外层异常休眠5分钟
+2019-01-23 12:53:26,576 - RealEstate.py[line:50] - INFO: 江北：17
+2019-01-23 12:53:26,622 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 12:53:26,622 - RealEstate.py[line:222] - INFO: 2019-01-23 12:53:26.623000 外层异常休眠5分钟
+2019-01-23 12:58:26,799 - RealEstate.py[line:50] - INFO: 江北：18
+2019-01-23 12:58:26,841 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 12:58:26,841 - RealEstate.py[line:222] - INFO: 2019-01-23 12:58:26.841000 外层异常休眠5分钟
+2019-01-23 13:03:12,039 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 13:03:12,043 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 13:03:12,055 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 13:03:12,102 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:03:12,561 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:03:12,565 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:03:12,571 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:03:14,361 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 13:03:14,377 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:04:12,681 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 13:04:12,687 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 13:04:12,698 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 13:04:12,750 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:13,200 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:13,206 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:13,210 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:13,223 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 13:04:13,233 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:04:59,211 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 13:04:59,219 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 13:04:59,230 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 13:04:59,283 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:59,740 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:59,746 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:59,750 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:04:59,772 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 13:04:59,782 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:07:51,453 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 13:07:51,459 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 13:07:51,470 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 13:07:51,519 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:07:51,967 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:07:51,971 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:07:51,976 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:07:55,032 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 13:07:55,043 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:08:28,844 - RealEstate.py[line:46] - INFO: 江北房产信息收集完成
+2019-01-23 13:08:29,075 - RealEstate.py[line:50] - INFO: 南岸：1
+2019-01-23 13:08:32,509 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 13:08:32,509 - RealEstate.py[line:222] - INFO: 2019-01-23 13:08:32.510000 外层异常休眠5分钟
+2019-01-23 13:13:32,772 - RealEstate.py[line:50] - INFO: 南岸：2
+2019-01-23 13:13:32,819 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 13:13:32,819 - RealEstate.py[line:222] - INFO: 2019-01-23 13:13:32.819000 外层异常休眠5分钟
+2019-01-23 13:23:36,170 - RealEstate.py[line:46] - INFO: 南岸房产信息收集完成
+2019-01-23 13:25:40,954 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 13:25:40,960 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 13:25:40,973 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 13:25:41,016 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:25:41,473 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:25:41,477 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:25:41,482 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:25:41,497 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 13:25:41,506 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:26:50,144 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:28:05,015 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:28:38,954 - RealEstate.py[line:46] - INFO: 沙坪坝房产信息收集完成
+2019-01-23 13:28:39,289 - RealEstate.py[line:50] - INFO: 北碚：1
+2019-01-23 13:28:39,338 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 13:28:39,339 - RealEstate.py[line:222] - INFO: 2019-01-23 13:28:39.340000 外层异常休眠5分钟
+2019-01-23 13:28:41,507 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:29:43,322 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 13:30:07,040 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 13:30:07,046 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 13:30:07,059 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 13:30:07,102 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:30:07,548 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:30:07,553 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:30:07,558 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 13:33:39,726 - RealEstate.py[line:50] - INFO: 北碚：2
+2019-01-23 13:33:39,779 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 13:33:39,779 - RealEstate.py[line:222] - INFO: 2019-01-23 13:33:39.780000 外层异常休眠5分钟
+2019-01-23 13:38:40,092 - RealEstate.py[line:50] - INFO: 北碚：3
+2019-01-23 13:38:40,144 - RealEstate.py[line:221] - INFO: int() argument must be a string or a number, not 'NoneType'
+2019-01-23 13:38:40,144 - RealEstate.py[line:222] - INFO: 2019-01-23 13:38:40.145000 外层异常休眠5分钟
+2019-01-23 13:44:15,980 - RealEstate.py[line:50] - INFO: 渝北：62
+2019-01-23 13:48:16,085 - RealEstate.py[line:50] - INFO: 渝北：62
+2019-01-23 13:48:39,654 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:38.813000 渝北 湖山花园 11 1单元 7-3[1-7-3]
+2019-01-23 13:48:42,342 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.342000 渝北 湖山花园 11 1单元 7-4[1-7-4]
+2019-01-23 13:48:42,344 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.344000 渝北 湖山花园 11 1单元 7-3[2-7-3]
+2019-01-23 13:48:42,345 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.346000 渝北 湖山花园 11 1单元 7-4[2-7-4]
+2019-01-23 13:48:42,349 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.350000 渝北 湖山花园 11 1单元 6-1[1-6-1]
+2019-01-23 13:48:42,351 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.352000 渝北 湖山花园 11 1单元 6-2[1-6-2]
+2019-01-23 13:48:42,355 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.355000 渝北 湖山花园 11 1单元 6-3[1-6-3]
+2019-01-23 13:48:42,357 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.356000 渝北 湖山花园 11 1单元 6-4[1-6-4]
+2019-01-23 13:48:42,358 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.358000 渝北 湖山花园 11 2单元 6-1[2-6-1]
+2019-01-23 13:48:42,359 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.360000 渝北 湖山花园 11 2单元 6-2[2-6-2]
+2019-01-23 13:48:42,361 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.362000 渝北 湖山花园 11 2单元 6-3[2-6-3]
+2019-01-23 13:48:42,364 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.364000 渝北 湖山花园 11 2单元 6-4[2-6-4]
+2019-01-23 13:48:42,367 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.367000 渝北 湖山花园 11 1单元 5-1[1-5-1]
+2019-01-23 13:48:42,368 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.368000 渝北 湖山花园 11 1单元 5-2[1-5-2]
+2019-01-23 13:48:42,371 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.371000 渝北 湖山花园 11 1单元 5-3[1-5-3]
+2019-01-23 13:48:42,371 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.372000 渝北 湖山花园 11 1单元 5-4[1-5-4]
+2019-01-23 13:48:42,374 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.374000 渝北 湖山花园 11 2单元 5-1[2-5-1]
+2019-01-23 13:48:42,375 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.376000 渝北 湖山花园 11 2单元 5-2[2-5-2]
+2019-01-23 13:48:42,378 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.378000 渝北 湖山花园 11 2单元 5-3[2-5-3]
+2019-01-23 13:48:42,378 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.379000 渝北 湖山花园 11 2单元 5-4[2-5-4]
+2019-01-23 13:48:42,382 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.383000 渝北 湖山花园 11 1单元 4-1[1-4-1]
+2019-01-23 13:48:42,384 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.384000 渝北 湖山花园 11 1单元 4-2[1-4-2]
+2019-01-23 13:48:42,387 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.387000 渝北 湖山花园 11 1单元 4-3[1-4-3]
+2019-01-23 13:48:42,388 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.388000 渝北 湖山花园 11 1单元 4-4[1-4-4]
+2019-01-23 13:48:42,390 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.390000 渝北 湖山花园 11 2单元 4-1[2-4-1]
+2019-01-23 13:48:42,391 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.392000 渝北 湖山花园 11 2单元 4-2[2-4-2]
+2019-01-23 13:48:42,394 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.394000 渝北 湖山花园 11 2单元 4-3[2-4-3]
+2019-01-23 13:48:42,394 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.395000 渝北 湖山花园 11 2单元 4-4[2-4-4]
+2019-01-23 13:48:42,398 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.399000 渝北 湖山花园 11 1单元 3-1[1-3-1]
+2019-01-23 13:48:42,400 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.400000 渝北 湖山花园 11 1单元 3-2[1-3-2]
+2019-01-23 13:48:42,401 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.402000 渝北 湖山花园 11 1单元 3-3[1-3-3]
+2019-01-23 13:48:42,403 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.403000 渝北 湖山花园 11 1单元 3-4[1-3-4]
+2019-01-23 13:48:42,404 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.405000 渝北 湖山花园 11 2单元 3-1[2-3-1]
+2019-01-23 13:48:42,407 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.407000 渝北 湖山花园 11 2单元 3-2[2-3-2]
+2019-01-23 13:48:42,408 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.409000 渝北 湖山花园 11 2单元 3-3[2-3-3]
+2019-01-23 13:48:42,410 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.410000 渝北 湖山花园 11 2单元 3-4[2-3-4]
+2019-01-23 13:48:42,414 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.414000 渝北 湖山花园 11 1单元 2-1[1-2-1]
+2019-01-23 13:48:42,415 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.416000 渝北 湖山花园 11 1单元 2-2[1-2-2]
+2019-01-23 13:48:42,417 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.417000 渝北 湖山花园 11 1单元 2-3[1-2-3]
+2019-01-23 13:48:42,418 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.419000 渝北 湖山花园 11 1单元 2-4[1-2-4]
+2019-01-23 13:48:42,421 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.421000 渝北 湖山花园 11 2单元 2-1[2-2-1]
+2019-01-23 13:48:42,423 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.423000 渝北 湖山花园 11 2单元 2-2[2-2-2]
+2019-01-23 13:48:42,424 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.424000 渝北 湖山花园 11 2单元 2-3[2-2-3]
+2019-01-23 13:48:42,426 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.426000 渝北 湖山花园 11 2单元 2-4[2-2-4]
+2019-01-23 13:48:42,428 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.429000 渝北 湖山花园 11 1单元 1-1[1-1-1]
+2019-01-23 13:48:42,430 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.431000 渝北 湖山花园 11 1单元 1-2[1-1-2]
+2019-01-23 13:48:42,431 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.432000 渝北 湖山花园 11 1单元 1-3[1-1-3]
+2019-01-23 13:48:42,434 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.434000 渝北 湖山花园 11 1单元 1-4[1-1-4]
+2019-01-23 13:48:42,436 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.436000 渝北 湖山花园 11 2单元 1-1[2-1-1]
+2019-01-23 13:48:42,437 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.438000 渝北 湖山花园 11 2单元 1-2[2-1-2]
+2019-01-23 13:48:42,440 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.440000 渝北 湖山花园 11 2单元 1-3[2-1-3]
+2019-01-23 13:48:42,440 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.441000 渝北 湖山花园 11 2单元 1-4[2-1-4]
+2019-01-23 13:48:42,444 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.445000 渝北 湖山花园 11 1单元 -1-1[1--1-1]
+2019-01-23 13:48:42,446 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.446000 渝北 湖山花园 11 1单元 -1-4[1--1-4]
+2019-01-23 13:48:42,447 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.448000 渝北 湖山花园 11 1单元 -1-1[2--1-1]
+2019-01-23 13:48:42,450 - RealEstate.py[line:151] - INFO: 2019-01-23 13:48:42.449000 渝北 湖山花园 11 1单元 -1-4[2--1-4]
+2019-01-23 13:52:44,828 - RealEstate.py[line:50] - INFO: 渝北：62
+2019-01-23 13:52:54,614 - RealEstate.py[line:151] - INFO: 2019-01-23 13:52:54.614000 渝北 湖山花园 11 1单元 7-3[1-7-3]
+2019-01-23 13:52:55,355 - RealEstate.py[line:151] - INFO: 2019-01-23 13:52:55.355000 渝北 湖山花园 11 1单元 7-4[1-7-4]
+2019-01-23 13:52:55,917 - RealEstate.py[line:151] - INFO: 2019-01-23 13:52:55.918000 渝北 湖山花园 11 1单元 7-3[2-7-3]
+2019-01-23 13:52:56,677 - RealEstate.py[line:151] - INFO: 2019-01-23 13:52:56.678000 渝北 湖山花园 11 1单元 7-4[2-7-4]
+2019-01-23 13:52:59,174 - RealEstate.py[line:151] - INFO: 2019-01-23 13:52:59.174000 渝北 湖山花园 11 1单元 6-1[1-6-1]
+2019-01-23 13:53:00,509 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:00.509000 渝北 湖山花园 11 1单元 6-2[1-6-2]
+2019-01-23 13:53:01,312 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:01.313000 渝北 湖山花园 11 1单元 6-3[1-6-3]
+2019-01-23 13:53:02,072 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:02.073000 渝北 湖山花园 11 1单元 6-4[1-6-4]
+2019-01-23 13:53:04,246 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:04.247000 渝北 湖山花园 11 2单元 6-1[2-6-1]
+2019-01-23 13:53:05,930 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:05.931000 渝北 湖山花园 11 2单元 6-2[2-6-2]
+2019-01-23 13:53:06,721 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:06.722000 渝北 湖山花园 11 2单元 6-3[2-6-3]
+2019-01-23 13:53:07,464 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:07.465000 渝北 湖山花园 11 2单元 6-4[2-6-4]
+2019-01-23 13:53:12,082 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:11.220000 渝北 湖山花园 11 1单元 5-1[1-5-1]
+2019-01-23 13:53:18,072 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:18.073000 渝北 湖山花园 11 1单元 5-2[1-5-2]
+2019-01-23 13:53:18,713 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:18.714000 渝北 湖山花园 11 1单元 5-3[1-5-3]
+2019-01-23 13:53:19,467 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:19.468000 渝北 湖山花园 11 1单元 5-4[1-5-4]
+2019-01-23 13:53:20,157 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:20.158000 渝北 湖山花园 11 2单元 5-1[2-5-1]
+2019-01-23 13:53:20,854 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:20.854000 渝北 湖山花园 11 2单元 5-2[2-5-2]
+2019-01-23 13:53:21,516 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:21.516000 渝北 湖山花园 11 2单元 5-3[2-5-3]
+2019-01-23 13:53:22,236 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:22.236000 渝北 湖山花园 11 2单元 5-4[2-5-4]
+2019-01-23 13:53:24,542 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:24.543000 渝北 湖山花园 11 1单元 4-1[1-4-1]
+2019-01-23 13:53:25,433 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:25.433000 渝北 湖山花园 11 1单元 4-2[1-4-2]
+2019-01-23 13:53:26,196 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:26.196000 渝北 湖山花园 11 1单元 4-3[1-4-3]
+2019-01-23 13:53:27,486 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:27.486000 渝北 湖山花园 11 1单元 4-4[1-4-4]
+2019-01-23 13:53:28,132 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:28.133000 渝北 湖山花园 11 2单元 4-1[2-4-1]
+2019-01-23 13:53:28,907 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:28.908000 渝北 湖山花园 11 2单元 4-2[2-4-2]
+2019-01-23 13:53:29,622 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:29.623000 渝北 湖山花园 11 2单元 4-3[2-4-3]
+2019-01-23 13:53:30,335 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:30.336000 渝北 湖山花园 11 2单元 4-4[2-4-4]
+2019-01-23 13:53:31,782 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:31.783000 渝北 湖山花园 11 1单元 3-1[1-3-1]
+2019-01-23 13:53:32,418 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:32.419000 渝北 湖山花园 11 1单元 3-2[1-3-2]
+2019-01-23 13:53:33,114 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:33.114000 渝北 湖山花园 11 1单元 3-3[1-3-3]
+2019-01-23 13:53:33,773 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:33.773000 渝北 湖山花园 11 1单元 3-4[1-3-4]
+2019-01-23 13:53:34,513 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:34.514000 渝北 湖山花园 11 2单元 3-1[2-3-1]
+2019-01-23 13:53:35,193 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:35.192000 渝北 湖山花园 11 2单元 3-2[2-3-2]
+2019-01-23 13:53:36,168 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:36.168000 渝北 湖山花园 11 2单元 3-3[2-3-3]
+2019-01-23 13:53:36,775 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:36.775000 渝北 湖山花园 11 2单元 3-4[2-3-4]
+2019-01-23 13:53:38,092 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:38.093000 渝北 湖山花园 11 1单元 2-1[1-2-1]
+2019-01-23 13:53:38,698 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:38.699000 渝北 湖山花园 11 1单元 2-2[1-2-2]
+2019-01-23 13:53:39,323 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:39.324000 渝北 湖山花园 11 1单元 2-3[1-2-3]
+2019-01-23 13:53:40,088 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:40.089000 渝北 湖山花园 11 1单元 2-4[1-2-4]
+2019-01-23 13:53:40,803 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:40.804000 渝北 湖山花园 11 2单元 2-1[2-2-1]
+2019-01-23 13:53:41,644 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:41.644000 渝北 湖山花园 11 2单元 2-2[2-2-2]
+2019-01-23 13:53:42,346 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:42.346000 渝北 湖山花园 11 2单元 2-3[2-2-3]
+2019-01-23 13:53:42,960 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:42.959000 渝北 湖山花园 11 2单元 2-4[2-2-4]
+2019-01-23 13:53:44,410 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:44.409000 渝北 湖山花园 11 1单元 1-1[1-1-1]
+2019-01-23 13:53:45,096 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:45.097000 渝北 湖山花园 11 1单元 1-2[1-1-2]
+2019-01-23 13:53:45,678 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:45.679000 渝北 湖山花园 11 1单元 1-3[1-1-3]
+2019-01-23 13:53:46,361 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:46.362000 渝北 湖山花园 11 1单元 1-4[1-1-4]
+2019-01-23 13:53:47,318 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:47.317000 渝北 湖山花园 11 2单元 1-1[2-1-1]
+2019-01-23 13:53:48,428 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:48.429000 渝北 湖山花园 11 2单元 1-2[2-1-2]
+2019-01-23 13:53:49,191 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:49.191000 渝北 湖山花园 11 2单元 1-3[2-1-3]
+2019-01-23 13:53:50,348 - RealEstate.py[line:151] - INFO: 2019-01-23 13:53:50.348000 渝北 湖山花园 11 2单元 1-4[2-1-4]
+2019-01-23 13:54:43,305 - RealEstate.py[line:151] - INFO: 2019-01-23 13:54:41.578000 渝北 湖山花园 11 1单元 -1-1[1--1-1]
+2019-01-23 13:54:52,747 - RealEstate.py[line:151] - INFO: 2019-01-23 13:54:52.748000 渝北 湖山花园 11 1单元 -1-4[1--1-4]
+2019-01-23 13:54:53,707 - RealEstate.py[line:151] - INFO: 2019-01-23 13:54:53.708000 渝北 湖山花园 11 1单元 -1-1[2--1-1]
+2019-01-23 13:54:54,892 - RealEstate.py[line:151] - INFO: 2019-01-23 13:54:54.893000 渝北 湖山花园 11 1单元 -1-4[2--1-4]
+2019-01-23 13:55:12,466 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 14:01:01,038 - RealEstate.py[line:50] - INFO: 渝北：62
+2019-01-23 14:03:02,697 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.698000 渝北 湖山花园 11 1单元 7-3[1-7-3]
+2019-01-23 14:03:02,700 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.700000 渝北 湖山花园 11 1单元 7-4[1-7-4]
+2019-01-23 14:03:02,703 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.703000 渝北 湖山花园 11 1单元 7-3[2-7-3]
+2019-01-23 14:03:02,704 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.705000 渝北 湖山花园 11 1单元 7-4[2-7-4]
+2019-01-23 14:03:02,709 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.709000 渝北 湖山花园 11 1单元 6-1[1-6-1]
+2019-01-23 14:03:02,710 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.711000 渝北 湖山花园 11 1单元 6-2[1-6-2]
+2019-01-23 14:03:02,713 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.713000 渝北 湖山花园 11 1单元 6-3[1-6-3]
+2019-01-23 14:03:02,713 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.714000 渝北 湖山花园 11 1单元 6-4[1-6-4]
+2019-01-23 14:03:02,716 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.716000 渝北 湖山花园 11 2单元 6-1[2-6-1]
+2019-01-23 14:03:02,717 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.718000 渝北 湖山花园 11 2单元 6-2[2-6-2]
+2019-01-23 14:03:02,720 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.720000 渝北 湖山花园 11 2单元 6-3[2-6-3]
+2019-01-23 14:03:02,721 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.722000 渝北 湖山花园 11 2单元 6-4[2-6-4]
+2019-01-23 14:03:02,723 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.724000 渝北 湖山花园 11 1单元 5-1[1-5-1]
+2019-01-23 14:03:02,726 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.726000 渝北 湖山花园 11 1单元 5-2[1-5-2]
+2019-01-23 14:03:02,727 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.728000 渝北 湖山花园 11 1单元 5-3[1-5-3]
+2019-01-23 14:03:02,729 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.729000 渝北 湖山花园 11 1单元 5-4[1-5-4]
+2019-01-23 14:03:02,730 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.731000 渝北 湖山花园 11 2单元 5-1[2-5-1]
+2019-01-23 14:03:02,733 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.733000 渝北 湖山花园 11 2单元 5-2[2-5-2]
+2019-01-23 14:03:02,734 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.735000 渝北 湖山花园 11 2单元 5-3[2-5-3]
+2019-01-23 14:03:02,736 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.736000 渝北 湖山花园 11 2单元 5-4[2-5-4]
+2019-01-23 14:03:02,740 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.740000 渝北 湖山花园 11 1单元 4-1[1-4-1]
+2019-01-23 14:03:02,740 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.741000 渝北 湖山花园 11 1单元 4-2[1-4-2]
+2019-01-23 14:03:02,743 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.743000 渝北 湖山花园 11 1单元 4-3[1-4-3]
+2019-01-23 14:03:02,744 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.745000 渝北 湖山花园 11 1单元 4-4[1-4-4]
+2019-01-23 14:03:02,746 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.746000 渝北 湖山花园 11 2单元 4-1[2-4-1]
+2019-01-23 14:03:02,747 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.748000 渝北 湖山花园 11 2单元 4-2[2-4-2]
+2019-01-23 14:03:02,750 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.750000 渝北 湖山花园 11 2单元 4-3[2-4-3]
+2019-01-23 14:03:02,750 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.751000 渝北 湖山花园 11 2单元 4-4[2-4-4]
+2019-01-23 14:03:02,755 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.755000 渝北 湖山花园 11 1单元 3-1[1-3-1]
+2019-01-23 14:03:02,756 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.756000 渝北 湖山花园 11 1单元 3-2[1-3-2]
+2019-01-23 14:03:02,757 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.758000 渝北 湖山花园 11 1单元 3-3[1-3-3]
+2019-01-23 14:03:02,759 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.759000 渝北 湖山花园 11 1单元 3-4[1-3-4]
+2019-01-23 14:03:02,760 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.761000 渝北 湖山花园 11 2单元 3-1[2-3-1]
+2019-01-23 14:03:02,763 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.763000 渝北 湖山花园 11 2单元 3-2[2-3-2]
+2019-01-23 14:03:02,765 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.765000 渝北 湖山花园 11 2单元 3-3[2-3-3]
+2019-01-23 14:03:02,766 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.767000 渝北 湖山花园 11 2单元 3-4[2-3-4]
+2019-01-23 14:03:02,770 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.771000 渝北 湖山花园 11 1单元 2-1[1-2-1]
+2019-01-23 14:03:02,772 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.772000 渝北 湖山花园 11 1单元 2-2[1-2-2]
+2019-01-23 14:03:02,773 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.774000 渝北 湖山花园 11 1单元 2-3[1-2-3]
+2019-01-23 14:03:02,776 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.775000 渝北 湖山花园 11 1单元 2-4[1-2-4]
+2019-01-23 14:03:02,776 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.777000 渝北 湖山花园 11 2单元 2-1[2-2-1]
+2019-01-23 14:03:02,779 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.779000 渝北 湖山花园 11 2单元 2-2[2-2-2]
+2019-01-23 14:03:02,782 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.782000 渝北 湖山花园 11 2单元 2-3[2-2-3]
+2019-01-23 14:03:02,783 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.784000 渝北 湖山花园 11 2单元 2-4[2-2-4]
+2019-01-23 14:03:02,786 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.787000 渝北 湖山花园 11 1单元 1-1[1-1-1]
+2019-01-23 14:03:02,789 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.789000 渝北 湖山花园 11 1单元 1-2[1-1-2]
+2019-01-23 14:03:02,790 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.791000 渝北 湖山花园 11 1单元 1-3[1-1-3]
+2019-01-23 14:03:02,792 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.792000 渝北 湖山花园 11 1单元 1-4[1-1-4]
+2019-01-23 14:03:02,793 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.794000 渝北 湖山花园 11 2单元 1-1[2-1-1]
+2019-01-23 14:03:02,795 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.795000 渝北 湖山花园 11 2单元 1-2[2-1-2]
+2019-01-23 14:03:02,796 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.797000 渝北 湖山花园 11 2单元 1-3[2-1-3]
+2019-01-23 14:03:02,799 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.800000 渝北 湖山花园 11 2单元 1-4[2-1-4]
+2019-01-23 14:03:02,805 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.806000 渝北 湖山花园 11 1单元 -1-1[1--1-1]
+2019-01-23 14:03:02,809 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.809000 渝北 湖山花园 11 1单元 -1-4[1--1-4]
+2019-01-23 14:03:02,812 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.812000 渝北 湖山花园 11 1单元 -1-1[2--1-1]
+2019-01-23 14:03:02,815 - RealEstate.py[line:151] - INFO: 2019-01-23 14:03:02.814000 渝北 湖山花园 11 1单元 -1-4[2--1-4]
+2019-01-23 14:03:05,496 - RealEstate.py[line:221] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : parsererror}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-23 14:06:16,407 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 14:06:16,413 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 14:06:16,424 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 14:06:16,470 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:16,947 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:16,951 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:16,956 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:16,970 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 14:06:16,980 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:06:37,460 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 14:06:37,466 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 14:06:37,477 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 14:06:37,523 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:38,032 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:38,038 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:06:38,042 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:07:17,476 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:124.205.155.150:9090
+2019-01-23 14:07:17,490 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 14:07:17,500 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:08:17,502 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:08:28,151 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-23 14:08:28,154 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 3,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 3,
+ 'downloader/request_bytes': 1660,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/response_bytes': 25444,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 23, 6, 8, 28, 152000),
+ 'log_count/DEBUG': 6,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 9,
+ 'request_depth_max': 1,
+ 'response_received_count': 2,
+ 'retry/count': 2,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 2,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2019, 1, 23, 6, 7, 17, 502000)}
+2019-01-23 14:08:28,155 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-23 14:11:27,812 - RealEstate.py[line:46] - INFO: 渝北房产信息收集完成

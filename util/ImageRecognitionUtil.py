@@ -59,6 +59,8 @@ class ImageRecognition(object):
                 # image = Image.open(BytesIO(response.read()))
                 image = Image.open(location_img_url).crop((left, top, width, height))
                 image.save(location_img_url)
+                # 防止图片没有保存下来
+                time.sleep(3)
                 # 识别图片
                 try:
                     expression1 = self.get_internet_validate_code()
@@ -155,8 +157,6 @@ class ImageRecognition(object):
         # image = Image.open(location_img_url).crop((left, top, width, height))
         # image.save(location_img_url)
         # 解析验证码
-        # 防止图片没有保存下来
-        time.sleep(3)
         location_img = Image.open(location_img_url)
         # 转到灰度
         imgry = location_img.convert("L")

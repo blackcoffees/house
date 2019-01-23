@@ -6,12 +6,12 @@ import scrapy
 import sys
 from scrapy import Request
 
-from db.DBUtil import get_all_region
+from db.DBUtil import get_all_region, get_building_statictics_data, update_building_count
 from db.PoolDB import pool
 import json
 
 from scrapy_spider.items import RealEstateItem, HouseItem
-from util.CommonUtils import WebSource, validate_house_door_number, logger
+from util.CommonUtils import WebSource, validate_house_door_number, logger, is_json
 from util.ProxyIPUtil import proxy_pool
 
 reload(sys)
@@ -101,11 +101,12 @@ class BuildingSpider(scrapy.Spider):
     build_index = 0
     proxy_ip = "113.200.214.164:9999"
     db_building = None
-    base_build_sql = """select * from building where pre_sale_number is NULL limit %s,1"""
+    base_build_sql = """select * from building where pre_sale_number is NULL order by id limit %s,1"""
     base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s"
+    handle_httpstatus_list = [404, 10060]
 
     def start_requests(self):
-        # self.get_proxy_ip()
+        self.get_proxy_ip()
         sql = self.base_build_sql % self.build_index
         self.db_building = pool.find_one(sql)
         url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))
@@ -140,11 +141,15 @@ class BuildingSpider(scrapy.Spider):
             # 保存预售许可证
             if "GetBuildingInfo" in response.url:
                 if response.text:
-                    json_build = json.loads(response.text)
-                    sql = """update building set pre_sale_number=%s, updated=%s where id=%s"""
-                    pool.commit(sql, (json_build.get("presaleCert"), datetime.datetime.now(), self.db_building.get("id")))
-                    print "%s:%s::完成：" % (self.db_building.get("real_estate_name"), self.db_building.get("sale_building"))
-
+                    if is_json(response.text):
+                        json_build = json.loads(response.text)
+                        sql = """update building set pre_sale_number=%s, updated=%s where id=%s"""
+                        pool.commit(sql, (json_build.get("presaleCert"), datetime.datetime.now(), self.db_building.get("id")))
+                        # 统计数据
+                        building_static_data = get_building_statictics_data(self.db_building.get("id"), self.db_building.get("real_estate_id"))
+                        update_building_count(self.db_building.get("id"), building_static_data.get("total_count"),
+                                              building_static_data.get("sale_count"))
+                        print "%s:%s::完成：" % (self.db_building.get("real_estate_name"), self.db_building.get("sale_building"))
         except BaseException as e:
             logger.error(e)
             self.get_proxy_ip()
@@ -166,3 +171,9 @@ class BuildingSpider(scrapy.Spider):
             self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
             if self.proxy_ip:
                 break
+
+    def after_404(self):
+        self.get_proxy_ip()
+
+    def after_10060(self):
+        self.get_proxy_ip()

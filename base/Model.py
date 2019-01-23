@@ -124,7 +124,7 @@ class House(BaseModel):
                 # DBUtil.update_house_status(result.get("id"), self.status)
                 update_sql = """update house set status=%s, inside_area=%s, built_area=%s, house_typ=%s,
                                 inside_price=%s, built_price=%s, updated=%s where id=%s"""
-                DBUtil.save(sql, [self.status, self.inside_price, self.buliding_id, self.house_type, self.inside_price,
+                DBUtil.save(update_sql, [self.status, self.inside_price, self.buliding_id, self.house_type, self.inside_price,
                                   self.built_price, datetime.datetime.now()])
             return result.get("id")
         else:
