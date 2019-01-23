@@ -1500,3 +1500,155 @@ Message: unexpected alert open: {Alert text : parsererror}
  'start_time': datetime.datetime(2019, 1, 23, 6, 7, 17, 502000)}
 2019-01-23 14:08:28,155 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
 2019-01-23 14:11:27,812 - RealEstate.py[line:46] - INFO: 渝北房产信息收集完成
+2019-01-23 14:12:27,033 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 14:12:27,039 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 14:12:27,052 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 14:12:27,098 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:12:27,592 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:12:27,598 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:12:27,602 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:13:39,885 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:124.152.32.140:53281
+2019-01-23 14:13:39,917 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 14:13:39,931 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:14:39,931 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:15:39,931 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:16:19,388 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-23 14:16:19,391 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 3,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 3,
+ 'downloader/request_bytes': 9508,
+ 'downloader/request_count': 25,
+ 'downloader/request_method_count/GET': 25,
+ 'downloader/response_bytes': 863168,
+ 'downloader/response_count': 22,
+ 'downloader/response_status_count/200': 21,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 23, 6, 16, 19, 390000),
+ 'item_scraped_count': 250,
+ 'log_count/DEBUG': 276,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 10,
+ 'request_depth_max': 21,
+ 'response_received_count': 22,
+ 'retry/count': 2,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 2,
+ 'scheduler/dequeued': 24,
+ 'scheduler/dequeued/memory': 24,
+ 'scheduler/enqueued': 24,
+ 'scheduler/enqueued/memory': 24,
+ 'start_time': datetime.datetime(2019, 1, 23, 6, 13, 39, 932000)}
+2019-01-23 14:16:19,392 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-23 14:21:16,808 - RealEstate.py[line:46] - INFO: 渝北房产信息收集完成
+2019-01-23 14:24:30,484 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 14:24:30,490 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 14:24:30,503 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 14:24:30,546 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:24:31,003 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:24:31,009 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:24:31,013 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:25:40,151 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:119.57.109.129:53281
+2019-01-23 14:25:40,177 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 14:25:40,197 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:26:40,197 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:27:40,197 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:28:40,197 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 14:28:52,802 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-23 14:28:52,805 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 6,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 6,
+ 'downloader/request_bytes': 5058,
+ 'downloader/request_count': 14,
+ 'downloader/request_method_count/GET': 14,
+ 'downloader/response_bytes': 1479038,
+ 'downloader/response_count': 8,
+ 'downloader/response_status_count/200': 7,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 23, 6, 28, 52, 804000),
+ 'item_scraped_count': 536,
+ 'log_count/DEBUG': 551,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 11,
+ 'request_depth_max': 7,
+ 'response_received_count': 8,
+ 'retry/count': 5,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 5,
+ 'scheduler/dequeued': 13,
+ 'scheduler/dequeued/memory': 13,
+ 'scheduler/enqueued': 13,
+ 'scheduler/enqueued/memory': 13,
+ 'start_time': datetime.datetime(2019, 1, 23, 6, 25, 40, 198000)}
+2019-01-23 14:28:52,805 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-23 14:33:39,540 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-23 14:33:39,548 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-23 14:33:39,559 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-23 14:33:39,602 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:33:40,058 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:33:40,063 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:33:40,066 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-23 14:42:03,223 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 14:47:44,367 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 14:47:44,367 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 14:47:48,522 - RealEstate.py[line:222] - INFO: not enough arguments for format string
+2019-01-23 14:47:48,522 - RealEstate.py[line:222] - INFO: not enough arguments for format string
+2019-01-23 14:49:25,344 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 14:49:25,344 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 14:54:17,168 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:163.125.115.138:8118
+2019-01-23 14:54:17,200 - engine.py[line:256] - INFO: Spider opened
+2019-01-23 14:54:17,220 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 15:07:32,177 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-23 15:07:32,855 - httperror.py[line:55] - INFO: Ignoring response %(response)r: HTTP status code is not handled or not allowed
+2019-01-23 15:07:32,862 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-23 15:07:32,865 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1660,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/response_bytes': 25852,
+ 'downloader/response_count': 5,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/404': 1,
+ 'downloader/response_status_count/503': 3,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 23, 7, 7, 32, 864000),
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/503': 1,
+ 'log_count/DEBUG': 7,
+ 'log_count/INFO': 10,
+ 'request_depth_max': 1,
+ 'response_received_count': 3,
+ 'retry/count': 2,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/503 Service Unavailable': 2,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2019, 1, 23, 6, 54, 17, 221000)}
+2019-01-23 15:07:32,865 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-23 15:18:21,493 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 15:18:21,493 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 16:06:09,144 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 16:06:09,144 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 16:06:33,365 - PoolDB.py[line:83] - ERROR: sql： insert into real_estate (address,building,created,developer,house_sell_out_count,house_total_count,name,region,sale_building,sale_count,source_id,updated) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2019-01-23 16:06:33,365 - PoolDB.py[line:83] - ERROR: sql： insert into real_estate (address,building,created,developer,house_sell_out_count,house_total_count,name,region,sale_building,sale_count,source_id,updated) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2019-01-23 16:06:33,736 - PoolDB.py[line:84] - ERROR: sql param：[u'\u91cd\u5e86\u5e02\u6e1d\u5317\u533a\u53cc\u51e4\u6865\u8857\u9053\u7a7a\u6e2f\u5927\u9053655\u53f7', u'\u957f\u5b89\u9526\u5c1a\u57ce', datetime.datetime(2019, 1, 23, 16, 6, 14, 491000), u'\u91cd\u5e86\u957f\u5b89\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', 0, 0, None, 2L, u'12\u5e62\uff08\u89c4\u521213\u53f7\u697c\uff09,17\u5e62\uff08\u89c4\u521210\u53f7\u697c\uff09', u'2', 1, None]
+2019-01-23 16:06:33,736 - PoolDB.py[line:84] - ERROR: sql param：[u'\u91cd\u5e86\u5e02\u6e1d\u5317\u533a\u53cc\u51e4\u6865\u8857\u9053\u7a7a\u6e2f\u5927\u9053655\u53f7', u'\u957f\u5b89\u9526\u5c1a\u57ce', datetime.datetime(2019, 1, 23, 16, 6, 14, 491000), u'\u91cd\u5e86\u957f\u5b89\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', 0, 0, None, 2L, u'12\u5e62\uff08\u89c4\u521213\u53f7\u697c\uff09,17\u5e62\uff08\u89c4\u521210\u53f7\u697c\uff09', u'2', 1, None]
+2019-01-23 16:08:24,756 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 16:08:24,756 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 16:12:31,960 - RealEstate.py[line:51] - INFO: 渝北：63
+2019-01-23 16:12:31,960 - RealEstate.py[line:51] - INFO: 渝北：63

@@ -28,7 +28,10 @@ chinese_correct = {
 
 
 class ImageRecognition(object):
-    base_image_path = os.path.realpath("image").split("main")[0] + "\\image\\"
+    base_image_path = None
+
+    def __init__(self, base_path):
+        self.base_image_path = base_path
 
     def get_expression_code(self, validate_driver, validate_url, local_file_name=None):
         """

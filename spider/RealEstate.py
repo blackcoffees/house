@@ -10,7 +10,7 @@ from selenium import webdriver
 from base.BaseSpider import BaseSpider
 from base.Model import RealEstate, Building, House
 from util.CommonUtils import Region, send_request, WebSource, get_status, \
-    div_list_return_dict, get_unit, proxy_list, logger, validate_house_door_number
+    div_list_return_dict, get_unit, proxy_list, logger, validate_house_door_number, delete_logs
 from db.DBUtil import get_real_estate_sale_status, get_real_estate, get_building_sale_status, get_building, \
     get_house_status, update_building, update_house_status, update_real_estate_count, update_building_count, \
     get_real_estate_statictics_data, get_building_statictics_data, get_all_region, update_region, update_web_house_id
@@ -31,6 +31,7 @@ class RealEstateSpider(BaseSpider):
     base_image_path = os.path.realpath("image").split("main")[0] + "\\image\\"
 
     def work(self):
+        delete_logs()
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
@@ -72,7 +73,7 @@ class RealEstateSpider(BaseSpider):
                             real_estate_id = real_estate.get("id")
                         else:
                             real_estate = RealEstate()
-                            real_estate.building = real_estate_name
+                            real_estate.name = real_estate_name
                             real_estate.region = region.get("id")
                             real_estate.address = item.get("F_ADDR")
                             real_estate.developer = item.get("ENTERPRISENAME")
@@ -172,7 +173,7 @@ class RealEstateSpider(BaseSpider):
                                                        td.find("a").attrs.get("onclick").split("../")[1].split("');")[0]
                                         # 验证码
                                         # self.get_internet_validate_code(validate_driver, validate_url)
-                                        image_recognition = ImageRecognition()
+                                        image_recognition = ImageRecognition(os.path.realpath("image").split("main")[0] + "\\image\\")
                                         image_recognition.get_expression_code(validate_driver, validate_url)
                                         one_house_soup = BeautifulSoup(validate_driver.page_source, "html.parser")
                                         if not one_house_soup.find("img"):

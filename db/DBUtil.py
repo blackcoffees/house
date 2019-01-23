@@ -113,6 +113,10 @@ def update_building(pre_sale_number, id):
     :param id:
     :return:
     """
+    find_sql = """select * from building where id=%s"""
+    result_find = pool.find_one(find_sql, [id])
+    if result_find.get("per_sale_number"):
+        return
     sql = """update building set pre_sale_number=%s where id=%s"""
     param = [pre_sale_number, id]
     pool.commit(sql, param)

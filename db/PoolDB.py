@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
+import logging
+from logging.handlers import TimedRotatingFileHandler
+
 import MySQLdb
+import os
+
+import time
 from DBUtils.PooledDB import PooledDB
 
 host = '127.0.0.1'
@@ -7,6 +13,20 @@ user = 'root'
 password = "root"
 db = "house"
 port = 3306
+
+formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s")
+pool_logger = logging.getLogger()
+pool_logger.setLevel(logging.INFO)
+log_path = os.path.dirname(os.getcwd()) + '/logs/'
+log_filename = log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"
+fh = TimedRotatingFileHandler(log_filename, when="d", encoding='utf-8', backupCount=7)
+fh.setLevel(logging.INFO)
+fh.setFormatter(formatter)
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+pool_logger.addHandler(fh)
+pool_logger.addHandler(console_handler)
 
 
 class PoolDB(object):
@@ -22,7 +42,7 @@ class PoolDB(object):
         self.__conn__ = self.__pool__.connection()
         cursor = self.__conn__.cursor()
         if not cursor:
-            raise "数据库连接不上"
+            raise BaseException(u"数据库连接不上")
         return cursor
 
     def find(self, sql, param=None):
@@ -43,7 +63,9 @@ class PoolDB(object):
                 data_list.append(data_dict)
             return data_list
         except BaseException as e:
-            print e
+            logging.error("sql：%s" % sql)
+            logging.error("sql param：%s" % param)
+            logging.error(e)
         finally:
             cursor.close()
             self.__conn__.close()
@@ -58,7 +80,9 @@ class PoolDB(object):
             self.__conn__.commit()
             return cursor.lastrowid
         except BaseException as e:
-            print e
+            logging.error("sql：%s" % sql)
+            logging.error("sql param：%s" % param)
+            logging.error(e)
         finally:
             cursor.close()
             self.__conn__.close()

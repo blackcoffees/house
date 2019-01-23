@@ -43,7 +43,7 @@ class RealEstate(BaseModel):
         return DBUtil.save(sql, param=values)
 
     def __find__(self):
-        sql = """select id from real_estate where address=%s and building=%s """
+        sql = """select id from real_estate where address=%s and name=%s """
         param = [self.address, self.building]
         result = DBUtil.get(sql, param)
         if result:

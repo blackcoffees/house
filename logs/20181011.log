@@ -1,6 +1,0 @@
-2018-10-12 11:30:59,572 - RealEstate.py[line:179] - INFO: 2018-10-12 11:30:59.572000 南岸 中国铁建·万国城-山水逸城A72/02地块 8幢（规划9号楼) 1单元 10-5
-2018-10-12 11:31:05,604 - RealEstate.py[line:360] - INFO: B2夕224 等于
-2018-10-12 11:31:05,671 - RealEstate.py[line:412] - INFO: 图片识别修正number1:\\
-2018-10-12 11:31:05,737 - RealEstate.py[line:419] - INFO: 图片识别修正number2:4
-2018-10-12 11:31:05,743 - RealEstate.py[line:473] - INFO: 图片比较修正operator:add
-2018-10-12 11:31:05,750 - RealEstate.py[line:478] - INFO: 图片比较修正number1:None

@@ -20,15 +20,6 @@ sys.setdefaultencoding( "utf-8" )
 
 class RealEstateSpider(scrapy.Spider):
     name = 'real_estate'
-    # allowed_domains = ["http://www.cq315house.com"]
-    # start_urls = [u"http://www.cq315house.com/315web/webservice/GetMyData999.ashx?projectname=&"
-    #               u"site=%s&kfs=&projectaddr=&pagesize=10&pageindex=%s&roomtype=住宅&buildarea"]
-    #
-    # def make_requests_from_url(self, url):
-    #     sql = """select region, now_page from region order by sort"""
-    #     result_sql = pool.find_one(sql)
-    #     url = url % (result_sql.get("region"), result_sql.get("now_page"))
-    #     return Request(url)
     proxy_ip = None
     region_index = 0
     list_region = list()
@@ -103,7 +94,7 @@ class BuildingSpider(scrapy.Spider):
     db_building = None
     base_build_sql = """select * from building where pre_sale_number is NULL order by id limit %s,1"""
     base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s"
-    handle_httpstatus_list = [404, 10060]
+    handle_httpstatus_list = [404, 408, 503]
 
     def start_requests(self):
         self.get_proxy_ip()
@@ -175,5 +166,8 @@ class BuildingSpider(scrapy.Spider):
     def after_404(self):
         self.get_proxy_ip()
 
-    def after_10060(self):
+    def after_408(self):
+        self.get_proxy_ip()
+
+    def after_503(self):
         self.get_proxy_ip()

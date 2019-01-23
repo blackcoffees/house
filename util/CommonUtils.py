@@ -112,8 +112,6 @@ def test_proxy_ip_send_request(proxy_ip, url=None):
             return False
 
 
-
-
 def get_fields(obj):
     fileds = list()
     for field in dir(obj):
@@ -304,7 +302,13 @@ list_user_agent = [
 
 
 def delete_logs():
-    pass
+    base_path = os.path.realpath("image").split("main")[0] + "\\logs\\"
+    files = os.listdir(base_path)
+    files = sorted(files, key=lambda x: int(x.split(".log")[0]), reverse=True)
+    for index, file in enumerate(files):
+        if index > 6:
+            os.remove(base_path + file)
+            logging.error(u"删除日志成功")
 
 
 def is_json(json_str):

@@ -1,4 +1,0 @@
-2018-12-17 10:20:08,700 - RealEstate.py[line:64] - INFO: 江北：5
-2018-12-17 10:23:02,582 - RealEstate.py[line:64] - INFO: 江北：5
-2018-12-17 10:25:40,973 - RealEstate.py[line:252] - INFO: 'WebDriver' object has no attribute 'page_source'
-2018-12-17 10:33:38,369 - RealEstate.py[line:253] - INFO: 2018-12-17 10:33:38.370000 外层异常休眠5分钟
