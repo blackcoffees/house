@@ -1,0 +1,1746 @@
+2019-01-24 13:13:13,878 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 13:13:13,878 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 13:13:13,884 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 13:13:13,884 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 13:13:13,898 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 13:13:13,898 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 13:13:13,948 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:13,948 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:14,378 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:14,378 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:14,385 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:14,385 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:14,391 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:13:14,391 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 13:17:08,309 - CommonUtils.py[line:311] - ERROR: 删除日志成功
+2019-01-24 13:17:08,309 - CommonUtils.py[line:311] - ERROR: 删除日志成功
+2019-01-24 13:17:29,062 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-24 13:17:29,062 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-24 13:22:48,542 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-24 13:22:48,542 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-24 13:23:01,828 - RealEstate.py[line:51] - INFO: 渝北：64
+2019-01-24 13:23:01,828 - RealEstate.py[line:51] - INFO: 渝北：64
+2019-01-24 13:23:28,467 - RealEstate.py[line:152] - INFO: 2019-01-24 13:23:28.468000 渝北 龙湖佰乐街 1幢 1单元 27-1
+2019-01-24 13:23:28,467 - RealEstate.py[line:152] - INFO: 2019-01-24 13:23:28.468000 渝北 龙湖佰乐街 1幢 1单元 27-1
+2019-01-24 13:23:33,408 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 13:23:33,408 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 13:23:33,566 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:23:33,566 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:23:33,588 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:23:33,588 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:23:33,601 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+5
+2019-01-24 13:23:33,601 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+5
+2019-01-24 13:23:33,601 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+5
+2019-01-24 13:23:33,601 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+5
+2019-01-24 13:23:46,279 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-2
+2019-01-24 13:23:46,279 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-2
+2019-01-24 13:23:46,658 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-2
+2019-01-24 13:23:46,658 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-2
+2019-01-24 13:23:46,680 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:23:46,680 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:23:46,717 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:23:46,717 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:23:46,717 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-2
+2019-01-24 13:23:46,717 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-2
+2019-01-24 13:24:01,710 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：41.94
+2019-01-24 13:24:01,710 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：41.94
+2019-01-24 13:24:01,710 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:01.711000 渝北 龙湖佰乐街 1幢 1单元 27-2
+2019-01-24 13:24:01,710 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:01.711000 渝北 龙湖佰乐街 1幢 1单元 27-2
+2019-01-24 13:24:01,714 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:01.715000 渝北 龙湖佰乐街 1幢 1单元 27-3
+2019-01-24 13:24:01,714 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:01.715000 渝北 龙湖佰乐街 1幢 1单元 27-3
+2019-01-24 13:24:01,717 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:01.717000 渝北 龙湖佰乐街 1幢 1单元 27-4
+2019-01-24 13:24:01,717 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:01.717000 渝北 龙湖佰乐街 1幢 1单元 27-4
+2019-01-24 13:24:05,823 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+6
+2019-01-24 13:24:05,823 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+6
+2019-01-24 13:24:06,198 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+6
+2019-01-24 13:24:06,198 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+6
+2019-01-24 13:24:06,223 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:24:06,223 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:24:06,233 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+9
+2019-01-24 13:24:06,233 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+9
+2019-01-24 13:24:06,233 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+6
+2019-01-24 13:24:06,233 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+6
+2019-01-24 13:24:12,072 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:24:12,072 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:24:14,140 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-01-24 13:24:14,140 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-01-24 13:24:16,578 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:16.578000 渝北 龙湖佰乐街 1幢 1单元 27-5
+2019-01-24 13:24:16,578 - RealEstate.py[line:152] - INFO: 2019-01-24 13:24:16.578000 渝北 龙湖佰乐街 1幢 1单元 27-5
+2019-01-24 13:29:41,476 - ImageRecognitionUtil.py[line:113] - ERROR: 无法获取验证网页
+2019-01-24 13:29:41,476 - ImageRecognitionUtil.py[line:113] - ERROR: 无法获取验证网页
+2019-01-24 13:29:41,476 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-24 13:29:41,476 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-24 13:29:41,851 - RealEstate.py[line:207] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:29:41,851 - RealEstate.py[line:207] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:29:42,201 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-01-24 13:29:42,201 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-01-24 13:29:45,040 - RealEstate.py[line:152] - INFO: 2019-01-24 13:29:45.041000 渝北 龙湖佰乐街 1幢 1单元 27-6
+2019-01-24 13:29:45,040 - RealEstate.py[line:152] - INFO: 2019-01-24 13:29:45.041000 渝北 龙湖佰乐街 1幢 1单元 27-6
+2019-01-24 13:29:54,753 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+9
+2019-01-24 13:29:54,753 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+9
+2019-01-24 13:29:54,907 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:29:54,907 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:29:54,927 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:29:54,927 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:29:54,940 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+8
+2019-01-24 13:29:54,940 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+8
+2019-01-24 13:29:54,940 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+9
+2019-01-24 13:29:54,940 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+9
+2019-01-24 13:30:41,165 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：39.92
+2019-01-24 13:30:41,165 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：39.92
+2019-01-24 13:30:41,167 - RealEstate.py[line:152] - INFO: 2019-01-24 13:30:41.167000 渝北 龙湖佰乐街 1幢 1单元 27-7
+2019-01-24 13:30:41,167 - RealEstate.py[line:152] - INFO: 2019-01-24 13:30:41.167000 渝北 龙湖佰乐街 1幢 1单元 27-7
+2019-01-24 13:31:01,073 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-3
+2019-01-24 13:31:01,073 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-3
+2019-01-24 13:31:01,236 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:31:01,236 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:31:01,253 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:31:01,253 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:31:01,273 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-4
+2019-01-24 13:31:01,273 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-4
+2019-01-24 13:31:01,273 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
+2019-01-24 13:31:01,273 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
+2019-01-24 13:32:05,055 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：37.62
+2019-01-24 13:32:05,055 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：37.62
+2019-01-24 13:32:05,055 - RealEstate.py[line:152] - INFO: 2019-01-24 13:32:05.055000 渝北 龙湖佰乐街 1幢 1单元 27-8
+2019-01-24 13:32:05,055 - RealEstate.py[line:152] - INFO: 2019-01-24 13:32:05.055000 渝北 龙湖佰乐街 1幢 1单元 27-8
+2019-01-24 13:32:17,177 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 13:32:17,177 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 13:32:17,338 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:32:17,338 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:32:17,361 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:32:17,361 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:32:17,391 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-1
+2019-01-24 13:32:17,391 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-1
+2019-01-24 13:32:17,392 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 13:32:17,392 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 13:32:38,622 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-2
+2019-01-24 13:32:38,622 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-2
+2019-01-24 13:32:38,792 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:32:38,792 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:32:38,812 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:32:38,812 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:32:38,868 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:32:38,868 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:32:38,868 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
+2019-01-24 13:32:38,868 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
+2019-01-24 13:33:19,236 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:33:19,236 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:33:19,236 - RealEstate.py[line:152] - INFO: 2019-01-24 13:33:19.237000 渝北 龙湖佰乐街 1幢 1单元 27-9
+2019-01-24 13:33:19,236 - RealEstate.py[line:152] - INFO: 2019-01-24 13:33:19.237000 渝北 龙湖佰乐街 1幢 1单元 27-9
+2019-01-24 13:33:36,592 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-4
+2019-01-24 13:33:36,592 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-4
+2019-01-24 13:33:36,767 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:33:36,767 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:33:36,789 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:33:36,789 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:33:36,812 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-2
+2019-01-24 13:33:36,812 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-2
+2019-01-24 13:33:36,812 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-4
+2019-01-24 13:33:36,812 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-4
+2019-01-24 13:34:09,783 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 13:34:09,783 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 13:34:09,785 - RealEstate.py[line:152] - INFO: 2019-01-24 13:34:09.785000 渝北 龙湖佰乐街 1幢 1单元 27-10
+2019-01-24 13:34:09,785 - RealEstate.py[line:152] - INFO: 2019-01-24 13:34:09.785000 渝北 龙湖佰乐街 1幢 1单元 27-10
+2019-01-24 13:34:27,684 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：
+2019-01-24 13:34:27,684 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：
+2019-01-24 13:34:27,849 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:34:27,849 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:34:27,869 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:34:27,869 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:34:27,908 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:34:27,908 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:34:27,910 - ImageRecognitionUtil.py[line:97] - ERROR: 图片识别失败
+2019-01-24 13:34:27,910 - ImageRecognitionUtil.py[line:97] - ERROR: 图片识别失败
+2019-01-24 13:34:27,910 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-24 13:34:27,910 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-24 13:34:52,585 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+7
+2019-01-24 13:34:52,585 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+7
+2019-01-24 13:34:52,994 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+7
+2019-01-24 13:34:52,994 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+7
+2019-01-24 13:34:53,013 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:34:53,013 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:34:53,039 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+8
+2019-01-24 13:34:53,039 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+8
+2019-01-24 13:34:53,039 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+7
+2019-01-24 13:34:53,039 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+7
+2019-01-24 13:35:25,631 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:35:25,631 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:35:25,631 - RealEstate.py[line:152] - INFO: 2019-01-24 13:35:25.632000 渝北 龙湖佰乐街 1幢 1单元 27-11
+2019-01-24 13:35:25,631 - RealEstate.py[line:152] - INFO: 2019-01-24 13:35:25.632000 渝北 龙湖佰乐街 1幢 1单元 27-11
+2019-01-24 13:35:35,447 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-6
+2019-01-24 13:35:35,447 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-6
+2019-01-24 13:35:35,838 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9-6
+2019-01-24 13:35:35,838 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9-6
+2019-01-24 13:35:35,861 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:35:35,861 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:35:35,882 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-2
+2019-01-24 13:35:35,882 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-2
+2019-01-24 13:35:35,882 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-6
+2019-01-24 13:35:35,882 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-6
+2019-01-24 13:36:21,086 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：44.64
+2019-01-24 13:36:21,086 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：44.64
+2019-01-24 13:36:21,088 - RealEstate.py[line:152] - INFO: 2019-01-24 13:36:21.088000 渝北 龙湖佰乐街 1幢 1单元 27-12
+2019-01-24 13:36:21,088 - RealEstate.py[line:152] - INFO: 2019-01-24 13:36:21.088000 渝北 龙湖佰乐街 1幢 1单元 27-12
+2019-01-24 13:36:41,138 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 13:36:41,138 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 13:36:41,299 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:36:41,299 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:36:41,322 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:36:41,322 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:36:41,355 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-7
+2019-01-24 13:36:41,355 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-7
+2019-01-24 13:36:41,355 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 13:36:41,355 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 13:37:33,163 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+7
+2019-01-24 13:37:33,163 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+7
+2019-01-24 13:37:33,321 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:37:33,321 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:37:33,339 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:37:33,339 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:37:33,348 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+2
+2019-01-24 13:37:33,348 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+2
+2019-01-24 13:37:33,348 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+7
+2019-01-24 13:37:33,348 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+7
+2019-01-24 13:37:45,971 - RealEstate.py[line:207] - INFO: 无法获取房子数据
+2019-01-24 13:37:45,971 - RealEstate.py[line:207] - INFO: 无法获取房子数据
+2019-01-24 13:37:47,072 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-01-24 13:37:47,072 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-01-24 13:37:49,551 - RealEstate.py[line:152] - INFO: 2019-01-24 13:37:49.551000 渝北 龙湖佰乐街 1幢 1单元 26-1
+2019-01-24 13:37:49,551 - RealEstate.py[line:152] - INFO: 2019-01-24 13:37:49.551000 渝北 龙湖佰乐街 1幢 1单元 26-1
+2019-01-24 13:38:10,346 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-4
+2019-01-24 13:38:10,346 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-4
+2019-01-24 13:38:10,503 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:38:10,503 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:38:10,526 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:38:10,526 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:38:10,559 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-5
+2019-01-24 13:38:10,559 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-5
+2019-01-24 13:38:10,559 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-24 13:38:10,559 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-24 13:39:15,813 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 13:39:15,813 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 13:39:15,815 - RealEstate.py[line:152] - INFO: 2019-01-24 13:39:15.815000 渝北 龙湖佰乐街 1幢 1单元 26-2
+2019-01-24 13:39:15,815 - RealEstate.py[line:152] - INFO: 2019-01-24 13:39:15.815000 渝北 龙湖佰乐街 1幢 1单元 26-2
+2019-01-24 13:44:19,177 - ImageRecognitionUtil.py[line:113] - ERROR: 无法获取验证网页
+2019-01-24 13:44:19,177 - ImageRecognitionUtil.py[line:113] - ERROR: 无法获取验证网页
+2019-01-24 13:44:19,177 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-24 13:44:19,177 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-24 13:44:19,528 - RealEstate.py[line:207] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:44:19,528 - RealEstate.py[line:207] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:49:43,082 - RealEstate.py[line:152] - INFO: 2019-01-24 13:49:43.083000 渝北 龙湖佰乐街 1幢 1单元 26-3
+2019-01-24 13:49:43,082 - RealEstate.py[line:152] - INFO: 2019-01-24 13:49:43.083000 渝北 龙湖佰乐街 1幢 1单元 26-3
+2019-01-24 13:50:02,466 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-6
+2019-01-24 13:50:02,466 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-6
+2019-01-24 13:50:02,859 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-6
+2019-01-24 13:50:02,859 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-6
+2019-01-24 13:50:02,882 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:50:02,882 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:50:02,917 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-1
+2019-01-24 13:50:02,917 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-1
+2019-01-24 13:50:02,917 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-6
+2019-01-24 13:50:02,917 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-6
+2019-01-24 13:51:00,450 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 13:51:00,450 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 13:51:00,451 - RealEstate.py[line:152] - INFO: 2019-01-24 13:51:00.452000 渝北 龙湖佰乐街 1幢 1单元 26-4
+2019-01-24 13:51:00,451 - RealEstate.py[line:152] - INFO: 2019-01-24 13:51:00.452000 渝北 龙湖佰乐街 1幢 1单元 26-4
+2019-01-24 13:51:11,976 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-7
+2019-01-24 13:51:11,976 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-7
+2019-01-24 13:51:12,134 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:51:12,134 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:51:12,151 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:51:12,151 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:51:12,176 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-1
+2019-01-24 13:51:12,176 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-1
+2019-01-24 13:51:12,177 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
+2019-01-24 13:51:12,177 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
+2019-01-24 13:52:00,753 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:52:00,753 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:52:00,753 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:00.754000 渝北 龙湖佰乐街 1幢 1单元 26-5
+2019-01-24 13:52:00,753 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:00.754000 渝北 龙湖佰乐街 1幢 1单元 26-5
+2019-01-24 13:52:06,953 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-7
+2019-01-24 13:52:06,953 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-7
+2019-01-24 13:52:07,346 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6-1
+2019-01-24 13:52:07,346 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6-1
+2019-01-24 13:52:07,368 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:52:07,368 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:52:07,411 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:52:07,411 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:52:07,411 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-24 13:52:07,411 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-24 13:52:28,434 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.28
+2019-01-24 13:52:28,434 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.28
+2019-01-24 13:52:28,434 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:28.435000 渝北 龙湖佰乐街 1幢 1单元 26-6
+2019-01-24 13:52:28,434 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:28.435000 渝北 龙湖佰乐街 1幢 1单元 26-6
+2019-01-24 13:52:28,440 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:28.440000 渝北 龙湖佰乐街 1幢 1单元 26-7
+2019-01-24 13:52:28,440 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:28.440000 渝北 龙湖佰乐街 1幢 1单元 26-7
+2019-01-24 13:52:28,444 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:28.444000 渝北 龙湖佰乐街 1幢 1单元 26-8
+2019-01-24 13:52:28,444 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:28.444000 渝北 龙湖佰乐街 1幢 1单元 26-8
+2019-01-24 13:52:33,184 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4-2
+2019-01-24 13:52:33,184 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4-2
+2019-01-24 13:52:33,579 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4-2
+2019-01-24 13:52:33,579 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4-2
+2019-01-24 13:52:33,601 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:52:33,601 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:52:33,621 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-4
+2019-01-24 13:52:33,621 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-4
+2019-01-24 13:52:33,621 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-2
+2019-01-24 13:52:33,621 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-2
+2019-01-24 13:52:55,289 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:52:55,289 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:52:55,289 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:55.289000 渝北 龙湖佰乐街 1幢 1单元 26-9
+2019-01-24 13:52:55,289 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:55.289000 渝北 龙湖佰乐街 1幢 1单元 26-9
+2019-01-24 13:52:55,290 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:55.291000 渝北 龙湖佰乐街 1幢 1单元 26-10
+2019-01-24 13:52:55,290 - RealEstate.py[line:152] - INFO: 2019-01-24 13:52:55.291000 渝北 龙湖佰乐街 1幢 1单元 26-10
+2019-01-24 13:53:00,417 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2-7
+2019-01-24 13:53:00,417 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2-7
+2019-01-24 13:53:00,821 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2-1
+2019-01-24 13:53:00,821 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2-1
+2019-01-24 13:53:00,845 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:53:00,845 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:53:00,868 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+8
+2019-01-24 13:53:00,868 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+8
+2019-01-24 13:53:00,869 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
+2019-01-24 13:53:00,869 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
+2019-01-24 13:53:29,690 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:53:29,690 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:53:29,691 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:29.692000 渝北 龙湖佰乐街 1幢 1单元 26-11
+2019-01-24 13:53:29,691 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:29.692000 渝北 龙湖佰乐街 1幢 1单元 26-11
+2019-01-24 13:53:29,696 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:29.696000 渝北 龙湖佰乐街 1幢 1单元 26-12
+2019-01-24 13:53:29,696 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:29.696000 渝北 龙湖佰乐街 1幢 1单元 26-12
+2019-01-24 13:53:29,703 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:29.703000 渝北 龙湖佰乐街 1幢 1单元 25-1
+2019-01-24 13:53:29,703 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:29.703000 渝北 龙湖佰乐街 1幢 1单元 25-1
+2019-01-24 13:53:35,430 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+3
+2019-01-24 13:53:35,430 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+3
+2019-01-24 13:53:35,875 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7+3
+2019-01-24 13:53:35,875 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7+3
+2019-01-24 13:53:35,891 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:53:35,891 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:53:35,936 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:53:35,936 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:53:35,937 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+3
+2019-01-24 13:53:35,937 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+3
+2019-01-24 13:53:59,497 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 13:53:59,497 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 13:53:59,509 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:59.510000 渝北 龙湖佰乐街 1幢 1单元 25-2
+2019-01-24 13:53:59,509 - RealEstate.py[line:152] - INFO: 2019-01-24 13:53:59.510000 渝北 龙湖佰乐街 1幢 1单元 25-2
+2019-01-24 13:54:13,381 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-2
+2019-01-24 13:54:13,381 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-2
+2019-01-24 13:54:13,801 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-2
+2019-01-24 13:54:13,801 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-2
+2019-01-24 13:54:13,822 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:54:13,822 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:54:13,861 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:54:13,861 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:54:13,861 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-24 13:54:13,861 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-24 13:54:51,913 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:54:51,913 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 13:54:51,914 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.914000 渝北 龙湖佰乐街 1幢 1单元 25-3
+2019-01-24 13:54:51,914 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.914000 渝北 龙湖佰乐街 1幢 1单元 25-3
+2019-01-24 13:54:51,915 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.916000 渝北 龙湖佰乐街 1幢 1单元 25-4
+2019-01-24 13:54:51,915 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.916000 渝北 龙湖佰乐街 1幢 1单元 25-4
+2019-01-24 13:54:51,918 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.919000 渝北 龙湖佰乐街 1幢 1单元 25-5
+2019-01-24 13:54:51,918 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.919000 渝北 龙湖佰乐街 1幢 1单元 25-5
+2019-01-24 13:54:51,920 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.920000 渝北 龙湖佰乐街 1幢 1单元 25-6
+2019-01-24 13:54:51,920 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.920000 渝北 龙湖佰乐街 1幢 1单元 25-6
+2019-01-24 13:54:51,923 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.923000 渝北 龙湖佰乐街 1幢 1单元 25-7
+2019-01-24 13:54:51,923 - RealEstate.py[line:152] - INFO: 2019-01-24 13:54:51.923000 渝北 龙湖佰乐街 1幢 1单元 25-7
+2019-01-24 13:55:01,984 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-1
+2019-01-24 13:55:01,984 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-1
+2019-01-24 13:55:02,404 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6-1
+2019-01-24 13:55:02,404 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6-1
+2019-01-24 13:55:02,427 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:55:02,427 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:55:02,466 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-7
+2019-01-24 13:55:02,466 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-7
+2019-01-24 13:55:02,466 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-24 13:55:02,466 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-24 13:55:19,417 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 13:55:19,417 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 13:55:19,417 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:19.418000 渝北 龙湖佰乐街 1幢 1单元 25-8
+2019-01-24 13:55:19,417 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:19.418000 渝北 龙湖佰乐街 1幢 1单元 25-8
+2019-01-24 13:55:19,421 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:19.422000 渝北 龙湖佰乐街 1幢 1单元 25-9
+2019-01-24 13:55:19,421 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:19.422000 渝北 龙湖佰乐街 1幢 1单元 25-9
+2019-01-24 13:55:19,424 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:19.424000 渝北 龙湖佰乐街 1幢 1单元 25-10
+2019-01-24 13:55:19,424 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:19.424000 渝北 龙湖佰乐街 1幢 1单元 25-10
+2019-01-24 13:55:33,490 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-2
+2019-01-24 13:55:33,490 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-2
+2019-01-24 13:55:33,664 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:55:33,664 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:55:33,690 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:55:33,690 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:55:33,726 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-5
+2019-01-24 13:55:33,726 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-5
+2019-01-24 13:55:33,726 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-2
+2019-01-24 13:55:33,726 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-2
+2019-01-24 13:55:43,325 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:55:43,325 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:55:45,687 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-01-24 13:55:45,687 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-01-24 13:55:48,142 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.143000 渝北 龙湖佰乐街 1幢 1单元 25-11
+2019-01-24 13:55:48,142 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.143000 渝北 龙湖佰乐街 1幢 1单元 25-11
+2019-01-24 13:55:48,147 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.147000 渝北 龙湖佰乐街 1幢 1单元 25-12
+2019-01-24 13:55:48,147 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.147000 渝北 龙湖佰乐街 1幢 1单元 25-12
+2019-01-24 13:55:48,154 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.154000 渝北 龙湖佰乐街 1幢 1单元 24-1
+2019-01-24 13:55:48,154 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.154000 渝北 龙湖佰乐街 1幢 1单元 24-1
+2019-01-24 13:55:48,157 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.157000 渝北 龙湖佰乐街 1幢 1单元 24-2
+2019-01-24 13:55:48,157 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.157000 渝北 龙湖佰乐街 1幢 1单元 24-2
+2019-01-24 13:55:48,160 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.160000 渝北 龙湖佰乐街 1幢 1单元 24-3
+2019-01-24 13:55:48,160 - RealEstate.py[line:152] - INFO: 2019-01-24 13:55:48.160000 渝北 龙湖佰乐街 1幢 1单元 24-3
+2019-01-24 13:55:56,095 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-2
+2019-01-24 13:55:56,095 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-2
+2019-01-24 13:55:56,516 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-2
+2019-01-24 13:55:56,516 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-2
+2019-01-24 13:55:56,539 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:55:56,539 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:55:56,584 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:55:56,584 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 13:55:56,584 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-24 13:55:56,584 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-24 13:56:26,033 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 13:56:26,033 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 13:56:26,035 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:26.035000 渝北 龙湖佰乐街 1幢 1单元 24-4
+2019-01-24 13:56:26,035 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:26.035000 渝北 龙湖佰乐街 1幢 1单元 24-4
+2019-01-24 13:56:26,038 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:26.038000 渝北 龙湖佰乐街 1幢 1单元 24-5
+2019-01-24 13:56:26,038 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:26.038000 渝北 龙湖佰乐街 1幢 1单元 24-5
+2019-01-24 13:56:26,039 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:26.040000 渝北 龙湖佰乐街 1幢 1单元 24-6
+2019-01-24 13:56:26,039 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:26.040000 渝北 龙湖佰乐街 1幢 1单元 24-6
+2019-01-24 13:56:33,489 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+2
+2019-01-24 13:56:33,489 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+2
+2019-01-24 13:56:33,877 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+2
+2019-01-24 13:56:33,877 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+2
+2019-01-24 13:56:33,904 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:56:33,904 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:56:33,908 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+2
+2019-01-24 13:56:33,908 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+2
+2019-01-24 13:56:33,910 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+2
+2019-01-24 13:56:33,910 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+2
+2019-01-24 13:56:57,016 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 13:56:57,016 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 13:56:57,017 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.018000 渝北 龙湖佰乐街 1幢 1单元 24-7
+2019-01-24 13:56:57,017 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.018000 渝北 龙湖佰乐街 1幢 1单元 24-7
+2019-01-24 13:56:57,020 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.021000 渝北 龙湖佰乐街 1幢 1单元 24-8
+2019-01-24 13:56:57,020 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.021000 渝北 龙湖佰乐街 1幢 1单元 24-8
+2019-01-24 13:56:57,023 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.024000 渝北 龙湖佰乐街 1幢 1单元 24-9
+2019-01-24 13:56:57,023 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.024000 渝北 龙湖佰乐街 1幢 1单元 24-9
+2019-01-24 13:56:57,026 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.026000 渝北 龙湖佰乐街 1幢 1单元 24-10
+2019-01-24 13:56:57,026 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.026000 渝北 龙湖佰乐街 1幢 1单元 24-10
+2019-01-24 13:56:57,029 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.029000 渝北 龙湖佰乐街 1幢 1单元 24-11
+2019-01-24 13:56:57,029 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.029000 渝北 龙湖佰乐街 1幢 1单元 24-11
+2019-01-24 13:56:57,030 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.031000 渝北 龙湖佰乐街 1幢 1单元 24-12
+2019-01-24 13:56:57,030 - RealEstate.py[line:152] - INFO: 2019-01-24 13:56:57.031000 渝北 龙湖佰乐街 1幢 1单元 24-12
+2019-01-24 13:57:03,112 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-7
+2019-01-24 13:57:03,112 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-7
+2019-01-24 13:57:03,292 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:57:03,292 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:57:03,312 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:57:03,312 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:57:03,328 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3-2
+2019-01-24 13:57:03,328 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3-2
+2019-01-24 13:57:03,328 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
+2019-01-24 13:57:03,328 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
+2019-01-24 13:57:23,418 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+9
+2019-01-24 13:57:23,418 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+9
+2019-01-24 13:57:23,591 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:57:23,591 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 13:57:23,618 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:57:23,618 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 13:57:23,654 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+2
+2019-01-24 13:57:23,654 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+2
+2019-01-24 13:57:23,654 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+9
+2019-01-24 13:57:23,654 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+9
+2019-01-24 13:57:39,841 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 13:57:39,841 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 14:03:01,831 - RealEstate.py[line:152] - INFO: 2019-01-24 14:03:01.831000 渝北 龙湖佰乐街 1幢 1单元 23-1
+2019-01-24 14:03:01,831 - RealEstate.py[line:152] - INFO: 2019-01-24 14:03:01.831000 渝北 龙湖佰乐街 1幢 1单元 23-1
+2019-01-24 14:03:01,834 - RealEstate.py[line:152] - INFO: 2019-01-24 14:03:01.834000 渝北 龙湖佰乐街 1幢 1单元 23-2
+2019-01-24 14:03:01,834 - RealEstate.py[line:152] - INFO: 2019-01-24 14:03:01.834000 渝北 龙湖佰乐街 1幢 1单元 23-2
+2019-01-24 14:03:01,838 - RealEstate.py[line:152] - INFO: 2019-01-24 14:03:01.838000 渝北 龙湖佰乐街 1幢 1单元 23-3
+2019-01-24 14:03:01,838 - RealEstate.py[line:152] - INFO: 2019-01-24 14:03:01.838000 渝北 龙湖佰乐街 1幢 1单元 23-3
+2019-01-24 14:03:18,181 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+6
+2019-01-24 14:03:18,181 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+6
+2019-01-24 14:03:18,354 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:03:18,354 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:03:18,378 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:03:18,378 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:03:18,397 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+5
+2019-01-24 14:03:18,397 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+5
+2019-01-24 14:03:18,398 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+6
+2019-01-24 14:03:18,398 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+6
+2019-01-24 14:04:08,542 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:04:08,542 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:04:08,543 - RealEstate.py[line:152] - INFO: 2019-01-24 14:04:08.543000 渝北 龙湖佰乐街 1幢 1单元 23-4
+2019-01-24 14:04:08,543 - RealEstate.py[line:152] - INFO: 2019-01-24 14:04:08.543000 渝北 龙湖佰乐街 1幢 1单元 23-4
+2019-01-24 14:04:20,885 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+4
+2019-01-24 14:04:20,885 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+4
+2019-01-24 14:04:21,046 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:04:21,046 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:04:21,072 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:04:21,072 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:04:21,101 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+6
+2019-01-24 14:04:21,101 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+6
+2019-01-24 14:04:21,101 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+4
+2019-01-24 14:04:21,101 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+4
+2019-01-24 14:05:43,180 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:05:43,180 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:05:43,181 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.182000 渝北 龙湖佰乐街 1幢 1单元 23-5
+2019-01-24 14:05:43,181 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.182000 渝北 龙湖佰乐街 1幢 1单元 23-5
+2019-01-24 14:05:43,186 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.186000 渝北 龙湖佰乐街 1幢 1单元 23-6
+2019-01-24 14:05:43,186 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.186000 渝北 龙湖佰乐街 1幢 1单元 23-6
+2019-01-24 14:05:43,190 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.191000 渝北 龙湖佰乐街 1幢 1单元 23-7
+2019-01-24 14:05:43,190 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.191000 渝北 龙湖佰乐街 1幢 1单元 23-7
+2019-01-24 14:05:43,194 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.194000 渝北 龙湖佰乐街 1幢 1单元 23-8
+2019-01-24 14:05:43,194 - RealEstate.py[line:152] - INFO: 2019-01-24 14:05:43.194000 渝北 龙湖佰乐街 1幢 1单元 23-8
+2019-01-24 14:05:55,822 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:05:55,822 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:05:55,994 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:05:55,994 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:05:56,022 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:05:56,022 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:05:56,036 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+4
+2019-01-24 14:05:56,036 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+4
+2019-01-24 14:05:56,036 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+4
+2019-01-24 14:05:56,036 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+4
+2019-01-24 14:06:08,118 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-4
+2019-01-24 14:06:08,118 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-4
+2019-01-24 14:06:08,575 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6-4
+2019-01-24 14:06:08,575 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6-4
+2019-01-24 14:06:08,598 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:06:08,598 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:06:08,638 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:06:08,638 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:06:08,640 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-4
+2019-01-24 14:06:08,640 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-4
+2019-01-24 14:06:48,611 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:06:48,611 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:06:48,612 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.613000 渝北 龙湖佰乐街 1幢 1单元 23-9
+2019-01-24 14:06:48,612 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.613000 渝北 龙湖佰乐街 1幢 1单元 23-9
+2019-01-24 14:06:48,615 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.615000 渝北 龙湖佰乐街 1幢 1单元 23-10
+2019-01-24 14:06:48,615 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.615000 渝北 龙湖佰乐街 1幢 1单元 23-10
+2019-01-24 14:06:48,618 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.618000 渝北 龙湖佰乐街 1幢 1单元 23-11
+2019-01-24 14:06:48,618 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.618000 渝北 龙湖佰乐街 1幢 1单元 23-11
+2019-01-24 14:06:48,621 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.621000 渝北 龙湖佰乐街 1幢 1单元 23-12
+2019-01-24 14:06:48,621 - RealEstate.py[line:152] - INFO: 2019-01-24 14:06:48.621000 渝北 龙湖佰乐街 1幢 1单元 23-12
+2019-01-24 14:07:03,230 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-5
+2019-01-24 14:07:03,230 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-5
+2019-01-24 14:07:03,401 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:07:03,401 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:07:03,421 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:07:03,421 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:07:03,456 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-5
+2019-01-24 14:07:03,456 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-5
+2019-01-24 14:07:03,457 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-5
+2019-01-24 14:07:03,457 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-5
+2019-01-24 14:08:10,033 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:08:10,033 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:08:10,036 - RealEstate.py[line:152] - INFO: 2019-01-24 14:08:10.037000 渝北 龙湖佰乐街 1幢 1单元 22-1
+2019-01-24 14:08:10,036 - RealEstate.py[line:152] - INFO: 2019-01-24 14:08:10.037000 渝北 龙湖佰乐街 1幢 1单元 22-1
+2019-01-24 14:08:18,688 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:08:18,688 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:08:18,851 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:08:18,851 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:08:18,875 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:08:18,875 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:08:18,898 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+6
+2019-01-24 14:08:18,898 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+6
+2019-01-24 14:08:18,898 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+6
+2019-01-24 14:08:18,898 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+6
+2019-01-24 14:08:50,865 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:08:50,865 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:08:50,865 - RealEstate.py[line:152] - INFO: 2019-01-24 14:08:50.866000 渝北 龙湖佰乐街 1幢 1单元 22-2
+2019-01-24 14:08:50,865 - RealEstate.py[line:152] - INFO: 2019-01-24 14:08:50.866000 渝北 龙湖佰乐街 1幢 1单元 22-2
+2019-01-24 14:09:02,259 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8+2
+2019-01-24 14:09:02,259 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8+2
+2019-01-24 14:09:02,434 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:09:02,434 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:09:02,456 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:09:02,456 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:09:02,479 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+6
+2019-01-24 14:09:02,479 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+6
+2019-01-24 14:09:02,480 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+2
+2019-01-24 14:09:02,480 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+2
+2019-01-24 14:09:29,990 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+2
+2019-01-24 14:09:29,990 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+2
+2019-01-24 14:09:30,428 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+4
+2019-01-24 14:09:30,428 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+4
+2019-01-24 14:09:30,453 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:09:30,453 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:09:30,457 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+2
+2019-01-24 14:09:30,457 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+2
+2019-01-24 14:09:30,459 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+4
+2019-01-24 14:09:30,459 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+4
+2019-01-24 14:10:32,967 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:10:32,967 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:10:32,969 - RealEstate.py[line:152] - INFO: 2019-01-24 14:10:32.969000 渝北 龙湖佰乐街 1幢 1单元 22-3
+2019-01-24 14:10:32,969 - RealEstate.py[line:152] - INFO: 2019-01-24 14:10:32.969000 渝北 龙湖佰乐街 1幢 1单元 22-3
+2019-01-24 14:10:38,313 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-8
+2019-01-24 14:10:38,313 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-8
+2019-01-24 14:10:38,494 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:10:38,494 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:10:38,515 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:10:38,515 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:10:38,549 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-4
+2019-01-24 14:10:38,549 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-4
+2019-01-24 14:10:38,551 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-8
+2019-01-24 14:10:38,551 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-8
+2019-01-24 14:11:16,592 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:11:16,592 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:11:16,594 - RealEstate.py[line:152] - INFO: 2019-01-24 14:11:16.594000 渝北 龙湖佰乐街 1幢 1单元 22-4
+2019-01-24 14:11:16,594 - RealEstate.py[line:152] - INFO: 2019-01-24 14:11:16.594000 渝北 龙湖佰乐街 1幢 1单元 22-4
+2019-01-24 14:11:34,130 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+1
+2019-01-24 14:11:34,130 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+1
+2019-01-24 14:11:34,552 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+1
+2019-01-24 14:11:34,552 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+1
+2019-01-24 14:11:34,572 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:11:34,572 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:11:34,598 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+7
+2019-01-24 14:11:34,598 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+7
+2019-01-24 14:11:34,598 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+1
+2019-01-24 14:11:34,598 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+1
+2019-01-24 14:12:27,487 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:12:27,487 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:12:27,489 - RealEstate.py[line:152] - INFO: 2019-01-24 14:12:27.489000 渝北 龙湖佰乐街 1幢 1单元 22-5
+2019-01-24 14:12:27,489 - RealEstate.py[line:152] - INFO: 2019-01-24 14:12:27.489000 渝北 龙湖佰乐街 1幢 1单元 22-5
+2019-01-24 14:12:56,838 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 14:12:56,838 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 14:12:57,016 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:12:57,016 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:12:57,040 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:12:57,040 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:12:57,081 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-7
+2019-01-24 14:12:57,081 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-7
+2019-01-24 14:12:57,081 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 14:12:57,081 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 14:14:13,641 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.28
+2019-01-24 14:14:13,641 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.28
+2019-01-24 14:14:13,641 - RealEstate.py[line:152] - INFO: 2019-01-24 14:14:13.642000 渝北 龙湖佰乐街 1幢 1单元 22-6
+2019-01-24 14:14:13,641 - RealEstate.py[line:152] - INFO: 2019-01-24 14:14:13.642000 渝北 龙湖佰乐街 1幢 1单元 22-6
+2019-01-24 14:14:31,186 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:14:31,186 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:14:31,361 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:14:31,361 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:14:31,381 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:14:31,381 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:14:31,388 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+9
+2019-01-24 14:14:31,388 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+9
+2019-01-24 14:14:31,388 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+9
+2019-01-24 14:14:31,388 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+9
+2019-01-24 14:14:49,826 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 14:14:49,826 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 14:14:49,828 - RealEstate.py[line:152] - INFO: 2019-01-24 14:14:49.828000 渝北 龙湖佰乐街 1幢 1单元 22-7
+2019-01-24 14:14:49,828 - RealEstate.py[line:152] - INFO: 2019-01-24 14:14:49.828000 渝北 龙湖佰乐街 1幢 1单元 22-7
+2019-01-24 14:15:00,155 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+3
+2019-01-24 14:15:00,155 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+3
+2019-01-24 14:15:00,549 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+3
+2019-01-24 14:15:00,549 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+3
+2019-01-24 14:15:00,565 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:15:00,565 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:15:00,605 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:15:00,605 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:15:00,605 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+3
+2019-01-24 14:15:00,605 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+3
+2019-01-24 14:15:43,138 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 14:15:43,138 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 14:15:43,138 - RealEstate.py[line:152] - INFO: 2019-01-24 14:15:43.139000 渝北 龙湖佰乐街 1幢 1单元 22-8
+2019-01-24 14:15:43,138 - RealEstate.py[line:152] - INFO: 2019-01-24 14:15:43.139000 渝北 龙湖佰乐街 1幢 1单元 22-8
+2019-01-24 14:15:53,522 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-1
+2019-01-24 14:15:53,522 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-1
+2019-01-24 14:15:53,681 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:15:53,681 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:15:53,703 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:15:53,703 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:15:53,732 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7-4
+2019-01-24 14:15:53,732 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7-4
+2019-01-24 14:15:53,732 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-24 14:15:53,732 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-24 14:16:30,299 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:16:30,299 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:16:30,299 - RealEstate.py[line:152] - INFO: 2019-01-24 14:16:30.299000 渝北 龙湖佰乐街 1幢 1单元 22-9
+2019-01-24 14:16:30,299 - RealEstate.py[line:152] - INFO: 2019-01-24 14:16:30.299000 渝北 龙湖佰乐街 1幢 1单元 22-9
+2019-01-24 14:16:44,213 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+4
+2019-01-24 14:16:44,213 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+4
+2019-01-24 14:16:44,605 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+4
+2019-01-24 14:16:44,605 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+4
+2019-01-24 14:16:44,628 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:16:44,628 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:16:44,631 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1+6
+2019-01-24 14:16:44,631 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1+6
+2019-01-24 14:16:44,631 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+4
+2019-01-24 14:16:44,631 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+4
+2019-01-24 14:17:20,767 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:17:20,767 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:17:20,769 - RealEstate.py[line:152] - INFO: 2019-01-24 14:17:20.769000 渝北 龙湖佰乐街 1幢 1单元 22-10
+2019-01-24 14:17:20,769 - RealEstate.py[line:152] - INFO: 2019-01-24 14:17:20.769000 渝北 龙湖佰乐街 1幢 1单元 22-10
+2019-01-24 14:17:25,197 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+1
+2019-01-24 14:17:25,197 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+1
+2019-01-24 14:17:25,644 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+1
+2019-01-24 14:17:25,644 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+1
+2019-01-24 14:17:25,665 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:17:25,665 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:17:25,694 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+3
+2019-01-24 14:17:25,694 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+3
+2019-01-24 14:17:25,696 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+1
+2019-01-24 14:17:25,696 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+1
+2019-01-24 14:17:28,048 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 14:17:28,048 - RealEstate.py[line:207] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-24 14:22:34,785 - RealEstate.py[line:152] - INFO: 2019-01-24 14:22:34.785000 渝北 龙湖佰乐街 1幢 1单元 22-11
+2019-01-24 14:22:34,785 - RealEstate.py[line:152] - INFO: 2019-01-24 14:22:34.785000 渝北 龙湖佰乐街 1幢 1单元 22-11
+2019-01-24 14:23:01,207 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-1
+2019-01-24 14:23:01,207 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-1
+2019-01-24 14:23:01,595 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-1
+2019-01-24 14:23:01,595 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-1
+2019-01-24 14:23:01,619 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:23:01,619 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:23:01,627 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-24 14:23:01,627 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-24 14:23:01,627 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-24 14:23:01,627 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-24 14:23:59,907 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.5
+2019-01-24 14:23:59,907 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.5
+2019-01-24 14:23:59,907 - RealEstate.py[line:152] - INFO: 2019-01-24 14:23:59.907000 渝北 龙湖佰乐街 1幢 1单元 22-12
+2019-01-24 14:23:59,907 - RealEstate.py[line:152] - INFO: 2019-01-24 14:23:59.907000 渝北 龙湖佰乐街 1幢 1单元 22-12
+2019-01-24 14:24:16,197 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+9
+2019-01-24 14:24:16,197 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+9
+2019-01-24 14:24:16,368 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:24:16,368 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:24:16,400 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:24:16,400 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:24:16,434 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8+8
+2019-01-24 14:24:16,434 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8+8
+2019-01-24 14:24:16,434 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+9
+2019-01-24 14:24:16,434 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+9
+2019-01-24 14:24:56,154 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:24:56,154 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:24:56,160 - RealEstate.py[line:152] - INFO: 2019-01-24 14:24:56.160000 渝北 龙湖佰乐街 1幢 1单元 21-1
+2019-01-24 14:24:56,160 - RealEstate.py[line:152] - INFO: 2019-01-24 14:24:56.160000 渝北 龙湖佰乐街 1幢 1单元 21-1
+2019-01-24 14:25:06,865 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-2
+2019-01-24 14:25:06,865 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-2
+2019-01-24 14:25:07,259 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-2
+2019-01-24 14:25:07,259 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-2
+2019-01-24 14:25:07,280 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:25:07,280 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:25:07,319 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:25:07,319 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:25:07,319 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-2
+2019-01-24 14:25:07,319 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-2
+2019-01-24 14:26:31,585 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:26:31,585 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:26:31,585 - RealEstate.py[line:152] - INFO: 2019-01-24 14:26:31.585000 渝北 龙湖佰乐街 1幢 1单元 21-2
+2019-01-24 14:26:31,585 - RealEstate.py[line:152] - INFO: 2019-01-24 14:26:31.585000 渝北 龙湖佰乐街 1幢 1单元 21-2
+2019-01-24 14:26:48,382 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-5
+2019-01-24 14:26:48,382 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-5
+2019-01-24 14:26:48,569 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:26:48,569 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:26:48,592 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:26:48,592 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:26:48,630 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-4
+2019-01-24 14:26:48,630 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-4
+2019-01-24 14:26:48,630 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-24 14:26:48,630 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-24 14:27:43,671 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:27:43,671 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:27:43,673 - RealEstate.py[line:152] - INFO: 2019-01-24 14:27:43.673000 渝北 龙湖佰乐街 1幢 1单元 21-3
+2019-01-24 14:27:43,673 - RealEstate.py[line:152] - INFO: 2019-01-24 14:27:43.673000 渝北 龙湖佰乐街 1幢 1单元 21-3
+2019-01-24 14:27:51,826 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8+2
+2019-01-24 14:27:51,826 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8+2
+2019-01-24 14:27:52,230 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+6
+2019-01-24 14:27:52,230 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+6
+2019-01-24 14:27:52,256 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:27:52,256 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:27:52,263 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-24 14:27:52,263 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-24 14:27:52,265 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+6
+2019-01-24 14:27:52,265 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+6
+2019-01-24 14:28:47,108 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:28:47,108 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:28:47,109 - RealEstate.py[line:152] - INFO: 2019-01-24 14:28:47.110000 渝北 龙湖佰乐街 1幢 1单元 21-4
+2019-01-24 14:28:47,109 - RealEstate.py[line:152] - INFO: 2019-01-24 14:28:47.110000 渝北 龙湖佰乐街 1幢 1单元 21-4
+2019-01-24 14:29:06,375 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-9
+2019-01-24 14:29:06,375 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-9
+2019-01-24 14:29:06,542 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9+9
+2019-01-24 14:29:06,542 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9+9
+2019-01-24 14:29:06,565 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:29:06,565 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:29:06,602 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:29:06,602 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:29:06,604 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+9
+2019-01-24 14:29:06,604 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+9
+2019-01-24 14:29:27,306 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:29:27,306 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:29:27,473 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:29:27,473 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:29:27,493 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:29:27,493 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:29:27,503 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+3
+2019-01-24 14:29:27,503 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+3
+2019-01-24 14:29:27,503 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+3
+2019-01-24 14:29:27,503 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+3
+2019-01-24 14:29:40,035 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:29:40,035 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:29:40,200 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:29:40,200 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:29:40,220 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:29:40,220 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:29:40,239 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5+8
+2019-01-24 14:29:40,239 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5+8
+2019-01-24 14:29:40,239 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+8
+2019-01-24 14:29:40,239 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+8
+2019-01-24 14:30:06,062 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+8
+2019-01-24 14:30:06,062 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+8
+2019-01-24 14:30:06,220 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+8
+2019-01-24 14:30:06,220 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+8
+2019-01-24 14:30:06,244 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:30:06,244 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:30:06,259 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+8
+2019-01-24 14:30:06,259 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+8
+2019-01-24 14:30:06,259 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+8
+2019-01-24 14:30:06,259 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+8
+2019-01-24 14:30:43,158 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:30:43,158 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:30:43,160 - RealEstate.py[line:152] - INFO: 2019-01-24 14:30:43.160000 渝北 龙湖佰乐街 1幢 1单元 21-5
+2019-01-24 14:30:43,160 - RealEstate.py[line:152] - INFO: 2019-01-24 14:30:43.160000 渝北 龙湖佰乐街 1幢 1单元 21-5
+2019-01-24 14:30:59,769 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-5
+2019-01-24 14:30:59,769 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-5
+2019-01-24 14:30:59,937 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:30:59,937 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:30:59,957 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:30:59,957 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:30:59,994 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:30:59,994 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:30:59,994 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-24 14:30:59,994 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-24 14:31:40,877 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.28
+2019-01-24 14:31:40,877 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.28
+2019-01-24 14:31:40,878 - RealEstate.py[line:152] - INFO: 2019-01-24 14:31:40.878000 渝北 龙湖佰乐街 1幢 1单元 21-6
+2019-01-24 14:31:40,878 - RealEstate.py[line:152] - INFO: 2019-01-24 14:31:40.878000 渝北 龙湖佰乐街 1幢 1单元 21-6
+2019-01-24 14:31:54,457 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-3
+2019-01-24 14:31:54,457 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-3
+2019-01-24 14:31:54,859 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-3
+2019-01-24 14:31:54,859 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-3
+2019-01-24 14:31:54,878 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:31:54,878 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:31:54,897 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-1
+2019-01-24 14:31:54,897 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-1
+2019-01-24 14:31:54,898 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-24 14:31:54,898 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-24 14:32:39,075 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 14:32:39,075 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 14:32:39,078 - RealEstate.py[line:152] - INFO: 2019-01-24 14:32:39.077000 渝北 龙湖佰乐街 1幢 1单元 21-7
+2019-01-24 14:32:39,078 - RealEstate.py[line:152] - INFO: 2019-01-24 14:32:39.077000 渝北 龙湖佰乐街 1幢 1单元 21-7
+2019-01-24 14:32:39,082 - RealEstate.py[line:152] - INFO: 2019-01-24 14:32:39.081000 渝北 龙湖佰乐街 1幢 1单元 21-8
+2019-01-24 14:32:39,082 - RealEstate.py[line:152] - INFO: 2019-01-24 14:32:39.081000 渝北 龙湖佰乐街 1幢 1单元 21-8
+2019-01-24 14:32:39,085 - RealEstate.py[line:152] - INFO: 2019-01-24 14:32:39.086000 渝北 龙湖佰乐街 1幢 1单元 21-9
+2019-01-24 14:32:39,085 - RealEstate.py[line:152] - INFO: 2019-01-24 14:32:39.086000 渝北 龙湖佰乐街 1幢 1单元 21-9
+2019-01-24 14:33:07,907 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 14:33:07,907 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 14:33:08,084 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:33:08,084 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:33:08,112 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:33:08,112 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:33:08,137 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-1
+2019-01-24 14:33:08,137 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-1
+2019-01-24 14:33:08,137 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 14:33:08,137 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 14:34:12,467 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:34:12,467 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:34:12,469 - RealEstate.py[line:152] - INFO: 2019-01-24 14:34:12.469000 渝北 龙湖佰乐街 1幢 1单元 21-10
+2019-01-24 14:34:12,469 - RealEstate.py[line:152] - INFO: 2019-01-24 14:34:12.469000 渝北 龙湖佰乐街 1幢 1单元 21-10
+2019-01-24 14:34:17,161 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:34:17,161 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:34:17,349 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:34:17,349 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:34:17,374 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:34:17,374 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:34:17,414 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-4
+2019-01-24 14:34:17,414 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-4
+2019-01-24 14:34:17,414 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-24 14:34:17,414 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-24 14:34:40,119 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+4
+2019-01-24 14:34:40,119 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+4
+2019-01-24 14:34:40,536 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+4
+2019-01-24 14:34:40,536 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+4
+2019-01-24 14:34:40,559 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:34:40,559 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:34:40,572 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+9
+2019-01-24 14:34:40,572 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+9
+2019-01-24 14:34:40,572 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+4
+2019-01-24 14:34:40,572 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+4
+2019-01-24 14:35:12,648 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:35:12,648 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:35:12,650 - RealEstate.py[line:152] - INFO: 2019-01-24 14:35:12.650000 渝北 龙湖佰乐街 1幢 1单元 21-11
+2019-01-24 14:35:12,650 - RealEstate.py[line:152] - INFO: 2019-01-24 14:35:12.650000 渝北 龙湖佰乐街 1幢 1单元 21-11
+2019-01-24 14:35:12,651 - RealEstate.py[line:152] - INFO: 2019-01-24 14:35:12.652000 渝北 龙湖佰乐街 1幢 1单元 21-12
+2019-01-24 14:35:12,651 - RealEstate.py[line:152] - INFO: 2019-01-24 14:35:12.652000 渝北 龙湖佰乐街 1幢 1单元 21-12
+2019-01-24 14:35:12,657 - RealEstate.py[line:152] - INFO: 2019-01-24 14:35:12.657000 渝北 龙湖佰乐街 1幢 1单元 20-1
+2019-01-24 14:35:12,657 - RealEstate.py[line:152] - INFO: 2019-01-24 14:35:12.657000 渝北 龙湖佰乐街 1幢 1单元 20-1
+2019-01-24 14:35:23,016 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 14:35:23,016 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-1
+2019-01-24 14:35:23,176 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:35:23,176 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:35:23,197 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:35:23,197 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:35:23,233 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-1
+2019-01-24 14:35:23,233 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-1
+2019-01-24 14:35:23,234 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 14:35:23,234 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-24 14:36:42,194 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:36:42,194 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:36:42,196 - RealEstate.py[line:152] - INFO: 2019-01-24 14:36:42.196000 渝北 龙湖佰乐街 1幢 1单元 20-2
+2019-01-24 14:36:42,196 - RealEstate.py[line:152] - INFO: 2019-01-24 14:36:42.196000 渝北 龙湖佰乐街 1幢 1单元 20-2
+2019-01-24 14:36:42,198 - RealEstate.py[line:152] - INFO: 2019-01-24 14:36:42.199000 渝北 龙湖佰乐街 1幢 1单元 20-3
+2019-01-24 14:36:42,198 - RealEstate.py[line:152] - INFO: 2019-01-24 14:36:42.199000 渝北 龙湖佰乐街 1幢 1单元 20-3
+2019-01-24 14:36:42,201 - RealEstate.py[line:152] - INFO: 2019-01-24 14:36:42.201000 渝北 龙湖佰乐街 1幢 1单元 20-4
+2019-01-24 14:36:42,201 - RealEstate.py[line:152] - INFO: 2019-01-24 14:36:42.201000 渝北 龙湖佰乐街 1幢 1单元 20-4
+2019-01-24 14:37:07,806 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+1
+2019-01-24 14:37:07,806 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+1
+2019-01-24 14:37:08,210 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+1
+2019-01-24 14:37:08,210 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+1
+2019-01-24 14:37:08,237 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:37:08,237 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:37:08,262 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+7
+2019-01-24 14:37:08,262 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+7
+2019-01-24 14:37:08,263 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+1
+2019-01-24 14:37:08,263 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+1
+2019-01-24 14:37:49,609 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:37:49,609 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:37:49,611 - RealEstate.py[line:152] - INFO: 2019-01-24 14:37:49.611000 渝北 龙湖佰乐街 1幢 1单元 20-5
+2019-01-24 14:37:49,611 - RealEstate.py[line:152] - INFO: 2019-01-24 14:37:49.611000 渝北 龙湖佰乐街 1幢 1单元 20-5
+2019-01-24 14:37:49,614 - RealEstate.py[line:152] - INFO: 2019-01-24 14:37:49.614000 渝北 龙湖佰乐街 1幢 1单元 20-6
+2019-01-24 14:37:49,614 - RealEstate.py[line:152] - INFO: 2019-01-24 14:37:49.614000 渝北 龙湖佰乐街 1幢 1单元 20-6
+2019-01-24 14:37:49,615 - RealEstate.py[line:152] - INFO: 2019-01-24 14:37:49.616000 渝北 龙湖佰乐街 1幢 1单元 20-7
+2019-01-24 14:37:49,615 - RealEstate.py[line:152] - INFO: 2019-01-24 14:37:49.616000 渝北 龙湖佰乐街 1幢 1单元 20-7
+2019-01-24 14:38:14,664 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+6
+2019-01-24 14:38:14,664 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+6
+2019-01-24 14:38:15,056 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2+6
+2019-01-24 14:38:15,056 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2+6
+2019-01-24 14:38:15,082 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:38:15,082 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:38:15,092 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+9
+2019-01-24 14:38:15,092 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+9
+2019-01-24 14:38:15,092 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+6
+2019-01-24 14:38:15,092 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+6
+2019-01-24 14:38:58,894 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 14:38:58,894 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 14:38:58,895 - RealEstate.py[line:152] - INFO: 2019-01-24 14:38:58.896000 渝北 龙湖佰乐街 1幢 1单元 20-8
+2019-01-24 14:38:58,895 - RealEstate.py[line:152] - INFO: 2019-01-24 14:38:58.896000 渝北 龙湖佰乐街 1幢 1单元 20-8
+2019-01-24 14:38:58,898 - RealEstate.py[line:152] - INFO: 2019-01-24 14:38:58.898000 渝北 龙湖佰乐街 1幢 1单元 20-9
+2019-01-24 14:38:58,898 - RealEstate.py[line:152] - INFO: 2019-01-24 14:38:58.898000 渝北 龙湖佰乐街 1幢 1单元 20-9
+2019-01-24 14:39:12,668 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-5
+2019-01-24 14:39:12,668 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-5
+2019-01-24 14:39:13,069 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-5
+2019-01-24 14:39:13,069 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-5
+2019-01-24 14:39:13,091 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:39:13,091 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:39:13,105 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4-1
+2019-01-24 14:39:13,105 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4-1
+2019-01-24 14:39:13,107 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-5
+2019-01-24 14:39:13,107 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-5
+2019-01-24 14:40:07,391 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:40:07,391 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:40:07,392 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.393000 渝北 龙湖佰乐街 1幢 1单元 20-10
+2019-01-24 14:40:07,392 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.393000 渝北 龙湖佰乐街 1幢 1单元 20-10
+2019-01-24 14:40:07,395 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.396000 渝北 龙湖佰乐街 1幢 1单元 20-11
+2019-01-24 14:40:07,395 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.396000 渝北 龙湖佰乐街 1幢 1单元 20-11
+2019-01-24 14:40:07,398 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.398000 渝北 龙湖佰乐街 1幢 1单元 20-12
+2019-01-24 14:40:07,398 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.398000 渝北 龙湖佰乐街 1幢 1单元 20-12
+2019-01-24 14:40:07,404 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.404000 渝北 龙湖佰乐街 1幢 1单元 19-1
+2019-01-24 14:40:07,404 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.404000 渝北 龙湖佰乐街 1幢 1单元 19-1
+2019-01-24 14:40:07,407 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.408000 渝北 龙湖佰乐街 1幢 1单元 19-2
+2019-01-24 14:40:07,407 - RealEstate.py[line:152] - INFO: 2019-01-24 14:40:07.408000 渝北 龙湖佰乐街 1幢 1单元 19-2
+2019-01-24 14:40:13,948 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2-2
+2019-01-24 14:40:13,948 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2-2
+2019-01-24 14:40:14,352 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2-2
+2019-01-24 14:40:14,352 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2-2
+2019-01-24 14:40:14,375 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:40:14,375 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:40:14,394 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-4
+2019-01-24 14:40:14,394 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-4
+2019-01-24 14:40:14,394 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-2
+2019-01-24 14:40:14,394 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-2
+2019-01-24 14:41:20,076 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:41:20,076 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:41:20,078 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.078000 渝北 龙湖佰乐街 1幢 1单元 19-3
+2019-01-24 14:41:20,078 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.078000 渝北 龙湖佰乐街 1幢 1单元 19-3
+2019-01-24 14:41:20,082 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.081000 渝北 龙湖佰乐街 1幢 1单元 19-4
+2019-01-24 14:41:20,082 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.081000 渝北 龙湖佰乐街 1幢 1单元 19-4
+2019-01-24 14:41:20,088 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.088000 渝北 龙湖佰乐街 1幢 1单元 19-5
+2019-01-24 14:41:20,088 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.088000 渝北 龙湖佰乐街 1幢 1单元 19-5
+2019-01-24 14:41:20,092 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.091000 渝北 龙湖佰乐街 1幢 1单元 19-6
+2019-01-24 14:41:20,092 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.091000 渝北 龙湖佰乐街 1幢 1单元 19-6
+2019-01-24 14:41:20,095 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.096000 渝北 龙湖佰乐街 1幢 1单元 19-7
+2019-01-24 14:41:20,095 - RealEstate.py[line:152] - INFO: 2019-01-24 14:41:20.096000 渝北 龙湖佰乐街 1幢 1单元 19-7
+2019-01-24 14:41:25,525 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-4
+2019-01-24 14:41:25,525 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-4
+2019-01-24 14:41:25,700 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:41:25,700 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:41:25,726 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:41:25,726 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:41:25,763 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-2
+2019-01-24 14:41:25,763 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-2
+2019-01-24 14:41:25,765 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-24 14:41:25,765 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-24 14:42:22,461 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 14:42:22,461 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：63.72
+2019-01-24 14:42:22,463 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.463000 渝北 龙湖佰乐街 1幢 1单元 19-8
+2019-01-24 14:42:22,463 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.463000 渝北 龙湖佰乐街 1幢 1单元 19-8
+2019-01-24 14:42:22,466 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.466000 渝北 龙湖佰乐街 1幢 1单元 19-9
+2019-01-24 14:42:22,466 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.466000 渝北 龙湖佰乐街 1幢 1单元 19-9
+2019-01-24 14:42:22,469 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.469000 渝北 龙湖佰乐街 1幢 1单元 19-10
+2019-01-24 14:42:22,469 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.469000 渝北 龙湖佰乐街 1幢 1单元 19-10
+2019-01-24 14:42:22,471 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.472000 渝北 龙湖佰乐街 1幢 1单元 19-11
+2019-01-24 14:42:22,471 - RealEstate.py[line:152] - INFO: 2019-01-24 14:42:22.472000 渝北 龙湖佰乐街 1幢 1单元 19-11
+2019-01-24 14:42:40,354 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:42:40,354 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:42:40,517 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:42:40,517 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:42:40,542 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:42:40,542 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:42:40,543 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1+4
+2019-01-24 14:42:40,543 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1+4
+2019-01-24 14:42:40,543 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+4
+2019-01-24 14:42:40,543 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+4
+2019-01-24 14:43:20,140 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-9
+2019-01-24 14:43:20,140 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-9
+2019-01-24 14:43:20,322 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:43:20,322 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:43:20,345 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:43:20,345 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:43:20,385 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:43:20,385 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 14:43:20,385 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-9
+2019-01-24 14:43:20,385 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-9
+2019-01-24 14:43:46,079 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.5
+2019-01-24 14:43:46,079 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.5
+2019-01-24 14:43:46,079 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.080000 渝北 龙湖佰乐街 1幢 1单元 19-12
+2019-01-24 14:43:46,079 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.080000 渝北 龙湖佰乐街 1幢 1单元 19-12
+2019-01-24 14:43:46,085 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.086000 渝北 龙湖佰乐街 1幢 1单元 18-1
+2019-01-24 14:43:46,085 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.086000 渝北 龙湖佰乐街 1幢 1单元 18-1
+2019-01-24 14:43:46,088 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.088000 渝北 龙湖佰乐街 1幢 1单元 18-2
+2019-01-24 14:43:46,088 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.088000 渝北 龙湖佰乐街 1幢 1单元 18-2
+2019-01-24 14:43:46,091 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.091000 渝北 龙湖佰乐街 1幢 1单元 18-3
+2019-01-24 14:43:46,091 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.091000 渝北 龙湖佰乐街 1幢 1单元 18-3
+2019-01-24 14:43:46,092 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.093000 渝北 龙湖佰乐街 1幢 1单元 18-4
+2019-01-24 14:43:46,092 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.093000 渝北 龙湖佰乐街 1幢 1单元 18-4
+2019-01-24 14:43:46,096 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.097000 渝北 龙湖佰乐街 1幢 1单元 18-5
+2019-01-24 14:43:46,096 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.097000 渝北 龙湖佰乐街 1幢 1单元 18-5
+2019-01-24 14:43:46,099 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.100000 渝北 龙湖佰乐街 1幢 1单元 18-6
+2019-01-24 14:43:46,099 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.100000 渝北 龙湖佰乐街 1幢 1单元 18-6
+2019-01-24 14:43:46,101 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.102000 渝北 龙湖佰乐街 1幢 1单元 18-7
+2019-01-24 14:43:46,101 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.102000 渝北 龙湖佰乐街 1幢 1单元 18-7
+2019-01-24 14:43:46,105 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.105000 渝北 龙湖佰乐街 1幢 1单元 18-8
+2019-01-24 14:43:46,105 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.105000 渝北 龙湖佰乐街 1幢 1单元 18-8
+2019-01-24 14:43:46,107 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.107000 渝北 龙湖佰乐街 1幢 1单元 18-9
+2019-01-24 14:43:46,107 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.107000 渝北 龙湖佰乐街 1幢 1单元 18-9
+2019-01-24 14:43:46,109 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.110000 渝北 龙湖佰乐街 1幢 1单元 18-10
+2019-01-24 14:43:46,109 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.110000 渝北 龙湖佰乐街 1幢 1单元 18-10
+2019-01-24 14:43:46,111 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.112000 渝北 龙湖佰乐街 1幢 1单元 18-11
+2019-01-24 14:43:46,111 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.112000 渝北 龙湖佰乐街 1幢 1单元 18-11
+2019-01-24 14:43:46,115 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.115000 渝北 龙湖佰乐街 1幢 1单元 18-12
+2019-01-24 14:43:46,115 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.115000 渝北 龙湖佰乐街 1幢 1单元 18-12
+2019-01-24 14:43:46,118 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.119000 渝北 龙湖佰乐街 1幢 1单元 17-1
+2019-01-24 14:43:46,118 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.119000 渝北 龙湖佰乐街 1幢 1单元 17-1
+2019-01-24 14:43:46,121 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.122000 渝北 龙湖佰乐街 1幢 1单元 17-2
+2019-01-24 14:43:46,121 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.122000 渝北 龙湖佰乐街 1幢 1单元 17-2
+2019-01-24 14:43:46,124 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.124000 渝北 龙湖佰乐街 1幢 1单元 17-3
+2019-01-24 14:43:46,124 - RealEstate.py[line:152] - INFO: 2019-01-24 14:43:46.124000 渝北 龙湖佰乐街 1幢 1单元 17-3
+2019-01-24 14:43:53,477 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:43:53,477 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 14:43:53,641 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:43:53,641 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:43:53,664 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:43:53,664 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:43:53,680 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-3
+2019-01-24 14:43:53,680 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-3
+2019-01-24 14:43:53,681 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-24 14:43:53,681 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-24 14:44:02,071 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-8
+2019-01-24 14:44:02,071 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-8
+2019-01-24 14:44:02,232 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:44:02,232 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:44:02,252 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:44:02,252 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:44:02,289 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-9
+2019-01-24 14:44:02,289 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-9
+2019-01-24 14:44:02,289 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-8
+2019-01-24 14:44:02,289 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-8
+2019-01-24 14:44:56,009 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:44:56,009 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:44:56,010 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.011000 渝北 龙湖佰乐街 1幢 1单元 17-4
+2019-01-24 14:44:56,010 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.011000 渝北 龙湖佰乐街 1幢 1单元 17-4
+2019-01-24 14:44:56,013 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.014000 渝北 龙湖佰乐街 1幢 1单元 17-5
+2019-01-24 14:44:56,013 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.014000 渝北 龙湖佰乐街 1幢 1单元 17-5
+2019-01-24 14:44:56,015 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.015000 渝北 龙湖佰乐街 1幢 1单元 17-6
+2019-01-24 14:44:56,015 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.015000 渝北 龙湖佰乐街 1幢 1单元 17-6
+2019-01-24 14:44:56,017 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.018000 渝北 龙湖佰乐街 1幢 1单元 17-7
+2019-01-24 14:44:56,017 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.018000 渝北 龙湖佰乐街 1幢 1单元 17-7
+2019-01-24 14:44:56,019 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.020000 渝北 龙湖佰乐街 1幢 1单元 17-8
+2019-01-24 14:44:56,019 - RealEstate.py[line:152] - INFO: 2019-01-24 14:44:56.020000 渝北 龙湖佰乐街 1幢 1单元 17-8
+2019-01-24 14:45:16,533 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+4
+2019-01-24 14:45:16,533 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+4
+2019-01-24 14:45:16,924 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+4
+2019-01-24 14:45:16,924 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+4
+2019-01-24 14:45:16,943 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:45:16,943 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:45:16,947 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+4
+2019-01-24 14:45:16,947 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+4
+2019-01-24 14:45:16,947 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+4
+2019-01-24 14:45:16,947 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+4
+2019-01-24 14:46:16,369 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:46:16,369 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:46:16,371 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.371000 渝北 龙湖佰乐街 1幢 1单元 17-9
+2019-01-24 14:46:16,371 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.371000 渝北 龙湖佰乐街 1幢 1单元 17-9
+2019-01-24 14:46:16,372 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.373000 渝北 龙湖佰乐街 1幢 1单元 17-10
+2019-01-24 14:46:16,372 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.373000 渝北 龙湖佰乐街 1幢 1单元 17-10
+2019-01-24 14:46:16,377 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.376000 渝北 龙湖佰乐街 1幢 1单元 17-11
+2019-01-24 14:46:16,377 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.376000 渝北 龙湖佰乐街 1幢 1单元 17-11
+2019-01-24 14:46:16,378 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.379000 渝北 龙湖佰乐街 1幢 1单元 17-12
+2019-01-24 14:46:16,378 - RealEstate.py[line:152] - INFO: 2019-01-24 14:46:16.379000 渝北 龙湖佰乐街 1幢 1单元 17-12
+2019-01-24 14:46:47,394 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+1
+2019-01-24 14:46:47,394 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+1
+2019-01-24 14:46:47,821 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+1
+2019-01-24 14:46:47,821 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+1
+2019-01-24 14:46:47,848 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:46:47,848 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:46:47,855 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+5
+2019-01-24 14:46:47,855 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+5
+2019-01-24 14:46:47,855 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+1
+2019-01-24 14:46:47,855 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+1
+2019-01-24 14:47:45,450 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:47:45,450 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:47:45,454 - RealEstate.py[line:152] - INFO: 2019-01-24 14:47:45.455000 渝北 龙湖佰乐街 1幢 1单元 16-1
+2019-01-24 14:47:45,454 - RealEstate.py[line:152] - INFO: 2019-01-24 14:47:45.455000 渝北 龙湖佰乐街 1幢 1单元 16-1
+2019-01-24 14:47:45,457 - RealEstate.py[line:152] - INFO: 2019-01-24 14:47:45.458000 渝北 龙湖佰乐街 1幢 1单元 16-2
+2019-01-24 14:47:45,457 - RealEstate.py[line:152] - INFO: 2019-01-24 14:47:45.458000 渝北 龙湖佰乐街 1幢 1单元 16-2
+2019-01-24 14:47:45,460 - RealEstate.py[line:152] - INFO: 2019-01-24 14:47:45.461000 渝北 龙湖佰乐街 1幢 1单元 16-3
+2019-01-24 14:47:45,460 - RealEstate.py[line:152] - INFO: 2019-01-24 14:47:45.461000 渝北 龙湖佰乐街 1幢 1单元 16-3
+2019-01-24 14:48:21,138 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-2
+2019-01-24 14:48:21,138 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-2
+2019-01-24 14:48:21,309 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:48:21,309 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:48:21,332 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:48:21,332 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:48:21,354 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-4
+2019-01-24 14:48:21,354 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-4
+2019-01-24 14:48:21,354 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-2
+2019-01-24 14:48:21,354 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-2
+2019-01-24 14:49:30,684 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:49:30,684 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 14:49:30,686 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.686000 渝北 龙湖佰乐街 1幢 1单元 16-4
+2019-01-24 14:49:30,686 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.686000 渝北 龙湖佰乐街 1幢 1单元 16-4
+2019-01-24 14:49:30,693 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.693000 渝北 龙湖佰乐街 1幢 1单元 16-5
+2019-01-24 14:49:30,693 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.693000 渝北 龙湖佰乐街 1幢 1单元 16-5
+2019-01-24 14:49:30,698 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.699000 渝北 龙湖佰乐街 1幢 1单元 16-6
+2019-01-24 14:49:30,698 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.699000 渝北 龙湖佰乐街 1幢 1单元 16-6
+2019-01-24 14:49:30,706 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.705000 渝北 龙湖佰乐街 1幢 1单元 16-7
+2019-01-24 14:49:30,706 - RealEstate.py[line:152] - INFO: 2019-01-24 14:49:30.705000 渝北 龙湖佰乐街 1幢 1单元 16-7
+2019-01-24 14:49:56,335 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+7
+2019-01-24 14:49:56,335 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2+7
+2019-01-24 14:49:56,719 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2+7
+2019-01-24 14:49:56,719 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2+7
+2019-01-24 14:49:56,739 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:49:56,739 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:49:56,743 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1+8
+2019-01-24 14:49:56,743 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1+8
+2019-01-24 14:49:56,743 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+7
+2019-01-24 14:49:56,743 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+7
+2019-01-24 14:51:08,072 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 14:51:08,072 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 14:51:08,072 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.073000 渝北 龙湖佰乐街 1幢 1单元 16-8
+2019-01-24 14:51:08,072 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.073000 渝北 龙湖佰乐街 1幢 1单元 16-8
+2019-01-24 14:51:08,078 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.078000 渝北 龙湖佰乐街 1幢 1单元 16-9
+2019-01-24 14:51:08,078 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.078000 渝北 龙湖佰乐街 1幢 1单元 16-9
+2019-01-24 14:51:08,081 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.081000 渝北 龙湖佰乐街 1幢 1单元 16-10
+2019-01-24 14:51:08,081 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.081000 渝北 龙湖佰乐街 1幢 1单元 16-10
+2019-01-24 14:51:08,085 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.085000 渝北 龙湖佰乐街 1幢 1单元 16-11
+2019-01-24 14:51:08,085 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.085000 渝北 龙湖佰乐街 1幢 1单元 16-11
+2019-01-24 14:51:08,088 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.089000 渝北 龙湖佰乐街 1幢 1单元 16-12
+2019-01-24 14:51:08,088 - RealEstate.py[line:152] - INFO: 2019-01-24 14:51:08.089000 渝北 龙湖佰乐街 1幢 1单元 16-12
+2019-01-24 14:51:21,901 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+7
+2019-01-24 14:51:21,901 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+7
+2019-01-24 14:51:22,275 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+7
+2019-01-24 14:51:22,275 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+7
+2019-01-24 14:51:22,295 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:51:22,295 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:51:22,334 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+7
+2019-01-24 14:51:22,334 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+7
+2019-01-24 14:51:22,335 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+7
+2019-01-24 14:51:22,335 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+7
+2019-01-24 14:52:10,888 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:52:10,888 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:52:10,894 - RealEstate.py[line:152] - INFO: 2019-01-24 14:52:10.894000 渝北 龙湖佰乐街 1幢 1单元 15-1
+2019-01-24 14:52:10,894 - RealEstate.py[line:152] - INFO: 2019-01-24 14:52:10.894000 渝北 龙湖佰乐街 1幢 1单元 15-1
+2019-01-24 14:52:38,776 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-4
+2019-01-24 14:52:38,776 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-4
+2019-01-24 14:52:39,147 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-4
+2019-01-24 14:52:39,147 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-4
+2019-01-24 14:52:39,167 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:52:39,167 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:52:39,186 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-2
+2019-01-24 14:52:39,186 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-2
+2019-01-24 14:52:39,187 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-4
+2019-01-24 14:52:39,187 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-4
+2019-01-24 14:53:18,039 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:53:18,039 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.8
+2019-01-24 14:53:18,039 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.040000 渝北 龙湖佰乐街 1幢 1单元 15-2
+2019-01-24 14:53:18,039 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.040000 渝北 龙湖佰乐街 1幢 1单元 15-2
+2019-01-24 14:53:18,043 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.044000 渝北 龙湖佰乐街 1幢 1单元 15-3
+2019-01-24 14:53:18,043 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.044000 渝北 龙湖佰乐街 1幢 1单元 15-3
+2019-01-24 14:53:18,046 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.047000 渝北 龙湖佰乐街 1幢 1单元 15-4
+2019-01-24 14:53:18,046 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.047000 渝北 龙湖佰乐街 1幢 1单元 15-4
+2019-01-24 14:53:18,052 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.051000 渝北 龙湖佰乐街 1幢 1单元 15-5
+2019-01-24 14:53:18,052 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.051000 渝北 龙湖佰乐街 1幢 1单元 15-5
+2019-01-24 14:53:18,055 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.055000 渝北 龙湖佰乐街 1幢 1单元 15-6
+2019-01-24 14:53:18,055 - RealEstate.py[line:152] - INFO: 2019-01-24 14:53:18.055000 渝北 龙湖佰乐街 1幢 1单元 15-6
+2019-01-24 14:53:30,755 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-3
+2019-01-24 14:53:30,755 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-3
+2019-01-24 14:53:30,926 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:53:30,926 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:53:30,943 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:53:30,943 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:53:30,964 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-3
+2019-01-24 14:53:30,964 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-3
+2019-01-24 14:53:30,964 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-3
+2019-01-24 14:53:30,964 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-3
+2019-01-24 14:54:22,348 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 14:54:22,348 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 14:54:22,348 - RealEstate.py[line:152] - INFO: 2019-01-24 14:54:22.349000 渝北 龙湖佰乐街 1幢 1单元 15-7
+2019-01-24 14:54:22,348 - RealEstate.py[line:152] - INFO: 2019-01-24 14:54:22.349000 渝北 龙湖佰乐街 1幢 1单元 15-7
+2019-01-24 14:54:36,384 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8+4
+2019-01-24 14:54:36,384 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8+4
+2019-01-24 14:54:36,551 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:54:36,551 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:54:36,575 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:54:36,575 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:54:36,582 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-24 14:54:36,582 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-24 14:54:36,582 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+4
+2019-01-24 14:54:36,582 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+4
+2019-01-24 14:55:41,694 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 14:55:41,694 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 14:55:41,694 - RealEstate.py[line:152] - INFO: 2019-01-24 14:55:41.695000 渝北 龙湖佰乐街 1幢 1单元 15-8
+2019-01-24 14:55:41,694 - RealEstate.py[line:152] - INFO: 2019-01-24 14:55:41.695000 渝北 龙湖佰乐街 1幢 1单元 15-8
+2019-01-24 14:55:41,700 - RealEstate.py[line:152] - INFO: 2019-01-24 14:55:41.699000 渝北 龙湖佰乐街 1幢 1单元 15-9
+2019-01-24 14:55:41,700 - RealEstate.py[line:152] - INFO: 2019-01-24 14:55:41.699000 渝北 龙湖佰乐街 1幢 1单元 15-9
+2019-01-24 14:55:41,703 - RealEstate.py[line:152] - INFO: 2019-01-24 14:55:41.704000 渝北 龙湖佰乐街 1幢 1单元 15-10
+2019-01-24 14:55:41,703 - RealEstate.py[line:152] - INFO: 2019-01-24 14:55:41.704000 渝北 龙湖佰乐街 1幢 1单元 15-10
+2019-01-24 14:55:50,140 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-1
+2019-01-24 14:55:50,140 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-1
+2019-01-24 14:55:50,545 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-1
+2019-01-24 14:55:50,545 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-1
+2019-01-24 14:55:50,565 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:55:50,565 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:55:50,572 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2-1
+2019-01-24 14:55:50,572 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2-1
+2019-01-24 14:55:50,572 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
+2019-01-24 14:55:50,572 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
+2019-01-24 14:56:41,848 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:56:41,848 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 14:56:41,849 - RealEstate.py[line:152] - INFO: 2019-01-24 14:56:41.849000 渝北 龙湖佰乐街 1幢 1单元 15-11
+2019-01-24 14:56:41,849 - RealEstate.py[line:152] - INFO: 2019-01-24 14:56:41.849000 渝北 龙湖佰乐街 1幢 1单元 15-11
+2019-01-24 14:57:07,707 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-3
+2019-01-24 14:57:07,707 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-3
+2019-01-24 14:57:08,107 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-3
+2019-01-24 14:57:08,107 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-3
+2019-01-24 14:57:08,125 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:57:08,125 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:57:08,134 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3-2
+2019-01-24 14:57:08,134 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3-2
+2019-01-24 14:57:08,134 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-24 14:57:08,134 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-24 14:57:50,216 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.5
+2019-01-24 14:57:50,216 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：74.5
+2019-01-24 14:57:50,217 - RealEstate.py[line:152] - INFO: 2019-01-24 14:57:50.217000 渝北 龙湖佰乐街 1幢 1单元 15-12
+2019-01-24 14:57:50,217 - RealEstate.py[line:152] - INFO: 2019-01-24 14:57:50.217000 渝北 龙湖佰乐街 1幢 1单元 15-12
+2019-01-24 14:58:05,700 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-3
+2019-01-24 14:58:05,700 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-3
+2019-01-24 14:58:05,871 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:58:05,871 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 14:58:05,887 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:58:05,887 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:58:05,924 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-2
+2019-01-24 14:58:05,924 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-2
+2019-01-24 14:58:05,924 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-3
+2019-01-24 14:58:05,924 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-3
+2019-01-24 14:58:53,158 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:58:53,158 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 14:58:53,161 - RealEstate.py[line:152] - INFO: 2019-01-24 14:58:53.162000 渝北 龙湖佰乐街 1幢 1单元 14-1
+2019-01-24 14:58:53,161 - RealEstate.py[line:152] - INFO: 2019-01-24 14:58:53.162000 渝北 龙湖佰乐街 1幢 1单元 14-1
+2019-01-24 14:58:53,164 - RealEstate.py[line:152] - INFO: 2019-01-24 14:58:53.165000 渝北 龙湖佰乐街 1幢 1单元 14-2
+2019-01-24 14:58:53,164 - RealEstate.py[line:152] - INFO: 2019-01-24 14:58:53.165000 渝北 龙湖佰乐街 1幢 1单元 14-2
+2019-01-24 14:58:53,167 - RealEstate.py[line:152] - INFO: 2019-01-24 14:58:53.167000 渝北 龙湖佰乐街 1幢 1单元 14-3
+2019-01-24 14:58:53,167 - RealEstate.py[line:152] - INFO: 2019-01-24 14:58:53.167000 渝北 龙湖佰乐街 1幢 1单元 14-3
+2019-01-24 14:59:18,272 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-3
+2019-01-24 14:59:18,272 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7-3
+2019-01-24 14:59:18,690 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-3
+2019-01-24 14:59:18,690 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7-3
+2019-01-24 14:59:18,707 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:59:18,707 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 14:59:18,714 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2-1
+2019-01-24 14:59:18,714 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2-1
+2019-01-24 14:59:18,714 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-24 14:59:18,714 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-24 15:00:27,214 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:00:27,214 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:00:27,216 - RealEstate.py[line:152] - INFO: 2019-01-24 15:00:27.216000 渝北 龙湖佰乐街 1幢 1单元 14-4
+2019-01-24 15:00:27,216 - RealEstate.py[line:152] - INFO: 2019-01-24 15:00:27.216000 渝北 龙湖佰乐街 1幢 1单元 14-4
+2019-01-24 15:00:27,220 - RealEstate.py[line:152] - INFO: 2019-01-24 15:00:27.220000 渝北 龙湖佰乐街 1幢 1单元 14-5
+2019-01-24 15:00:27,220 - RealEstate.py[line:152] - INFO: 2019-01-24 15:00:27.220000 渝北 龙湖佰乐街 1幢 1单元 14-5
+2019-01-24 15:00:27,223 - RealEstate.py[line:152] - INFO: 2019-01-24 15:00:27.223000 渝北 龙湖佰乐街 1幢 1单元 14-6
+2019-01-24 15:00:27,223 - RealEstate.py[line:152] - INFO: 2019-01-24 15:00:27.223000 渝北 龙湖佰乐街 1幢 1单元 14-6
+2019-01-24 15:00:48,240 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-4
+2019-01-24 15:00:48,240 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-4
+2019-01-24 15:00:48,618 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-4
+2019-01-24 15:00:48,618 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-4
+2019-01-24 15:00:48,638 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:00:48,638 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:00:48,654 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4-4
+2019-01-24 15:00:48,654 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4-4
+2019-01-24 15:00:48,654 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-4
+2019-01-24 15:00:48,654 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-4
+2019-01-24 15:01:29,862 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 15:01:29,862 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 15:01:29,864 - RealEstate.py[line:152] - INFO: 2019-01-24 15:01:29.864000 渝北 龙湖佰乐街 1幢 1单元 14-7
+2019-01-24 15:01:29,864 - RealEstate.py[line:152] - INFO: 2019-01-24 15:01:29.864000 渝北 龙湖佰乐街 1幢 1单元 14-7
+2019-01-24 15:01:29,867 - RealEstate.py[line:152] - INFO: 2019-01-24 15:01:29.867000 渝北 龙湖佰乐街 1幢 1单元 14-8
+2019-01-24 15:01:29,867 - RealEstate.py[line:152] - INFO: 2019-01-24 15:01:29.867000 渝北 龙湖佰乐街 1幢 1单元 14-8
+2019-01-24 15:01:29,869 - RealEstate.py[line:152] - INFO: 2019-01-24 15:01:29.870000 渝北 龙湖佰乐街 1幢 1单元 14-9
+2019-01-24 15:01:29,869 - RealEstate.py[line:152] - INFO: 2019-01-24 15:01:29.870000 渝北 龙湖佰乐街 1幢 1单元 14-9
+2019-01-24 15:01:34,617 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+5
+2019-01-24 15:01:34,617 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+5
+2019-01-24 15:01:35,033 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7+5
+2019-01-24 15:01:35,033 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7+5
+2019-01-24 15:01:35,055 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:01:35,055 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:01:35,065 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+1
+2019-01-24 15:01:35,065 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+1
+2019-01-24 15:01:35,065 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+5
+2019-01-24 15:01:35,065 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+5
+2019-01-24 15:02:48,812 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:02:48,812 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:02:48,813 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.814000 渝北 龙湖佰乐街 1幢 1单元 14-10
+2019-01-24 15:02:48,813 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.814000 渝北 龙湖佰乐街 1幢 1单元 14-10
+2019-01-24 15:02:48,816 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.817000 渝北 龙湖佰乐街 1幢 1单元 14-11
+2019-01-24 15:02:48,816 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.817000 渝北 龙湖佰乐街 1幢 1单元 14-11
+2019-01-24 15:02:48,819 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.819000 渝北 龙湖佰乐街 1幢 1单元 14-12
+2019-01-24 15:02:48,819 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.819000 渝北 龙湖佰乐街 1幢 1单元 14-12
+2019-01-24 15:02:48,823 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.824000 渝北 龙湖佰乐街 1幢 1单元 13-1
+2019-01-24 15:02:48,823 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.824000 渝北 龙湖佰乐街 1幢 1单元 13-1
+2019-01-24 15:02:48,825 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.826000 渝北 龙湖佰乐街 1幢 1单元 13-2
+2019-01-24 15:02:48,825 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.826000 渝北 龙湖佰乐街 1幢 1单元 13-2
+2019-01-24 15:02:48,828 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.829000 渝北 龙湖佰乐街 1幢 1单元 13-3
+2019-01-24 15:02:48,828 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.829000 渝北 龙湖佰乐街 1幢 1单元 13-3
+2019-01-24 15:02:48,831 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.831000 渝北 龙湖佰乐街 1幢 1单元 13-4
+2019-01-24 15:02:48,831 - RealEstate.py[line:152] - INFO: 2019-01-24 15:02:48.831000 渝北 龙湖佰乐街 1幢 1单元 13-4
+2019-01-24 15:03:10,658 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-2
+2019-01-24 15:03:10,658 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-2
+2019-01-24 15:03:10,826 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:03:10,826 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:03:10,846 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:03:10,846 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:03:10,884 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:03:10,884 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:03:10,884 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
+2019-01-24 15:03:10,884 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
+2019-01-24 15:03:43,637 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:03:43,637 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:03:43,637 - RealEstate.py[line:152] - INFO: 2019-01-24 15:03:43.637000 渝北 龙湖佰乐街 1幢 1单元 13-5
+2019-01-24 15:03:43,637 - RealEstate.py[line:152] - INFO: 2019-01-24 15:03:43.637000 渝北 龙湖佰乐街 1幢 1单元 13-5
+2019-01-24 15:03:43,640 - RealEstate.py[line:152] - INFO: 2019-01-24 15:03:43.640000 渝北 龙湖佰乐街 1幢 1单元 13-6
+2019-01-24 15:03:43,640 - RealEstate.py[line:152] - INFO: 2019-01-24 15:03:43.640000 渝北 龙湖佰乐街 1幢 1单元 13-6
+2019-01-24 15:03:43,644 - RealEstate.py[line:152] - INFO: 2019-01-24 15:03:43.644000 渝北 龙湖佰乐街 1幢 1单元 13-7
+2019-01-24 15:03:43,644 - RealEstate.py[line:152] - INFO: 2019-01-24 15:03:43.644000 渝北 龙湖佰乐街 1幢 1单元 13-7
+2019-01-24 15:03:48,789 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+3
+2019-01-24 15:03:48,789 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+3
+2019-01-24 15:03:49,221 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:03:49,221 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:03:49,237 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:03:49,237 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:03:49,246 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+5
+2019-01-24 15:03:49,246 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3+5
+2019-01-24 15:03:49,246 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+3
+2019-01-24 15:03:49,246 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+3
+2019-01-24 15:04:29,581 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 15:04:29,581 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 15:04:29,582 - RealEstate.py[line:152] - INFO: 2019-01-24 15:04:29.582000 渝北 龙湖佰乐街 1幢 1单元 13-8
+2019-01-24 15:04:29,582 - RealEstate.py[line:152] - INFO: 2019-01-24 15:04:29.582000 渝北 龙湖佰乐街 1幢 1单元 13-8
+2019-01-24 15:04:29,585 - RealEstate.py[line:152] - INFO: 2019-01-24 15:04:29.585000 渝北 龙湖佰乐街 1幢 1单元 13-9
+2019-01-24 15:04:29,585 - RealEstate.py[line:152] - INFO: 2019-01-24 15:04:29.585000 渝北 龙湖佰乐街 1幢 1单元 13-9
+2019-01-24 15:04:29,585 - RealEstate.py[line:152] - INFO: 2019-01-24 15:04:29.586000 渝北 龙湖佰乐街 1幢 1单元 13-10
+2019-01-24 15:04:29,585 - RealEstate.py[line:152] - INFO: 2019-01-24 15:04:29.586000 渝北 龙湖佰乐街 1幢 1单元 13-10
+2019-01-24 15:04:47,608 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 15:04:47,608 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 15:04:47,769 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:04:47,769 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:04:47,795 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:04:47,795 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:04:47,822 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+8
+2019-01-24 15:04:47,822 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+8
+2019-01-24 15:04:47,822 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+8
+2019-01-24 15:04:47,822 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+8
+2019-01-24 15:05:06,559 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4-3
+2019-01-24 15:05:06,559 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4-3
+2019-01-24 15:05:07,128 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4-3
+2019-01-24 15:05:07,128 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4-3
+2019-01-24 15:05:07,151 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:05:07,151 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:05:07,190 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-1
+2019-01-24 15:05:07,190 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9-1
+2019-01-24 15:05:07,191 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-3
+2019-01-24 15:05:07,191 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-3
+2019-01-24 15:05:42,457 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:05:42,457 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:05:42,460 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.460000 渝北 龙湖佰乐街 1幢 1单元 13-11
+2019-01-24 15:05:42,460 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.460000 渝北 龙湖佰乐街 1幢 1单元 13-11
+2019-01-24 15:05:42,470 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.470000 渝北 龙湖佰乐街 1幢 1单元 13-12
+2019-01-24 15:05:42,470 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.470000 渝北 龙湖佰乐街 1幢 1单元 13-12
+2019-01-24 15:05:42,482 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.482000 渝北 龙湖佰乐街 1幢 1单元 12-1
+2019-01-24 15:05:42,482 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.482000 渝北 龙湖佰乐街 1幢 1单元 12-1
+2019-01-24 15:05:42,487 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.488000 渝北 龙湖佰乐街 1幢 1单元 12-2
+2019-01-24 15:05:42,487 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.488000 渝北 龙湖佰乐街 1幢 1单元 12-2
+2019-01-24 15:05:42,493 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.494000 渝北 龙湖佰乐街 1幢 1单元 12-3
+2019-01-24 15:05:42,493 - RealEstate.py[line:152] - INFO: 2019-01-24 15:05:42.494000 渝北 龙湖佰乐街 1幢 1单元 12-3
+2019-01-24 15:05:52,226 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-5
+2019-01-24 15:05:52,226 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-5
+2019-01-24 15:05:52,401 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:05:52,401 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:05:52,424 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:05:52,424 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:05:52,450 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-5
+2019-01-24 15:05:52,450 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6-5
+2019-01-24 15:05:52,450 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-24 15:05:52,450 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-24 15:06:16,622 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:06:16,622 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:06:16,622 - RealEstate.py[line:152] - INFO: 2019-01-24 15:06:16.623000 渝北 龙湖佰乐街 1幢 1单元 12-4
+2019-01-24 15:06:16,622 - RealEstate.py[line:152] - INFO: 2019-01-24 15:06:16.623000 渝北 龙湖佰乐街 1幢 1单元 12-4
+2019-01-24 15:06:16,628 - RealEstate.py[line:152] - INFO: 2019-01-24 15:06:16.628000 渝北 龙湖佰乐街 1幢 1单元 12-5
+2019-01-24 15:06:16,628 - RealEstate.py[line:152] - INFO: 2019-01-24 15:06:16.628000 渝北 龙湖佰乐街 1幢 1单元 12-5
+2019-01-24 15:06:16,631 - RealEstate.py[line:152] - INFO: 2019-01-24 15:06:16.631000 渝北 龙湖佰乐街 1幢 1单元 12-6
+2019-01-24 15:06:16,631 - RealEstate.py[line:152] - INFO: 2019-01-24 15:06:16.631000 渝北 龙湖佰乐街 1幢 1单元 12-6
+2019-01-24 15:06:20,904 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2-2
+2019-01-24 15:06:20,904 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：2-2
+2019-01-24 15:06:21,348 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2-2
+2019-01-24 15:06:21,348 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：2-2
+2019-01-24 15:06:21,368 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:06:21,368 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:06:21,401 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-3
+2019-01-24 15:06:21,401 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-3
+2019-01-24 15:06:21,401 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-2
+2019-01-24 15:06:21,401 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-2
+2019-01-24 15:07:09,095 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 15:07:09,095 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 15:07:09,095 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:09.096000 渝北 龙湖佰乐街 1幢 1单元 12-7
+2019-01-24 15:07:09,095 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:09.096000 渝北 龙湖佰乐街 1幢 1单元 12-7
+2019-01-24 15:07:15,049 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+7
+2019-01-24 15:07:15,049 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+7
+2019-01-24 15:07:15,427 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+7
+2019-01-24 15:07:15,427 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+7
+2019-01-24 15:07:15,447 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:07:15,447 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:07:15,461 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5+1
+2019-01-24 15:07:15,461 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5+1
+2019-01-24 15:07:15,463 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+7
+2019-01-24 15:07:15,463 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+7
+2019-01-24 15:07:53,719 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 15:07:53,719 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 15:07:53,720 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:53.720000 渝北 龙湖佰乐街 1幢 1单元 12-8
+2019-01-24 15:07:53,720 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:53.720000 渝北 龙湖佰乐街 1幢 1单元 12-8
+2019-01-24 15:07:53,723 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:53.724000 渝北 龙湖佰乐街 1幢 1单元 12-9
+2019-01-24 15:07:53,723 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:53.724000 渝北 龙湖佰乐街 1幢 1单元 12-9
+2019-01-24 15:07:53,724 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:53.725000 渝北 龙湖佰乐街 1幢 1单元 12-10
+2019-01-24 15:07:53,724 - RealEstate.py[line:152] - INFO: 2019-01-24 15:07:53.725000 渝北 龙湖佰乐街 1幢 1单元 12-10
+2019-01-24 15:07:58,206 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+1
+2019-01-24 15:07:58,206 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+1
+2019-01-24 15:07:58,618 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9+1
+2019-01-24 15:07:58,618 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9+1
+2019-01-24 15:07:58,640 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:07:58,640 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:07:58,676 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+7
+2019-01-24 15:07:58,676 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+7
+2019-01-24 15:07:58,676 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+1
+2019-01-24 15:07:58,676 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+1
+2019-01-24 15:08:13,894 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:08:13,894 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:08:13,894 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.895000 渝北 龙湖佰乐街 1幢 1单元 12-11
+2019-01-24 15:08:13,894 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.895000 渝北 龙湖佰乐街 1幢 1单元 12-11
+2019-01-24 15:08:13,897 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.897000 渝北 龙湖佰乐街 1幢 1单元 12-12
+2019-01-24 15:08:13,897 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.897000 渝北 龙湖佰乐街 1幢 1单元 12-12
+2019-01-24 15:08:13,901 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.902000 渝北 龙湖佰乐街 1幢 1单元 11-1
+2019-01-24 15:08:13,901 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.902000 渝北 龙湖佰乐街 1幢 1单元 11-1
+2019-01-24 15:08:13,904 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.904000 渝北 龙湖佰乐街 1幢 1单元 11-2
+2019-01-24 15:08:13,904 - RealEstate.py[line:152] - INFO: 2019-01-24 15:08:13.904000 渝北 龙湖佰乐街 1幢 1单元 11-2
+2019-01-24 15:08:24,032 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 15:08:24,032 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-24 15:08:24,190 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:08:24,190 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:08:24,220 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:08:24,220 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:08:24,243 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+2
+2019-01-24 15:08:24,243 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7+2
+2019-01-24 15:08:24,243 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+2
+2019-01-24 15:08:24,243 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+2
+2019-01-24 15:08:48,512 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-7
+2019-01-24 15:08:48,512 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9-7
+2019-01-24 15:08:48,676 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:08:48,676 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-24 15:08:48,697 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:08:48,697 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:08:48,739 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:08:48,739 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:08:48,739 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-7
+2019-01-24 15:08:48,739 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-7
+2019-01-24 15:09:05,812 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+7
+2019-01-24 15:09:05,812 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+7
+2019-01-24 15:09:06,200 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+7
+2019-01-24 15:09:06,200 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+7
+2019-01-24 15:09:06,220 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:09:06,220 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:09:06,240 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+1
+2019-01-24 15:09:06,240 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+1
+2019-01-24 15:09:06,240 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+7
+2019-01-24 15:09:06,240 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+7
+2019-01-24 15:09:30,762 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:09:30,762 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:09:30,766 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:09:30,766 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:09:30,779 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:09:30,779 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:09:30,835 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:30,835 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:31,259 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:31,259 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:31,263 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:31,263 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:31,269 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:31,269 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,273 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:09:42,273 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:09:42,279 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:09:42,279 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:09:42,292 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:09:42,292 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:09:42,338 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,338 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,763 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,763 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,769 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,769 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,775 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,775 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:09:42,790 - engine.py[line:256] - INFO: Spider opened
+2019-01-24 15:09:42,790 - engine.py[line:256] - INFO: Spider opened
+2019-01-24 15:09:42,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-24 15:09:42,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-24 15:09:42,802 - middlewares.py[line:106] - INFO: Spider opened: building
+2019-01-24 15:09:42,802 - middlewares.py[line:106] - INFO: Spider opened: building
+2019-01-24 15:09:43,819 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:09:43,819 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.18
+2019-01-24 15:09:43,821 - RealEstate.py[line:152] - INFO: 2019-01-24 15:09:43.821000 渝北 龙湖佰乐街 1幢 1单元 11-3
+2019-01-24 15:09:43,821 - RealEstate.py[line:152] - INFO: 2019-01-24 15:09:43.821000 渝北 龙湖佰乐街 1幢 1单元 11-3
+2019-01-24 15:09:50,895 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-3
+2019-01-24 15:09:50,895 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-3
+2019-01-24 15:09:51,312 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-3
+2019-01-24 15:09:51,312 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-3
+2019-01-24 15:09:51,328 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:09:51,328 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:09:51,348 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-3
+2019-01-24 15:09:51,348 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：5-3
+2019-01-24 15:09:51,348 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-24 15:09:51,348 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-24 15:10:20,180 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:10:20,180 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：56.3
+2019-01-24 15:10:20,180 - RealEstate.py[line:152] - INFO: 2019-01-24 15:10:20.181000 渝北 龙湖佰乐街 1幢 1单元 11-4
+2019-01-24 15:10:20,180 - RealEstate.py[line:152] - INFO: 2019-01-24 15:10:20.181000 渝北 龙湖佰乐街 1幢 1单元 11-4
+2019-01-24 15:10:20,184 - RealEstate.py[line:152] - INFO: 2019-01-24 15:10:20.184000 渝北 龙湖佰乐街 1幢 1单元 11-5
+2019-01-24 15:10:20,184 - RealEstate.py[line:152] - INFO: 2019-01-24 15:10:20.184000 渝北 龙湖佰乐街 1幢 1单元 11-5
+2019-01-24 15:10:20,187 - RealEstate.py[line:152] - INFO: 2019-01-24 15:10:20.187000 渝北 龙湖佰乐街 1幢 1单元 11-6
+2019-01-24 15:10:20,187 - RealEstate.py[line:152] - INFO: 2019-01-24 15:10:20.187000 渝北 龙湖佰乐街 1幢 1单元 11-6
+2019-01-24 15:10:35,091 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+3
+2019-01-24 15:10:35,091 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+3
+2019-01-24 15:10:35,486 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7+3
+2019-01-24 15:10:35,486 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：7+3
+2019-01-24 15:10:35,502 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:10:35,502 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:10:35,539 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:10:35,539 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:10:35,539 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+3
+2019-01-24 15:10:35,539 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+3
+2019-01-24 15:10:37,615 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-24 15:10:37,615 - CommonUtils.py[line:107] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-24 15:11:51,598 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 15:11:51,598 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：48.01
+2019-01-24 15:11:51,601 - RealEstate.py[line:152] - INFO: 2019-01-24 15:11:51.601000 渝北 龙湖佰乐街 1幢 1单元 11-7
+2019-01-24 15:11:51,601 - RealEstate.py[line:152] - INFO: 2019-01-24 15:11:51.601000 渝北 龙湖佰乐街 1幢 1单元 11-7
+2019-01-24 15:11:55,934 - unified.py[line:77] - WARNING: %s
+2019-01-24 15:11:55,934 - unified.py[line:77] - WARNING: %s
+2019-01-24 15:11:56,785 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-2
+2019-01-24 15:11:56,785 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3-2
+2019-01-24 15:11:57,174 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-2
+2019-01-24 15:11:57,174 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3-2
+2019-01-24 15:11:57,196 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:11:57,196 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:11:57,236 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:11:57,236 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-24 15:11:57,237 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-24 15:11:57,237 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-24 15:13:00,763 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:13:00,763 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:13:00,769 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:13:00,769 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:13:00,782 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:13:00,782 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:13:00,834 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:00,834 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,252 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,252 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,257 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,257 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,262 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,262 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:01,282 - engine.py[line:256] - INFO: Spider opened
+2019-01-24 15:13:01,282 - engine.py[line:256] - INFO: Spider opened
+2019-01-24 15:13:01,292 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-24 15:13:01,292 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-24 15:13:01,292 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-01-24 15:13:01,292 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-01-24 15:13:01,779 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 15:13:01,779 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：71.94
+2019-01-24 15:13:01,780 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.781000 渝北 龙湖佰乐街 1幢 1单元 11-8
+2019-01-24 15:13:01,780 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.781000 渝北 龙湖佰乐街 1幢 1单元 11-8
+2019-01-24 15:13:01,785 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.785000 渝北 龙湖佰乐街 1幢 1单元 11-9
+2019-01-24 15:13:01,785 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.785000 渝北 龙湖佰乐街 1幢 1单元 11-9
+2019-01-24 15:13:01,788 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.788000 渝北 龙湖佰乐街 1幢 1单元 11-10
+2019-01-24 15:13:01,788 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.788000 渝北 龙湖佰乐街 1幢 1单元 11-10
+2019-01-24 15:13:01,792 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.791000 渝北 龙湖佰乐街 1幢 1单元 11-11
+2019-01-24 15:13:01,792 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.791000 渝北 龙湖佰乐街 1幢 1单元 11-11
+2019-01-24 15:13:01,793 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.794000 渝北 龙湖佰乐街 1幢 1单元 11-12
+2019-01-24 15:13:01,793 - RealEstate.py[line:152] - INFO: 2019-01-24 15:13:01.794000 渝北 龙湖佰乐街 1幢 1单元 11-12
+2019-01-24 15:13:17,756 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-7
+2019-01-24 15:13:17,756 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5-7
+2019-01-24 15:13:18,163 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-1
+2019-01-24 15:13:18,163 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5-1
+2019-01-24 15:13:18,187 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:13:18,187 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:13:18,210 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+8
+2019-01-24 15:13:18,210 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+8
+2019-01-24 15:13:18,210 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-1
+2019-01-24 15:13:18,210 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-1
+2019-01-24 15:13:30,819 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:13:30,819 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-24 15:13:30,825 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:13:30,825 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-24 15:13:30,838 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:13:30,838 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-24 15:13:30,884 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:30,884 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,302 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,302 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,309 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,309 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,313 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,313 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-24 15:13:31,332 - engine.py[line:256] - INFO: Spider opened
+2019-01-24 15:13:31,332 - engine.py[line:256] - INFO: Spider opened
+2019-01-24 15:13:31,342 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-24 15:13:31,342 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-24 15:13:31,345 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-01-24 15:13:31,345 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-01-24 15:14:22,234 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 15:14:22,234 - RealEstate.py[line:203] - INFO: 套内单价：11800， 套内面积：47.31
+2019-01-24 15:14:22,239 - RealEstate.py[line:152] - INFO: 2019-01-24 15:14:22.239000 渝北 龙湖佰乐街 1幢 1单元 10-1
+2019-01-24 15:14:22,239 - RealEstate.py[line:152] - INFO: 2019-01-24 15:14:22.239000 渝北 龙湖佰乐街 1幢 1单元 10-1
+2019-01-24 15:14:30,631 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+2
+2019-01-24 15:14:30,631 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：3+2
+2019-01-24 15:14:31,035 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+9
+2019-01-24 15:14:31,035 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：3+9
+2019-01-24 15:14:31,056 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:14:31,056 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-24 15:14:31,088 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8+7
+2019-01-24 15:14:31,088 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8+7
+2019-01-24 15:14:31,088 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+9
+2019-01-24 15:14:31,088 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+9

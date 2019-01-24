@@ -5,7 +5,7 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-from scrapy import signals
+from scrapy import signals, Request
 
 
 class ScrapySpiderSpiderMiddleware(object):
@@ -87,6 +87,12 @@ class ScrapySpiderDownloaderMiddleware(object):
         # - return a Response object
         # - return a Request object
         # - or raise IgnoreRequest
+        if "robots" in request.url:
+            return response
+        handle_httpstatus_list = [404, 408, 503]
+        if response.status in handle_httpstatus_list:
+            spider.get_proxy_ip()
+            return Request(request.url, meta={"proxy": "http://" + spider.proxy_ip})
         return response
 
     def process_exception(self, request, exception, spider):

@@ -94,10 +94,9 @@ class BuildingSpider(scrapy.Spider):
     db_building = None
     base_build_sql = """select * from building where pre_sale_number is NULL order by id limit %s,1"""
     base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s"
-    handle_httpstatus_list = [404, 408, 503]
 
     def start_requests(self):
-        self.get_proxy_ip()
+        # self.get_proxy_ip()
         sql = self.base_build_sql % self.build_index
         self.db_building = pool.find_one(sql)
         url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))
@@ -162,12 +161,3 @@ class BuildingSpider(scrapy.Spider):
             self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
             if self.proxy_ip:
                 break
-
-    def after_404(self):
-        self.get_proxy_ip()
-
-    def after_408(self):
-        self.get_proxy_ip()
-
-    def after_503(self):
-        self.get_proxy_ip()
