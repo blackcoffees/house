@@ -26,7 +26,7 @@ class WebDriverManager(object):
         if count <= 0:
             result["message"] = "数量不能小于等于0"
         for index in range(count):
-            self.create_web_driver()
+            self.create_web_driver(is_proxy=True)
 
     def get_web_driver(self, is_proxy=False):
         for web_driver in self.__list_web_driver__:
