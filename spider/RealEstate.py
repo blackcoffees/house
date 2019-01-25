@@ -206,8 +206,9 @@ class RealEstateSpider(BaseSpider):
                                         logger.info("套内单价：%s， 套内面积：%s" % (house.inside_price, house.inside_area))
                                     except BaseException as e:
                                         # is_exception = True
+                                        logger.error(u"内层")
                                         web_driver_manager.destory_web_driver(validate_driver.get_id())
-                                        logger.info(e)
+                                        logger.error(e)
                                         validate_driver = web_driver_manager.get_web_driver(True)
                                         continue
                                     finally:
@@ -222,7 +223,8 @@ class RealEstateSpider(BaseSpider):
                         update_real_estate_count(real_estate_id, static_data.get("sum(total_count)"),
                                                  static_data.get("sum(sale_count)"))
                     except BaseException as e:
-                        logger.info(e)
+                        logger.error(u"外层")
+                        logger.error(e)
                         continue
                     finally:
                         update_region(region.get("id"), now_page)

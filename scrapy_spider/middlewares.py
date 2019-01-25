@@ -89,7 +89,7 @@ class ScrapySpiderDownloaderMiddleware(object):
         # - or raise IgnoreRequest
         if "robots" in request.url:
             return response
-        handle_httpstatus_list = [404, 408, 503]
+        handle_httpstatus_list = [404, 408, 503, 10060]
         if response.status in handle_httpstatus_list:
             spider.get_proxy_ip()
             return Request(request.url, meta={"proxy": "http://" + spider.proxy_ip})

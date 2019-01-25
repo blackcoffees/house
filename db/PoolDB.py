@@ -34,6 +34,7 @@ port = 3306
 class PoolDB(object):
     __conn__ = None
     __pool__ = None
+    __dict_table__ = dict()
 
     def __init__(self):
         if not self.__pool__:
@@ -49,14 +50,14 @@ class PoolDB(object):
 
     def find(self, sql, param=None):
         cursor = self.__get_connect__()
-        self._get_sql_query_param(sql)
+        self.__get_sql_query_param__(sql)
         try:
             if param:
                 cursor.execute(sql, param)
             else:
                 cursor.execute(sql)
             result = cursor.fetchall()
-            list_query_param = self._get_sql_query_param(sql)
+            list_query_param = self.__get_sql_query_param__(sql)
             data_list = list()
             for item in result:
                 data_dict = dict()
@@ -101,7 +102,7 @@ class PoolDB(object):
             return result[0]
         return None
 
-    def _get_sql_query_param(self, sql):
+    def __get_sql_query_param__(self, sql):
         """
         获得sql的所有查询的参数
         :param sql:
@@ -120,6 +121,12 @@ class PoolDB(object):
         # 1:寻找子查询语句
         # TODO:寻找到所有子查询，做成数组，循环数组,暂不支持子查询
         if "(" in sql.split(split_word)[0]:
+            if "select" in sql.split(split_word)[0].split("select")[1]:
+                print u"暂不支持子查询"
+                return list()
+            else:
+                result_list = sql.split(split_word)[0].split("select")[1].split(",")
+                return result_list
             return list()
         # 2：获得子查询语句的查询字段
         else:
@@ -137,7 +144,7 @@ class PoolDB(object):
                     list_query_param.append("*")
             for index, item_query_param in enumerate(list_query_param):
                 if "*" in item_query_param:
-                    list_all_coumns = self._get_all_column_name_from_table(table_list[index])
+                    list_all_coumns = self.__get_all_column_name_from_table__(table_list[index])
                     # 查询字段集做差集，寻找相同字段的查询
                     if result_list and len(set(result_list) ^ set(list_all_coumns)) > 0:
                         raise BaseException("column %s param is ambiguous" % list(set(result_list) ^ set(list_all_coumns)))
@@ -151,8 +158,10 @@ class PoolDB(object):
             return result_list
         return result_list
 
-    def _get_all_column_name_from_table(self, table_name):
+    def __get_all_column_name_from_table__(self, table_name):
         table_name = table_name.replace(" ", "")
+        if self.__dict_table__.get(table_name):
+            return self.__dict_table__.get(table_name)
         cursor = self.__get_connect__()
         sql = """select COLUMN_NAME from information_schema.COLUMNS where table_name=%s and table_schema=%s"""
         result_list = list()
@@ -161,6 +170,7 @@ class PoolDB(object):
             result = cursor.fetchall()
             for item in result:
                 result_list.append(item[0])
+            self.__dict_table__[table_name] = result_list
             return result_list
         except BaseException as e:
             print e

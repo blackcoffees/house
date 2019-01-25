@@ -80,3 +80,243 @@ TypeError: cannot concatenate 'str' and 'bool' objects
 %(enabledlist)s
 2019-01-25 10:34:04,151 - ProxyIPUtil.py[line:163] - INFO: 测试代理IP,切换代理IP:119.57.108.65:53281
 2019-01-25 10:35:18,729 - RealEstate.py[line:51] - INFO: 渝北：65
+2019-01-25 10:38:14,627 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-25 10:38:14,632 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-25 10:38:14,644 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-25 10:38:14,696 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 10:38:15,112 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 10:38:15,118 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 10:38:15,122 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 10:38:28,696 - ProxyIPUtil.py[line:162] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-01-25 10:38:48,842 - engine.py[line:256] - INFO: Spider opened
+2019-01-25 10:38:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:38:48,865 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-01-25 10:39:48,989 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:40:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:41:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:43:02,301 - PoolDB.py[line:91] - ERROR: sql：insert into house(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
+                  real_estate_id, buliding_id, source_id, created, unit, web_house_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2019-01-25 10:43:02,602 - PoolDB.py[line:92] - ERROR: sql param：[u'.954545454545454545454545454545454545455-8[21/22-8]', 6, 0, 0, '', 0, 0, 2003L, 780L, 1L, datetime.datetime(2019, 1, 25, 10, 42, 40, 58000), '1\xe5\x8d\x95\xe5\x85\x83', 17243099]
+2019-01-25 10:43:29,035 - PoolDB.py[line:93] - ERROR: (1406, "Data too long for column 'door_number' at row 1")
+2019-01-25 10:43:30,526 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:43:42,098 - RealEstate.py[line:51] - INFO: 渝北：65
+2019-01-25 10:43:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:43:51,091 - RealEstate.py[line:225] - INFO: 'NoneType' object has no attribute 'find'
+2019-01-25 10:43:51,482 - RealEstate.py[line:51] - INFO: 渝北：66
+2019-01-25 10:44:49,035 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:45:48,881 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:46:48,895 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:47:48,877 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:48:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:49:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:50:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:51:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:52:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:53:48,880 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:54:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:55:48,898 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:56:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:57:48,869 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:58:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:59:38,418 - RealEstate.py[line:155] - INFO: 2019-01-25 10:59:38.419000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-1
+2019-01-25 10:59:48,835 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+8
+2019-01-25 10:59:48,884 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 10:59:48,994 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+8
+2019-01-25 10:59:49,016 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 10:59:49,022 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：2+6
+2019-01-25 10:59:49,022 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+8
+2019-01-25 10:59:52,650 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：46.56
+2019-01-25 10:59:52,651 - RealEstate.py[line:155] - INFO: 2019-01-25 10:59:52.651000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-2
+2019-01-25 10:59:56,775 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+1
+2019-01-25 10:59:57,168 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+1
+2019-01-25 10:59:57,187 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 10:59:57,224 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-25 10:59:57,226 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+1
+2019-01-25 11:00:00,516 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：59.89
+2019-01-25 11:00:00,516 - RealEstate.py[line:155] - INFO: 2019-01-25 11:00:00.517000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-3
+2019-01-25 11:00:04,279 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：5+5
+2019-01-25 11:00:04,678 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：5+5
+2019-01-25 11:00:04,707 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:00:04,743 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：9+3
+2019-01-25 11:00:04,743 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+5
+2019-01-25 11:00:07,025 - RealEstate.py[line:210] - INFO: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-25 11:00:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:01:14,878 - ProxyIPUtil.py[line:162] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-01-25 11:01:33,000 - RealEstate.py[line:155] - INFO: 2019-01-25 11:01:33 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-4
+2019-01-25 11:01:43,397 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-25 11:01:43,562 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:01:43,585 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:01:43,625 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-25 11:01:43,625 - ImageRecognitionUtil.py[line:97] - ERROR: 图片识别失败
+2019-01-25 11:01:43,625 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-25 11:01:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:02:19,142 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-25 11:02:19,308 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:02:19,329 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:02:19,351 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+8
+2019-01-25 11:02:19,351 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+8
+2019-01-25 11:02:48,887 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:02:51,203 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：7+9
+2019-01-25 11:02:51,414 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:02:51,437 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:02:51,443 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：1-1
+2019-01-25 11:02:51,443 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+9
+2019-01-25 11:03:16,042 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：47.92
+2019-01-25 11:03:16,042 - RealEstate.py[line:155] - INFO: 2019-01-25 11:03:16.043000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-5
+2019-01-25 11:03:20,431 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-25 11:03:20,594 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:03:20,615 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:03:20,654 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-25 11:03:20,654 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-25 11:03:22,984 - RealEstate.py[line:210] - INFO: object of type 'NoneType' has no len()
+2019-01-25 11:03:48,892 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:04:48,875 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:05:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:06:48,960 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:07:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:08:42,519 - RealEstate.py[line:155] - INFO: 2019-01-25 11:08:42.520000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-6
+2019-01-25 11:08:48,871 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:08:51,184 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+7
+2019-01-25 11:08:51,354 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：1+8
+2019-01-25 11:08:51,372 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:08:51,384 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+5
+2019-01-25 11:08:51,384 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+8
+2019-01-25 11:09:29,374 - RealEstate.py[line:210] - INFO: list index out of range
+2019-01-25 11:09:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:10:48,903 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:11:48,874 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:12:48,868 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:13:48,869 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:14:48,841 - RealEstate.py[line:155] - INFO: 2019-01-25 11:14:48.841000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-7
+2019-01-25 11:14:49,019 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:15:00,483 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-1
+2019-01-25 11:15:00,644 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:15:00,664 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:15:00,706 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-25 11:15:00,706 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-25 11:15:43,780 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：69.66
+2019-01-25 11:15:43,782 - RealEstate.py[line:155] - INFO: 2019-01-25 11:15:43.781000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-8
+2019-01-25 11:15:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:15:54,625 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-4
+2019-01-25 11:15:54,795 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:15:54,815 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:15:54,855 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-25 11:15:54,855 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-4
+2019-01-25 11:16:05,454 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：46.56
+2019-01-25 11:16:48,871 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:17:48,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:18:35,769 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-01-25 11:18:35,772 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 24,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 23,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 117244,
+ 'downloader/request_count': 288,
+ 'downloader/request_method_count/GET': 288,
+ 'downloader/response_bytes': 56639644,
+ 'downloader/response_count': 264,
+ 'downloader/response_status_count/200': 263,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 1, 25, 3, 18, 35, 771000),
+ 'item_scraped_count': 22388,
+ 'log_count/DEBUG': 22677,
+ 'log_count/ERROR': 4,
+ 'log_count/INFO': 48,
+ 'request_depth_max': 263,
+ 'response_received_count': 264,
+ 'retry/count': 23,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 22,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'scheduler/dequeued': 287,
+ 'scheduler/dequeued/memory': 287,
+ 'scheduler/enqueued': 287,
+ 'scheduler/enqueued/memory': 287,
+ 'start_time': datetime.datetime(2019, 1, 25, 2, 38, 48, 865000)}
+2019-01-25 11:18:35,773 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-01-25 11:35:31,365 - RealEstate.py[line:155] - INFO: 2019-01-25 11:35:31.365000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 31-1
+2019-01-25 11:35:51,690 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：4+9
+2019-01-25 11:35:51,851 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：4+9
+2019-01-25 11:35:51,869 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:35:51,898 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-1
+2019-01-25 11:35:51,898 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+9
+2019-01-25 11:36:08,644 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6+7
+2019-01-25 11:36:09,038 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：6+7
+2019-01-25 11:36:09,061 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:36:09,092 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8+7
+2019-01-25 11:36:09,092 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+7
+2019-01-25 11:36:26,009 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：46.56
+2019-01-25 11:36:26,009 - RealEstate.py[line:155] - INFO: 2019-01-25 11:36:26.010000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 31-2
+2019-01-25 11:36:43,196 - ImageRecognitionUtil.py[line:113] - ERROR: tile cannot extend outside image
+2019-01-25 11:36:43,197 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-25 11:36:43,259 - RealEstate.py[line:210] - INFO: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-25 11:39:35,069 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-25 11:39:35,075 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-25 11:39:35,088 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-25 11:39:35,138 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:39:35,578 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:39:35,585 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:39:35,589 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:40:10,756 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-25 11:40:10,763 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-25 11:40:10,776 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-25 11:40:10,825 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:40:11,259 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:40:11,263 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:40:11,269 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:40:27,641 - ProxyIPUtil.py[line:163] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-01-25 11:41:11,700 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-25 11:41:11,707 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-25 11:41:11,719 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-25 11:41:11,766 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:41:12,207 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:41:12,211 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:41:12,217 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-25 11:41:26,938 - ProxyIPUtil.py[line:163] - INFO: 测试代理IP,切换代理IP:58.249.55.222:9797
+2019-01-25 11:41:37,210 - engine.py[line:256] - INFO: Spider opened
+2019-01-25 11:41:37,223 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:41:37,224 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-01-25 11:42:07,321 - RealEstate.py[line:155] - INFO: 2019-01-25 11:42:07.321000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 31-3
+2019-01-25 11:42:37,223 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:42:41,098 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：1+6
+2019-01-25 11:42:41,260 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:42:41,282 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:42:41,302 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：6+3
+2019-01-25 11:42:41,302 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+6
+2019-01-25 11:42:57,937 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：8-3
+2019-01-25 11:42:58,112 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:42:58,137 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:42:58,177 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：None
+2019-01-25 11:42:58,177 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-3
+2019-01-25 11:43:15,618 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：59.89
+2019-01-25 11:43:15,618 - RealEstate.py[line:155] - INFO: 2019-01-25 11:43:15.619000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 31-4
+2019-01-25 11:43:19,940 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+2
+2019-01-25 11:43:20,345 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9+2
+2019-01-25 11:43:20,368 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:43:20,397 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7-6
+2019-01-25 11:43:20,398 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+2
+2019-01-25 11:43:37,223 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)

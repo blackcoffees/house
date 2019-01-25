@@ -120,6 +120,7 @@ class ProxyPool(object):
 
     def get_proxy_ip(self, is_count_time=True):
         if self.switch_proxy and len(self.list_proxy_ip) == 0:
+            self.__get_proxy_ip_conf__()
             self.__get_proxy_ip_kuaidaili__()
             # self.__get_proxy_ip_feiyi()
             self.__get_proxy_ip_xici__()
@@ -171,6 +172,8 @@ class ProxyPool(object):
                                 list_online_proxy_ip = json_str.get("list_online_proxy_ip")
                                 list_online_proxy_ip.append(proxy_ip)
                                 dict_temp = {"list_online_proxy_ip": list_online_proxy_ip, "list_static_proxy_ip": json_str.get("list_static_proxy_ip")}
+                                with open(self.__proxy_ip_conf_file_path__, "w") as file:
+                                    file.write(json.dumps(dict_temp))
                             except:
                                 continue
                         return True
