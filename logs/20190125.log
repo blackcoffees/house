@@ -320,3 +320,30 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-01-25 11:43:20,397 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：7-6
 2019-01-25 11:43:20,398 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+2
 2019-01-25 11:43:37,223 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:44:37,224 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:44:43,891 - ProxyIPUtil.py[line:163] - INFO: 测试代理IP,切换代理IP:58.249.55.222:9797
+2019-01-25 11:44:51,351 - RealEstate.py[line:51] - INFO: 渝北：66
+2019-01-25 11:45:03,808 - RealEstate.py[line:155] - INFO: 2019-01-25 11:45:03.808000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-1
+2019-01-25 11:45:03,811 - RealEstate.py[line:155] - INFO: 2019-01-25 11:45:03.810000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-2
+2019-01-25 11:45:03,813 - RealEstate.py[line:155] - INFO: 2019-01-25 11:45:03.814000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-3
+2019-01-25 11:45:08,124 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：None
+2019-01-25 11:45:08,530 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:45:08,551 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:45:08,565 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：4+9
+2019-01-25 11:45:08,565 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+9
+2019-01-25 11:45:15,125 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：6-3
+2019-01-25 11:45:15,325 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：None
+2019-01-25 11:45:15,351 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:45:15,387 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：8-8
+2019-01-25 11:45:15,388 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
+2019-01-25 11:45:20,964 - RealEstate.py[line:206] - INFO: 套内单价：6555， 套内面积：59.89
+2019-01-25 11:45:20,964 - RealEstate.py[line:155] - INFO: 2019-01-25 11:45:20.965000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-4
+2019-01-25 11:45:20,969 - RealEstate.py[line:155] - INFO: 2019-01-25 11:45:20.969000 渝北 汀香树 强辉.圣林雅苑4幢 1单元 32-5
+2019-01-25 11:45:25,220 - ImageRecognitionUtil.py[line:72] - ERROR: 图片识别：9+2
+2019-01-25 11:45:25,612 - ImageRecognitionUtil.py[line:78] - ERROR: 图片识别修正：9+2
+2019-01-25 11:45:25,634 - ImageRecognitionUtil.py[line:86] - ERROR: 图片比较识别：None
+2019-01-25 11:45:25,647 - ImageRecognitionUtil.py[line:92] - ERROR: 成功图片比较：3-3
+2019-01-25 11:45:25,647 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+2
+2019-01-25 11:45:35,648 - RealEstate.py[line:209] - ERROR: 内层
+2019-01-25 11:45:37,223 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-25 11:45:42,138 - RealEstate.py[line:211] - ERROR: 无法获取房子数据

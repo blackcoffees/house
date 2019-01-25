@@ -69,13 +69,13 @@ class ImageRecognition(object):
                     expression1 = self.get_internet_validate_code()
                 except:
                     expression1 = None
-                logger.error(u"图片识别：%s" % expression1)
+                logger.info(u"图片识别：%s" % expression1)
                 # 图片修正识别
                 try:
                     expression2 = self.image_corde_correct()
                 except:
                     expression2 = None
-                logger.error(u"图片识别修正：%s" % expression2)
+                logger.info(u"图片识别修正：%s" % expression2)
                 # 图片比较识别
                 try:
                     expression3 = self.compare_image_correct(operator_img_url=(self.base_image_path + "operator.png"),
@@ -83,18 +83,18 @@ class ImageRecognition(object):
                                                              number2_img_url=(self.base_image_path + "num2.png"))
                 except:
                     expression3 = None
-                logger.error(u"图片比较识别：%s" % expression3)
+                logger.info(u"图片比较识别：%s" % expression3)
                 # 成功图片比较
                 try:
                     expression4 = self.compare_success_img(location_img_url)
                 except:
                     expression4 = None
-                logger.error(u"成功图片比较：%s" % expression4)
+                logger.info(u"成功图片比较：%s" % expression4)
                 if not (expression1 or expression2 or expression3):
                     if expression4:
                         expression = expression4
                     else:
-                        logger.error(u"图片识别失败")
+                        logger.info(u"图片识别失败")
                 else:
                     succ_size_expression1 = self.confirm_return_express(expression1, [expression2, expression3])
                     succ_size_expression2 = self.confirm_return_express(expression2, [expression1, expression3])
@@ -110,7 +110,7 @@ class ImageRecognition(object):
                         else:
                             expression = expression3
             except BaseException as e:
-                logger.error(e)
+                logger.info(e)
             logger.info("验证码:%s" % expression)
             # 计算验证码
             int_code = self.compute_code(expression)
