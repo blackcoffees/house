@@ -8,25 +8,27 @@ import os
 import time
 from DBUtils.PooledDB import PooledDB
 
+from util.CommonUtils import logger
+
 host = '127.0.0.1'
 user = 'root'
 password = "root"
 db = "house"
 port = 3306
 
-formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s")
-pool_logger = logging.getLogger()
-pool_logger.setLevel(logging.INFO)
-log_path = os.path.dirname(os.getcwd()) + '/logs/'
-log_filename = log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"
-fh = TimedRotatingFileHandler(log_filename, when="d", encoding='utf-8', backupCount=7)
-fh.setLevel(logging.INFO)
-fh.setFormatter(formatter)
-console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.INFO)
-console_handler.setFormatter(formatter)
-pool_logger.addHandler(fh)
-pool_logger.addHandler(console_handler)
+# db_pool_formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s")
+# db_pool_logger = logging.getLogger()
+# db_pool_logger.setLevel(logging.INFO)
+# db_pool_log_path = os.path.dirname(os.getcwd()) + '/logs/'
+# log_filename = db_pool_log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"
+# db_pool_fh = TimedRotatingFileHandler(log_filename, when="d", encoding='utf-8', backupCount=7)
+# db_pool_fh.setLevel(logging.INFO)
+# db_pool_fh.setFormatter(db_pool_formatter)
+# db_pool_console_handler = logging.StreamHandler()
+# db_pool_console_handler.setLevel(logging.INFO)
+# db_pool_console_handler.setFormatter(db_pool_formatter)
+# db_pool_logger.addHandler(db_pool_fh)
+# db_pool_logger.addHandler(db_pool_console_handler)
 
 
 class PoolDB(object):
@@ -63,9 +65,12 @@ class PoolDB(object):
                 data_list.append(data_dict)
             return data_list
         except BaseException as e:
-            logging.error("sql：%s" % sql)
-            logging.error("sql param：%s" % param)
-            logging.error(e)
+            # db_pool_logger.error("sql：%s" % sql)
+            # db_pool_logger.error("sql param：%s" % param)
+            # db_pool_logger.error(e)
+            logger.error("sql：%s" % sql)
+            logger.error("sql param：%s" % param)
+            logger.error(e)
         finally:
             cursor.close()
             self.__conn__.close()
@@ -80,9 +85,12 @@ class PoolDB(object):
             self.__conn__.commit()
             return cursor.lastrowid
         except BaseException as e:
-            logging.error("sql：%s" % sql)
-            logging.error("sql param：%s" % param)
-            logging.error(e)
+            # db_pool_logger.error("sql：%s" % sql)
+            # db_pool_logger.error("sql param：%s" % param)
+            # db_pool_logger.error(e)
+            logger.error("sql：%s" % sql)
+            logger.error("sql param：%s" % param)
+            logger.error(e)
         finally:
             cursor.close()
             self.__conn__.close()

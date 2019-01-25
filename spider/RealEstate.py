@@ -33,7 +33,7 @@ class RealEstateSpider(BaseSpider):
     def work(self):
         delete_logs()
         options = webdriver.ChromeOptions()
-        options.add_argument("headless")
+        # options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         real_estate_driver = web_driver_manager.get_web_driver()
         driver_house = web_driver_manager.get_web_driver()
@@ -118,6 +118,9 @@ class RealEstateSpider(BaseSpider):
                                          (sale_building.encode("utf8"), int(build_id[index]))
                             driver_house.send_url(houses_url)
                             house_soup = BeautifulSoup(driver_house.page_source, "html.parser")
+                            # 判断是否请求成功
+                            if not house_soup.find("img", attrs={"id": "projectInfo_img"}):
+                                continue
                             # 预售许可证
                             pre_sale_number = json.loads(unquote(house_soup.find("img", attrs={"id": "projectInfo_img"}).
                                                               attrs.get("src").split("text=")[1])).get("presaleCert")

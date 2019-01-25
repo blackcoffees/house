@@ -96,7 +96,7 @@ class BuildingSpider(scrapy.Spider):
     base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s"
 
     def start_requests(self):
-        # self.get_proxy_ip()
+        self.get_proxy_ip()
         sql = self.base_build_sql % self.build_index
         self.db_building = pool.find_one(sql)
         url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))

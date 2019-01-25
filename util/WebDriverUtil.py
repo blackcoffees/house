@@ -25,8 +25,9 @@ class WebDriverManager(object):
         result = self.__base_result__()
         if count <= 0:
             result["message"] = "数量不能小于等于0"
+        self.proxy_ip = proxy_pool.get_proxy_ip()
         for index in range(count):
-            self.create_web_driver(is_proxy=True)
+            self.create_web_driver()
 
     def get_web_driver(self, is_proxy=False):
         for web_driver in self.__list_web_driver__:
@@ -55,10 +56,10 @@ class WebDriverManager(object):
         if self.type == "chrome":
             temp_options = self.options
             if is_proxy:
-                proxy_ip = proxy_pool.get_proxy_ip()
-                if proxy_ip:
-                    self.proxy_ip = proxy_ip
-                    temp_options.add_argument("--proxy-server={0}".format(proxy_ip))
+                if not self.proxy_ip:
+                    self.proxy_ip = proxy_pool.get_proxy_ip()
+                if self.proxy_ip:
+                    temp_options.add_argument("--proxy-server={0}".format(self.proxy_ip))
             temp_driver = WebChromeDriver(temp_options)
         else:
             raise BaseException("暂不支持该浏览器")
