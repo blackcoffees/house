@@ -45,7 +45,7 @@ class WebDriverManager(object):
     def destory_web_driver(self, web_driver_id):
         for web_driver in self.__list_web_driver__:
             if web_driver.get_id() == web_driver_id:
-                web_driver.close()
+                web_driver.quit()
                 if self.proxy_ip:
                     proxy_pool.remove_proxy_ip(self.proxy_ip)
                     self.proxy_ip = None
@@ -90,6 +90,7 @@ class WebChromeDriver(webdriver.Chrome):
             if looper == 0:
                 return False
             try:
+                print u"%s网络请求:%s" % (url, looper)
                 WebDriverWait(self, 30).until(expected_conditions.presence_of_element_located((By.TAG_NAME, tag_name)))
                 return True
             except BaseException as e:

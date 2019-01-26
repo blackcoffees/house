@@ -134,6 +134,8 @@ class ImageRecognition(object):
         succ_size = 0
         if not origin_expression:
             return succ_size
+        if self.compute_code(origin_expression) < 0:
+            return 0
         for compare_expression in list_compare_expression:
             if not compare_expression:
                 succ_size += 1

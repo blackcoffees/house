@@ -35,12 +35,11 @@ class RealEstateSpider(BaseSpider):
         options = webdriver.ChromeOptions()
         # options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
-        real_estate_driver = web_driver_manager.get_web_driver()
-        driver_house = web_driver_manager.get_web_driver()
         validate_driver = web_driver_manager.get_web_driver()
         for region in get_all_region():
             now_page = region.get("now_page")
             while True:
+                real_estate_driver = web_driver_manager.get_web_driver()
                 # 获得楼盘
                 url = self.base_url % (region.get("region").encode("utf8"), now_page)
                 if not real_estate_driver.send_url(url, "pre"):
@@ -51,6 +50,8 @@ class RealEstateSpider(BaseSpider):
                 logger.info(region.get("region") + "：" + str(now_page))
                 now_page += 1
                 real_estate = real_estate_driver.find_element_by_tag_name("pre").text
+                # 关闭网页
+                web_driver_manager.destory_web_driver(real_estate_driver.get_id())
                 if not real_estate:
                     logger.info(region.get("region").encode("utf8") + "房产信息收集完成")
                     update_region(region.get("id"), 1)
@@ -107,6 +108,7 @@ class RealEstateSpider(BaseSpider):
                                 building.real_estate_id = int(real_estate_id)
                                 building.total_count = 0
                                 building.sale_count = 0
+                                building.real_estate_name = real_estate.name
                                 building_id = building.__add__()
                             # 查询该大楼出售情况，全部售完的就跳过
                             building_sale_result = get_building_sale_status(sale_building, real_estate_id)
@@ -114,10 +116,13 @@ class RealEstateSpider(BaseSpider):
                                 and building_sale_result.get("total_count") == building_sale_result.get("sale_count"):
                                 continue
                             # 一栋楼里面的所有房子
+                            driver_house = web_driver_manager.get_web_driver()
                             houses_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s" %\
                                          (sale_building.encode("utf8"), int(build_id[index]))
                             driver_house.send_url(houses_url)
                             house_soup = BeautifulSoup(driver_house.page_source, "html.parser")
+                            # 关闭网页
+                            web_driver_manager.destory_web_driver(driver_house.get_id())
                             # 判断是否请求成功
                             if not house_soup.find("img", attrs={"id": "projectInfo_img"}):
                                 continue

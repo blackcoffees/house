@@ -6,6 +6,8 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals, Request
+from scrapy.downloadermiddlewares.retry import RetryMiddleware
+from twisted.internet.error import TimeoutError
 
 
 class ScrapySpiderSpiderMiddleware(object):
@@ -87,12 +89,6 @@ class ScrapySpiderDownloaderMiddleware(object):
         # - return a Response object
         # - return a Request object
         # - or raise IgnoreRequest
-        if "robots" in request.url:
-            return response
-        handle_httpstatus_list = [404, 408, 503, 10060]
-        if response.status in handle_httpstatus_list:
-            spider.get_proxy_ip()
-            return Request(request.url, meta={"proxy": "http://" + spider.proxy_ip})
         return response
 
     def process_exception(self, request, exception, spider):
@@ -107,3 +103,20 @@ class ScrapySpiderDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class HouseSpiderRetryMiddleware(RetryMiddleware):
+
+    def process_response(self, request, response, spider):
+        if response.status in self.retry_http_codes:
+            print u"中间件切换代理ip"
+            spider.get_proxy_ip()
+            return self._retry(request, response.status, spider) or response
+        return response
+
+    def process_exception(self, request, exception, spider):
+        if isinstance(exception, self.EXCEPTIONS_TO_RETRY):
+            if not isinstance(exception, TimeoutError):
+                print u"中间件切换代理ip"
+                spider.get_proxy_ip()
+                return self._retry(request, exception, spider)
