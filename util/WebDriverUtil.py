@@ -85,7 +85,7 @@ class WebChromeDriver(webdriver.Chrome):
 
     def send_url(self, url, tag_name="body"):
         super(webdriver.Chrome, self).get(url)
-        looper = 10
+        looper = 3
         while True:
             if looper == 0:
                 return False

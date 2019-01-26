@@ -1507,3 +1507,547 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-01-26 14:08:06,884 - RealEstate.py[line:216] - ERROR: 无法获取房子数据
 2019-01-26 14:08:27,964 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
 2019-01-26 14:08:30,098 - RealEstate.py[line:160] - INFO: 2019-01-26 14:08:30.098000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-6
+2019-01-26 14:10:36,693 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.30.204.102:9000
+2019-01-26 14:10:46,118 - RealEstate.py[line:50] - INFO: 渝北：69
+2019-01-26 14:11:50,213 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.212000 渝北 中渝.香奈公馆-二期 2幢 1单元 41-1
+2019-01-26 14:11:50,214 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.215000 渝北 中渝.香奈公馆-二期 2幢 1单元 41-3
+2019-01-26 14:11:50,217 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.218000 渝北 中渝.香奈公馆-二期 2幢 1单元 41-5
+2019-01-26 14:11:50,221 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.222000 渝北 中渝.香奈公馆-二期 2幢 1单元 40-1
+2019-01-26 14:11:50,224 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.225000 渝北 中渝.香奈公馆-二期 2幢 1单元 40-3
+2019-01-26 14:11:50,226 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.227000 渝北 中渝.香奈公馆-二期 2幢 1单元 40-5
+2019-01-26 14:11:50,230 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.231000 渝北 中渝.香奈公馆-二期 2幢 1单元 39-1
+2019-01-26 14:11:50,233 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.233000 渝北 中渝.香奈公馆-二期 2幢 1单元 39-3
+2019-01-26 14:11:50,233 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.234000 渝北 中渝.香奈公馆-二期 2幢 1单元 39-5
+2019-01-26 14:11:50,237 - RealEstate.py[line:160] - INFO: 2019-01-26 14:11:50.238000 渝北 中渝.香奈公馆-二期 2幢 1单元 38-1
+2019-01-26 14:11:54,520 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:11:54,901 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:11:54,920 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:11:54,926 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+5
+2019-01-26 14:11:54,927 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+5
+2019-01-26 14:11:59,232 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+2
+2019-01-26 14:11:59,638 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+2
+2019-01-26 14:11:59,657 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:11:59,671 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+5
+2019-01-26 14:11:59,671 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+2
+2019-01-26 14:12:04,683 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：198.87
+2019-01-26 14:12:04,684 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.684000 渝北 中渝.香奈公馆-二期 2幢 1单元 38-3
+2019-01-26 14:12:04,686 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.686000 渝北 中渝.香奈公馆-二期 2幢 1单元 38-5
+2019-01-26 14:12:04,690 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.690000 渝北 中渝.香奈公馆-二期 2幢 1单元 37-1
+2019-01-26 14:12:04,691 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.692000 渝北 中渝.香奈公馆-二期 2幢 1单元 37-3
+2019-01-26 14:12:04,694 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.695000 渝北 中渝.香奈公馆-二期 2幢 1单元 37-5
+2019-01-26 14:12:04,697 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.697000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-1
+2019-01-26 14:12:04,698 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.699000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-2
+2019-01-26 14:12:04,700 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.701000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-3
+2019-01-26 14:12:04,703 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:04.703000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-5
+2019-01-26 14:12:08,473 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-3
+2019-01-26 14:12:08,864 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:12:08,885 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:12:08,907 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-3
+2019-01-26 14:12:08,907 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-26 14:12:22,619 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 14:12:22,619 - RealEstate.py[line:160] - INFO: 2019-01-26 14:12:22.620000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-6
+2019-01-26 14:12:28,734 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+7
+2019-01-26 14:12:29,137 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+1
+2019-01-26 14:12:29,158 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:12:29,164 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+8
+2019-01-26 14:12:29,164 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+1
+2019-01-26 14:12:31,032 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:13:01,165 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:13:01,437 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-26 14:13:03,739 - RealEstate.py[line:160] - INFO: 2019-01-26 14:13:03.739000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-1
+2019-01-26 14:13:09,658 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-2
+2019-01-26 14:13:10,049 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-2
+2019-01-26 14:13:10,072 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:13:10,128 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:13:10,130 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-2
+2019-01-26 14:13:20,255 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:13:20,256 - RealEstate.py[line:160] - INFO: 2019-01-26 14:13:20.255000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-2
+2019-01-26 14:13:24,319 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
+2019-01-26 14:13:24,721 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-1
+2019-01-26 14:13:24,743 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:13:24,772 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-5
+2019-01-26 14:13:24,772 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-26 14:13:25,647 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:13:25,846 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:13:26,095 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-01-26 14:13:28,223 - RealEstate.py[line:160] - INFO: 2019-01-26 14:13:28.224000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-3
+2019-01-26 14:13:34,059 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-6
+2019-01-26 14:13:34,477 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9-6
+2019-01-26 14:13:34,499 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:13:34,536 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:13:34,536 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-6
+2019-01-26 14:13:44,299 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：130.93
+2019-01-26 14:13:44,299 - RealEstate.py[line:160] - INFO: 2019-01-26 14:13:44.300000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-5
+2019-01-26 14:13:48,525 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:13:48,696 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:13:48,717 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:13:48,746 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+8
+2019-01-26 14:13:48,746 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+8
+2019-01-26 14:13:54,967 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+9
+2019-01-26 14:13:55,355 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2+9
+2019-01-26 14:13:55,378 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:13:55,398 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+8
+2019-01-26 14:13:55,398 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+9
+2019-01-26 14:14:10,017 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 14:14:10,019 - RealEstate.py[line:160] - INFO: 2019-01-26 14:14:10.019000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-6
+2019-01-26 14:14:14,298 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:14:14,696 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:14:14,723 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:14:14,732 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2-1
+2019-01-26 14:14:14,733 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
+2019-01-26 14:14:19,540 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:14:19,717 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:14:19,744 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:14:19,785 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:14:19,786 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-26 14:14:19,786 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:14:25,209 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
+2019-01-26 14:14:25,602 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:14:25,625 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:14:25,664 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:14:25,664 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-26 14:14:37,226 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:14:37,229 - RealEstate.py[line:160] - INFO: 2019-01-26 14:14:37.229000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-1
+2019-01-26 14:14:41,405 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
+2019-01-26 14:14:41,803 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-1
+2019-01-26 14:14:41,826 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:14:41,855 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-6
+2019-01-26 14:14:41,855 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-26 14:14:49,665 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:14:49,667 - RealEstate.py[line:160] - INFO: 2019-01-26 14:14:49.667000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-2
+2019-01-26 14:14:53,717 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:14:53,881 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:14:53,907 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:14:53,947 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:14:53,947 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-26 14:14:53,947 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:15:01,687 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-2
+2019-01-26 14:15:02,082 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-2
+2019-01-26 14:15:02,104 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:15:02,141 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:15:02,141 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-2
+2019-01-26 14:15:09,043 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-5
+2019-01-26 14:15:09,207 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:15:09,230 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:15:09,266 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:15:09,266 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-5
+2019-01-26 14:15:16,042 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 14:15:16,042 - RealEstate.py[line:160] - INFO: 2019-01-26 14:15:16.043000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-3
+2019-01-26 14:15:20,289 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-4
+2019-01-26 14:15:20,466 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:15:20,489 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:15:20,529 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-9
+2019-01-26 14:15:20,530 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-4
+2019-01-26 14:15:22,313 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:15:22,427 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:15:29,434 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-01-26 14:15:31,555 - RealEstate.py[line:160] - INFO: 2019-01-26 14:15:31.555000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-5
+2019-01-26 14:15:42,651 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+8
+2019-01-26 14:15:42,809 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-8
+2019-01-26 14:15:42,829 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:15:42,862 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+9
+2019-01-26 14:15:42,862 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-8
+2019-01-26 14:16:17,875 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-1
+2019-01-26 14:16:18,055 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:16:18,085 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:16:18,105 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-4
+2019-01-26 14:16:18,105 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-26 14:16:41,473 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 14:16:41,473 - RealEstate.py[line:160] - INFO: 2019-01-26 14:16:41.474000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-6
+2019-01-26 14:16:56,841 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+2
+2019-01-26 14:16:57,240 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+2
+2019-01-26 14:16:57,262 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:16:57,266 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+8
+2019-01-26 14:16:57,266 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+2
+2019-01-26 14:17:13,743 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:17:13,743 - RealEstate.py[line:160] - INFO: 2019-01-26 14:17:13.744000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-1
+2019-01-26 14:17:31,582 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:17:32,023 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:17:32,039 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:17:32,059 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-3
+2019-01-26 14:17:32,059 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-3
+2019-01-26 14:17:50,457 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-5
+2019-01-26 14:17:50,834 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:17:50,855 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:17:50,892 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:17:50,894 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-5
+2019-01-26 14:18:30,134 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:18:30,135 - RealEstate.py[line:160] - INFO: 2019-01-26 14:18:30.136000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-2
+2019-01-26 14:18:43,128 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-3
+2019-01-26 14:18:43,525 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-3
+2019-01-26 14:18:43,540 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:18:43,581 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:18:43,581 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
+2019-01-26 14:19:05,338 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-26 14:19:05,338 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:19:05,354 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:19:11,430 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:19:11,516 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-01-26 14:19:13,701 - RealEstate.py[line:160] - INFO: 2019-01-26 14:19:13.702000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-3
+2019-01-26 14:21:50,315 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-26 14:21:50,319 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-26 14:21:50,332 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-26 14:21:50,381 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:21:50,812 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:21:50,819 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:21:50,825 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:22:02,062 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.30.204.102:9000
+2019-01-26 14:22:02,066 - engine.py[line:256] - INFO: Spider opened
+2019-01-26 14:22:02,076 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:22:02,078 - middlewares.py[line:105] - INFO: Spider opened: real_estate
+2019-01-26 14:22:39,750 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-26 14:22:47,122 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-26 14:22:56,391 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-26 14:22:56,397 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-26 14:22:56,410 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-26 14:22:56,457 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:22:56,878 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:22:56,884 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:22:56,888 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:23:13,963 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.30.204.102:9000
+2019-01-26 14:23:13,970 - engine.py[line:256] - INFO: Spider opened
+2019-01-26 14:23:13,992 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:23:13,993 - middlewares.py[line:105] - INFO: Spider opened: real_estate
+2019-01-26 14:23:18,542 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-26 14:24:13,992 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:24:17,368 - ImageRecognitionUtil.py[line:113] - INFO: 无法获取验证网页
+2019-01-26 14:24:17,368 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:24:17,392 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:24:47,592 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:24:57,618 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-01-26 14:24:59,782 - RealEstate.py[line:160] - INFO: 2019-01-26 14:24:59.782000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-5
+2019-01-26 14:25:11,865 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：
+2019-01-26 14:25:12,066 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:25:12,088 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:25:12,128 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:25:12,128 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-26 14:25:12,128 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:25:13,992 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:25:33,650 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-26 14:25:33,650 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:25:33,665 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:26:00,325 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:26:00,444 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-26 14:26:02,551 - RealEstate.py[line:160] - INFO: 2019-01-26 14:26:02.551000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-6
+2019-01-26 14:26:08,127 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 14:26:08,298 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:26:08,319 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:26:08,357 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9+5
+2019-01-26 14:26:08,357 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+5
+2019-01-26 14:26:12,960 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+7
+2019-01-26 14:26:13,421 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+7
+2019-01-26 14:26:13,438 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:26:13,457 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+6
+2019-01-26 14:26:13,459 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+7
+2019-01-26 14:26:17,392 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-01-26 14:26:17,398 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:26:39,430 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:26:39,434 - RealEstate.py[line:160] - INFO: 2019-01-26 14:26:39.434000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-1
+2019-01-26 14:26:46,338 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8+7
+2019-01-26 14:26:46,503 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:26:46,523 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:26:46,538 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+8
+2019-01-26 14:26:46,539 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+7
+2019-01-26 14:27:03,788 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 14:27:03,789 - RealEstate.py[line:160] - INFO: 2019-01-26 14:27:03.788000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-2
+2019-01-26 14:27:05,250 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:27:08,026 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-3
+2019-01-26 14:27:08,650 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-3
+2019-01-26 14:27:08,667 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:27:08,703 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-2
+2019-01-26 14:27:08,703 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-3
+2019-01-26 14:27:15,198 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 14:27:15,200 - RealEstate.py[line:160] - INFO: 2019-01-26 14:27:15.199000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-3
+2019-01-26 14:27:20,973 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-7
+2019-01-26 14:27:21,144 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 14:27:21,167 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:27:21,211 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:27:21,213 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-7
+2019-01-26 14:27:22,089 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:27:22,234 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 14:27:29,936 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:27:43,535 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-01-26 14:27:46,930 - RealEstate.py[line:160] - INFO: 2019-01-26 14:27:46.931000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-5
+2019-01-26 14:27:52,615 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-9
+2019-01-26 14:27:52,809 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-9
+2019-01-26 14:27:52,835 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:27:52,839 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+9
+2019-01-26 14:27:52,839 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-9
+2019-01-26 14:28:00,648 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-3
+2019-01-26 14:28:01,101 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-3
+2019-01-26 14:28:01,124 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 14:28:01,171 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 14:28:01,171 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
+2019-01-26 14:28:22,661 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-26 14:28:22,661 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 14:28:22,678 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 14:28:29,996 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:28:45,663 - RealEstate.py[line:231] - ERROR: 外层
+2019-01-26 14:29:29,805 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:30:29,710 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:31:29,711 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 14:31:36,154 - house.py[line:146] - ERROR: 没有获取到数据
+2019-01-26 14:58:34,046 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-26 14:58:34,069 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-26 14:58:34,082 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-26 14:58:34,523 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:35,302 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:35,342 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:35,361 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:40,323 - _legacy.py[line:154] - CRITICAL: Unhandled error in Deferred:
+2019-01-26 14:58:40,325 - _legacy.py[line:154] - CRITICAL: 
+Traceback (most recent call last):
+  File "E:\virtualenv\python27\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\crawler.py", line 98, in crawl
+    six.reraise(*exc_info)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\crawler.py", line 81, in crawl
+    start_requests = iter(self.spider.start_requests())
+  File "E:\workspace\pycharm\house_spider\scrapy_spider\spiders\house.py", line 99, in start_requests
+    self.get_proxy_ip()
+  File "E:\workspace\pycharm\house_spider\scrapy_spider\spiders\house.py", line 164, in get_proxy_ip
+    self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
+  File "E:\workspace\pycharm\house_spider\util\ProxyIPUtil.py", line 124, in get_proxy_ip
+    self.__get_proxy_ip_kuaidaili__()
+  File "E:\workspace\pycharm\house_spider\util\ProxyIPUtil.py", line 47, in __get_proxy_ip_kuaidaili__
+    soup = BeautifulSoup(response, "html.parser")
+  File "E:\virtualenv\python27\lib\site-packages\bs4\__init__.py", line 192, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+2019-01-26 14:58:58,608 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-01-26 14:58:58,615 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-01-26 14:58:58,624 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-01-26 14:58:58,665 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:59,095 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:59,099 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:58:59,105 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-01-26 14:59:22,507 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-01-26 14:59:47,062 - RealEstate.py[line:50] - INFO: 渝北：69
+2019-01-26 15:00:24,068 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-01-26 15:00:24,114 - engine.py[line:256] - INFO: Spider opened
+2019-01-26 15:00:24,306 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:00:24,306 - middlewares.py[line:105] - INFO: Spider opened: building
+2019-01-26 15:00:31,831 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:31.831000 渝北 中渝.香奈公馆-二期 2幢 1单元 41-1
+2019-01-26 15:00:31,996 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:31.996000 渝北 中渝.香奈公馆-二期 2幢 1单元 41-3
+2019-01-26 15:00:31,996 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:31.997000 渝北 中渝.香奈公馆-二期 2幢 1单元 41-5
+2019-01-26 15:00:32,006 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.007000 渝北 中渝.香奈公馆-二期 2幢 1单元 40-1
+2019-01-26 15:00:32,009 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.009000 渝北 中渝.香奈公馆-二期 2幢 1单元 40-3
+2019-01-26 15:00:32,010 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.011000 渝北 中渝.香奈公馆-二期 2幢 1单元 40-5
+2019-01-26 15:00:32,013 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.014000 渝北 中渝.香奈公馆-二期 2幢 1单元 39-1
+2019-01-26 15:00:32,020 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.021000 渝北 中渝.香奈公馆-二期 2幢 1单元 39-3
+2019-01-26 15:00:32,023 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.024000 渝北 中渝.香奈公馆-二期 2幢 1单元 39-5
+2019-01-26 15:00:32,025 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.025000 渝北 中渝.香奈公馆-二期 2幢 1单元 38-1
+2019-01-26 15:00:32,026 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.027000 渝北 中渝.香奈公馆-二期 2幢 1单元 38-3
+2019-01-26 15:00:32,029 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.029000 渝北 中渝.香奈公馆-二期 2幢 1单元 38-5
+2019-01-26 15:00:32,032 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.032000 渝北 中渝.香奈公馆-二期 2幢 1单元 37-1
+2019-01-26 15:00:32,033 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.034000 渝北 中渝.香奈公馆-二期 2幢 1单元 37-3
+2019-01-26 15:00:32,035 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.035000 渝北 中渝.香奈公馆-二期 2幢 1单元 37-5
+2019-01-26 15:00:32,039 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.039000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-1
+2019-01-26 15:00:32,082 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.083000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-2
+2019-01-26 15:00:32,085 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.085000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-3
+2019-01-26 15:00:32,085 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.086000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-5
+2019-01-26 15:00:32,088 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:32.088000 渝北 中渝.香奈公馆-二期 2幢 1单元 36-6
+2019-01-26 15:00:38,085 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5-1
+2019-01-26 15:00:38,644 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5-1
+2019-01-26 15:00:38,661 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:00:38,693 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-5
+2019-01-26 15:00:38,693 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-1
+2019-01-26 15:00:45,592 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 15:00:45,598 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:45.599000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-1
+2019-01-26 15:00:45,604 - RealEstate.py[line:160] - INFO: 2019-01-26 15:00:45.604000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-2
+2019-01-26 15:00:49,315 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+9
+2019-01-26 15:00:49,644 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+9
+2019-01-26 15:00:49,661 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:00:50,625 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 15:00:50,625 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+9
+2019-01-26 15:01:00,023 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 15:01:00,023 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:00.024000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-3
+2019-01-26 15:01:00,025 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:00.025000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-5
+2019-01-26 15:01:00,026 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:00.027000 渝北 中渝.香奈公馆-二期 2幢 1单元 35-6
+2019-01-26 15:01:00,029 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:00.030000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-1
+2019-01-26 15:01:00,032 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:00.032000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-2
+2019-01-26 15:01:00,033 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:00.034000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-3
+2019-01-26 15:01:03,959 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+5
+2019-01-26 15:01:04,301 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+5
+2019-01-26 15:01:04,318 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:01:04,322 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+2
+2019-01-26 15:01:04,322 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+5
+2019-01-26 15:01:04,595 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 15:01:14,407 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 15:01:14,674 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-26 15:01:16,710 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:16.711000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-5
+2019-01-26 15:01:16,713 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:16.713000 渝北 中渝.香奈公馆-二期 2幢 1单元 34-6
+2019-01-26 15:01:16,717 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:16.717000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-1
+2019-01-26 15:01:16,719 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:16.719000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-2
+2019-01-26 15:01:22,380 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-6
+2019-01-26 15:01:22,513 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 15:01:22,530 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:01:22,549 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-5
+2019-01-26 15:01:22,549 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-6
+2019-01-26 15:01:24,308 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:01:30,262 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 15:01:30,263 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:30.263000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-3
+2019-01-26 15:01:34,341 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-1
+2019-01-26 15:01:34,690 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-1
+2019-01-26 15:01:34,710 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:01:34,740 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 15:01:34,740 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
+2019-01-26 15:01:49,395 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：130.93
+2019-01-26 15:01:49,395 - RealEstate.py[line:160] - INFO: 2019-01-26 15:01:49.396000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-5
+2019-01-26 15:01:53,953 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-26 15:01:54,115 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 15:01:54,132 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:01:54,164 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 15:01:54,164 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-26 15:01:54,165 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 15:01:59,016 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-1
+2019-01-26 15:01:59,170 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 15:01:59,187 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:01:59,220 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 15:01:59,220 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-1
+2019-01-26 15:02:05,464 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 15:02:05,464 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:05.465000 渝北 中渝.香奈公馆-二期 2幢 1单元 33-6
+2019-01-26 15:02:05,469 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:05.469000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-1
+2019-01-26 15:02:05,470 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:05.471000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-2
+2019-01-26 15:02:05,473 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:05.473000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-3
+2019-01-26 15:02:13,144 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-3
+2019-01-26 15:02:13,490 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 15:02:13,505 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:02:13,516 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-2
+2019-01-26 15:02:13,516 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-26 15:02:20,102 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-3
+2019-01-26 15:02:20,446 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-3
+2019-01-26 15:02:20,461 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:02:20,477 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-6
+2019-01-26 15:02:20,477 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
+2019-01-26 15:02:24,308 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:02:32,476 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：130.93
+2019-01-26 15:02:32,476 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:32.477000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-5
+2019-01-26 15:02:36,492 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-2
+2019-01-26 15:02:36,845 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-2
+2019-01-26 15:02:36,865 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:02:36,884 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-2
+2019-01-26 15:02:36,884 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-26 15:02:46,618 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 15:02:46,619 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:46.620000 渝北 中渝.香奈公馆-二期 2幢 1单元 32-6
+2019-01-26 15:02:50,592 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
+2019-01-26 15:02:50,956 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 15:02:50,979 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:02:51,003 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-3
+2019-01-26 15:02:51,003 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-26 15:02:51,851 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 15:02:52,020 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 15:02:52,568 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-01-26 15:02:55,107 - RealEstate.py[line:160] - INFO: 2019-01-26 15:02:55.107000 渝北 中渝.香奈公馆-二期 2幢 1单元 31-1
+2019-01-26 15:03:00,118 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：
+2019-01-26 15:03:00,275 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-26 15:03:00,292 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:03:00,325 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-26 15:03:00,325 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-26 15:03:00,325 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 15:03:05,505 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+4
+2019-01-26 15:03:05,846 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+4
+2019-01-26 15:03:05,864 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:03:05,875 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+5
+2019-01-26 15:03:05,875 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+4
+2019-01-26 15:03:14,198 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 15:03:14,198 - RealEstate.py[line:160] - INFO: 2019-01-26 15:03:14.199000 渝北 中渝.香奈公馆-二期 2幢 1单元 31-2
+2019-01-26 15:03:18,441 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2-1
+2019-01-26 15:03:18,762 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2-1
+2019-01-26 15:03:18,779 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:03:18,786 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3-2
+2019-01-26 15:03:18,786 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
+2019-01-26 15:03:27,015 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：106.95
+2019-01-26 15:03:27,016 - RealEstate.py[line:160] - INFO: 2019-01-26 15:03:27.016000 渝北 中渝.香奈公馆-二期 2幢 1单元 31-3
+2019-01-26 15:03:31,476 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1-1
+2019-01-26 15:03:31,825 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1-1
+2019-01-26 15:03:31,842 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:03:31,867 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-3
+2019-01-26 15:03:31,867 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1-1
+2019-01-26 15:03:33,107 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 15:03:33,214 - RealEstate.py[line:216] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 15:03:33,289 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-01-26 15:03:35,391 - RealEstate.py[line:160] - INFO: 2019-01-26 15:03:35.391000 渝北 中渝.香奈公馆-二期 2幢 1单元 31-5
+2019-01-26 15:07:39,108 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-26 15:07:39,115 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:08:24,306 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:08:38,154 - ImageRecognitionUtil.py[line:113] - INFO: 无法获取验证网页
+2019-01-26 15:08:38,154 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-26 15:08:38,173 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 15:09:08,426 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-26 15:09:25,177 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:09:37,887 - ProxyIPUtil.py[line:164] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-01-26 15:09:40,065 - RealEstate.py[line:160] - INFO: 2019-01-26 15:09:40.065000 渝北 中渝.香奈公馆-二期 2幢 1单元 31-6
+2019-01-26 15:09:49,721 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+2
+2019-01-26 15:09:50,105 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+5
+2019-01-26 15:09:50,121 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:09:50,128 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+5
+2019-01-26 15:09:50,128 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+5
+2019-01-26 15:10:05,342 - RealEstate.py[line:211] - INFO: 套内单价：16000， 套内面积：85.82
+2019-01-26 15:10:05,344 - RealEstate.py[line:160] - INFO: 2019-01-26 15:10:05.344000 渝北 中渝.香奈公馆-二期 2幢 1单元 30-1
+2019-01-26 15:10:10,446 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+1
+2019-01-26 15:10:10,823 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+1
+2019-01-26 15:10:10,845 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-26 15:10:10,861 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+7
+2019-01-26 15:10:10,861 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+1
+2019-01-26 15:10:15,559 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-26 15:10:17,125 - RealEstate.py[line:231] - ERROR: 外层
+2019-01-26 15:10:24,306 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-01-26 15:10:27,591 - RealEstate.py[line:232] - ERROR: ''
+2019-01-26 15:11:24,308 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
