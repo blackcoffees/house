@@ -229,7 +229,7 @@ class RealEstateSpider(BaseSpider):
                                                  static_data.get("sum(sale_count)"))
                     except BaseException as e2:
                         logger.error(u"外层")
-                        logger.error(e2)
+                        # logger.error(e2)
                         continue
                     finally:
                         update_region(region.get("id"), now_page)

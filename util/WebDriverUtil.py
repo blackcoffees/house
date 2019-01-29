@@ -1,10 +1,12 @@
 # -*- coding:utf8 -*-
+import random
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
+from util.CommonUtils import list_user_agent
 from util.ProxyIPUtil import proxy_pool
 
 
@@ -60,6 +62,7 @@ class WebDriverManager(object):
                     self.proxy_ip = proxy_pool.get_proxy_ip()
                 if self.proxy_ip:
                     temp_options.add_argument("--proxy-server={0}".format(self.proxy_ip))
+            temp_options.add_argument("--user-agent=" + list_user_agent[random.randrange(0, len(list_user_agent) - 1)])
             temp_driver = WebChromeDriver(temp_options)
         else:
             raise BaseException("暂不支持该浏览器")

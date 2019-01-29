@@ -40,7 +40,7 @@ class RealEstateSpider(scrapy.Spider):
             page = int(now_url.split("pageindex=")[1].split("&room")[0])
             if not response.text:
                 raise BaseException(u"需要切换代理")
-            json_response = json.loads(response.text.replace("'", "\""))
+            json_response = json.loads(response.text.replace("'", "\"").replace("\\", "\\\\").replace("\n", ""))
             if not isinstance(json_response, list):
                 raise BaseException(u"返回数据错误")
             if len(json_response) == 0:
