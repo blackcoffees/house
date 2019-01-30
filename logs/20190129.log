@@ -1,907 +1,640 @@
-2019-01-29 09:17:07,759 - CommonUtils.py[line:311] - ERROR: 删除日志成功
-2019-01-29 09:17:09,980 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
-2019-01-29 09:17:09,986 - log.py[line:149] - INFO: Versions: %(versions)s
-2019-01-29 09:17:09,996 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
-2019-01-29 09:17:10,036 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
-%(enabledlist)s
-2019-01-29 09:17:10,490 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
-%(enabledlist)s
-2019-01-29 09:17:10,493 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
-%(enabledlist)s
-2019-01-29 09:17:10,499 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
-%(enabledlist)s
-2019-01-29 09:17:10,555 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
-2019-01-29 09:17:13,798 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
-2019-01-29 09:17:13,815 - engine.py[line:256] - INFO: Spider opened
-2019-01-29 09:17:13,825 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:17:13,826 - middlewares.py[line:105] - INFO: Spider opened: building
-2019-01-29 09:17:21,479 - RealEstate.py[line:50] - INFO: 渝北：75
-2019-01-29 09:18:13,862 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:18:25,983 - RealEstate.py[line:231] - ERROR: 外层
-2019-01-29 09:18:26,519 - RealEstate.py[line:50] - INFO: 渝北：76
-2019-01-29 09:19:14,259 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:19:38,632 - RealEstate.py[line:160] - INFO: 2019-01-29 09:19:38.633000 渝北 天晋 10幢 1单元 21跃底层-1（跃1）
-2019-01-29 09:19:42,604 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-3
-2019-01-29 09:19:43,025 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-3
-2019-01-29 09:19:43,045 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:19:43,092 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 09:19:43,094 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
-2019-01-29 09:19:45,161 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.27
-2019-01-29 09:19:45,168 - RealEstate.py[line:160] - INFO: 2019-01-29 09:19:45.169000 渝北 天晋 10幢 1单元 21跃底层-2（跃1）
-2019-01-29 09:19:49,204 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-3
-2019-01-29 09:19:49,621 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-3
-2019-01-29 09:19:49,638 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:19:49,654 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-4
-2019-01-29 09:19:49,654 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
-2019-01-29 09:19:51,236 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：110.86
-2019-01-29 09:19:51,236 - RealEstate.py[line:160] - INFO: 2019-01-29 09:19:51.236000 渝北 天晋 10幢 1单元 21跃底-3（跃1）
-2019-01-29 09:19:55,322 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 09:19:55,467 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:19:55,486 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:19:55,497 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-1
-2019-01-29 09:19:55,497 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-1
-2019-01-29 09:19:59,493 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+6
-2019-01-29 09:19:59,668 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:19:59,688 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:19:59,720 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-3
-2019-01-29 09:19:59,720 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+6
-2019-01-29 09:19:59,921 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:20:00,246 - RealEstate.py[line:216] - ERROR: 无法获取房子数据
-2019-01-29 09:20:00,536 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
-2019-01-29 09:20:03,073 - RealEstate.py[line:160] - INFO: 2019-01-29 09:20:03.074000 渝北 天晋 10幢 1单元 21跃底-4（跃1）
-2019-01-29 09:20:09,779 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-5
-2019-01-29 09:20:09,927 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:20:09,943 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:20:09,976 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 09:20:09,976 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
-2019-01-29 09:20:13,181 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：105.25
-2019-01-29 09:20:13,183 - RealEstate.py[line:160] - INFO: 2019-01-29 09:20:13.183000 渝北 天晋 10幢 1单元 21跃底层-5（跃1）
-2019-01-29 09:20:13,825 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:20:17,707 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-1
-2019-01-29 09:20:17,862 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:20:17,881 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:20:17,901 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-4
-2019-01-29 09:20:17,901 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-1
-2019-01-29 09:20:20,282 - house.py[line:146] - ERROR: 没有获取到数据
-2019-01-29 09:20:20,377 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：110.86
-2019-01-29 09:20:20,377 - RealEstate.py[line:160] - INFO: 2019-01-29 09:20:20.377000 渝北 天晋 10幢 1单元 21跃底层-6（跃1）
-2019-01-29 09:20:20,552 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
-2019-01-29 09:20:24,753 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6+3
-2019-01-29 09:20:24,920 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:20:24,933 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:20:24,950 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+6
-2019-01-29 09:20:24,950 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+3
-2019-01-29 09:20:26,105 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:20:26,285 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:24:43,875 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:20:28,190 - house.py[line:146] - ERROR: 没有获取到数据
-2019-01-29 09:21:08,934 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
-2019-01-29 09:21:11,148 - RealEstate.py[line:160] - INFO: 2019-01-29 09:21:11.149000 渝北 天晋 10幢 1单元 20-1
-2019-01-29 09:21:13,697 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
-2019-01-29 09:21:13,826 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:21:17,181 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6+7
-2019-01-29 09:21:17,539 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6+4
-2019-01-29 09:21:17,563 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:21:17,581 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+2
-2019-01-29 09:21:17,581 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+4
-2019-01-29 09:21:19,844 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:21:31,747 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
-2019-01-29 09:21:41,099 - RealEstate.py[line:216] - ERROR: list index out of range
-2019-01-29 09:21:49,875 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
-2019-01-29 09:21:51,980 - RealEstate.py[line:160] - INFO: 2019-01-29 09:21:51.981000 渝北 天晋 10幢 1单元 20-2
-2019-01-29 09:21:57,753 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-3
-2019-01-29 09:21:57,904 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:21:57,923 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:21:57,957 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 09:21:57,959 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-3
-2019-01-29 09:22:00,384 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：67.35
-2019-01-29 09:22:00,385 - RealEstate.py[line:160] - INFO: 2019-01-29 09:22:00.386000 渝北 天晋 10幢 1单元 20-3
-2019-01-29 09:22:03,184 - house.py[line:146] - ERROR: 没有获取到数据
-2019-01-29 09:22:03,260 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
-2019-01-29 09:22:04,869 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+2
-2019-01-29 09:22:05,229 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+2
-2019-01-29 09:22:05,246 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:22:05,259 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+6
-2019-01-29 09:22:05,260 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+2
-2019-01-29 09:22:11,168 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-4
-2019-01-29 09:22:11,312 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:22:11,331 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:22:11,336 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2-2
-2019-01-29 09:22:11,338 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-4
-2019-01-29 09:22:14,523 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 09:22:14,523 - RealEstate.py[line:160] - INFO: 2019-01-29 09:22:14.524000 渝北 天晋 10幢 1单元 20-4
-2019-01-29 09:22:18,365 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-2
-2019-01-29 09:22:18,506 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:22:18,523 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:22:18,558 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 09:22:18,558 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
-2019-01-29 09:22:19,177 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:22:19,325 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:27:13,276 - RealEstate.py[line:160] - INFO: 2019-01-30 14:27:13.276000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 12-5
+2019-01-30 14:27:18,418 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-5
+2019-01-30 14:27:18,569 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:27:18,589 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:27:18,624 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-9
+2019-01-30 14:27:18,624 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-5
+2019-01-30 14:27:20,140 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:27:41,193 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:22:19,404 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
-2019-01-29 09:22:22,109 - RealEstate.py[line:160] - INFO: 2019-01-29 09:22:22.110000 渝北 天晋 10幢 1单元 20-5
-2019-01-29 09:22:28,786 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
-2019-01-29 09:22:28,789 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:22:29,230 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
-2019-01-29 09:23:53,562 - ImageRecognitionUtil.py[line:113] - INFO: 无法获取验证网页
-2019-01-29 09:23:53,562 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 09:23:56,006 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:24:26,207 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 09:29:48,591 - RealEstate.py[line:160] - INFO: 2019-01-29 09:29:48.591000 渝北 天晋 10幢 1单元 20-6
-2019-01-29 09:31:19,926 - ImageRecognitionUtil.py[line:113] - INFO: 无法获取验证网页
-2019-01-29 09:31:19,926 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 09:31:19,943 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:31:40,986 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 09:31:41,171 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
-2019-01-29 09:31:43,243 - RealEstate.py[line:160] - INFO: 2019-01-29 09:31:43.243000 渝北 天晋 10幢 1单元 19-1
-2019-01-29 09:31:48,144 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
-2019-01-29 09:31:48,499 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:31:48,516 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:31:48,535 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+8
-2019-01-29 09:31:48,535 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
-2019-01-29 09:31:51,674 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 09:31:51,674 - RealEstate.py[line:160] - INFO: 2019-01-29 09:31:51.674000 渝北 天晋 10幢 1单元 19-2
-2019-01-29 09:31:55,973 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2-1
-2019-01-29 09:31:56,322 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2-1
-2019-01-29 09:31:56,342 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:31:56,361 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-5
-2019-01-29 09:31:56,361 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
-2019-01-29 09:31:59,059 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 09:31:59,059 - RealEstate.py[line:160] - INFO: 2019-01-29 09:31:59.060000 渝北 天晋 10幢 1单元 19-3
-2019-01-29 09:32:03,000 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+7
-2019-01-29 09:32:03,355 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+7
-2019-01-29 09:32:03,371 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:32:03,375 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+4
-2019-01-29 09:32:03,377 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+7
-2019-01-29 09:32:04,989 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:32:05,099 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:29:07,348 - RealEstate.py[line:160] - INFO: 2019-01-30 14:29:07.349000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 12-6
+2019-01-30 14:29:12,279 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+9
+2019-01-30 14:29:12,430 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:29:12,447 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:29:12,476 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-4
+2019-01-30 14:29:12,476 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+9
+2019-01-30 14:29:21,999 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:29:22,000 - RealEstate.py[line:160] - INFO: 2019-01-30 14:29:22 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 12-7
+2019-01-30 14:29:27,055 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
+2019-01-30 14:29:27,415 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-1
+2019-01-30 14:29:27,434 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:29:27,463 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-7
+2019-01-30 14:29:27,463 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-30 14:29:32,072 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:29:32,073 - RealEstate.py[line:160] - INFO: 2019-01-30 14:29:32.074000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 12-8
+2019-01-30 14:29:36,351 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:29:36,503 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:29:36,523 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:29:36,561 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-8
+2019-01-30 14:29:36,561 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-8
+2019-01-30 14:29:41,542 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5-2
+2019-01-30 14:29:41,907 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5-2
+2019-01-30 14:29:41,924 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:29:41,959 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:29:41,959 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5-2
+2019-01-30 14:29:46,507 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:29:46,509 - RealEstate.py[line:160] - INFO: 2019-01-30 14:29:46.509000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 12-9
+2019-01-30 14:29:50,877 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+4
+2019-01-30 14:29:51,260 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+4
+2019-01-30 14:29:51,279 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:29:51,296 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+8
+2019-01-30 14:29:51,296 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+4
+2019-01-30 14:29:57,694 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-2
+2019-01-30 14:29:58,039 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-2
+2019-01-30 14:29:58,059 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:29:58,098 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:29:58,098 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-2
+2019-01-30 14:30:02,681 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:30:02,681 - RealEstate.py[line:160] - INFO: 2019-01-30 14:30:02.682000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 12-10
+2019-01-30 14:30:06,914 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+7
+2019-01-30 14:30:07,280 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:30:07,296 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:30:07,305 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+8
+2019-01-30 14:30:07,305 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+7
+2019-01-30 14:30:08,747 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:30:29,782 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:33:00,486 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
-2019-01-29 09:33:02,578 - RealEstate.py[line:160] - INFO: 2019-01-29 09:33:02.579000 渝北 天晋 10幢 1单元 19-4
-2019-01-29 09:33:07,680 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 09:33:08,039 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:33:08,056 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:33:08,078 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7+6
-2019-01-29 09:33:08,078 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+6
-2019-01-29 09:33:13,122 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+9
-2019-01-29 09:33:13,470 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+9
-2019-01-29 09:33:13,490 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:33:13,500 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+8
-2019-01-29 09:33:13,500 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+9
-2019-01-29 09:33:16,924 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 09:33:16,924 - RealEstate.py[line:160] - INFO: 2019-01-29 09:33:16.925000 渝北 天晋 10幢 1单元 19-5
-2019-01-29 09:33:21,154 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+2
-2019-01-29 09:33:21,503 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2+2
-2019-01-29 09:33:21,526 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:33:21,536 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+8
-2019-01-29 09:33:21,536 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+2
-2019-01-29 09:33:22,822 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:33:23,016 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:31:13,891 - RealEstate.py[line:160] - INFO: 2019-01-30 14:31:13.891000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-1
+2019-01-30 14:31:19,595 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:31:19,944 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:31:19,963 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:31:19,969 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+3
+2019-01-30 14:31:19,969 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+3
+2019-01-30 14:31:24,881 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:31:25,023 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:31:25,042 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:31:25,055 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-1
+2019-01-30 14:31:25,055 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-1
+2019-01-30 14:31:30,144 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:31:30,303 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:31:30,323 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:31:30,357 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:31:30,358 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-30 14:31:30,358 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:31:35,338 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1-1
+2019-01-30 14:31:35,703 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:31:35,721 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:31:35,726 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2-1
+2019-01-30 14:31:35,726 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1-1
+2019-01-30 14:31:37,806 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:31:58,855 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:38:45,865 - RealEstate.py[line:160] - INFO: 2019-01-29 09:38:45.865000 渝北 天晋 10幢 1单元 19-6
-2019-01-29 09:38:51,236 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+2
-2019-01-29 09:38:51,601 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+3
-2019-01-29 09:38:51,618 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:38:51,631 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+8
-2019-01-29 09:38:51,632 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+3
-2019-01-29 09:38:54,493 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 09:38:54,493 - RealEstate.py[line:160] - INFO: 2019-01-29 09:38:54.494000 渝北 天晋 10幢 1单元 18-1
-2019-01-29 09:38:58,546 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-1
-2019-01-29 09:38:58,921 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9-1
-2019-01-29 09:38:58,944 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:38:58,980 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 09:38:58,980 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-1
-2019-01-29 09:39:01,688 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 09:39:01,690 - RealEstate.py[line:160] - INFO: 2019-01-29 09:39:01.690000 渝北 天晋 10幢 1单元 18-2
-2019-01-29 09:39:05,858 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-8
-2019-01-29 09:39:06,003 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-8
-2019-01-29 09:39:06,020 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:39:06,045 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-2
-2019-01-29 09:39:06,046 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 09:39:10,789 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-1
-2019-01-29 09:39:11,138 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-1
-2019-01-29 09:39:11,158 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:39:11,171 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-4
-2019-01-29 09:39:11,171 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-1
-2019-01-29 09:39:11,940 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:39:32,984 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:32:22,552 - RealEstate.py[line:160] - INFO: 2019-01-30 14:32:22.552000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-2
+2019-01-30 14:32:28,368 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-4
+2019-01-30 14:32:28,736 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-4
+2019-01-30 14:32:28,755 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:32:28,789 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-9
+2019-01-30 14:32:28,789 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-4
+2019-01-30 14:32:30,496 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:32:51,536 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:44:55,812 - RealEstate.py[line:160] - INFO: 2019-01-29 09:44:55.813000 渝北 天晋 10幢 1单元 18-3
-2019-01-29 09:45:00,690 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+7
-2019-01-29 09:45:01,052 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+7
-2019-01-29 09:45:01,068 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:45:01,079 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+8
-2019-01-29 09:45:01,079 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+7
-2019-01-29 09:45:04,720 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 09:45:04,720 - RealEstate.py[line:160] - INFO: 2019-01-29 09:45:04.720000 渝北 天晋 10幢 1单元 18-4
-2019-01-29 09:45:08,769 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-6
-2019-01-29 09:45:08,914 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:45:08,933 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:45:08,964 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 09:45:08,966 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-6
-2019-01-29 09:45:12,233 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 09:45:12,233 - RealEstate.py[line:160] - INFO: 2019-01-29 09:45:12.233000 渝北 天晋 10幢 1单元 18-5
-2019-01-29 09:45:16,289 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-7
-2019-01-29 09:45:16,438 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:45:16,453 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:45:16,473 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-2
-2019-01-29 09:45:16,473 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
-2019-01-29 09:45:17,283 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:45:38,338 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:33:14,599 - RealEstate.py[line:160] - INFO: 2019-01-30 14:33:14.600000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-3
+2019-01-30 14:33:19,848 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+7
+2019-01-30 14:33:20,203 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2+7
+2019-01-30 14:33:20,220 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:33:20,223 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+2
+2019-01-30 14:33:20,223 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+7
+2019-01-30 14:33:35,548 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:33:35,548 - RealEstate.py[line:160] - INFO: 2019-01-30 14:33:35.548000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-4
+2019-01-30 14:33:39,648 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-1
+2019-01-30 14:33:39,802 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:33:39,819 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:33:39,841 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-3
+2019-01-30 14:33:39,841 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-1
+2019-01-30 14:33:46,355 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:33:46,358 - RealEstate.py[line:160] - INFO: 2019-01-30 14:33:46.358000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-5
+2019-01-30 14:33:50,552 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:33:50,694 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:33:50,713 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:33:50,716 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1-1
+2019-01-30 14:33:50,717 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1-1
+2019-01-30 14:33:56,638 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+4
+2019-01-30 14:33:57,009 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+4
+2019-01-30 14:33:57,029 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:33:57,035 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+5
+2019-01-30 14:33:57,035 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+4
+2019-01-30 14:34:01,930 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 14:34:01,930 - RealEstate.py[line:160] - INFO: 2019-01-30 14:34:01.931000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-6
+2019-01-30 14:34:06,259 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+2
+2019-01-30 14:34:06,628 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+3
+2019-01-30 14:34:06,644 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:34:06,653 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3-3
+2019-01-30 14:34:06,653 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+3
+2019-01-30 14:34:13,246 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:34:13,247 - RealEstate.py[line:160] - INFO: 2019-01-30 14:34:13.248000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-7
+2019-01-30 14:34:17,411 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-2
+2019-01-30 14:34:17,782 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-2
+2019-01-30 14:34:17,802 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:34:17,808 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2-2
+2019-01-30 14:34:17,808 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-2
+2019-01-30 14:34:24,220 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
+2019-01-30 14:34:24,576 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:34:24,595 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:34:24,618 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-5
+2019-01-30 14:34:24,619 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-30 14:34:25,967 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:34:47,007 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:50:47,332 - RealEstate.py[line:160] - INFO: 2019-01-29 09:50:47.332000 渝北 天晋 10幢 1单元 18-6
-2019-01-29 09:50:52,700 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+9
-2019-01-29 09:50:52,836 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+9
-2019-01-29 09:50:52,855 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:50:52,861 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+6
-2019-01-29 09:50:52,861 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+9
-2019-01-29 09:50:56,114 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 09:50:56,115 - RealEstate.py[line:160] - INFO: 2019-01-29 09:50:56.116000 渝北 天晋 10幢 1单元 17-1
-2019-01-29 09:51:00,157 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-5
-2019-01-29 09:51:00,515 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 09:51:00,532 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:51:00,549 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-4
-2019-01-29 09:51:00,549 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-5
-2019-01-29 09:51:01,960 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:51:23,005 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:34:52,849 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-01-30 14:34:55,220 - RealEstate.py[line:160] - INFO: 2019-01-30 14:34:55.221000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-8
+2019-01-30 14:35:02,160 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+1
+2019-01-30 14:35:02,548 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+1
+2019-01-30 14:35:02,566 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:35:02,585 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+7
+2019-01-30 14:35:02,585 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+1
+2019-01-30 14:35:07,368 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:35:07,369 - RealEstate.py[line:160] - INFO: 2019-01-30 14:35:07.370000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-9
+2019-01-30 14:35:11,496 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-2
+2019-01-30 14:35:11,852 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-2
+2019-01-30 14:35:11,872 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:35:11,904 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-6
+2019-01-30 14:35:11,905 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
+2019-01-30 14:35:16,868 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:35:16,868 - RealEstate.py[line:160] - INFO: 2019-01-30 14:35:16.869000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 11-10
+2019-01-30 14:35:21,808 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:35:22,164 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:35:22,183 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:35:22,200 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+2
+2019-01-30 14:35:22,200 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+2
+2019-01-30 14:35:23,119 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:35:23,792 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 09:54:44,825 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
-2019-01-29 09:54:44,831 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
-2019-01-29 09:54:44,928 - scraper.py[line:208] - ERROR: Error downloading %(request)s
-Traceback (most recent call last):
-  File "E:\virtualenv\python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
-    defer.returnValue((yield download_func(request=request,spider=spider)))
-ResponseFailed: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
-2019-01-29 09:54:45,029 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
-2019-01-29 09:54:45,032 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
-{'downloader/exception_count': 4,
- 'downloader/exception_type_count/twisted.web._newclient.ResponseFailed': 3,
- 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
- 'downloader/request_bytes': 34492,
- 'downloader/request_count': 84,
- 'downloader/request_method_count/GET': 84,
- 'downloader/response_bytes': 6912826,
- 'downloader/response_count': 80,
- 'downloader/response_status_count/200': 79,
- 'downloader/response_status_count/404': 1,
- 'finish_reason': 'finished',
- 'finish_time': datetime.datetime(2019, 1, 29, 1, 54, 45, 31000),
- 'item_scraped_count': 2527,
- 'log_count/DEBUG': 2613,
- 'log_count/ERROR': 4,
- 'log_count/INFO': 22,
- 'request_depth_max': 79,
- 'response_received_count': 80,
- 'retry/count': 3,
- 'retry/max_reached': 2,
- 'retry/reason_count/twisted.web._newclient.ResponseFailed': 2,
- 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
- 'scheduler/dequeued': 83,
- 'scheduler/dequeued/memory': 83,
- 'scheduler/enqueued': 83,
- 'scheduler/enqueued/memory': 83,
- 'start_time': datetime.datetime(2019, 1, 29, 1, 17, 13, 827000)}
-2019-01-29 09:54:45,032 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
-2019-01-29 09:56:42,411 - RealEstate.py[line:160] - INFO: 2019-01-29 09:56:42.412000 渝北 天晋 10幢 1单元 17-2
-2019-01-29 09:56:47,568 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+5
-2019-01-29 09:56:47,944 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+5
-2019-01-29 09:56:47,963 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:56:47,967 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1-1
-2019-01-29 09:56:47,967 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+5
-2019-01-29 09:56:56,913 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 09:56:56,914 - RealEstate.py[line:160] - INFO: 2019-01-29 09:56:56.914000 渝北 天晋 10幢 1单元 17-3
-2019-01-29 09:57:01,229 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+3
-2019-01-29 09:57:01,582 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+3
-2019-01-29 09:57:01,595 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:57:01,601 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+6
-2019-01-29 09:57:01,601 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+3
-2019-01-29 09:57:04,730 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 09:57:04,730 - RealEstate.py[line:160] - INFO: 2019-01-29 09:57:04.731000 渝北 天晋 10幢 1单元 17-4
-2019-01-29 09:57:08,773 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5+1
-2019-01-29 09:57:09,118 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5+1
-2019-01-29 09:57:09,137 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 09:57:09,144 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+5
-2019-01-29 09:57:09,144 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+1
-2019-01-29 09:57:10,321 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 09:57:31,355 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:35:24,049 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-01-30 14:35:26,125 - RealEstate.py[line:160] - INFO: 2019-01-30 14:35:26.125000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-1
+2019-01-30 14:35:31,262 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-8
+2019-01-30 14:35:31,424 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:35:31,441 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:35:31,477 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:35:31,477 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-8
+2019-01-30 14:35:35,875 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:35:35,877 - RealEstate.py[line:160] - INFO: 2019-01-30 14:35:35.877000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-2
+2019-01-30 14:35:39,974 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-3
+2019-01-30 14:35:40,339 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-3
+2019-01-30 14:35:40,355 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:35:40,388 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:35:40,388 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-30 14:35:48,599 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:35:48,601 - RealEstate.py[line:160] - INFO: 2019-01-30 14:35:48.601000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-3
+2019-01-30 14:35:52,762 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-1
+2019-01-30 14:35:53,122 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:35:53,141 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:35:53,161 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-4
+2019-01-30 14:35:53,161 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-1
+2019-01-30 14:35:58,141 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:35:58,142 - RealEstate.py[line:160] - INFO: 2019-01-30 14:35:58.143000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-4
+2019-01-30 14:36:02,325 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+1
+2019-01-30 14:36:02,681 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+1
+2019-01-30 14:36:02,700 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:36:02,704 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+5
+2019-01-30 14:36:02,706 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+1
+2019-01-30 14:36:03,983 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:36:03,984 - RealEstate.py[line:160] - INFO: 2019-01-30 14:36:03.984000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-5
+2019-01-30 14:36:10,566 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2-1
+2019-01-30 14:36:10,924 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2-1
+2019-01-30 14:36:10,943 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:36:10,963 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-1
+2019-01-30 14:36:10,963 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
+2019-01-30 14:36:11,819 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:36:12,006 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 10:02:52,042 - RealEstate.py[line:160] - INFO: 2019-01-29 10:02:52.042000 渝北 天晋 10幢 1单元 17-5
-2019-01-29 10:02:56,936 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-3
-2019-01-29 10:02:57,084 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:02:57,098 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:02:57,134 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-4
-2019-01-29 10:02:57,134 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-3
-2019-01-29 10:03:00,101 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:03:00,104 - RealEstate.py[line:160] - INFO: 2019-01-29 10:03:00.103000 渝北 天晋 10幢 1单元 17-6
-2019-01-29 10:03:04,309 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+1
-2019-01-29 10:03:04,665 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+1
-2019-01-29 10:03:04,684 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:03:04,690 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+3
-2019-01-29 10:03:04,690 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+1
-2019-01-29 10:03:09,026 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:03:09,029 - RealEstate.py[line:160] - INFO: 2019-01-29 10:03:09.029000 渝北 天晋 10幢 1单元 16-1
-2019-01-29 10:03:13,368 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:03:13,509 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:03:13,526 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:03:13,532 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2-1
-2019-01-29 10:03:13,532 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
-2019-01-29 10:03:18,805 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+7
-2019-01-29 10:03:19,170 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+7
-2019-01-29 10:03:19,187 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:03:19,203 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+3
-2019-01-29 10:03:19,203 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+7
-2019-01-29 10:03:20,496 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:03:41,542 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:36:17,674 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-01-30 14:36:19,752 - RealEstate.py[line:160] - INFO: 2019-01-30 14:36:19.752000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-6
+2019-01-30 14:36:32,957 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:36:33,105 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:36:33,125 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:36:33,144 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+6
+2019-01-30 14:36:33,144 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+6
+2019-01-30 14:36:45,959 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+1
+2019-01-30 14:36:46,316 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:36:46,335 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:36:46,358 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7+2
+2019-01-30 14:36:46,358 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+1
+2019-01-30 14:37:07,872 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-30 14:37:07,872 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:37:07,888 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:37:15,940 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-30 14:37:19,869 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-01-30 14:37:22,098 - RealEstate.py[line:160] - INFO: 2019-01-30 14:37:22.099000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-7
+2019-01-30 14:37:43,696 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-30 14:37:43,696 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:37:43,714 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:37:45,980 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-30 14:37:46,107 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-01-30 14:37:48,171 - RealEstate.py[line:160] - INFO: 2019-01-30 14:37:48.172000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-8
+2019-01-30 14:39:19,642 - ImageRecognitionUtil.py[line:113] - INFO: 无法获取验证网页
+2019-01-30 14:39:19,642 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:39:19,657 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:39:49,829 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-01-30 14:40:12,282 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-01-30 14:40:14,463 - RealEstate.py[line:160] - INFO: 2019-01-30 14:40:14.464000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-9
+2019-01-30 14:40:19,678 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+2
+2019-01-30 14:40:20,094 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+2
+2019-01-30 14:40:20,112 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:40:20,117 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+5
+2019-01-30 14:40:20,118 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+2
+2019-01-30 14:40:26,039 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:40:26,039 - RealEstate.py[line:160] - INFO: 2019-01-30 14:40:26.040000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 10-10
+2019-01-30 14:40:31,553 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-2
+2019-01-30 14:40:31,704 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:40:31,727 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:40:31,762 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:40:31,762 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
+2019-01-30 14:40:40,497 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 14:40:40,500 - RealEstate.py[line:160] - INFO: 2019-01-30 14:40:40.500000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-1
+2019-01-30 14:40:44,599 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-1
+2019-01-30 14:40:44,749 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:40:44,769 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:40:44,799 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-5
+2019-01-30 14:40:44,799 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-1
+2019-01-30 14:40:52,279 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:40:52,280 - RealEstate.py[line:160] - INFO: 2019-01-30 14:40:52.281000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-2
+2019-01-30 14:40:57,020 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+1
+2019-01-30 14:40:57,391 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+1
+2019-01-30 14:40:57,408 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:40:57,413 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+5
+2019-01-30 14:40:57,413 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+1
+2019-01-30 14:41:04,796 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:41:04,798 - RealEstate.py[line:160] - INFO: 2019-01-30 14:41:04.798000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-3
+2019-01-30 14:41:11,170 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+7
+2019-01-30 14:41:11,539 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+7
+2019-01-30 14:41:11,555 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:41:11,558 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+5
+2019-01-30 14:41:11,559 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+7
+2019-01-30 14:41:12,407 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:41:12,650 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 10:09:03,223 - RealEstate.py[line:160] - INFO: 2019-01-29 10:09:03.223000 渝北 天晋 10幢 1单元 16-2
-2019-01-29 10:09:08,318 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:09:08,460 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:09:08,477 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:09:08,492 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+6
-2019-01-29 10:09:08,493 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+6
-2019-01-29 10:09:13,243 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-2
-2019-01-29 10:09:13,605 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-2
-2019-01-29 10:09:13,628 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:09:13,671 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-6
-2019-01-29 10:09:13,673 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
-2019-01-29 10:09:20,928 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:09:20,930 - RealEstate.py[line:160] - INFO: 2019-01-29 10:09:20.930000 渝北 天晋 10幢 1单元 16-3
-2019-01-29 10:09:25,253 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+5
-2019-01-29 10:09:25,398 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:09:25,415 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:09:25,430 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+6
-2019-01-29 10:09:25,430 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+5
-2019-01-29 10:09:28,772 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:09:28,773 - RealEstate.py[line:160] - INFO: 2019-01-29 10:09:28.773000 渝北 天晋 10幢 1单元 16-4
-2019-01-29 10:09:33,005 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1-1
-2019-01-29 10:09:33,359 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1-1
-2019-01-29 10:09:33,381 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:09:33,407 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+9
-2019-01-29 10:09:33,407 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1-1
-2019-01-29 10:09:34,703 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:09:55,769 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:41:12,821 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-01-30 14:41:15,447 - RealEstate.py[line:160] - INFO: 2019-01-30 14:41:15.448000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-4
+2019-01-30 14:41:22,645 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-7
+2019-01-30 14:41:22,805 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:41:22,823 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:41:22,858 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-5
+2019-01-30 14:41:22,858 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
+2019-01-30 14:41:27,003 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:41:27,005 - RealEstate.py[line:160] - INFO: 2019-01-30 14:41:27.005000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-5
+2019-01-30 14:41:31,407 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+3
+2019-01-30 14:41:31,766 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+3
+2019-01-30 14:41:31,782 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:41:31,789 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+3
+2019-01-30 14:41:31,789 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+3
+2019-01-30 14:41:47,427 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 14:41:47,427 - RealEstate.py[line:160] - INFO: 2019-01-30 14:41:47.428000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-6
+2019-01-30 14:41:51,693 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-8
+2019-01-30 14:41:51,851 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:41:51,871 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:41:51,904 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:41:51,905 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-8
+2019-01-30 14:41:59,546 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:41:59,548 - RealEstate.py[line:160] - INFO: 2019-01-30 14:41:59.548000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-7
+2019-01-30 14:42:03,823 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+3
+2019-01-30 14:42:04,196 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+3
+2019-01-30 14:42:04,210 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:42:04,217 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+9
+2019-01-30 14:42:04,217 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+3
+2019-01-30 14:42:06,543 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:42:06,545 - RealEstate.py[line:160] - INFO: 2019-01-30 14:42:06.545000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-8
+2019-01-30 14:42:12,877 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+8
+2019-01-30 14:42:13,023 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2+8
+2019-01-30 14:42:13,042 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:42:13,053 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+9
+2019-01-30 14:42:13,053 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+8
+2019-01-30 14:42:14,147 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:42:14,316 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 10:15:17,609 - RealEstate.py[line:160] - INFO: 2019-01-29 10:15:17.610000 渝北 天晋 10幢 1单元 16-5
-2019-01-29 10:15:23,188 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:15:23,334 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:15:23,351 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:15:23,375 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-3
-2019-01-29 10:15:23,375 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
-2019-01-29 10:15:28,246 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:15:28,414 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:15:28,433 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:15:28,456 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-2
-2019-01-29 10:15:28,456 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-2
-2019-01-29 10:15:33,573 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-6
-2019-01-29 10:15:33,936 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-6
-2019-01-29 10:15:33,953 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:15:33,969 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-2
-2019-01-29 10:15:33,970 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-6
-2019-01-29 10:15:39,948 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:15:39,948 - RealEstate.py[line:160] - INFO: 2019-01-29 10:15:39.949000 渝北 天晋 10幢 1单元 16-6
-2019-01-29 10:15:44,301 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2-2
-2019-01-29 10:15:44,657 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2-2
-2019-01-29 10:15:44,677 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:15:44,710 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:15:44,710 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-2
-2019-01-29 10:15:47,732 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:15:47,733 - RealEstate.py[line:160] - INFO: 2019-01-29 10:15:47.733000 渝北 天晋 10幢 1单元 15-1
-2019-01-29 10:15:51,690 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-3
-2019-01-29 10:15:52,052 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-3
-2019-01-29 10:15:52,068 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:15:52,088 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-4
-2019-01-29 10:15:52,088 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-3
-2019-01-29 10:15:53,894 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:15:53,894 - RealEstate.py[line:160] - INFO: 2019-01-29 10:15:53.894000 渝北 天晋 10幢 1单元 15-2
-2019-01-29 10:16:00,038 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+2
-2019-01-29 10:16:00,176 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+8
-2019-01-29 10:16:00,191 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:16:00,207 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+3
-2019-01-29 10:16:00,207 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+8
-2019-01-29 10:16:01,773 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:16:22,813 - RealEstate.py[line:216] - ERROR: Alert Text: None
+2019-01-30 14:42:14,540 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-01-30 14:42:16,717 - RealEstate.py[line:160] - INFO: 2019-01-30 14:42:16.718000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-9
+2019-01-30 14:42:23,721 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+8
+2019-01-30 14:42:23,869 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:42:23,887 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:42:23,924 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:42:23,924 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+8
+2019-01-30 14:42:30,052 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:42:30,052 - RealEstate.py[line:160] - INFO: 2019-01-30 14:42:30.053000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 9-10
+2019-01-30 14:42:33,959 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1-1
+2019-01-30 14:42:34,335 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1-1
+2019-01-30 14:42:34,355 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:42:34,381 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+6
+2019-01-30 14:42:34,381 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1-1
+2019-01-30 14:42:39,151 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 14:42:39,153 - RealEstate.py[line:160] - INFO: 2019-01-30 14:42:39.153000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-1
+2019-01-30 14:42:43,211 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:42:43,361 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:42:43,378 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:42:43,414 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:42:43,415 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-30 14:42:43,415 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:42:49,743 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-2
+2019-01-30 14:42:50,418 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-2
+2019-01-30 14:42:50,440 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:42:50,473 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:42:50,473 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-2
+2019-01-30 14:43:06,276 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:43:06,276 - RealEstate.py[line:160] - INFO: 2019-01-30 14:43:06.276000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-2
+2019-01-30 14:43:10,177 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2-1
+2019-01-30 14:43:10,536 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2-1
+2019-01-30 14:43:10,555 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:43:10,571 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-3
+2019-01-30 14:43:10,571 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-1
+2019-01-30 14:43:11,430 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:43:11,555 - RealEstate.py[line:216] - ERROR: 无法获取房子数据
+2019-01-30 14:44:11,793 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-01-30 14:44:14,250 - RealEstate.py[line:160] - INFO: 2019-01-30 14:44:14.251000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-3
+2019-01-30 14:44:21,239 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5+8
+2019-01-30 14:44:21,381 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5-8
+2019-01-30 14:44:21,398 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:44:21,405 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2-1
+2019-01-30 14:44:21,405 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+8
+2019-01-30 14:44:27,173 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:44:27,174 - RealEstate.py[line:160] - INFO: 2019-01-30 14:44:27.174000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-4
+2019-01-30 14:44:31,114 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-7
+2019-01-30 14:44:31,476 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-1
+2019-01-30 14:44:31,497 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:44:31,512 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-1
+2019-01-30 14:44:31,512 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
+2019-01-30 14:44:40,345 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:44:40,346 - RealEstate.py[line:160] - INFO: 2019-01-30 14:44:40.347000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-5
+2019-01-30 14:44:44,415 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-8
+2019-01-30 14:44:44,576 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-8
+2019-01-30 14:44:44,595 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:44:44,609 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-1
+2019-01-30 14:44:44,609 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:44:50,740 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-3
+2019-01-30 14:44:50,892 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:44:50,908 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:44:50,941 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-9
+2019-01-30 14:44:50,943 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-3
+2019-01-30 14:44:55,490 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 14:44:55,490 - RealEstate.py[line:160] - INFO: 2019-01-30 14:44:55.491000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-6
+2019-01-30 14:45:00,168 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+7
+2019-01-30 14:45:00,542 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+7
+2019-01-30 14:45:00,559 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:45:00,562 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+9
+2019-01-30 14:45:00,562 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+7
+2019-01-30 14:45:07,178 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+8
+2019-01-30 14:45:07,332 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+8
+2019-01-30 14:45:07,348 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:45:07,355 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+9
+2019-01-30 14:45:07,355 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+8
+2019-01-30 14:45:16,331 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:45:16,332 - RealEstate.py[line:160] - INFO: 2019-01-30 14:45:16.332000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-7
+2019-01-30 14:45:21,154 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-2
+2019-01-30 14:45:21,523 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:45:21,542 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:45:21,576 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-8
+2019-01-30 14:45:21,576 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-2
+2019-01-30 14:45:22,960 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:45:44,132 - RealEstate.py[line:216] - ERROR: Alert Text: None
 Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 10:21:42,543 - RealEstate.py[line:160] - INFO: 2019-01-29 10:21:42.544000 渝北 天晋 10幢 1单元 15-3
-2019-01-29 10:21:48,164 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-5
-2019-01-29 10:21:48,536 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-5
-2019-01-29 10:21:48,552 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:21:48,584 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-4
-2019-01-29 10:21:48,584 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-5
-2019-01-29 10:21:51,976 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:21:51,977 - RealEstate.py[line:160] - INFO: 2019-01-29 10:21:51.978000 渝北 天晋 10幢 1单元 15-4
-2019-01-29 10:21:56,280 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:21:56,615 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:21:56,634 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:21:56,667 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:21:56,667 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
-2019-01-29 10:21:56,667 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:22:01,273 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-4
-2019-01-29 10:22:01,424 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:22:01,443 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:22:01,476 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:22:01,477 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-4
-2019-01-29 10:22:04,832 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:22:04,832 - RealEstate.py[line:160] - INFO: 2019-01-29 10:22:04.833000 渝北 天晋 10幢 1单元 15-5
-2019-01-29 10:22:09,102 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+6
-2019-01-29 10:22:09,256 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:22:09,276 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:22:09,292 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-3
-2019-01-29 10:22:09,292 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+6
-2019-01-29 10:22:10,122 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:22:31,167 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+2019-01-30 14:47:05,885 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-01-30 14:47:08,490 - RealEstate.py[line:160] - INFO: 2019-01-30 14:47:08.491000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-8
+2019-01-30 14:47:15,823 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:47:15,973 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:47:15,996 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:47:16,032 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:47:16,032 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-30 14:47:16,032 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:47:27,756 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+1
+2019-01-30 14:47:28,108 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+1
+2019-01-30 14:47:28,128 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:47:28,163 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:47:28,163 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+1
+2019-01-30 14:47:32,374 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:47:32,375 - RealEstate.py[line:160] - INFO: 2019-01-30 14:47:32.375000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-9
+2019-01-30 14:47:49,611 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:47:49,976 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:47:49,997 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:47:50,017 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+3
+2019-01-30 14:47:50,017 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+3
+2019-01-30 14:48:03,019 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+2
+2019-01-30 14:48:03,384 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+1
+2019-01-30 14:48:03,405 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:48:03,440 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+4
+2019-01-30 14:48:03,440 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+1
+2019-01-30 14:48:25,559 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8+4
+2019-01-30 14:48:25,707 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:48:25,726 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:48:25,750 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-3
+2019-01-30 14:48:25,750 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+4
+2019-01-30 14:48:47,970 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:48:47,971 - RealEstate.py[line:160] - INFO: 2019-01-30 14:48:47.972000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 8-10
+2019-01-30 14:49:02,012 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-3
+2019-01-30 14:49:02,390 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-3
+2019-01-30 14:49:02,405 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:49:02,438 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:49:02,438 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-30 14:49:19,388 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+2
+2019-01-30 14:49:19,536 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:49:19,553 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:49:19,578 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+6
+2019-01-30 14:49:19,579 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+2
+2019-01-30 14:49:30,322 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6+7
+2019-01-30 14:49:30,673 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6+7
+2019-01-30 14:49:30,688 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:49:30,694 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+8
+2019-01-30 14:49:30,694 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+7
+2019-01-30 14:49:52,207 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-30 14:49:52,207 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:49:52,223 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:50:05,819 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 10:27:50,838 - RealEstate.py[line:160] - INFO: 2019-01-29 10:27:50.839000 渝北 天晋 10幢 1单元 15-6
-2019-01-29 10:27:56,499 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:27:56,651 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:27:56,674 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:27:56,710 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:27:56,711 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
-2019-01-29 10:27:56,711 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:28:01,473 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5+1
-2019-01-29 10:28:01,832 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5+1
-2019-01-29 10:28:01,852 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:28:01,874 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7+8
-2019-01-29 10:28:01,875 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+1
-2019-01-29 10:28:06,951 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:28:06,953 - RealEstate.py[line:160] - INFO: 2019-01-29 10:28:06.953000 渝北 天晋 10幢 1单元 14-1
-2019-01-29 10:28:11,154 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-5
-2019-01-29 10:28:11,303 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:28:11,318 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:28:11,351 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:28:11,351 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-5
-2019-01-29 10:28:15,674 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:28:15,674 - RealEstate.py[line:160] - INFO: 2019-01-29 10:28:15.675000 渝北 天晋 10幢 1单元 14-2
-2019-01-29 10:28:20,210 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2-2
-2019-01-29 10:28:20,563 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2-2
-2019-01-29 10:28:20,582 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:28:20,615 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:28:20,615 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2-2
-2019-01-29 10:28:21,948 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:28:42,992 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+2019-01-30 14:50:06,053 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-01-30 14:50:08,292 - RealEstate.py[line:160] - INFO: 2019-01-30 14:50:08.292000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-1
+2019-01-30 14:50:13,615 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+7
+2019-01-30 14:50:13,977 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:50:13,994 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:50:13,996 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+4
+2019-01-30 14:50:13,996 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+7
+2019-01-30 14:50:19,756 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:50:19,757 - RealEstate.py[line:160] - INFO: 2019-01-30 14:50:19.758000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-2
+2019-01-30 14:50:24,470 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:50:24,825 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:50:24,844 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:50:24,852 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3-1
+2019-01-30 14:50:24,852 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
+2019-01-30 14:50:29,867 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:50:30,038 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:50:30,065 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:50:30,105 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:50:30,105 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-30 14:50:30,105 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:50:37,163 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+5
+2019-01-30 14:50:37,549 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+5
+2019-01-30 14:50:37,569 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:50:37,592 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+6
+2019-01-30 14:50:37,592 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+5
+2019-01-30 14:50:42,348 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:50:42,349 - RealEstate.py[line:160] - INFO: 2019-01-30 14:50:42.350000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-3
+2019-01-30 14:50:46,484 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-7
+2019-01-30 14:50:46,638 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:50:46,654 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:50:46,687 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-3
+2019-01-30 14:50:46,687 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-7
+2019-01-30 14:50:47,604 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:50:47,766 - RealEstate.py[line:216] - ERROR: 无法获取房子数据
+2019-01-30 14:50:49,052 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-01-30 14:50:51,171 - RealEstate.py[line:160] - INFO: 2019-01-30 14:50:51.171000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-4
+2019-01-30 14:51:02,931 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-3
+2019-01-30 14:51:03,289 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-3
+2019-01-30 14:51:03,306 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:51:03,346 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:51:03,346 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-3
+2019-01-30 14:51:12,614 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 14:51:12,615 - RealEstate.py[line:160] - INFO: 2019-01-30 14:51:12.615000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-5
+2019-01-30 14:51:26,479 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+5
+2019-01-30 14:51:26,861 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:51:26,882 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:51:26,891 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+5
+2019-01-30 14:51:26,891 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+5
+2019-01-30 14:51:44,051 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-1
+2019-01-30 14:51:44,423 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-1
+2019-01-30 14:51:44,441 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:51:44,451 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3-3
+2019-01-30 14:51:44,451 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
+2019-01-30 14:52:02,701 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+1
+2019-01-30 14:52:02,852 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:52:02,871 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:52:02,882 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+8
+2019-01-30 14:52:02,882 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+1
+2019-01-30 14:52:13,375 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 14:52:13,375 - RealEstate.py[line:160] - INFO: 2019-01-30 14:52:13.375000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-6
+2019-01-30 14:52:20,691 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:52:21,072 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:52:21,089 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:52:21,098 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3+8
+2019-01-30 14:52:21,098 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+8
+2019-01-30 14:52:33,588 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+2
+2019-01-30 14:52:33,987 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+5
+2019-01-30 14:52:34,006 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:52:34,012 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+8
+2019-01-30 14:52:34,012 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+5
+2019-01-30 14:52:55,484 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-30 14:52:55,484 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:52:55,500 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 14:53:18,282 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
   (Session info: chrome=71.0.3578.98)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
-2019-01-29 10:32:15,134 - RealEstate.py[line:160] - INFO: 2019-01-29 10:32:15.135000 渝北 天晋 10幢 1单元 14-3
-2019-01-29 10:32:21,148 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+4
-2019-01-29 10:32:21,302 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:32:21,319 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:32:21,345 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+8
-2019-01-29 10:32:21,346 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+4
-2019-01-29 10:32:25,891 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:32:25,891 - RealEstate.py[line:160] - INFO: 2019-01-29 10:32:25.892000 渝北 天晋 10幢 1单元 14-4
-2019-01-29 10:32:30,263 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:32:30,408 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:32:30,427 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:32:30,457 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9+2
-2019-01-29 10:32:30,457 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+2
-2019-01-29 10:32:36,296 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5+5
-2019-01-29 10:32:36,653 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5+5
-2019-01-29 10:32:36,671 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:32:36,688 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-1
-2019-01-29 10:32:36,688 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+5
-2019-01-29 10:32:39,933 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:32:39,933 - RealEstate.py[line:160] - INFO: 2019-01-29 10:32:39.933000 渝北 天晋 10幢 1单元 14-5
-2019-01-29 10:32:44,069 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-4
-2019-01-29 10:32:44,427 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:32:44,447 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:32:44,467 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-1
-2019-01-29 10:32:44,467 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-4
-2019-01-29 10:32:48,351 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:32:48,351 - RealEstate.py[line:160] - INFO: 2019-01-29 10:32:48.351000 渝北 天晋 10幢 1单元 14-6
-2019-01-29 10:32:52,706 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5+5
-2019-01-29 10:32:53,068 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5+5
-2019-01-29 10:32:53,092 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:32:53,102 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+4
-2019-01-29 10:32:53,102 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+5
-2019-01-29 10:32:59,779 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-7
-2019-01-29 10:33:00,128 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-7
-2019-01-29 10:33:00,144 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:33:00,171 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-6
-2019-01-29 10:33:00,171 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-7
-2019-01-29 10:33:03,572 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:33:03,575 - RealEstate.py[line:160] - INFO: 2019-01-29 10:33:03.574000 渝北 天晋 10幢 1单元 13-1
-2019-01-29 10:33:08,630 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+7
-2019-01-29 10:33:08,993 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+7
-2019-01-29 10:33:09,009 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:33:09,015 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+8
-2019-01-29 10:33:09,015 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+7
-2019-01-29 10:33:09,851 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:33:30,898 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:35:18,022 - RealEstate.py[line:160] - INFO: 2019-01-29 10:35:18.022000 渝北 天晋 10幢 1单元 13-2
-2019-01-29 10:35:23,456 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-3
-2019-01-29 10:35:23,826 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-3
-2019-01-29 10:35:23,842 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:35:23,861 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-3
-2019-01-29 10:35:23,861 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-3
-2019-01-29 10:35:24,854 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:35:45,891 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:36:51,121 - RealEstate.py[line:160] - INFO: 2019-01-29 10:36:51.122000 渝北 天晋 10幢 1单元 13-3
-2019-01-29 10:36:56,301 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-8
-2019-01-29 10:36:56,450 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-8
-2019-01-29 10:36:56,469 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:36:56,477 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3-3
-2019-01-29 10:36:56,479 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:37:01,869 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:37:02,229 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:37:02,244 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:37:02,259 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+6
-2019-01-29 10:37:02,259 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+6
-2019-01-29 10:37:07,122 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6+1
-2019-01-29 10:37:07,471 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6+1
-2019-01-29 10:37:07,490 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:37:07,516 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+7
-2019-01-29 10:37:07,516 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6+1
-2019-01-29 10:37:11,236 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:37:11,239 - RealEstate.py[line:160] - INFO: 2019-01-29 10:37:11.238000 渝北 天晋 10幢 1单元 13-4
-2019-01-29 10:37:15,569 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-2
-2019-01-29 10:37:15,979 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-2
-2019-01-29 10:37:16,003 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:37:16,036 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:37:16,038 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-2
-2019-01-29 10:37:22,020 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:37:22,022 - RealEstate.py[line:160] - INFO: 2019-01-29 10:37:22.022000 渝北 天晋 10幢 1单元 13-5
-2019-01-29 10:37:26,137 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+3
-2019-01-29 10:37:26,517 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2+3
-2019-01-29 10:37:26,532 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:37:26,536 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1-1
-2019-01-29 10:37:26,536 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+3
-2019-01-29 10:37:33,607 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+4
-2019-01-29 10:37:33,964 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+4
-2019-01-29 10:37:33,984 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:37:34,016 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+7
-2019-01-29 10:37:34,016 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+4
-2019-01-29 10:37:35,226 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:38:37,108 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:39:01,161 - RealEstate.py[line:160] - INFO: 2019-01-29 10:39:01.161000 渝北 天晋 10幢 1单元 13-6
-2019-01-29 10:39:08,234 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9+4
-2019-01-29 10:39:08,627 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+4
-2019-01-29 10:39:08,645 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:39:08,663 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6+2
-2019-01-29 10:39:08,663 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+4
-2019-01-29 10:39:09,911 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:39:30,982 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:39:56,153 - RealEstate.py[line:160] - INFO: 2019-01-29 10:39:56.153000 渝北 天晋 10幢 1单元 12-1
-2019-01-29 10:40:02,283 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:40:02,480 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:40:02,502 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:40:02,546 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:40:02,546 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
-2019-01-29 10:40:02,546 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:40:03,726 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:40:24,848 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:40:27,674 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
-2019-01-29 10:40:31,599 - RealEstate.py[line:160] - INFO: 2019-01-29 10:40:31.600000 渝北 天晋 10幢 1单元 12-2
-2019-01-29 10:40:40,275 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+7
-2019-01-29 10:40:40,528 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:40:40,546 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:40:40,552 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+9
-2019-01-29 10:40:40,552 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+7
-2019-01-29 10:40:46,424 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-1
-2019-01-29 10:40:46,885 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-1
-2019-01-29 10:40:46,904 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:40:46,934 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+6
-2019-01-29 10:40:46,936 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-1
-2019-01-29 10:40:54,792 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:40:54,792 - RealEstate.py[line:160] - INFO: 2019-01-29 10:40:54.793000 渝北 天晋 10幢 1单元 12-3
-2019-01-29 10:40:59,325 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-4
-2019-01-29 10:40:59,829 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:40:59,859 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:40:59,890 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-2
-2019-01-29 10:40:59,890 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-4
-2019-01-29 10:41:05,042 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:41:05,043 - RealEstate.py[line:160] - INFO: 2019-01-29 10:41:05.044000 渝北 天晋 10幢 1单元 12-4
-2019-01-29 10:41:09,611 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：5+2
-2019-01-29 10:41:09,802 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：5+9
-2019-01-29 10:41:09,822 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:41:09,851 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+9
-2019-01-29 10:41:09,851 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:5+9
-2019-01-29 10:41:11,517 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:42:14,969 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:42:15,301 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
-2019-01-29 10:42:17,575 - RealEstate.py[line:160] - INFO: 2019-01-29 10:42:17.575000 渝北 天晋 10幢 1单元 12-5
-2019-01-29 10:42:25,507 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+2
-2019-01-29 10:42:25,967 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+2
-2019-01-29 10:42:25,984 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:42:26,019 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9+7
-2019-01-29 10:42:26,019 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+2
-2019-01-29 10:42:31,811 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:42:31,812 - RealEstate.py[line:160] - INFO: 2019-01-29 10:42:31.812000 渝北 天晋 10幢 1单元 12-6
-2019-01-29 10:42:36,595 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+3
-2019-01-29 10:42:37,010 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：2+3
-2019-01-29 10:42:37,029 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:42:37,032 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1-1
-2019-01-29 10:42:37,032 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+3
-2019-01-29 10:42:38,128 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:42:38,315 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:43:11,184 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
-2019-01-29 10:43:15,161 - RealEstate.py[line:160] - INFO: 2019-01-29 10:43:15.162000 渝北 天晋 10幢 1单元 11-1
-2019-01-29 10:43:55,934 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-8
-2019-01-29 10:43:56,286 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：9+8
-2019-01-29 10:43:56,311 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:43:56,345 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:43:56,345 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9+8
-2019-01-29 10:44:39,135 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
-2019-01-29 10:44:39,135 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:44:39,150 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:44:58,753 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:44:59,529 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
-2019-01-29 10:45:02,565 - RealEstate.py[line:160] - INFO: 2019-01-29 10:45:02.565000 渝北 天晋 10幢 1单元 11-2
-2019-01-29 10:45:27,167 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
-2019-01-29 10:45:27,167 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:45:27,184 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:45:48,423 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:45:48,502 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
-2019-01-29 10:45:51,029 - RealEstate.py[line:160] - INFO: 2019-01-29 10:45:51.030000 渝北 天晋 10幢 1单元 11-3
-2019-01-29 10:47:23,384 - ImageRecognitionUtil.py[line:113] - INFO: 无法获取验证网页
-2019-01-29 10:47:23,384 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:47:23,403 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:47:56,608 - RealEstate.py[line:216] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:47:57,459 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
-2019-01-29 10:48:00,078 - RealEstate.py[line:160] - INFO: 2019-01-29 10:48:00.078000 渝北 天晋 10幢 1单元 11-4
-2019-01-29 10:48:09,025 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：1+6
-2019-01-29 10:48:09,486 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：1+6
-2019-01-29 10:48:09,503 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:48:09,515 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+4
-2019-01-29 10:48:09,515 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:1+6
-2019-01-29 10:48:15,174 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:48:15,176 - RealEstate.py[line:160] - INFO: 2019-01-29 10:48:15.176000 渝北 天晋 10幢 1单元 11-5
-2019-01-29 10:48:19,878 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7+7
-2019-01-29 10:48:20,313 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7+7
-2019-01-29 10:48:20,332 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:48:20,336 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+7
-2019-01-29 10:48:20,338 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7+7
-2019-01-29 10:48:21,085 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:48:21,211 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:48:22,565 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
-2019-01-29 10:48:24,802 - RealEstate.py[line:160] - INFO: 2019-01-29 10:48:24.803000 渝北 天晋 10幢 1单元 11-6
-2019-01-29 10:48:31,953 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:48:32,119 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:48:32,142 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:48:32,181 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:48:32,181 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:48:32,203 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:48:32,384 - RealEstate.py[line:216] - ERROR: object of type 'NoneType' has no len()
-2019-01-29 10:48:32,772 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
-2019-01-29 10:48:36,710 - RealEstate.py[line:160] - INFO: 2019-01-29 10:48:36.711000 渝北 天晋 10幢 1单元 10-1
-2019-01-29 10:48:42,980 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-3
-2019-01-29 10:48:43,371 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-3
-2019-01-29 10:48:43,390 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:48:43,424 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-4
-2019-01-29 10:48:43,424 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-3
-2019-01-29 10:48:52,285 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:48:52,286 - RealEstate.py[line:160] - INFO: 2019-01-29 10:48:52.286000 渝北 天晋 10幢 1单元 10-2
-2019-01-29 10:48:56,849 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 10:48:57,033 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:48:57,053 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:48:57,089 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:48:57,091 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
-2019-01-29 10:48:57,091 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 10:49:02,562 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-4
-2019-01-29 10:49:02,865 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:49:02,890 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:49:02,921 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-8
-2019-01-29 10:49:02,921 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-4
-2019-01-29 10:49:09,486 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:49:09,486 - RealEstate.py[line:160] - INFO: 2019-01-29 10:49:09.487000 渝北 天晋 10幢 1单元 10-3
-2019-01-29 10:49:14,010 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8+2
-2019-01-29 10:49:14,193 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:49:14,211 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:49:14,220 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：3-1
-2019-01-29 10:49:14,220 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+2
-2019-01-29 10:49:15,082 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:49:15,358 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 10:54:22,637 - RealEstate.py[line:160] - INFO: 2019-01-29 10:54:22.637000 渝北 天晋 10幢 1单元 10-4
-2019-01-29 10:54:29,871 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-2
-2019-01-29 10:54:30,273 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-2
-2019-01-29 10:54:30,292 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:54:30,319 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-2
-2019-01-29 10:54:30,321 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-2
-2019-01-29 10:54:42,346 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 10:54:42,348 - RealEstate.py[line:160] - INFO: 2019-01-29 10:54:42.348000 渝北 天晋 10幢 1单元 10-5
-2019-01-29 10:54:46,562 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-2
-2019-01-29 10:54:46,720 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 10:54:46,739 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:54:46,780 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 10:54:46,782 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-2
-2019-01-29 10:54:56,563 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 10:54:56,563 - RealEstate.py[line:160] - INFO: 2019-01-29 10:54:56.564000 渝北 天晋 10幢 1单元 10-6
-2019-01-29 10:55:00,599 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-2
-2019-01-29 10:55:00,997 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-2
-2019-01-29 10:55:01,016 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:55:01,049 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-6
-2019-01-29 10:55:01,051 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-2
-2019-01-29 10:55:05,433 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 10:55:05,438 - RealEstate.py[line:160] - INFO: 2019-01-29 10:55:05.439000 渝北 天晋 10幢 1单元 9-1
-2019-01-29 10:55:10,325 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3+2
-2019-01-29 10:55:10,750 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3+1
-2019-01-29 10:55:10,767 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 10:55:10,769 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：1+6
-2019-01-29 10:55:10,769 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3+1
-2019-01-29 10:55:12,723 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 10:55:33,755 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 11:00:52,871 - RealEstate.py[line:160] - INFO: 2019-01-29 11:00:52.872000 渝北 天晋 10幢 1单元 9-2
-2019-01-29 11:01:00,908 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8+2
-2019-01-29 11:01:01,089 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:01:01,108 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:01:01,138 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8+9
-2019-01-29 11:01:01,138 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8+2
-2019-01-29 11:01:06,380 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4+3
-2019-01-29 11:01:24,407 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4+3
-2019-01-29 11:01:24,421 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:01:24,431 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4+8
-2019-01-29 11:01:24,431 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4+3
-2019-01-29 11:01:29,326 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 11:01:29,326 - RealEstate.py[line:160] - INFO: 2019-01-29 11:01:29.327000 渝北 天晋 10幢 1单元 9-3
-2019-01-29 11:01:33,671 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-7
-2019-01-29 11:01:33,815 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:01:33,832 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:01:33,848 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-2
-2019-01-29 11:01:33,848 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-7
-2019-01-29 11:01:39,348 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 11:01:39,493 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:01:39,513 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:01:39,526 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-1
-2019-01-29 11:01:39,526 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-1
-2019-01-29 11:01:44,497 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-5
-2019-01-29 11:01:44,871 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:01:44,891 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:01:44,921 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-1
-2019-01-29 11:01:44,921 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-5
-2019-01-29 11:01:49,130 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 11:01:49,131 - RealEstate.py[line:160] - INFO: 2019-01-29 11:01:49.131000 渝北 天晋 10幢 1单元 9-4
-2019-01-29 11:01:53,036 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：6-4
-2019-01-29 11:01:53,405 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：6-4
-2019-01-29 11:01:53,426 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:01:53,454 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-8
-2019-01-29 11:01:53,454 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-4
-2019-01-29 11:01:59,530 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：94.72
-2019-01-29 11:01:59,532 - RealEstate.py[line:160] - INFO: 2019-01-29 11:01:59.532000 渝北 天晋 10幢 1单元 9-5
-2019-01-29 11:02:03,438 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：
-2019-01-29 11:02:03,607 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:02:03,627 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:02:03,671 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 11:02:03,673 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
-2019-01-29 11:02:03,673 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 11:02:10,184 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 11:02:10,341 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:02:10,359 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:02:10,382 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-3
-2019-01-29 11:02:10,382 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
-2019-01-29 11:02:15,049 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 11:02:15,200 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:02:15,217 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:02:15,252 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 11:02:15,252 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
-2019-01-29 11:02:15,252 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
-2019-01-29 11:02:17,062 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 11:02:38,098 - RealEstate.py[line:216] - ERROR: Alert Text: None
-Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
-  (Session info: chrome=71.0.3578.98)
-  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
-
-2019-01-29 11:07:56,072 - RealEstate.py[line:160] - INFO: 2019-01-29 11:07:56.072000 渝北 天晋 10幢 1单元 9-6
-2019-01-29 11:08:02,802 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-2
-2019-01-29 11:08:03,243 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：7-2
-2019-01-29 11:08:03,270 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:08:03,292 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5-5
-2019-01-29 11:08:03,292 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-2
-2019-01-29 11:08:18,331 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 11:08:18,332 - RealEstate.py[line:160] - INFO: 2019-01-29 11:08:18.333000 渝北 天晋 10幢 1单元 8-1
-2019-01-29 11:08:22,878 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
-2019-01-29 11:08:23,247 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
-2019-01-29 11:08:23,269 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:08:23,292 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-5
-2019-01-29 11:08:23,292 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:6-5
-2019-01-29 11:08:28,105 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-3
-2019-01-29 11:08:28,493 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：4-3
-2019-01-29 11:08:28,513 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:08:28,551 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 11:08:28,551 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-3
-2019-01-29 11:08:38,446 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：111.97
-2019-01-29 11:08:38,447 - RealEstate.py[line:160] - INFO: 2019-01-29 11:08:38.447000 渝北 天晋 10幢 1单元 8-2
-2019-01-29 11:08:42,398 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-7
-2019-01-29 11:08:42,756 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-1
-2019-01-29 11:08:42,782 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:08:42,812 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-3
-2019-01-29 11:08:42,812 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
-2019-01-29 11:08:51,361 - RealEstate.py[line:211] - INFO: 套内单价：8500， 套内面积：71.19
-2019-01-29 11:08:51,361 - RealEstate.py[line:160] - INFO: 2019-01-29 11:08:51.361000 渝北 天晋 10幢 1单元 8-3
-2019-01-29 11:08:55,292 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-7
-2019-01-29 11:08:55,671 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-1
-2019-01-29 11:08:55,690 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
-2019-01-29 11:08:55,723 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
-2019-01-29 11:08:55,723 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
-2019-01-29 11:08:56,640 - RealEstate.py[line:214] - ERROR: 内层
-2019-01-29 11:09:17,681 - RealEstate.py[line:216] - ERROR: 无法获取房子数据
+2019-01-30 14:58:33,684 - RealEstate.py[line:160] - INFO: 2019-01-30 14:58:33.685000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-7
+2019-01-30 14:58:45,105 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:58:45,259 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:58:45,279 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:58:45,313 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 14:58:45,313 - ImageRecognitionUtil.py[line:97] - INFO: 图片识别失败
+2019-01-30 14:58:45,313 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 14:58:53,181 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:58:53,332 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:58:53,351 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:58:53,357 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+6
+2019-01-30 14:58:53,358 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+6
+2019-01-30 14:59:02,680 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 14:59:03,046 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:59:03,066 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:59:03,072 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+8
+2019-01-30 14:59:03,072 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+8
+2019-01-30 14:59:12,496 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：4-3
+2019-01-30 14:59:12,862 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:59:12,878 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:59:12,907 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：8-6
+2019-01-30 14:59:12,907 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:4-3
+2019-01-30 14:59:27,813 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:59:27,815 - RealEstate.py[line:160] - INFO: 2019-01-30 14:59:27.815000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-8
+2019-01-30 14:59:34,885 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：9-7
+2019-01-30 14:59:35,265 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:59:35,282 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:59:35,302 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：6-4
+2019-01-30 14:59:35,302 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-7
+2019-01-30 14:59:47,111 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：61.79
+2019-01-30 14:59:47,111 - RealEstate.py[line:160] - INFO: 2019-01-30 14:59:47.111000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-9
+2019-01-30 14:59:56,914 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：7-5
+2019-01-30 14:59:57,345 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 14:59:57,362 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 14:59:57,414 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：4-4
+2019-01-30 14:59:57,415 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-5
+2019-01-30 15:00:09,858 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 15:00:09,858 - RealEstate.py[line:160] - INFO: 2019-01-30 15:00:09.859000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 7-10
+2019-01-30 15:00:15,990 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 15:00:16,641 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 15:00:16,663 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 15:00:16,687 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：7-3
+2019-01-30 15:00:16,688 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:7-3
+2019-01-30 15:00:28,579 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：3-1
+2019-01-30 15:00:28,953 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：3-1
+2019-01-30 15:00:28,973 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 15:00:29,006 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 15:00:29,006 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:3-1
+2019-01-30 15:00:38,167 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：46.67
+2019-01-30 15:00:38,168 - RealEstate.py[line:160] - INFO: 2019-01-30 15:00:38.169000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 6-1
+2019-01-30 15:00:47,859 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 15:00:48,249 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 15:00:48,269 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 15:00:48,273 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：2+4
+2019-01-30 15:00:48,273 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+4
+2019-01-30 15:00:57,515 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：2+5
+2019-01-30 15:00:57,904 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 15:00:57,921 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 15:00:57,936 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：5+6
+2019-01-30 15:00:57,937 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:2+5
+2019-01-30 15:01:21,415 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：8-5
+2019-01-30 15:01:21,573 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 15:01:21,592 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 15:01:21,632 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：None
+2019-01-30 15:01:21,634 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:8-5
+2019-01-30 15:01:33,680 - RealEstate.py[line:211] - INFO: 套内单价：9769， 套内面积：67.2
+2019-01-30 15:01:33,680 - RealEstate.py[line:160] - INFO: 2019-01-30 15:01:33.681000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 6-2
+2019-01-30 15:01:40,460 - ImageRecognitionUtil.py[line:72] - INFO: 图片识别：None
+2019-01-30 15:01:40,651 - ImageRecognitionUtil.py[line:78] - INFO: 图片识别修正：None
+2019-01-30 15:01:40,674 - ImageRecognitionUtil.py[line:86] - INFO: 图片比较识别：None
+2019-01-30 15:01:40,707 - ImageRecognitionUtil.py[line:92] - INFO: 成功图片比较：9-6
+2019-01-30 15:01:40,709 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:9-6
+2019-01-30 15:01:43,009 - RealEstate.py[line:214] - ERROR: 内层
+2019-01-30 15:02:04,049 - RealEstate.py[line:216] - ERROR: 'NoneType' object has no attribute 'attrs'
+2019-01-30 15:07:13,739 - RealEstate.py[line:160] - INFO: 2019-01-30 15:07:13.739000 渝北 融创·嘉德庄园-融创·渝北中央公园（融创·嘉德庄园）二期 14幢【宗地已核】 1单元 6-3
+2019-01-30 15:13:10,036 - ImageRecognitionUtil.py[line:113] - INFO: tile cannot extend outside image
+2019-01-30 15:13:10,036 - ImageRecognitionUtil.py[line:114] - INFO: 验证码:None
+2019-01-30 15:13:10,052 - RealEstate.py[line:214] - ERROR: 内层

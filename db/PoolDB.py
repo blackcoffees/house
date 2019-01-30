@@ -50,7 +50,7 @@ class PoolDB(object):
 
     def find(self, sql, param=None):
         cursor = self.__get_connect__()
-        self.__get_sql_query_param__(sql)
+        # self.__get_sql_query_param__(sql)
         try:
             if param:
                 cursor.execute(sql, param)
@@ -125,7 +125,9 @@ class PoolDB(object):
                 print u"暂不支持子查询"
                 return list()
             else:
-                result_list = sql.split(split_word)[0].split("select")[1].split(",")
+                temp_list = sql.split(split_word)[0].split("select")[1].split(",")
+                for temp in temp_list:
+                    result_list.append(temp.replace(" ", ""))
                 return result_list
             return list()
         # 2：获得子查询语句的查询字段

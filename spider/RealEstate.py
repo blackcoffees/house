@@ -91,7 +91,7 @@ class RealEstateSpider(BaseSpider):
                         build_residence_count = item.get("BUILDZZNUM").split(",")
                         build_none_residence_count = item.get("BUILDFZZNUM").split(",")
                         # 该楼盘下所有大楼
-                        for index in range(len(build_id)):
+                        for index in range(len(build_id) - 1):
                             sale_building = build_name[index].replace("'", "")
                             # 新增或查询大楼
                             building = get_building_sale_status(sale_building, real_estate_id)

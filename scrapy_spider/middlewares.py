@@ -119,4 +119,5 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
             if not isinstance(exception, TimeoutError):
                 print u"中间件切换代理ip"
                 spider.get_proxy_ip()
+                request.meta["retry_times"] = 1
                 return self._retry(request, exception, spider)

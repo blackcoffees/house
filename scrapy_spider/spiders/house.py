@@ -5,6 +5,7 @@ import datetime
 import scrapy
 import sys
 from scrapy import Request
+from scrapy.exceptions import CloseSpider
 
 from db.DBUtil import get_all_region, get_building_statictics_data, update_building_count
 from db.PoolDB import pool
@@ -45,6 +46,9 @@ class RealEstateSpider(scrapy.Spider):
                 raise BaseException(u"返回数据错误")
             if len(json_response) == 0:
                 self.region_index += 1
+                if self.region_index >= len(self.list_region):
+                    print u"所有区域收集完成"
+                    raise CloseSpider()
                 region = self.list_region[self.region_index]
                 page = 0
                 now_url = now_url.split("site=")[0] + "site=" + region.get("region") + "&kfs=" \
@@ -72,6 +76,8 @@ class RealEstateSpider(scrapy.Spider):
                 print "%s:%s" % (datetime.datetime.now(), json_data.get("F_SITE") + " " + json_data.get("PROJECTNAME"))
                 yield item
         except BaseException as e:
+            if type(e) == CloseSpider:
+                raise CloseSpider
             self.get_proxy_ip()
             print e
         finally:
