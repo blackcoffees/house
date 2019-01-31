@@ -77,7 +77,7 @@ class RealEstateSpider(scrapy.Spider):
                 yield item
         except BaseException as e:
             if type(e) == CloseSpider:
-                raise CloseSpider
+                raise CloseSpider()
             self.get_proxy_ip()
             print e
         finally:

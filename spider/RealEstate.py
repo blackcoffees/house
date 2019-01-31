@@ -33,7 +33,7 @@ class RealEstateSpider(BaseSpider):
     def work(self):
         delete_logs()
         options = webdriver.ChromeOptions()
-        # options.add_argument("headless")
+        options.add_argument("headless")
         web_driver_manager = WebDriverManager(3, "chrome", options)
         validate_driver = web_driver_manager.get_web_driver()
         for region in get_all_region():
