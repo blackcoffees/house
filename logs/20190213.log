@@ -1,0 +1,15 @@
+2019-02-13 09:05:15,954 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-13 09:05:15,960 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-13 09:05:15,970 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-13 09:05:16,013 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 09:05:16,460 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 09:05:16,463 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 09:05:16,469 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 09:05:19,717 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 09:05:19,736 - engine.py[line:256] - INFO: Spider opened
+2019-02-13 09:05:19,753 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 09:05:19,755 - middlewares.py[line:105] - INFO: Spider opened: building

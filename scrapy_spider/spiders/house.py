@@ -2,8 +2,12 @@
 from urllib import unquote
 
 import datetime
+
+import os
 import scrapy
 import sys
+
+from bs4 import BeautifulSoup
 from scrapy import Request
 from scrapy.exceptions import CloseSpider
 
@@ -154,7 +158,6 @@ class BuildingSpider(scrapy.Spider):
         finally:
             if "GetBuildingInfo" in response.url:
                 # 切换另外一个building
-                self.build_index += 1
                 self.db_building = pool.find_one((self.base_build_sql % self.build_index))
                 house_url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))
                 yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
@@ -163,6 +166,48 @@ class BuildingSpider(scrapy.Spider):
                 build_url = "http://www.cq315house.com/315web/webservice/GetBuildingInfo.ashx?buildingId=%s" \
                             % self.db_building.get("web_build_id")
                 yield Request(build_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
+
+    def get_proxy_ip(self):
+        while True:
+            proxy_pool.remove_proxy_ip(self.proxy_ip)
+            self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
+            if self.proxy_ip:
+                break
+
+
+class HouseSpider(scrapy.Spider):
+    name = "house"
+    proxy_ip = None
+    base_url = "http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=%s"
+    base_sql = """select * from house where status=6 order by id  limit 1"""
+    base_image_path = os.path.realpath("image").split("main")[0] + "\\image\\"
+
+    def start_requests(self):
+        self.get_proxy_ip()
+        sql_result = pool.find_one(self.base_sql)
+        return [Request((self.base_url % sql_result.get("web_house_id")), meta={"proxy": "http://" + self.proxy_ip})]
+
+
+    def parse(self, response):
+        location_img_url = self.base_image_path + "temp.png"
+        soup = BeautifulSoup(response.body.replace("\r", "").replace("\n", ""), "html")
+        with open(location_img_url, "wb") as file:
+            file.write(soup.find("img").content)
+        print "asdf"
+        # 保存图片
+        # img = validate_driver.find_element_by_tag_name("img")
+
+        # # 保存验证码图片
+        # left = img.location.get("x")
+        # top = img.location.get("y")
+        # width = left + img.size.get("width")
+        # height = top + img.size.get("height")
+        # # image = Image.open(BytesIO(response.read()))
+        # image = Image.open(location_img_url).crop((left, top, width, height))
+        # image.save(location_img_url)
+        # # 防止图片没有保存下来
+        # time.sleep(3)
+
 
     def get_proxy_ip(self):
         while True:

@@ -33,96 +33,63 @@ class ImageRecognition(object):
     def __init__(self, base_path):
         self.base_image_path = base_path
 
-    def get_expression_code(self, validate_driver, validate_url, local_file_name=None):
+    def get_expression_code(self, ):
         """
         获得验证码
-        :param validate_driver:
-        :param validate_url:
         :return:
         """
-        while True:
-            expression = None
+        expression = None
+        try:
+            # 识别图片
             try:
-                # 成功请求到网页
-                if not validate_driver.send_url(validate_url, tag_name="img"):
-                    raise BaseException("无法获取验证网页")
-                # 截图整个网页
-                if local_file_name:
-                    validate_driver.save_screenshot(self.base_image_path + local_file_name)
+                expression1 = self.get_internet_validate_code()
+            except:
+                expression1 = None
+            logger.info(u"图片识别：%s" % expression1)
+            # 图片修正识别
+            try:
+                expression2 = self.image_corde_correct()
+            except:
+                expression2 = None
+            logger.info(u"图片识别修正：%s" % expression2)
+            # 图片比较识别
+            try:
+                expression3 = self.compare_image_correct(operator_img_url=(self.base_image_path + "operator.png"),
+                                                         number1_img_url=(self.base_image_path + "num1.png"),
+                                                         number2_img_url=(self.base_image_path + "num2.png"))
+            except:
+                expression3 = None
+            logger.info(u"图片比较识别：%s" % expression3)
+            # 成功图片比较
+            try:
+                expression4 = self.compare_success_img()
+            except:
+                expression4 = None
+            logger.info(u"成功图片比较：%s" % expression4)
+            if not (expression1 or expression2 or expression3):
+                if expression4:
+                    expression = expression4
                 else:
-                    validate_driver.save_screenshot(self.base_image_path + "temp.png")
-                # 保存图片
-                img = validate_driver.find_element_by_tag_name("img")
-                location_img_url = self.base_image_path + "temp.png"
-                # 保存验证码图片
-                left = img.location.get("x")
-                top = img.location.get("y")
-                width = left + img.size.get("width")
-                height = top + img.size.get("height")
-                # image = Image.open(BytesIO(response.read()))
-                image = Image.open(location_img_url).crop((left, top, width, height))
-                image.save(location_img_url)
-                # 防止图片没有保存下来
-                time.sleep(3)
-                # 识别图片
-                try:
-                    expression1 = self.get_internet_validate_code()
-                except:
-                    expression1 = None
-                logger.info(u"图片识别：%s" % expression1)
-                # 图片修正识别
-                try:
-                    expression2 = self.image_corde_correct()
-                except:
-                    expression2 = None
-                logger.info(u"图片识别修正：%s" % expression2)
-                # 图片比较识别
-                try:
-                    expression3 = self.compare_image_correct(operator_img_url=(self.base_image_path + "operator.png"),
-                                                             number1_img_url=(self.base_image_path + "num1.png"),
-                                                             number2_img_url=(self.base_image_path + "num2.png"))
-                except:
-                    expression3 = None
-                logger.info(u"图片比较识别：%s" % expression3)
-                # 成功图片比较
-                try:
-                    expression4 = self.compare_success_img(location_img_url)
-                except:
-                    expression4 = None
-                logger.info(u"成功图片比较：%s" % expression4)
-                if not (expression1 or expression2 or expression3):
-                    if expression4:
-                        expression = expression4
+                    logger.info(u"图片识别失败")
+            else:
+                succ_size_expression1 = self.confirm_return_express(expression1, [expression2, expression3])
+                succ_size_expression2 = self.confirm_return_express(expression2, [expression1, expression3])
+                succ_size_expression3 = self.confirm_return_express(expression3, [expression1, expression2])
+                if succ_size_expression1 > succ_size_expression2:
+                    if succ_size_expression1 > succ_size_expression3:
+                        expression = expression1
                     else:
-                        logger.info(u"图片识别失败")
+                        expression = expression3
                 else:
-                    succ_size_expression1 = self.confirm_return_express(expression1, [expression2, expression3])
-                    succ_size_expression2 = self.confirm_return_express(expression2, [expression1, expression3])
-                    succ_size_expression3 = self.confirm_return_express(expression3, [expression1, expression2])
-                    if succ_size_expression1 > succ_size_expression2:
-                        if succ_size_expression1 > succ_size_expression3:
-                            expression = expression1
-                        else:
-                            expression = expression3
+                    if succ_size_expression2 > succ_size_expression3:
+                        expression = expression2
                     else:
-                        if succ_size_expression2 > succ_size_expression3:
-                            expression = expression2
-                        else:
-                            expression = expression3
-            except BaseException as e:
-                logger.info(e)
-            logger.info("验证码:%s" % expression)
-            # 计算验证码
-            int_code = self.compute_code(expression)
-            # 发送验证码请求
-            code_input = validate_driver.find_element_by_id("txtCode")
-            code_input.send_keys(int_code)
-            validate_driver.find_element_by_id("Button1").click()
-            one_house_url = validate_driver.current_url
-            if "bid" in one_house_url:
-                # 保存成功的图片
-                self.save_success_image(self.base_image_path + "temp.png", expression)
-                return True
+                        expression = expression3
+        except BaseException as e:
+            logger.info(e)
+        logger.info("验证码:%s" % expression)
+        # 计算验证码
+        return expression, self.compute_code(expression)
 
     def confirm_return_express(self, origin_expression, list_compare_expression):
         """
@@ -398,10 +365,9 @@ class ImageRecognition(object):
         elif "/" in expression_str:
             return int(expression_str.split("/")[0]) / int(expression_str.split("/")[1])
 
-    def compare_success_img(self, image_url, maxhash=-1):
+    def compare_success_img(self, maxhash=-1):
         """
         识别成功的图片比较
-        :param image_url:
         :return:
         """
         operation_str = None
@@ -409,7 +375,7 @@ class ImageRecognition(object):
         compare_image_list = os.listdir(success_base_url)
         if not compare_image_list:
             return None
-        image1 = Image.open(image_url)
+        image1 = Image.open(self.base_image_path + "temp.png")
         image_histogram = image1.histogram()
         for compare_image_str in compare_image_list:
             image2 = Image.open(self.base_image_path + ("success\\%s" % compare_image_str))

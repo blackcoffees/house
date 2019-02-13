@@ -5,6 +5,8 @@ import datetime
 import time
 from urllib import unquote, quote
 import os
+
+from PIL import Image
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from base.BaseSpider import BaseSpider
@@ -181,8 +183,7 @@ class RealEstateSpider(BaseSpider):
                                                        td.find("a").attrs.get("onclick").split("../")[1].split("');")[0]
                                         # 验证码
                                         # self.get_internet_validate_code(validate_driver, validate_url)
-                                        image_recognition = ImageRecognition(os.path.realpath("image").split("main")[0] + "\\image\\")
-                                        image_recognition.get_expression_code(validate_driver, validate_url)
+                                        self.get_image(validate_driver, validate_url)
                                         one_house_soup = BeautifulSoup(validate_driver.page_source, "html.parser")
                                         if not one_house_soup.find("img"):
                                             raise BaseException(u"无法获取房子数据")
@@ -222,14 +223,16 @@ class RealEstateSpider(BaseSpider):
                             if is_add_house:
                                 # 增加大楼，楼房总量和在售数量
                                 building_static_data = get_building_statictics_data(building_id, real_estate_id)
-                                update_building_count(building_id, building_static_data.get("total_count"), building_static_data.get("sale_count"))
+                                update_building_count(building_id, building_static_data.get("total_count"),
+                                                      building_static_data.get("sale_count"))
+
                         # 统计楼盘数据
                         static_data = get_real_estate_statictics_data(real_estate_id)
                         update_real_estate_count(real_estate_id, static_data.get("sum(total_count)"),
                                                  static_data.get("sum(sale_count)"))
                     except BaseException as e2:
                         logger.error(u"外层")
-                        # logger.error(e2)
+                        logger.error(e2)
                         continue
                     finally:
                         update_region(region.get("id"), now_page)
@@ -251,3 +254,38 @@ class RealEstateSpider(BaseSpider):
                 break
         return status
 
+    def get_image(self, validate_driver, validate_url, local_file_name=None):
+        while True:
+            # 成功请求到网页
+            if not validate_driver.send_url(validate_url, tag_name="img"):
+                raise BaseException("无法获取验证网页")
+            # 截图整个网页
+            if local_file_name:
+                validate_driver.save_screenshot(self.base_image_path + local_file_name)
+            else:
+                validate_driver.save_screenshot(self.base_image_path + "temp.png")
+            # 保存图片
+            img = validate_driver.find_element_by_tag_name("img")
+            location_img_url = self.base_image_path + "temp.png"
+            # 保存验证码图片
+            left = img.location.get("x")
+            top = img.location.get("y")
+            width = left + img.size.get("width")
+            height = top + img.size.get("height")
+            # image = Image.open(BytesIO(response.read()))
+            image = Image.open(location_img_url).crop((left, top, width, height))
+            image.save(location_img_url)
+            # 防止图片没有保存下来
+            time.sleep(3)
+            # 识别图片
+            image_recognition = ImageRecognition(os.path.dirname(os.getcwd()) + "\\image\\")
+            expression, int_code = image_recognition.get_expression_code()
+            # 发送验证码请求
+            code_input = validate_driver.find_element_by_id("txtCode")
+            code_input.send_keys(int_code)
+            validate_driver.find_element_by_id("Button1").click()
+            one_house_url = validate_driver.current_url
+            if "bid" in one_house_url:
+                # 保存成功的图片
+                image_recognition.save_success_image(self.base_image_path + "temp.png", expression)
+                return True
