@@ -131,6 +131,14 @@ ColorStatus = {
     "#ff0000": 5 # 已登记
 }
 
+chinese_status = {
+    u"限制销售": 1,
+    u"可售": 2,
+    u"预定": 3,
+    u"已售": 4,
+    u"已登记": 5
+}
+
 
 def get_status(color):
     color = color.replace(" ", "")

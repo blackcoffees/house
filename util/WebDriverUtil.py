@@ -93,7 +93,7 @@ class WebChromeDriver(webdriver.Chrome):
             if looper == 0:
                 return False
             try:
-                print u"%s网络请求:%s" % (url, looper)
+                print u"%s 网络请求:%s" % (url, looper)
                 WebDriverWait(self, 30).until(expected_conditions.presence_of_element_located((By.TAG_NAME, tag_name)))
                 return True
             except BaseException as e:
