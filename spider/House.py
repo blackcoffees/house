@@ -21,7 +21,7 @@ from util.WebDriverUtil import WebDriverManager
 class HouseSpider(BaseSpider):
     base_image_path = os.path.dirname(os.getcwd()) + "\\image\\"
     base_house_url = "http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=%s"
-    base_select_sql = """select * from house where status=6 limit 0, 1"""
+    base_select_sql = """select * from house where status=6 order by id limit 0, 1 """
     base_update_sql = """update house set status=%s, inside_area=%s, built_area=%s, house_type=%s, inside_price=%s, 
                         built_price=%s, updated=%s where id=%s"""
 
@@ -78,7 +78,7 @@ class HouseSpider(BaseSpider):
                     json_data = json.loads(one_house_data)
                     if json_data.get("HX") == u"其他":
                         continue
-                    house_status = chinese_status.get(json_data.get("FWZT"))
+                    house_status = chinese_status.get(json_data.get("FWZT")) if chinese_status.get(json_data.get("FWZT")) else 7
                     inside_area = json_data.get("TNMJ")
                     built_area = json_data.get("JZMJ")
                     house_type = json_data.get("HX")

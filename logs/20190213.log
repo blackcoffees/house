@@ -1626,3 +1626,119 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-02-13 14:13:59,470 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
 2019-02-13 14:14:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
 2019-02-13 14:15:52,125 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:16:48,526 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-13 14:17:00,095 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:17:18,499 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5+1
+2019-02-13 14:17:18,874 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+1
+2019-02-13 14:17:18,897 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:17:18,901 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+5
+2019-02-13 14:17:18,903 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+1
+2019-02-13 14:17:53,719 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:18:46,049 - House.py[line:89] - INFO: 套内单价：19260， 套内面积：162.62
+2019-02-13 14:18:50,461 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-1
+2019-02-13 14:18:50,607 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:18:50,625 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:18:50,634 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-2
+2019-02-13 14:18:50,634 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-1
+2019-02-13 14:18:57,431 - House.py[line:89] - INFO: 套内单价：19360， 套内面积：162.62
+2019-02-13 14:19:01,561 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+1
+2019-02-13 14:19:01,923 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9+1
+2019-02-13 14:19:01,944 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:19:01,964 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+7
+2019-02-13 14:19:01,966 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+1
+2019-02-13 14:19:06,433 - House.py[line:89] - INFO: 套内单价：18560， 套内面积：159.83
+2019-02-13 14:19:07,839 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:19:11,628 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 14:19:11,799 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:19:11,818 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:19:11,829 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+8
+2019-02-13 14:19:11,831 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+8
+2019-02-13 14:19:17,266 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-2
+2019-02-13 14:19:17,647 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-2
+2019-02-13 14:19:17,665 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:19:17,680 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-4
+2019-02-13 14:19:17,681 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2-2
+2019-02-13 14:19:29,252 - House.py[line:91] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:19:54,987 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:19:57,035 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-13 14:20:08,286 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 14:20:08,500 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:20:08,523 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:20:08,559 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:20:08,559 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 14:20:08,559 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:20:13,638 - House.py[line:89] - INFO: 套内单价：18660， 套内面积：159.83
+2019-02-13 14:20:17,910 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-2
+2019-02-13 14:20:18,410 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-2
+2019-02-13 14:20:18,428 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:20:18,447 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-1
+2019-02-13 14:20:18,447 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-2
+2019-02-13 14:20:26,253 - House.py[line:89] - INFO: 套内单价：18760， 套内面积：159.83
+2019-02-13 14:20:30,773 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 14:20:30,936 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:20:30,956 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:20:30,963 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-1
+2019-02-13 14:20:30,964 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-1
+2019-02-13 14:20:45,206 - House.py[line:91] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:20:59,766 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:21:22,698 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-13 14:21:31,051 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-2
+2019-02-13 14:21:31,217 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:21:31,236 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:21:31,270 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:21:31,270 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-2
+2019-02-13 14:21:38,401 - House.py[line:89] - INFO: 套内单价：18860， 套内面积：159.83
+2019-02-13 14:21:42,779 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 14:21:42,928 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:21:42,947 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:21:42,960 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-1
+2019-02-13 14:21:42,961 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-1
+2019-02-13 14:21:47,888 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-1
+2019-02-13 14:21:48,048 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:21:48,066 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:21:48,095 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-2
+2019-02-13 14:21:48,095 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-1
+2019-02-13 14:21:52,075 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:21:53,509 - House.py[line:89] - INFO: 套内单价：18960， 套内面积：159.83
+2019-02-13 14:21:58,084 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+7
+2019-02-13 14:21:58,260 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:21:58,278 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:21:58,305 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+7
+2019-02-13 14:21:58,305 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+7
+2019-02-13 14:22:53,332 - PoolDB.py[line:92] - ERROR: sql：update house set status=%s, inside_area=%s, built_area=%s, house_type=%s, inside_price=%s, 
+                        built_price=%s, updated=%s where id=%s
+2019-02-13 14:22:53,332 - PoolDB.py[line:93] - ERROR: sql param：[None, 18.43, 24.64, u'\u4e8c\u5ba4\u4e8c\u5385', 0, 0, datetime.datetime(2019, 2, 13, 14, 22, 2, 657000), 12149L]
+2019-02-13 14:22:53,332 - PoolDB.py[line:94] - ERROR: (1048, "Column 'status' cannot be null")
+2019-02-13 14:22:53,334 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:22:57,937 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+9
+2019-02-13 14:22:58,125 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:22:58,148 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:22:58,176 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+8
+2019-02-13 14:22:58,176 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+9
+2019-02-13 14:22:58,381 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:23:53,081 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:23:55,361 - PoolDB.py[line:92] - ERROR: sql：update house set status=%s, inside_area=%s, built_area=%s, house_type=%s, inside_price=%s, 
+                        built_price=%s, updated=%s where id=%s
+2019-02-13 14:23:55,361 - PoolDB.py[line:93] - ERROR: sql param：[None, 18.43, 24.64, u'\u4e8c\u5ba4\u4e8c\u5385', 0, 0, datetime.datetime(2019, 2, 13, 14, 23, 4, 487000), 12149L]
+2019-02-13 14:23:55,361 - PoolDB.py[line:94] - ERROR: (1048, "Column 'status' cannot be null")
+2019-02-13 14:23:55,365 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:24:00,177 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-2
+2019-02-13 14:24:00,588 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-2
+2019-02-13 14:24:00,612 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:24:00,648 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:24:00,648 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-2
+2019-02-13 14:24:55,778 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-13 14:25:06,540 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 14:25:06,703 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:25:06,723 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:25:06,755 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:25:06,756 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:25:25,892 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:26:22,345 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)

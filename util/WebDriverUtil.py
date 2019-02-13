@@ -48,6 +48,7 @@ class WebDriverManager(object):
         for web_driver in self.__list_web_driver__:
             if web_driver.get_id() == web_driver_id:
                 web_driver.quit()
+                time.sleep(1)
                 if self.proxy_ip:
                     proxy_pool.remove_proxy_ip(self.proxy_ip)
                     self.proxy_ip = None
