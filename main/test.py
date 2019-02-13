@@ -13,4 +13,4 @@ from util.ProxyIPUtil import ProxyPool
     #                              static_data.get("sum(sale_count)"))
     # except BaseException as e:
     #     print e
-cmdline.execute("scrapy crawl house".split())
+cmdline.execute("scrapy crawl real_estate".split())
