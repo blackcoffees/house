@@ -2201,3 +2201,1365 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-02-13 16:14:19,914 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+7
 2019-02-13 16:14:19,914 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+1
 2019-02-13 16:14:27,697 - House.py[line:92] - INFO: 套内单价：9535.61， 套内面积：91.18
+2019-02-13 16:15:01,878 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:15:12,098 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-2
+2019-02-13 16:15:12,134 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:15:12,470 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-2
+2019-02-13 16:15:12,489 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:15:12,519 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-7
+2019-02-13 16:15:12,519 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-2
+2019-02-13 16:15:29,744 - House.py[line:92] - INFO: 套内单价：9525.61， 套内面积：91.18
+2019-02-13 16:15:40,851 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-3
+2019-02-13 16:15:41,030 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:15:41,046 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:15:41,062 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-4
+2019-02-13 16:15:41,062 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-3
+2019-02-13 16:15:50,834 - House.py[line:92] - INFO: 套内单价：9515.61， 套内面积：91.18
+2019-02-13 16:15:56,875 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-2
+2019-02-13 16:15:57,247 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-2
+2019-02-13 16:15:57,267 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:15:57,283 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-4
+2019-02-13 16:15:57,283 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-2
+2019-02-13 16:16:03,976 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:16:12,326 - House.py[line:92] - INFO: 套内单价：9515.61， 套内面积：91.18
+2019-02-13 16:16:19,056 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-2
+2019-02-13 16:16:19,227 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:16:19,246 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:16:19,282 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-4
+2019-02-13 16:16:19,282 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-2
+2019-02-13 16:16:20,048 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:16:57,528 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:17:35,069 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+2
+2019-02-13 16:17:35,414 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+2
+2019-02-13 16:17:35,434 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:17:35,457 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+8
+2019-02-13 16:17:35,457 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+2
+2019-02-13 16:17:36,747 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:17:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:18:54,628 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+9
+2019-02-13 16:18:54,785 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:18:54,805 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:18:54,822 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-13 16:18:54,822 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+9
+2019-02-13 16:18:56,336 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:18:59,802 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:19:58,441 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:20:11,240 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:20:11,628 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:20:11,647 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:20:11,683 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:20:11,683 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:20:11,684 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 16:20:17,644 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-2
+2019-02-13 16:20:17,788 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:20:17,805 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:20:17,812 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2-2
+2019-02-13 16:20:17,812 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-2
+2019-02-13 16:20:23,838 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-3
+2019-02-13 16:20:24,358 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-3
+2019-02-13 16:20:24,374 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:20:24,380 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2-1
+2019-02-13 16:20:24,381 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-3
+2019-02-13 16:20:32,627 - House.py[line:92] - INFO: 套内单价：9495.61， 套内面积：91.18
+2019-02-13 16:20:38,599 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-3
+2019-02-13 16:20:38,979 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-3
+2019-02-13 16:20:38,993 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:20:39,006 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-13 16:20:39,006 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-3
+2019-02-13 16:20:52,407 - House.py[line:92] - INFO: 套内单价：9485.61， 套内面积：91.18
+2019-02-13 16:20:58,476 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+6
+2019-02-13 16:20:58,627 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:20:58,645 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:20:58,661 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+9
+2019-02-13 16:20:58,661 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+6
+2019-02-13 16:20:59,108 - House.py[line:92] - INFO: 套内单价：9505.62， 套内面积：91.18
+2019-02-13 16:21:01,542 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:21:11,053 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:22:00,459 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:22:17,187 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-6
+2019-02-13 16:22:17,339 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:22:17,368 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:22:17,408 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:22:17,408 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-6
+2019-02-13 16:22:21,411 - House.py[line:92] - INFO: 套内单价：9475.61， 套内面积：91.18
+2019-02-13 16:22:27,335 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+7
+2019-02-13 16:22:27,555 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:22:27,573 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:22:27,578 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+3
+2019-02-13 16:22:27,578 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+7
+2019-02-13 16:22:36,115 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+8
+2019-02-13 16:22:36,263 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:22:36,282 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:22:36,292 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+2
+2019-02-13 16:22:36,293 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+8
+2019-02-13 16:22:45,328 - House.py[line:92] - INFO: 套内单价：9465.81， 套内面积：91.18
+2019-02-13 16:22:51,351 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:22:51,502 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:22:51,522 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:22:51,528 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+9
+2019-02-13 16:22:51,528 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+9
+2019-02-13 16:22:58,825 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:22:59,230 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:22:59,246 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:22:59,257 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+5
+2019-02-13 16:22:59,257 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+5
+2019-02-13 16:23:00,319 - House.py[line:92] - INFO: 套内单价：9455.62， 套内面积：91.18
+2019-02-13 16:23:01,091 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:23:03,032 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:24:05,469 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:24:25,796 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-8
+2019-02-13 16:24:25,957 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:24:25,973 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:24:26,007 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:24:26,007 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-8
+2019-02-13 16:24:30,072 - House.py[line:92] - INFO: 套内单价：9315.61， 套内面积：95.28
+2019-02-13 16:24:36,012 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-2
+2019-02-13 16:24:36,400 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9-2
+2019-02-13 16:24:36,418 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:24:36,440 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-4
+2019-02-13 16:24:36,440 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-2
+2019-02-13 16:24:45,413 - House.py[line:92] - INFO: 套内单价：9445.61， 套内面积：91.18
+2019-02-13 16:24:51,311 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+1
+2019-02-13 16:24:51,710 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+1
+2019-02-13 16:24:51,730 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:24:51,767 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:24:51,767 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+1
+2019-02-13 16:24:58,706 - House.py[line:92] - INFO: 套内单价：9435.61， 套内面积：91.18
+2019-02-13 16:25:04,671 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+4
+2019-02-13 16:25:04,950 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:25:05,032 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+4
+2019-02-13 16:25:05,052 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:25:05,066 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+7
+2019-02-13 16:25:05,066 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+4
+2019-02-13 16:25:08,753 - House.py[line:92] - INFO: 套内单价：9425.61， 套内面积：91.18
+2019-02-13 16:25:14,551 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 16:25:14,765 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:25:14,783 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:25:14,818 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:25:14,818 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:25:14,818 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 16:25:20,831 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+7
+2019-02-13 16:25:21,207 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+7
+2019-02-13 16:25:21,223 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:25:21,227 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+5
+2019-02-13 16:25:21,227 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+7
+2019-02-13 16:25:23,430 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:25:55,865 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:26:41,321 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+3
+2019-02-13 16:26:41,717 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+3
+2019-02-13 16:26:41,732 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:26:41,733 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+5
+2019-02-13 16:26:41,734 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+3
+2019-02-13 16:26:41,950 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:27:02,661 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:27:55,434 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:27:55,947 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-2
+2019-02-13 16:27:56,328 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-2
+2019-02-13 16:27:56,348 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:27:56,385 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:27:56,387 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-2
+2019-02-13 16:27:56,903 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:28:13,756 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+4
+2019-02-13 16:28:14,170 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:28:14,190 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:28:14,210 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+3
+2019-02-13 16:28:14,210 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+4
+2019-02-13 16:28:14,470 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:28:25,917 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-2
+2019-02-13 16:28:26,089 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:28:26,111 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:28:26,134 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-4
+2019-02-13 16:28:26,134 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-2
+2019-02-13 16:28:34,341 - House.py[line:92] - INFO: 套内单价：9305.62， 套内面积：95.28
+2019-02-13 16:28:41,612 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-2
+2019-02-13 16:28:41,990 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-2
+2019-02-13 16:28:42,009 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:28:42,042 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:28:42,043 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2-2
+2019-02-13 16:28:48,838 - House.py[line:92] - INFO: 套内单价：9375.61， 套内面积：91.18
+2019-02-13 16:28:54,671 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+8
+2019-02-13 16:28:54,831 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-8
+2019-02-13 16:28:54,851 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:28:54,857 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+9
+2019-02-13 16:28:54,857 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+8
+2019-02-13 16:29:03,594 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:29:13,888 - House.py[line:92] - INFO: 套内单价：9180.61， 套内面积：103.39
+2019-02-13 16:29:19,806 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-6
+2019-02-13 16:29:20,171 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9-6
+2019-02-13 16:29:20,190 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:29:20,220 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-4
+2019-02-13 16:29:20,220 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-6
+2019-02-13 16:29:20,943 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:30:09,971 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:30:34,749 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5+9
+2019-02-13 16:30:34,900 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:30:34,920 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:30:34,950 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+8
+2019-02-13 16:30:34,951 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+9
+2019-02-13 16:30:35,211 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:31:02,635 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:31:49,654 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:31:50,039 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:31:50,059 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:31:50,065 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+9
+2019-02-13 16:31:50,065 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+9
+2019-02-13 16:31:57,568 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:31:58,226 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+5
+2019-02-13 16:31:58,387 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:31:58,407 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:31:58,417 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+8
+2019-02-13 16:31:58,417 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+5
+2019-02-13 16:32:00,404 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:32:13,595 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-3
+2019-02-13 16:32:13,881 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:32:13,905 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:32:13,924 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-2
+2019-02-13 16:32:13,924 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-3
+2019-02-13 16:32:14,128 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:32:24,075 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-3
+2019-02-13 16:32:24,479 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-3
+2019-02-13 16:32:24,493 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:32:24,507 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-1
+2019-02-13 16:32:24,507 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-3
+2019-02-13 16:32:30,065 - House.py[line:92] - INFO: 套内单价：9230.61， 套内面积：103.39
+2019-02-13 16:32:36,457 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-8
+2019-02-13 16:32:36,611 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-8
+2019-02-13 16:32:36,630 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:32:36,638 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-02-13 16:32:36,638 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 16:32:47,114 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 16:32:47,296 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:32:47,328 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:32:47,369 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:32:47,369 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:32:47,371 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 16:32:54,515 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-5
+2019-02-13 16:32:54,663 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:32:54,683 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:32:54,697 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-4
+2019-02-13 16:32:54,697 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-5
+2019-02-13 16:33:00,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:33:08,019 - House.py[line:92] - INFO: 套内单价：9295.61， 套内面积：95.28
+2019-02-13 16:33:17,492 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+7
+2019-02-13 16:33:17,641 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:33:17,661 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:33:17,667 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-02-13 16:33:17,667 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+7
+2019-02-13 16:33:30,170 - House.py[line:92] - INFO: 套内单价：9240.61， 套内面积：103.39
+2019-02-13 16:33:39,341 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:33:39,490 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:33:39,509 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:33:39,539 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-6
+2019-02-13 16:33:39,539 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-6
+2019-02-13 16:33:50,700 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+4
+2019-02-13 16:33:50,880 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:33:50,898 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:33:50,918 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+6
+2019-02-13 16:33:50,918 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+4
+2019-02-13 16:33:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:33:59,394 - House.py[line:92] - INFO: 套内单价：9250.61， 套内面积：103.39
+2019-02-13 16:34:06,157 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:34:06,316 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:34:06,335 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:34:06,345 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+8
+2019-02-13 16:34:06,345 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+8
+2019-02-13 16:34:14,759 - House.py[line:92] - INFO: 套内单价：9260.61， 套内面积：103.39
+2019-02-13 16:34:21,658 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-7
+2019-02-13 16:34:21,816 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:34:21,838 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:34:21,868 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-3
+2019-02-13 16:34:21,868 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-7
+2019-02-13 16:34:24,868 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:34:54,575 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-2
+2019-02-13 16:34:54,967 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-2
+2019-02-13 16:34:54,989 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:34:55,025 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:34:55,025 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-2
+2019-02-13 16:34:55,214 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:35:06,769 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:35:57,424 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:36:11,766 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-7
+2019-02-13 16:36:11,920 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:36:11,937 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:36:11,957 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-1
+2019-02-13 16:36:11,957 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-7
+2019-02-13 16:36:13,259 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:36:55,160 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:37:27,194 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+1
+2019-02-13 16:37:27,578 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+1
+2019-02-13 16:37:27,599 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:37:27,641 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:37:27,641 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+1
+2019-02-13 16:37:32,321 - House.py[line:92] - INFO: 套内单价：9285.61， 套内面积：95.28
+2019-02-13 16:37:40,690 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+1
+2019-02-13 16:37:41,052 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+1
+2019-02-13 16:37:41,072 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:37:41,094 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+1
+2019-02-13 16:37:41,094 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+1
+2019-02-13 16:37:47,197 - House.py[line:92] - INFO: 套内单价：9270.61， 套内面积：103.39
+2019-02-13 16:37:52,753 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-5
+2019-02-13 16:37:52,913 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:37:52,930 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:37:52,950 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-3
+2019-02-13 16:37:52,950 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-5
+2019-02-13 16:37:57,263 - House.py[line:92] - INFO: 套内单价：9280.61， 套内面积：103.39
+2019-02-13 16:38:03,864 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+7
+2019-02-13 16:38:04,260 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+7
+2019-02-13 16:38:04,276 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:38:04,315 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:38:04,315 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+7
+2019-02-13 16:38:05,605 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:38:06,306 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:38:55,164 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:39:21,187 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+1
+2019-02-13 16:39:21,546 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:39:21,566 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:39:21,601 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:39:21,601 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+1
+2019-02-13 16:39:22,095 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:39:56,016 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:40:36,680 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5+1
+2019-02-13 16:40:37,078 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+1
+2019-02-13 16:40:37,096 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:40:37,111 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+1
+2019-02-13 16:40:37,111 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+1
+2019-02-13 16:40:37,380 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:40:51,976 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:40:52,127 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:40:52,145 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:40:52,177 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+5
+2019-02-13 16:40:52,177 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+5
+2019-02-13 16:40:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:40:58,918 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-8
+2019-02-13 16:40:59,098 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:40:59,115 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:40:59,150 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:40:59,150 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-8
+2019-02-13 16:40:59,338 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:41:10,750 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:41:11,177 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:41:11,197 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:41:11,219 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+2
+2019-02-13 16:41:11,219 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+2
+2019-02-13 16:41:18,089 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+2
+2019-02-13 16:41:18,457 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+2
+2019-02-13 16:41:18,476 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:41:18,482 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+9
+2019-02-13 16:41:18,483 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+2
+2019-02-13 16:41:28,681 - House.py[line:92] - INFO: 套内单价：9290.61， 套内面积：103.39
+2019-02-13 16:41:34,871 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 16:41:35,025 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:41:35,045 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:41:35,084 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:41:35,084 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:41:35,084 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 16:41:42,240 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-2
+2019-02-13 16:41:42,615 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-2
+2019-02-13 16:41:42,638 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:41:42,671 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-1
+2019-02-13 16:41:42,671 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-2
+2019-02-13 16:41:50,941 - House.py[line:92] - INFO: 套内单价：9275.61， 套内面积：95.28
+2019-02-13 16:41:56,788 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+5
+2019-02-13 16:41:57,154 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+5
+2019-02-13 16:41:57,170 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:41:57,183 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+8
+2019-02-13 16:41:57,184 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+5
+2019-02-13 16:42:01,352 - House.py[line:92] - INFO: 套内单价：9300.61， 套内面积：103.39
+2019-02-13 16:42:08,844 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+2
+2019-02-13 16:42:09,059 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:42:09,283 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+7
+2019-02-13 16:42:09,302 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:42:09,326 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+2
+2019-02-13 16:42:09,326 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+7
+2019-02-13 16:42:10,098 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:42:55,161 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:43:32,312 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-7
+2019-02-13 16:43:32,460 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:43:32,483 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:43:32,523 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:43:32,523 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-7
+2019-02-13 16:43:39,802 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-6
+2019-02-13 16:43:40,178 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-6
+2019-02-13 16:43:40,198 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:43:40,223 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-2
+2019-02-13 16:43:40,223 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-6
+2019-02-13 16:43:41,283 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:43:59,996 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:44:13,529 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:44:14,601 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:44:19,346 - House.py[line:46] - INFO: 数据收集完成
+2019-02-13 16:44:24,573 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+5
+2019-02-13 16:44:24,954 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+5
+2019-02-13 16:44:24,971 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:44:24,984 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+8
+2019-02-13 16:44:24,984 - House.py[line:123] - ERROR: 'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-13 16:44:54,463 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-1
+2019-02-13 16:44:54,608 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:44:54,628 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:44:54,641 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-13 16:44:54,641 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-1
+2019-02-13 16:44:56,055 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:45:03,387 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:45:16,203 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:45:21,674 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:45:40,381 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-4
+2019-02-13 16:45:40,756 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-4
+2019-02-13 16:45:40,778 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:45:40,785 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2-2
+2019-02-13 16:45:40,785 - House.py[line:123] - ERROR: 'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-13 16:45:42,066 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-4
+2019-02-13 16:45:42,451 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-4
+2019-02-13 16:45:42,469 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:45:42,476 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2-2
+2019-02-13 16:45:42,476 - House.py[line:123] - ERROR: 'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-13 16:46:01,964 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:46:02,344 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:46:03,992 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:46:10,539 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-4
+2019-02-13 16:46:10,688 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:46:10,707 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:46:10,743 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:46:10,743 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-4
+2019-02-13 16:46:13,572 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 16:46:13,576 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 16:46:13,770 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:46:13,776 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:46:13,815 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:46:13,821 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:46:13,884 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:46:13,884 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:46:13,887 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:46:13,990 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:46:55,673 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:47:21,961 - House.py[line:92] - INFO: 套内单价：9310.61， 套内面积：103.39
+2019-02-13 16:47:28,401 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-1
+2019-02-13 16:47:28,775 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-13 16:47:28,799 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:47:28,811 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+5
+2019-02-13 16:47:28,811 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-13 16:47:34,071 - House.py[line:92] - INFO: 套内单价：9320.61， 套内面积：103.39
+2019-02-13 16:47:39,506 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+1
+2019-02-13 16:47:39,930 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+1
+2019-02-13 16:47:39,947 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:47:40,028 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+1
+2019-02-13 16:47:40,029 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+1
+2019-02-13 16:47:43,937 - House.py[line:92] - INFO: 套内单价：9265.61， 套内面积：95.28
+2019-02-13 16:47:50,976 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-4
+2019-02-13 16:47:51,164 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:47:51,184 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:47:51,219 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-2
+2019-02-13 16:47:51,219 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-4
+2019-02-13 16:47:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:48:03,897 - House.py[line:92] - INFO: 套内单价：9330.61， 套内面积：103.39
+2019-02-13 16:48:13,657 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-1
+2019-02-13 16:48:14,214 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-1
+2019-02-13 16:48:14,233 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:48:14,260 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+6
+2019-02-13 16:48:14,260 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2-1
+2019-02-13 16:48:17,927 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:49:03,759 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:49:35,240 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-13 16:49:35,632 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-7
+2019-02-13 16:49:35,650 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:49:35,663 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+8
+2019-02-13 16:49:35,663 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-7
+2019-02-13 16:49:37,423 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:49:57,507 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:50:03,601 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:50:06,703 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:50:41,900 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-13 16:50:42,280 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-7
+2019-02-13 16:50:42,302 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:50:42,318 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+8
+2019-02-13 16:50:55,286 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+1
+2019-02-13 16:50:55,476 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:50:55,496 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:50:55,506 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+2
+2019-02-13 16:50:55,507 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+1
+2019-02-13 16:50:57,026 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:51:00,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:51:22,530 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:51:44,885 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+1
+2019-02-13 16:51:45,039 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:51:45,062 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:51:45,076 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+2
+2019-02-13 16:51:58,710 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:52:20,180 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-1
+2019-02-13 16:52:20,328 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:52:20,348 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:52:20,382 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:52:20,382 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-1
+2019-02-13 16:52:24,418 - House.py[line:92] - INFO: 套内单价：9340.61， 套内面积：103.39
+2019-02-13 16:52:33,628 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-1
+2019-02-13 16:52:34,006 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-1
+2019-02-13 16:52:34,032 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:52:34,068 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-1
+2019-02-13 16:52:34,068 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-1
+2019-02-13 16:52:34,155 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-1
+2019-02-13 16:52:34,530 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-1
+2019-02-13 16:52:34,558 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:52:34,594 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-1
+2019-02-13 16:52:42,160 - House.py[line:92] - INFO: 套内单价：9350.61， 套内面积：103.39
+2019-02-13 16:52:44,779 - House.py[line:125] - ERROR: 'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-13 16:52:51,648 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-2
+2019-02-13 16:52:51,796 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:52:51,815 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:52:51,851 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:52:51,851 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-2
+2019-02-13 16:52:56,592 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:53:02,684 - House.py[line:92] - INFO: 套内单价：9255.62， 套内面积：95.28
+2019-02-13 16:54:03,907 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:54:33,000 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+3
+2019-02-13 16:54:33,154 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:54:33,167 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:54:33,180 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+5
+2019-02-13 16:54:33,180 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+3
+2019-02-13 16:54:38,424 - House.py[line:92] - INFO: 套内单价：9360.61， 套内面积：103.39
+2019-02-13 16:54:45,338 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+3
+2019-02-13 16:54:45,494 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:54:45,509 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:54:45,516 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+8
+2019-02-13 16:54:45,516 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+3
+2019-02-13 16:54:56,882 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:54:59,801 - House.py[line:92] - INFO: 套内单价：9370.61， 套内面积：103.39
+2019-02-13 16:55:06,326 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-5
+2019-02-13 16:55:06,673 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-5
+2019-02-13 16:55:06,690 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:55:06,714 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-5
+2019-02-13 16:55:06,714 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-5
+2019-02-13 16:55:09,569 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:55:17,532 - House.py[line:92] - INFO: 套内单价：9370.61， 套内面积：103.39
+2019-02-13 16:55:24,296 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:55:24,453 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:55:24,473 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:55:24,489 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+9
+2019-02-13 16:55:24,489 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+9
+2019-02-13 16:55:25,121 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:55:30,411 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-2
+2019-02-13 16:55:30,770 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-2
+2019-02-13 16:55:30,789 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:55:30,823 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:55:30,825 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-2
+2019-02-13 16:55:30,996 - House.py[line:118] - ERROR: 无法获取房子数据
+2019-02-13 16:55:57,470 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:56:45,019 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-3
+2019-02-13 16:56:45,177 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:56:45,191 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:56:45,226 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:56:45,226 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-3
+2019-02-13 16:56:51,601 - House.py[line:92] - INFO: 套内单价：9245.61， 套内面积：95.28
+2019-02-13 16:56:57,561 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+3
+2019-02-13 16:56:57,724 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:56:57,743 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:56:57,759 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-13 16:56:57,759 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+3
+2019-02-13 16:57:00,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:57:03,691 - House.py[line:92] - INFO: 套内单价：9370.61， 套内面积：103.39
+2019-02-13 16:57:09,144 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 16:57:09,315 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:57:09,335 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:57:09,371 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:57:09,372 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 16:57:09,372 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 16:57:16,533 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-4
+2019-02-13 16:57:16,686 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:57:16,707 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:57:16,755 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 16:57:16,756 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-4
+2019-02-13 16:57:18,984 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:57:57,908 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:58:33,911 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-1
+2019-02-13 16:58:34,280 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-13 16:58:34,302 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:58:34,315 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-13 16:58:34,315 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-13 16:58:34,509 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:59:06,381 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:59:06,948 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-7
+2019-02-13 16:59:07,096 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 16:59:07,115 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:59:07,127 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-13 16:59:07,127 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-7
+2019-02-13 16:59:07,693 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:59:21,657 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-5
+2019-02-13 16:59:22,015 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-5
+2019-02-13 16:59:22,033 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:59:22,042 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-1
+2019-02-13 16:59:22,042 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-5
+2019-02-13 16:59:23,634 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:59:34,826 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+9
+2019-02-13 16:59:35,193 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+9
+2019-02-13 16:59:35,213 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:59:35,226 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+3
+2019-02-13 16:59:35,226 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+9
+2019-02-13 16:59:35,543 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:59:48,579 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-1
+2019-02-13 16:59:48,938 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-1
+2019-02-13 16:59:48,957 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:59:48,989 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-3
+2019-02-13 16:59:48,989 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-1
+2019-02-13 16:59:52,081 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 16:59:55,161 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:00:20,628 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 17:00:45,881 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：None
+2019-02-13 17:00:55,355 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:01:08,648 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+5
+2019-02-13 17:01:09,009 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+5
+2019-02-13 17:01:09,028 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:01:09,076 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:01:09,076 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+5
+2019-02-13 17:01:25,042 - House.py[line:92] - INFO: 套内单价：9360.61， 套内面积：103.39
+2019-02-13 17:01:31,469 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-3
+2019-02-13 17:01:31,851 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-3
+2019-02-13 17:01:31,871 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:01:31,904 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:01:31,905 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-3
+2019-02-13 17:01:50,799 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 17:01:54,762 - House.py[line:92] - INFO: 套内单价：9350.61， 套内面积：103.39
+2019-02-13 17:01:55,246 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:02:00,891 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+6
+2019-02-13 17:02:01,961 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+6
+2019-02-13 17:02:01,980 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:02:01,986 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+5
+2019-02-13 17:02:01,986 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+6
+2019-02-13 17:02:06,246 - House.py[line:92] - INFO: 套内单价：9235.61， 套内面积：95.28
+2019-02-13 17:02:12,260 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+8
+2019-02-13 17:02:12,411 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+8
+2019-02-13 17:02:12,427 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:02:12,444 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-1
+2019-02-13 17:02:12,444 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+8
+2019-02-13 17:02:24,069 - House.py[line:92] - INFO: 套内单价：9340.61， 套内面积：103.39
+2019-02-13 17:02:27,381 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：3-2
+2019-02-13 17:02:29,532 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：3-2
+2019-02-13 17:02:29,759 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-3
+2019-02-13 17:02:29,907 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:02:29,921 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:02:29,954 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:02:29,956 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-3
+2019-02-13 17:02:30,549 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:02:32,062 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:02:35,108 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：8-7
+2019-02-13 17:02:43,851 - House.py[line:125] - ERROR: 'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-13 17:02:49,049 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+3
+2019-02-13 17:02:49,436 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+3
+2019-02-13 17:02:49,450 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:02:49,460 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+5
+2019-02-13 17:02:49,460 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+3
+2019-02-13 17:02:50,571 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:03:01,973 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+1
+2019-02-13 17:03:02,339 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+1
+2019-02-13 17:03:02,358 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:03:02,380 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+2
+2019-02-13 17:03:02,380 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+1
+2019-02-13 17:03:02,641 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:03:03,997 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:03:12,209 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：8-1
+2019-02-13 17:03:13,713 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:03:13,871 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:03:13,898 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:03:13,927 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-5
+2019-02-13 17:03:13,927 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-5
+2019-02-13 17:03:14,203 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:03:14,677 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:03:17,323 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:03:20,487 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：2-2
+2019-02-13 17:03:29,312 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-2
+2019-02-13 17:03:29,706 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-2
+2019-02-13 17:03:29,724 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:03:29,759 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:03:29,759 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-2
+2019-02-13 17:03:31,367 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:03:45,790 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+2
+2019-02-13 17:03:46,161 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+2
+2019-02-13 17:03:46,180 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:03:46,184 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+9
+2019-02-13 17:03:46,184 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+2
+2019-02-13 17:03:50,707 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:03:55,881 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 17:04:03,913 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:04:12,420 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：None
+2019-02-13 17:04:12,782 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:04:12,802 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:04:12,828 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：8+7
+2019-02-13 17:04:12,828 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:8+7
+2019-02-13 17:04:22,400 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：4-3
+2019-02-13 17:04:22,785 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：4-3
+2019-02-13 17:04:22,799 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:04:22,828 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：9-1
+2019-02-13 17:04:22,828 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:4-3
+2019-02-13 17:04:24,897 - House.py[line:125] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:04:56,845 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:05:05,257 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-7
+2019-02-13 17:05:05,414 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:05:05,430 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:05:05,440 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-2
+2019-02-13 17:05:05,440 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-7
+2019-02-13 17:05:06,309 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:06:02,581 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:06:31,181 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-4
+2019-02-13 17:06:31,555 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-4
+2019-02-13 17:06:31,575 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:06:31,594 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-1
+2019-02-13 17:06:31,595 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-4
+2019-02-13 17:06:35,671 - House.py[line:92] - INFO: 套内单价：9330.61， 套内面积：103.39
+2019-02-13 17:06:42,967 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-3
+2019-02-13 17:06:43,342 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-3
+2019-02-13 17:06:43,374 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:06:43,421 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-1
+2019-02-13 17:06:43,421 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-3
+2019-02-13 17:06:54,522 - House.py[line:92] - INFO: 套内单价：9320.61， 套内面积：103.39
+2019-02-13 17:07:03,325 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5+7
+2019-02-13 17:07:03,697 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+7
+2019-02-13 17:07:03,713 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:07:03,720 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+1
+2019-02-13 17:07:03,720 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+7
+2019-02-13 17:07:09,112 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:07:39,158 - House.py[line:92] - INFO: 套内单价：9225.61， 套内面积：95.28
+2019-02-13 17:07:45,670 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-2
+2019-02-13 17:07:45,815 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:07:45,832 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:07:45,868 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:07:45,868 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-2
+2019-02-13 17:07:51,256 - House.py[line:92] - INFO: 套内单价：9310.61， 套内面积：103.39
+2019-02-13 17:07:58,502 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:07:58,653 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:07:58,671 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:07:58,677 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+5
+2019-02-13 17:07:58,677 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+5
+2019-02-13 17:07:59,338 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:08:04,881 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+5
+2019-02-13 17:08:05,247 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+5
+2019-02-13 17:08:05,265 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:08:05,276 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+8
+2019-02-13 17:08:05,276 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+5
+2019-02-13 17:08:10,174 - House.py[line:92] - INFO: 套内单价：9775.61， 套内面积：83.22
+2019-02-13 17:08:17,638 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+7
+2019-02-13 17:08:18,028 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+7
+2019-02-13 17:08:18,046 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:08:18,058 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+1
+2019-02-13 17:08:18,059 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+7
+2019-02-13 17:08:18,707 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:09:22,667 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:09:35,703 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-1
+2019-02-13 17:09:36,092 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-13 17:09:36,111 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:09:36,145 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+3
+2019-02-13 17:09:36,145 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-13 17:09:39,854 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:09:51,516 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-1
+2019-02-13 17:09:51,895 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-1
+2019-02-13 17:09:51,914 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:09:51,944 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-7
+2019-02-13 17:09:51,944 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-1
+2019-02-13 17:09:53,150 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:10:04,242 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+2
+2019-02-13 17:10:04,624 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9+2
+2019-02-13 17:10:04,641 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:10:04,654 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+9
+2019-02-13 17:10:04,654 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+2
+2019-02-13 17:10:06,019 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:10:06,615 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:10:25,921 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+5
+2019-02-13 17:10:26,298 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+5
+2019-02-13 17:10:26,315 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:10:26,331 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+7
+2019-02-13 17:10:26,331 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+5
+2019-02-13 17:10:27,686 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:10:39,523 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-4
+2019-02-13 17:10:39,891 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-4
+2019-02-13 17:10:39,908 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:10:39,924 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-3
+2019-02-13 17:10:39,926 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-4
+2019-02-13 17:10:42,286 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:10:57,236 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:11:00,016 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-13 17:11:01,720 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-13 17:11:09,622 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+2
+2019-02-13 17:11:09,986 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+9
+2019-02-13 17:11:10,006 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:11:10,025 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+9
+2019-02-13 17:11:10,025 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+9
+2019-02-13 17:11:15,247 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:11:28,000 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:11:28,365 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:11:28,384 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:11:28,398 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-4
+2019-02-13 17:11:28,398 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-4
+2019-02-13 17:11:34,654 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-4
+2019-02-13 17:11:35,026 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9-4
+2019-02-13 17:11:35,049 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:11:35,072 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-4
+2019-02-13 17:11:35,072 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-4
+2019-02-13 17:11:53,566 - House.py[line:92] - INFO: 套内单价：9785.6， 套内面积：83.22
+2019-02-13 17:12:02,538 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-1
+2019-02-13 17:12:02,963 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-1
+2019-02-13 17:12:02,980 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:12:02,990 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-1
+2019-02-13 17:12:02,990 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-1
+2019-02-13 17:12:04,187 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:12:09,957 - House.py[line:92] - INFO: 套内单价：9795.61， 套内面积：83.22
+2019-02-13 17:12:15,994 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-5
+2019-02-13 17:12:16,150 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:12:16,168 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:12:16,191 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-5
+2019-02-13 17:12:16,193 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-5
+2019-02-13 17:12:24,042 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+2
+2019-02-13 17:12:24,414 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+1
+2019-02-13 17:12:24,431 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:12:24,450 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+7
+2019-02-13 17:12:24,450 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+1
+2019-02-13 17:12:28,467 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-13 17:12:30,315 - House.py[line:92] - INFO: 套内单价：9805.61， 套内面积：83.22
+2019-02-13 17:12:36,289 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-7
+2019-02-13 17:12:36,437 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:12:36,454 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:12:36,490 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-1
+2019-02-13 17:12:36,490 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-7
+2019-02-13 17:12:37,155 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：8+3
+2019-02-13 17:12:37,316 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:12:37,335 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:12:37,345 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：4+5
+2019-02-13 17:12:37,346 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:8+3
+2019-02-13 17:12:38,588 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:12:39,405 - House.py[line:125] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:12:51,196 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：None
+2019-02-13 17:12:51,348 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:12:51,364 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:12:51,381 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：6+3
+2019-02-13 17:12:51,381 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:6+3
+2019-02-13 17:12:52,483 - House.py[line:125] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:13:03,618 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:13:07,915 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：5+2
+2019-02-13 17:13:08,280 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：5+2
+2019-02-13 17:13:08,299 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:13:08,308 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：4+2
+2019-02-13 17:13:08,308 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:5+2
+2019-02-13 17:13:12,144 - House.py[line:125] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:13:23,286 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9-9
+2019-02-13 17:13:23,447 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:13:23,466 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:13:23,503 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：9-4
+2019-02-13 17:13:23,503 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:9-9
+2019-02-13 17:13:24,342 - House.py[line:125] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:13:35,651 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9-9
+2019-02-13 17:13:35,808 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:13:35,835 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:13:35,878 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：None
+2019-02-13 17:13:35,878 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:9-9
+2019-02-13 17:13:36,394 - House.py[line:125] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:13:53,483 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+7
+2019-02-13 17:13:53,848 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+7
+2019-02-13 17:13:53,865 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:13:53,868 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+5
+2019-02-13 17:13:53,868 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+7
+2019-02-13 17:13:54,619 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:13:58,223 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:15:08,250 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-2
+2019-02-13 17:15:08,394 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:15:08,413 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:15:08,448 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:15:08,448 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-2
+2019-02-13 17:15:09,657 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:15:20,058 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:15:21,686 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-7
+2019-02-13 17:15:21,881 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:15:21,907 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:15:21,927 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-13 17:15:21,927 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-7
+2019-02-13 17:15:24,114 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:15:36,184 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-4
+2019-02-13 17:15:36,548 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-4
+2019-02-13 17:15:36,568 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:15:36,586 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-2
+2019-02-13 17:15:36,586 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-4
+2019-02-13 17:15:37,342 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:15:47,674 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-2
+2019-02-13 17:15:48,063 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-2
+2019-02-13 17:15:48,082 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:15:48,115 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-3
+2019-02-13 17:15:48,117 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-2
+2019-02-13 17:15:54,654 - House.py[line:92] - INFO: 套内单价：9215.61， 套内面积：95.28
+2019-02-13 17:15:55,729 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:16:09,032 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+1
+2019-02-13 17:16:09,395 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+1
+2019-02-13 17:16:09,414 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:16:09,447 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:16:09,447 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+1
+2019-02-13 17:16:14,132 - House.py[line:92] - INFO: 套内单价：9815.61， 套内面积：83.22
+2019-02-13 17:16:34,951 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+2
+2019-02-13 17:16:35,319 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+2
+2019-02-13 17:16:35,339 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:16:35,341 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+2
+2019-02-13 17:16:35,341 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+2
+2019-02-13 17:16:36,714 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:17:01,012 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:17:51,292 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-5
+2019-02-13 17:17:51,440 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:17:51,454 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:17:51,483 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-6
+2019-02-13 17:17:51,483 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-5
+2019-02-13 17:17:52,206 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:18:03,371 - ProxyIPUtil.py[line:167] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-13 17:18:05,430 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:18:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:19:06,640 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:19:06,795 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:19:06,813 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:19:06,848 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:19:06,848 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 17:19:06,849 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 17:19:13,411 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+5
+2019-02-13 17:19:13,792 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+5
+2019-02-13 17:19:13,809 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:19:13,829 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+2
+2019-02-13 17:19:13,829 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+5
+2019-02-13 17:19:14,967 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:20:01,630 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:20:31,230 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-2
+2019-02-13 17:20:31,598 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-2
+2019-02-13 17:20:31,621 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:20:31,650 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-6
+2019-02-13 17:20:31,650 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-2
+2019-02-13 17:20:46,181 - House.py[line:92] - INFO: 套内单价：9825.61， 套内面积：83.22
+2019-02-13 17:20:55,341 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+5
+2019-02-13 17:20:55,703 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+5
+2019-02-13 17:20:55,719 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:20:55,739 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+2
+2019-02-13 17:20:55,740 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+5
+2019-02-13 17:21:07,095 - House.py[line:92] - INFO: 套内单价：9835.6， 套内面积：83.22
+2019-02-13 17:21:07,096 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:21:15,227 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:21:15,384 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:21:15,404 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:21:15,411 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+5
+2019-02-13 17:21:15,413 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+5
+2019-02-13 17:21:19,440 - House.py[line:92] - INFO: 套内单价：9205.62， 套内面积：95.28
+2019-02-13 17:21:28,154 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-2
+2019-02-13 17:21:28,532 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-2
+2019-02-13 17:21:28,549 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:21:28,585 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:21:28,585 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-2
+2019-02-13 17:21:31,526 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:21:57,818 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:22:46,371 - ProxyIPUtil.py[line:169] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-13 17:22:47,500 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+9
+2019-02-13 17:22:47,907 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+9
+2019-02-13 17:22:47,930 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:22:47,950 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+8
+2019-02-13 17:22:47,950 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+9
+2019-02-13 17:22:49,522 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:22:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:22:56,697 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：2+2
+2019-02-13 17:22:57,072 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：4+5
+2019-02-13 17:22:57,092 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:22:57,098 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：3+5
+2019-02-13 17:22:57,098 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:4+5
+2019-02-13 17:23:00,628 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:23:41,016 - ProxyIPUtil.py[line:169] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-13 17:23:52,523 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：1+2
+2019-02-13 17:23:52,892 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：1+2
+2019-02-13 17:23:52,911 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:23:52,931 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：7+3
+2019-02-13 17:23:52,931 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:1+2
+2019-02-13 17:23:55,630 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:24:06,947 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+5
+2019-02-13 17:24:07,312 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+5
+2019-02-13 17:24:07,328 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:24:07,344 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+9
+2019-02-13 17:24:07,344 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+5
+2019-02-13 17:24:07,569 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:24:08,694 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:24:09,240 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：6-3
+2019-02-13 17:24:09,608 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：6-3
+2019-02-13 17:24:09,634 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:24:09,684 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：None
+2019-02-13 17:24:09,684 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:6-3
+2019-02-13 17:24:09,880 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:24:19,602 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-3
+2019-02-13 17:24:19,999 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-3
+2019-02-13 17:24:20,013 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:24:20,039 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-6
+2019-02-13 17:24:20,039 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-3
+2019-02-13 17:24:20,230 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:24:31,855 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-3
+2019-02-13 17:24:32,221 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-3
+2019-02-13 17:24:32,246 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:24:32,280 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:24:32,280 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-3
+2019-02-13 17:24:33,283 - connectionpool.py[line:662] - WARNING: Retrying (%r) after connection broken by '%r': %s
+2019-02-13 17:24:34,286 - connectionpool.py[line:662] - WARNING: Retrying (%r) after connection broken by '%r': %s
+2019-02-13 17:24:35,296 - connectionpool.py[line:662] - WARNING: Retrying (%r) after connection broken by '%r': %s
+2019-02-13 17:24:36,299 - House.py[line:118] - ERROR: HTTPConnectionPool(host='127.0.0.1', port=59048): Max retries exceeded with url: /session/6113a248c4fc3fb652549c8a3264aed1/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000D04C5C0>: Failed to establish a new connection: [Errno 10061] ',))
+2019-02-13 17:24:37,305 - connectionpool.py[line:662] - WARNING: Retrying (%r) after connection broken by '%r': %s
+2019-02-13 17:24:38,306 - connectionpool.py[line:662] - WARNING: Retrying (%r) after connection broken by '%r': %s
+2019-02-13 17:24:39,309 - connectionpool.py[line:662] - WARNING: Retrying (%r) after connection broken by '%r': %s
+2019-02-13 17:24:51,502 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:24:51,887 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:24:51,905 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:24:51,920 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+7
+2019-02-13 17:24:51,921 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+7
+2019-02-13 17:25:00,095 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+6
+2019-02-13 17:25:00,460 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+6
+2019-02-13 17:25:00,479 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:25:00,484 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+9
+2019-02-13 17:25:00,486 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+6
+2019-02-13 17:25:04,168 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:25:16,782 - ProxyIPUtil.py[line:169] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-13 17:25:18,486 - House.py[line:92] - INFO: 套内单价：9845.61， 套内面积：83.22
+2019-02-13 17:25:27,798 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-1
+2019-02-13 17:25:27,984 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:25:28,005 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:25:28,039 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:25:28,039 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-1
+2019-02-13 17:25:28,059 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9-7
+2019-02-13 17:25:28,417 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：9-7
+2019-02-13 17:25:28,434 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:25:28,470 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：9-2
+2019-02-13 17:25:28,470 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:9-7
+2019-02-13 17:25:29,803 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:25:42,608 - ProxyIPUtil.py[line:169] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-13 17:25:52,035 - House.py[line:92] - INFO: 套内单价：9195.61， 套内面积：95.28
+2019-02-13 17:25:54,490 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：7-9
+2019-02-13 17:25:54,644 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：7-9
+2019-02-13 17:25:54,664 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:25:54,670 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：2+8
+2019-02-13 17:25:54,670 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:None
+2019-02-13 17:25:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:25:59,289 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+2
+2019-02-13 17:25:59,661 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+3
+2019-02-13 17:25:59,677 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:25:59,683 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+5
+2019-02-13 17:25:59,683 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+3
+2019-02-13 17:26:00,247 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:26:03,694 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：4+4
+2019-02-13 17:26:04,059 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：4+4
+2019-02-13 17:26:04,078 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:26:04,092 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：5+8
+2019-02-13 17:26:04,092 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:4+4
+2019-02-13 17:26:06,009 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:27:06,871 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:27:16,417 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-13 17:27:16,569 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:27:16,585 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:27:16,615 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+5
+2019-02-13 17:27:16,617 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+5
+2019-02-13 17:27:21,451 - ProxyIPUtil.py[line:169] - INFO: 测试代理IP,切换代理IP:117.141.155.242:53281
+2019-02-13 17:27:25,015 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+2
+2019-02-13 17:27:25,387 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+2
+2019-02-13 17:27:25,405 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:27:25,421 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-13 17:27:25,421 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+2
+2019-02-13 17:27:27,032 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:27:31,838 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9+9
+2019-02-13 17:27:31,987 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:27:32,006 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:27:32,019 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：4-2
+2019-02-13 17:27:32,020 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:9+9
+2019-02-13 17:27:32,566 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:27:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 17:28:07,030 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9-7
+2019-02-13 17:28:07,381 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：9-7
+2019-02-13 17:28:07,404 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:28:07,423 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：6-2
+2019-02-13 17:28:07,423 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:9-7
+2019-02-13 17:28:08,079 - House.py[line:126] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 17:28:41,887 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-2
+2019-02-13 17:28:41,941 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：None
+2019-02-13 17:28:42,069 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 17:28:42,089 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 17:28:42,128 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 17:28:42,128 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-2
+2019-02-13 17:28:42,331 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-13 17:28:42,351 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-13 17:28:42,381 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：9+2
+2019-02-13 17:28:42,381 - ImageRecognitionUtil.py[line:92] - INFO: 验证码:9+2
