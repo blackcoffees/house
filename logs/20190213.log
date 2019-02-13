@@ -1742,3 +1742,462 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-02-13 14:25:06,756 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
 2019-02-13 14:25:25,892 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
 2019-02-13 14:26:22,345 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:26:50,279 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-13 14:26:59,573 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:27:02,147 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+7
+2019-02-13 14:27:02,500 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+5
+2019-02-13 14:27:02,519 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:27:02,532 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+9
+2019-02-13 14:27:07,158 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+5
+2019-02-13 14:27:24,755 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:27:28,736 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-13 14:27:29,101 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-13 14:27:29,119 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:27:29,144 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-3
+2019-02-13 14:27:36,088 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-13 14:27:51,315 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:27:54,595 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:27:56,858 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+5
+2019-02-13 14:27:57,246 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+5
+2019-02-13 14:27:57,265 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:27:57,276 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+4
+2019-02-13 14:28:56,569 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:29:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:30:49,815 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:32:01,894 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:32:48,263 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+5
+2019-02-13 14:32:56,834 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:33:01,714 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-4
+2019-02-13 14:33:01,858 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:33:01,875 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:33:01,908 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:33:03,934 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:33:06,845 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-4
+2019-02-13 14:33:15,117 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:33:19,980 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+7
+2019-02-13 14:33:20,358 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+7
+2019-02-13 14:33:20,374 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:33:20,375 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+6
+2019-02-13 14:33:23,976 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+7
+2019-02-13 14:33:29,535 - House.py[line:91] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:33:37,002 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-13 14:33:45,819 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1-7
+2019-02-13 14:33:46,180 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1-1
+2019-02-13 14:33:46,200 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:33:46,236 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+2
+2019-02-13 14:33:53,875 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1-1
+2019-02-13 14:33:57,115 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:33:59,390 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:34:03,463 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-5
+2019-02-13 14:34:03,937 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-5
+2019-02-13 14:34:03,951 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:34:03,984 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:35:02,796 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:35:05,101 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-5
+2019-02-13 14:35:09,346 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:35:14,262 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-4
+2019-02-13 14:35:14,641 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-4
+2019-02-13 14:35:14,661 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:35:14,693 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-4
+2019-02-13 14:35:16,762 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-4
+2019-02-13 14:35:22,989 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:35:27,812 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-7
+2019-02-13 14:35:28,270 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-1
+2019-02-13 14:35:28,289 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:35:28,301 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-13 14:35:30,943 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-1
+2019-02-13 14:35:33,391 - House.py[line:91] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:35:54,936 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:35:56,536 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-13 14:36:28,954 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 14:36:29,101 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:36:29,119 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:36:29,153 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:36:29,154 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 14:36:35,763 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:37:04,351 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:37:18,023 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-8
+2019-02-13 14:37:18,178 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:37:18,197 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:37:18,240 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:37:24,369 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-8
+2019-02-13 14:37:54,019 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+4
+2019-02-13 14:37:55,450 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:37:58,318 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 14:38:05,440 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+4
+2019-02-13 14:38:05,588 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:38:05,611 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:38:05,615 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+9
+2019-02-13 14:38:05,615 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+4
+2019-02-13 14:38:09,249 - House.py[line:89] - INFO: 套内单价：18960， 套内面积：159.83
+2019-02-13 14:38:13,328 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+2
+2019-02-13 14:38:13,742 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+2
+2019-02-13 14:38:13,762 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:38:13,765 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+9
+2019-02-13 14:38:13,765 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+2
+2019-02-13 14:38:18,921 - House.py[line:89] - INFO: 套内单价：19160， 套内面积：159.83
+2019-02-13 14:38:22,961 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+5
+2019-02-13 14:38:23,108 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:38:23,131 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:38:23,148 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-13 14:38:23,148 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+5
+2019-02-13 14:38:27,229 - House.py[line:91] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:38:51,960 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:39:31,871 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-13 14:39:40,319 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-3
+2019-02-13 14:39:40,697 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-3
+2019-02-13 14:39:40,723 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:39:40,752 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+9
+2019-02-13 14:39:40,753 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-3
+2019-02-13 14:39:45,483 - House.py[line:89] - INFO: 套内单价：19260， 套内面积：159.83
+2019-02-13 14:39:50,398 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-5
+2019-02-13 14:39:50,542 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:39:50,562 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:39:50,596 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:39:50,596 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-5
+2019-02-13 14:39:57,078 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:39:58,233 - House.py[line:89] - INFO: 套内单价：19360， 套内面积：159.83
+2019-02-13 14:40:03,020 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+6
+2019-02-13 14:40:03,188 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:40:03,210 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:40:03,240 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+3
+2019-02-13 14:40:03,240 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+6
+2019-02-13 14:40:04,009 - House.py[line:91] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:40:56,844 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:41:02,262 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-13 14:41:23,494 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+8
+2019-02-13 14:41:23,644 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:41:23,667 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:41:23,697 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+2
+2019-02-13 14:41:23,697 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+8
+2019-02-13 14:41:36,306 - House.py[line:89] - INFO: 套内单价：19460， 套内面积：159.83
+2019-02-13 14:41:43,388 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+1
+2019-02-13 14:41:43,744 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+1
+2019-02-13 14:41:43,763 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:41:43,786 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+3
+2019-02-13 14:41:43,786 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+1
+2019-02-13 14:41:54,056 - House.py[line:89] - INFO: 套内单价：19160， 套内面积：159.83
+2019-02-13 14:41:59,832 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:42:02,944 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-3
+2019-02-13 14:42:03,306 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-3
+2019-02-13 14:42:03,322 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:42:03,336 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-13 14:42:03,336 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-3
+2019-02-13 14:42:15,046 - House.py[line:89] - INFO: 套内单价：19260， 套内面积：159.83
+2019-02-13 14:42:30,762 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-8
+2019-02-13 14:42:30,920 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:42:30,937 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:42:30,957 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+9
+2019-02-13 14:42:30,957 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-8
+2019-02-13 14:42:47,947 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-3
+2019-02-13 14:42:48,315 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-3
+2019-02-13 14:42:48,335 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:42:48,368 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-1
+2019-02-13 14:42:48,368 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-3
+2019-02-13 14:43:00,042 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:43:07,137 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:43:40,770 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+6
+2019-02-13 14:43:41,164 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+6
+2019-02-13 14:43:41,184 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:43:41,187 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+9
+2019-02-13 14:43:41,187 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+6
+2019-02-13 14:43:58,427 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:44:05,653 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:44:17,838 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-3
+2019-02-13 14:44:18,203 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-3
+2019-02-13 14:44:18,219 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:44:18,246 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-7
+2019-02-13 14:44:18,246 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-3
+2019-02-13 14:44:34,081 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:44:47,803 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+1
+2019-02-13 14:44:47,947 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:44:47,966 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:44:47,969 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+6
+2019-02-13 14:44:47,969 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+1
+2019-02-13 14:44:50,351 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:45:21,275 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+2
+2019-02-13 14:45:21,645 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+2
+2019-02-13 14:45:21,665 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:45:21,668 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+4
+2019-02-13 14:45:21,668 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+2
+2019-02-13 14:45:44,599 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.43
+2019-02-13 14:45:48,742 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-4
+2019-02-13 14:45:48,904 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:45:48,927 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:45:48,957 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-8
+2019-02-13 14:45:48,959 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-4
+2019-02-13 14:45:54,937 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:46:08,499 - House.py[line:89] - INFO: 套内单价：0， 套内面积：22.08
+2019-02-13 14:46:10,463 - House.py[line:91] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:46:24,594 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-13 14:46:47,430 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+3
+2019-02-13 14:46:47,805 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+3
+2019-02-13 14:46:47,825 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:46:47,828 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+3
+2019-02-13 14:46:47,828 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+3
+2019-02-13 14:46:53,663 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:47:10,017 - House.py[line:89] - INFO: 套内单价：19560， 套内面积：162.34
+2019-02-13 14:47:19,181 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-5
+2019-02-13 14:47:19,328 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:47:19,348 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:47:19,362 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-2
+2019-02-13 14:47:19,364 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-5
+2019-02-13 14:47:33,428 - House.py[line:89] - INFO: 套内单价：0， 套内面积：22.08
+2019-02-13 14:47:41,375 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-2
+2019-02-13 14:47:41,746 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-2
+2019-02-13 14:47:41,766 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:47:41,801 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:47:41,802 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-2
+2019-02-13 14:47:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:47:50,328 - House.py[line:89] - INFO: 套内单价：20260， 套内面积：162.34
+2019-02-13 14:47:55,891 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1-8
+2019-02-13 14:47:56,042 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1-8
+2019-02-13 14:47:56,059 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:47:56,071 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+5
+2019-02-13 14:47:56,071 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:48:07,349 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+7
+2019-02-13 14:48:07,711 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+5
+2019-02-13 14:48:07,732 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:48:07,744 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+5
+2019-02-13 14:48:07,744 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+5
+2019-02-13 14:48:13,273 - House.py[line:89] - INFO: 套内单价：0， 套内面积：20.98
+2019-02-13 14:48:18,584 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+2
+2019-02-13 14:48:18,737 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:48:18,757 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:48:18,773 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-1
+2019-02-13 14:48:18,775 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+2
+2019-02-13 14:48:24,397 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 14:48:24,548 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:48:24,568 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:48:24,601 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:48:24,602 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 14:48:24,602 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:48:33,003 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+9
+2019-02-13 14:48:33,161 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:48:33,180 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:48:33,206 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-3
+2019-02-13 14:48:33,206 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+9
+2019-02-13 14:48:36,638 - House.py[line:91] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:48:39,023 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-13 14:48:42,704 - House.py[line:91] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:48:52,193 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:49:15,602 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-13 14:49:26,226 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-3
+2019-02-13 14:49:26,598 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-3
+2019-02-13 14:49:26,614 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:49:26,647 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:49:26,648 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-3
+2019-02-13 14:49:29,648 - House.py[line:91] - ERROR: 无法获取房子数据
+2019-02-13 14:49:55,095 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:50:24,882 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-02-13 14:50:39,148 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 14:50:39,312 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:50:39,335 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:50:39,371 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:50:39,371 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 14:50:39,371 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:50:52,016 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+8
+2019-02-13 14:50:52,194 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-8
+2019-02-13 14:50:52,211 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:50:52,240 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+6
+2019-02-13 14:50:52,240 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+8
+2019-02-13 14:50:59,713 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:51:09,444 - House.py[line:89] - INFO: 套内单价：20260， 套内面积：159.05
+2019-02-13 14:51:18,470 - House.py[line:91] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:51:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:52:51,198 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:53:58,380 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:54:53,887 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:55:14,111 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 14:55:21,621 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-5
+2019-02-13 14:55:22,003 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-5
+2019-02-13 14:55:22,019 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:55:22,033 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-4
+2019-02-13 14:55:22,035 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-5
+2019-02-13 14:55:28,678 - House.py[line:89] - INFO: 套内单价：19560， 套内面积：159.05
+2019-02-13 14:55:33,144 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+4
+2019-02-13 14:55:33,516 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+4
+2019-02-13 14:55:33,536 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:55:33,542 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+5
+2019-02-13 14:55:33,542 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+4
+2019-02-13 14:55:38,062 - House.py[line:89] - INFO: 套内单价：0， 套内面积：20.98
+2019-02-13 14:55:42,211 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+2
+2019-02-13 14:55:42,599 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+1
+2019-02-13 14:55:42,619 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:55:42,684 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:55:42,684 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+1
+2019-02-13 14:55:46,122 - House.py[line:89] - INFO: 套内单价：19760， 套内面积：194.6
+2019-02-13 14:55:49,796 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-1
+2019-02-13 14:55:50,161 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-13 14:55:50,180 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:55:50,197 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+2
+2019-02-13 14:55:50,197 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-13 14:55:56,457 - House.py[line:89] - INFO: 套内单价：0， 套内面积：18.1
+2019-02-13 14:55:57,568 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:55:59,953 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-13 14:56:00,125 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 14:56:00,145 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 14:56:00,181 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 14:56:00,181 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-13 14:56:00,181 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-13 14:56:07,418 - House.py[line:91] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-13 14:56:58,885 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:57:59,345 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:59:02,585 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 14:59:50,266 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:01:02,763 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:01:49,825 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:02:50,759 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:03:51,094 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:04:57,855 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:05:49,871 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:06:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:07:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:08:49,815 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:09:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:11:02,342 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:11:59,917 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:12:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:13:52,364 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:14:53,359 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:15:53,438 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:16:55,635 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:17:57,980 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:18:49,832 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:19:49,813 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:20:57,405 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:22:03,099 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:22:50,318 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:23:49,874 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:24:50,153 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:25:53,937 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:26:53,742 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:27:52,424 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:28:54,180 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:30:01,176 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:30:49,831 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:31:52,410 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:32:49,895 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:33:51,184 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:34:58,082 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:35:56,522 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:36:53,546 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:37:51,134 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:38:02,776 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 15:38:11,301 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-2
+2019-02-13 15:38:11,443 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 15:38:11,460 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 15:38:11,493 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-2
+2019-02-13 15:38:11,493 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-2
+2019-02-13 15:38:15,596 - House.py[line:92] - INFO: 套内单价：9535.61， 套内面积：91.18
+2019-02-13 15:38:42,450 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-13 15:38:42,454 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-13 15:38:42,464 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-13 15:38:42,509 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 15:38:42,963 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 15:38:42,967 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 15:38:42,973 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-13 15:38:51,655 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 15:38:55,140 - engine.py[line:256] - INFO: Spider opened
+2019-02-13 15:38:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:38:55,151 - middlewares.py[line:105] - INFO: Spider opened: building
+2019-02-13 15:39:27,013 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 15:39:36,440 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-3
+2019-02-13 15:39:36,799 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 15:39:36,816 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 15:39:36,855 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 15:39:36,855 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-3
+2019-02-13 15:39:41,776 - House.py[line:92] - INFO: 套内单价：9545.61， 套内面积：91.18
+2019-02-13 15:40:30,098 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:40:31,039 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 15:40:39,994 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-2
+2019-02-13 15:40:40,361 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-2
+2019-02-13 15:40:40,380 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 15:40:40,411 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-13 15:40:40,411 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-2
+2019-02-13 15:40:50,283 - House.py[line:92] - INFO: 套内单价：9545.61， 套内面积：91.18
+2019-02-13 15:46:08,167 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 15:46:20,410 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:46:29,908 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-3
+2019-02-13 15:46:30,065 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-13 15:46:30,085 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 15:46:30,099 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-2
+2019-02-13 15:46:30,099 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-3
+2019-02-13 15:46:35,286 - House.py[line:92] - INFO: 套内单价：9525.61， 套内面积：91.18
+2019-02-13 15:46:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:47:58,540 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:49:01,194 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:49:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:50:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:51:55,153 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:53:07,263 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:54:07,806 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:55:06,003 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:56:06,464 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:57:06,878 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:57:55,161 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 15:59:07,516 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:00:11,387 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:01:05,190 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:02:05,401 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:03:03,273 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:03:55,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:04:55,177 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:06:18,332 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:06:55,401 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:08:01,217 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:08:55,388 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:10:01,430 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:12:27,417 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:12:31,569 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:12:44,226 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-4
+2019-02-13 16:12:44,585 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-4
+2019-02-13 16:12:44,605 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:12:44,614 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-2
+2019-02-13 16:12:44,614 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-4
+2019-02-13 16:12:57,961 - House.py[line:92] - INFO: 套内单价：9545.61， 套内面积：91.18
+2019-02-13 16:13:04,750 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:14:00,395 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-13 16:14:10,184 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-13 16:14:19,487 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9+1
+2019-02-13 16:14:19,862 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9+1
+2019-02-13 16:14:19,881 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-13 16:14:19,914 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+7
+2019-02-13 16:14:19,914 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9+1
+2019-02-13 16:14:27,697 - House.py[line:92] - INFO: 套内单价：9535.61， 套内面积：91.18

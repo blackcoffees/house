@@ -48,7 +48,7 @@ class PoolDB(object):
             raise BaseException(u"数据库连接不上")
         return cursor
 
-    def find(self, sql, param=None):
+    def find(self, sql, param=None, sql_analysis=True):
         cursor = self.__get_connect__()
         # self.__get_sql_query_param__(sql)
         try:
@@ -57,14 +57,17 @@ class PoolDB(object):
             else:
                 cursor.execute(sql)
             result = cursor.fetchall()
-            list_query_param = self.__get_sql_query_param__(sql)
-            data_list = list()
-            for item in result:
-                data_dict = dict()
-                for (index, v) in enumerate(list_query_param):
-                    data_dict[v.strip()] = item[index]
-                data_list.append(data_dict)
-            return data_list
+            if sql_analysis:
+                list_query_param = self.__get_sql_query_param__(sql)
+                data_list = list()
+                for item in result:
+                    data_dict = dict()
+                    for (index, v) in enumerate(list_query_param):
+                        data_dict[v.strip()] = item[index]
+                    data_list.append(data_dict)
+                return data_list
+            else:
+                return result
         except BaseException as e:
             # db_pool_logger.error("sql：%s" % sql)
             # db_pool_logger.error("sql param：%s" % param)
@@ -96,8 +99,8 @@ class PoolDB(object):
             cursor.close()
             self.__conn__.close()
 
-    def find_one(self, sql, param=None):
-        result = self.find(sql, param)
+    def find_one(self, sql, param=None, sql_analysis=True):
+        result = self.find(sql, param, sql_analysis)
         if result and len(result) > 0:
             return result[0]
         return None
