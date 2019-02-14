@@ -116,5 +116,8 @@ class HouseSpider(BaseSpider):
                         real_estate_id = house.get("real_estate_id")
             except BaseException as e:
                 logger.error(e)
-                web_driver_manager.destory_web_driver(house_driver.get_id())
-                house_driver = web_driver_manager.get_web_driver()
+                try:
+                    web_driver_manager.destory_web_driver(house_driver.get_id())
+                    house_driver = web_driver_manager.get_web_driver(True)
+                except BaseException as e:
+                    print e
