@@ -804,3 +804,393 @@ Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后
 2019-02-14 17:11:46,015 - House.py[line:118] - ERROR: Message: invalid session id
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
 
+2019-02-14 17:13:26,601 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-14 17:13:26,609 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-14 17:13:26,619 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-14 17:13:26,665 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-14 17:13:27,111 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-14 17:13:27,118 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-14 17:13:27,125 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-14 17:14:17,963 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-14 17:14:18,072 - engine.py[line:256] - INFO: Spider opened
+2019-02-14 17:14:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:14:18,122 - middlewares.py[line:105] - INFO: Spider opened: building
+2019-02-14 17:14:27,838 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-14 17:14:32,651 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:14:39,470 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-14 17:15:23,960 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-14 17:15:23,966 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:15:47,516 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-14 17:16:10,707 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-14 17:16:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:16:48,803 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.105.25:53281
+2019-02-14 17:19:23,989 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-14 17:19:23,990 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:20:19,951 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:21:18,217 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:22:26,382 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:23:28,561 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:24:19,437 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:25:19,999 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:26:26,920 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:27:08,384 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-14 17:27:15,293 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:27:34,681 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:27:57,510 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:28:18,135 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:28:25,094 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:29:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:29:52,325 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-14 17:29:58,062 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:30:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:31:25,780 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-14 17:31:27,250 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:31:30,888 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:32:23,628 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-14 17:32:33,240 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:32:34,247 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-1
+2019-02-14 17:32:34,621 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9-1
+2019-02-14 17:32:34,641 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:32:34,667 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-5
+2019-02-14 17:32:34,667 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-1
+2019-02-14 17:32:51,111 - House.py[line:92] - INFO: 套内单价：9735.6， 套内面积：83.22
+2019-02-14 17:32:59,780 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+2
+2019-02-14 17:33:00,161 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+4
+2019-02-14 17:33:00,184 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:33:00,216 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+7
+2019-02-14 17:33:00,217 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+4
+2019-02-14 17:33:12,605 - House.py[line:92] - INFO: 套内单价：9315.61， 套内面积：95.28
+2019-02-14 17:33:18,927 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-8
+2019-02-14 17:33:19,157 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:33:19,174 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:33:19,207 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:33:19,207 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-8
+2019-02-14 17:33:25,890 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:33:39,694 - House.py[line:92] - INFO: 套内单价：9505.62， 套内面积：91.18
+2019-02-14 17:33:46,614 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-3
+2019-02-14 17:33:47,007 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-3
+2019-02-14 17:33:47,026 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:33:47,062 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:33:47,062 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-3
+2019-02-14 17:33:59,750 - House.py[line:92] - INFO: 套内单价：9305.62， 套内面积：95.28
+2019-02-14 17:34:05,885 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-3
+2019-02-14 17:34:06,038 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:34:06,056 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:34:06,091 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:34:06,091 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-3
+2019-02-14 17:34:17,559 - House.py[line:92] - INFO: 套内单价：9495.61， 套内面积：91.18
+2019-02-14 17:34:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:34:24,654 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+2
+2019-02-14 17:34:25,013 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+2
+2019-02-14 17:34:25,032 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:34:25,042 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+2
+2019-02-14 17:34:25,042 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+2
+2019-02-14 17:34:26,523 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:35:20,042 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:36:18,157 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:37:21,779 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:38:21,371 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:39:07,533 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:39:14,301 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:39:24,969 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:40:27,565 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:40:39,069 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-14 17:41:10,023 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:41:22,941 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:41:35,562 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-14 17:41:43,194 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:42:30,098 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:42:53,582 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-14 17:43:05,974 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-14 17:43:06,395 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-7
+2019-02-14 17:43:06,413 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:43:06,417 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1-1
+2019-02-14 17:43:06,417 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-7
+2019-02-14 17:43:14,782 - House.py[line:92] - INFO: 套内单价：9295.61， 套内面积：95.28
+2019-02-14 17:43:20,996 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-3
+2019-02-14 17:43:21,398 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-3
+2019-02-14 17:43:21,423 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:43:21,453 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-1
+2019-02-14 17:43:21,453 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-3
+2019-02-14 17:43:22,533 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:43:33,506 - House.py[line:92] - INFO: 套内单价：9205.62， 套内面积：95.28
+2019-02-14 17:43:39,865 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-7
+2019-02-14 17:43:40,019 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:43:40,036 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:43:40,072 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:43:40,073 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-7
+2019-02-14 17:43:52,171 - House.py[line:92] - INFO: 套内单价：9215.61， 套内面积：95.28
+2019-02-14 17:43:58,227 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-9
+2019-02-14 17:43:58,394 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:43:58,414 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:43:58,450 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:43:58,450 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-9
+2019-02-14 17:44:04,286 - House.py[line:92] - INFO: 套内单价：9225.61， 套内面积：95.28
+2019-02-14 17:44:12,076 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+1
+2019-02-14 17:44:12,490 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+1
+2019-02-14 17:44:12,507 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:44:12,542 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:44:12,542 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+1
+2019-02-14 17:44:13,101 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:44:19,846 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:44:35,424 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-14 17:44:46,709 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-1
+2019-02-14 17:44:47,094 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-1
+2019-02-14 17:44:47,112 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:44:47,125 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-1
+2019-02-14 17:44:47,125 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-1
+2019-02-14 17:45:01,028 - House.py[line:92] - INFO: 套内单价：9475.61， 套内面积：91.18
+2019-02-14 17:45:08,926 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+4
+2019-02-14 17:45:09,312 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+4
+2019-02-14 17:45:09,332 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:45:09,338 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+2
+2019-02-14 17:45:09,338 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+4
+2019-02-14 17:45:21,168 - House.py[line:92] - INFO: 套内单价：9465.61， 套内面积：91.18
+2019-02-14 17:45:29,882 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:45:30,190 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-1
+2019-02-14 17:45:30,571 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-1
+2019-02-14 17:45:30,594 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:45:30,621 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+6
+2019-02-14 17:45:30,622 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-1
+2019-02-14 17:45:31,464 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:45:44,828 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-14 17:45:57,559 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-14 17:45:57,717 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:45:57,737 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:45:57,763 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+8
+2019-02-14 17:45:57,765 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+8
+2019-02-14 17:46:06,690 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-8
+2019-02-14 17:46:06,846 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-8
+2019-02-14 17:46:06,864 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:46:06,894 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+8
+2019-02-14 17:46:06,894 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-14 17:46:16,240 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-7
+2019-02-14 17:46:16,420 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:46:16,437 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:46:16,471 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-14 17:46:16,471 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-7
+2019-02-14 17:46:21,259 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:46:27,217 - House.py[line:92] - INFO: 套内单价：9485.61， 套内面积：91.18
+2019-02-14 17:46:36,739 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5+4
+2019-02-14 17:46:36,884 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-14 17:46:36,903 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:46:36,907 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+3
+2019-02-14 17:46:36,907 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+4
+2019-02-14 17:46:42,798 - House.py[line:92] - INFO: 套内单价：9455.62， 套内面积：91.18
+2019-02-14 17:46:50,858 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-3
+2019-02-14 17:46:51,214 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-3
+2019-02-14 17:46:51,230 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:46:51,239 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-2
+2019-02-14 17:46:51,239 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-3
+2019-02-14 17:46:57,329 - House.py[line:92] - INFO: 套内单价：9285.61， 套内面积：95.28
+2019-02-14 17:47:03,913 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+9
+2019-02-14 17:47:04,065 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-9
+2019-02-14 17:47:04,084 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:47:04,088 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+6
+2019-02-14 17:47:04,088 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+9
+2019-02-14 17:47:19,311 - House.py[line:92] - INFO: 套内单价：9445.61， 套内面积：91.18
+2019-02-14 17:47:26,499 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-4
+2019-02-14 17:47:27,322 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-4
+2019-02-14 17:47:27,342 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-14 17:47:27,371 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-3
+2019-02-14 17:47:27,371 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-4
+2019-02-14 17:47:29,635 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:47:36,753 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:48:28,454 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:49:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:49:55,394 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:50:09,760 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:50:16,321 - House.py[line:123] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:50:18,444 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:50:21,948 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-14 17:50:26,918 - House.py[line:123] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:50:33,992 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:51:22,762 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:52:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:53:18,786 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:53:18,934 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:53:22,299 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:53:27,414 - House.py[line:123] - ERROR: thread_1.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:53:30,698 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:53:59,073 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:54:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:55:22,430 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:55:56,453 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:56:21,789 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:56:53,637 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 17:57:27,950 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:58:18,122 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:59:19,200 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 17:59:21,788 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 17:59:28,052 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-14 17:59:47,845 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9-7
+2019-02-14 17:59:47,993 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-14 17:59:48,012 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 17:59:48,030 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：6-1
+2019-02-14 18:00:28,711 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:01:00,039 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.6.201.18:9999
+2019-02-14 18:01:22,075 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:02:21,914 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:02:40,040 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 18:03:23,391 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-14 18:03:33,421 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:04:18,122 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:05:00,654 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 18:05:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:06:18,121 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:07:08,903 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-14 18:07:18,378 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9-3
+2019-02-14 18:07:18,739 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：9-3
+2019-02-14 18:07:18,753 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 18:07:19,417 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：9-3
+2019-02-14 18:07:19,417 - House.py[line:123] - ERROR: thread_0.png:'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-14 18:07:47,259 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-14 18:07:47,265 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:08:00,043 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-14 18:08:13,211 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：4-4
+2019-02-14 18:08:13,572 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：4-4
+2019-02-14 18:08:13,589 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 18:08:13,621 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：None
+2019-02-14 18:08:13,621 - House.py[line:123] - ERROR: thread_0.png:'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-14 18:08:14,838 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-14 18:08:26,440 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：None
+2019-02-14 18:08:26,861 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：None
+2019-02-14 18:08:26,888 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 18:08:26,908 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：5+7
+2019-02-14 18:08:28,822 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:08:34,555 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：9+1
+2019-02-14 18:08:34,920 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：9+1
+2019-02-14 18:08:34,937 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 18:08:34,943 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：2+5
+2019-02-14 18:08:34,943 - House.py[line:123] - ERROR: thread_0.png:'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-14 18:09:24,365 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:10:15,226 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-14 18:10:25,647 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：4-1
+2019-02-14 18:10:26,007 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：4-1
+2019-02-14 18:10:26,026 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 18:10:26,035 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：3-1
+2019-02-14 18:10:26,035 - House.py[line:123] - ERROR: thread_0.png:'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)
+2019-02-14 18:10:27,505 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:11:28,023 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:11:53,170 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:58.249.55.222:9797
+2019-02-14 18:12:25,944 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:13:29,874 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-14 18:13:53,821 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 18:14:02,533 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-02-14 18:14:02,538 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 8,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 6,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 157915,
+ 'downloader/request_count': 363,
+ 'downloader/request_method_count/GET': 363,
+ 'downloader/response_bytes': 47849230,
+ 'downloader/response_count': 355,
+ 'downloader/response_status_count/200': 354,
+ 'downloader/response_status_count/404': 1,
+ 'dupefilter/filtered': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 2, 14, 10, 14, 2, 535000),
+ 'item_scraped_count': 18504,
+ 'log_count/DEBUG': 18869,
+ 'log_count/INFO': 73,
+ 'request_depth_max': 354,
+ 'response_received_count': 355,
+ 'retry/count': 8,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 6,
+ 'retry/reason_count/twisted.internet.error.TimeoutError': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'scheduler/dequeued': 362,
+ 'scheduler/dequeued/memory': 362,
+ 'scheduler/enqueued': 362,
+ 'scheduler/enqueued/memory': 362,
+ 'start_time': datetime.datetime(2019, 2, 14, 9, 14, 18, 122000)}
+2019-02-14 18:14:02,539 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-02-14 18:14:38,168 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.108.53:53281
+2019-02-14 18:16:35,384 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 18:17:03,788 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:124.205.155.158:9090
+2019-02-14 18:19:02,121 - House.py[line:123] - ERROR: thread_0.png:Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-14 18:19:24,561 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-14 18:19:35,436 - ImageRecognitionUtil.py[line:50] - INFO: 图片识别：1+4
+2019-02-14 18:19:35,788 - ImageRecognitionUtil.py[line:56] - INFO: 图片识别修正：1+4
+2019-02-14 18:19:35,805 - ImageRecognitionUtil.py[line:64] - INFO: 图片比较识别：None
+2019-02-14 18:19:35,835 - ImageRecognitionUtil.py[line:70] - INFO: 成功图片比较：9+1
+2019-02-14 18:19:35,835 - House.py[line:123] - ERROR: thread_0.png:'ascii' codec can't decode byte 0xe9 in position 0: ordinal not in range(128)

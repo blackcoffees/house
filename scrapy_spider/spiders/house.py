@@ -103,16 +103,17 @@ class BuildingSpider(scrapy.Spider):
     proxy_ip = "113.200.214.164:9999"
     db_building = None
     base_build_sql = """select * from building where pre_sale_number is NULL order by id limit %s,1"""
-    base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=%s&buildingid=%s"
+    base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid=%s"
 
     def start_requests(self):
         self.get_proxy_ip()
         sql = self.base_build_sql % self.build_index
         self.db_building = pool.find_one(sql)
-        url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))
+        url = self.base_house_url % self.db_building.get("web_build_id")
         return [Request(url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})]
 
     def parse(self, response):
+        has_house = False
         try:
             if "HtmlPage" in response.url:
                 table_houses = response.xpath("//input[@id='DataHF']")
@@ -139,6 +140,7 @@ class BuildingSpider(scrapy.Spider):
                             item["web_house_id"] = one_house.get("id")
                             print u"%s：%s：%s：%s" % (self.db_building.get("real_estate_name"), item["unit"],
                                                     self.db_building.get("sale_building"), item["door_number"])
+                            has_house = True
                             yield item
             # 保存预售许可证
             if "GetBuildingInfo" in response.url:
@@ -159,13 +161,20 @@ class BuildingSpider(scrapy.Spider):
             if "GetBuildingInfo" in response.url:
                 # 切换另外一个building
                 self.db_building = pool.find_one((self.base_build_sql % self.build_index))
-                house_url = self.base_house_url % (self.db_building.get("sale_building"), self.db_building.get("web_build_id"))
+                house_url = self.base_house_url % self.db_building.get("web_build_id")
                 yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
             else:
-                # 获得预售许可证
-                build_url = "http://www.cq315house.com/315web/webservice/GetBuildingInfo.ashx?buildingId=%s" \
-                            % self.db_building.get("web_build_id")
-                yield Request(build_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
+                if not has_house:
+                    if response.meta.get("proxy") == "http://" + self.proxy_ip:
+                        self.get_proxy_ip()
+                    house_url = self.base_house_url % self.db_building.get("web_build_id")
+                    yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
+                                  dont_filter=True)
+                else:
+                    # 获得预售许可证
+                    build_url = "http://www.cq315house.com/315web/webservice/GetBuildingInfo.ashx?buildingId=%s" \
+                                % self.db_building.get("web_build_id")
+                    yield Request(build_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
 
     def get_proxy_ip(self):
         while True:
