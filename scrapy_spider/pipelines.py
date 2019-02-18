@@ -4,6 +4,8 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+import datetime
+
 from base.Model import RealEstate, Building, House
 from db.PoolDB import pool
 
@@ -19,7 +21,17 @@ class RealEstatePipeline(object):
             real_estate.sale_building = item["sale_building"]
             real_estate.source_id = item["source_id"]
             real_estate.sale_count = item["sale_count"]
+            real_estate.web_real_estate_id = item["web_real_estate_id"]
             real_estate_id = real_estate.__add__()
+            # 检查web_real_estate_id 是否存在
+            if not real_estate_id:
+                print 12321
+            sql_find_web_real_estate_id = """select web_real_estate_id from real_estate where id=%s""" % real_estate_id
+            result_sql = pool.find_one(sql_find_web_real_estate_id)
+            if not result_sql.get("web_real_estate_id"):
+                sql_update_real_estate_id = """update real_estate set web_real_estate_id=%s, updated=%s where id=%s"""
+                pool.commit(sql_update_real_estate_id, [real_estate.web_real_estate_id, datetime.datetime.now(),
+                                                        real_estate_id])
             list_building = item["building_sale_buildings"].split(",")
             list_sale_residence_count = item["building_sale_residence_counts"].split(",")
             list_sale_none_residence_count = item["building_sale_none_residence_counts"].split(",")

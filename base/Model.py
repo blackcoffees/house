@@ -28,6 +28,7 @@ class RealEstate(BaseModel):
     sale_count = 0
     house_total_count = 0
     house_sell_out_count = 0
+    web_real_estate_id = 0
 
     def __add__(self):
         real_estate_id = self.__find__()
@@ -39,7 +40,7 @@ class RealEstate(BaseModel):
         values = list()
         for field in fields.split(","):
             values.append(getattr(self, field))
-        sql = """ insert into real_estate (""" + fields + """) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        sql = """ insert into real_estate (""" + fields + """) values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         return DBUtil.save(sql, param=values)
 
     def __find__(self):

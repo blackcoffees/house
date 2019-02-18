@@ -79,8 +79,8 @@ class HouseSpider(BaseSpider):
                     if one_house_data and "undefined-undefined" in one_house_data:
                         raise BaseException(u"无法获取房子数据")
                     json_data = json.loads(one_house_data)
-                    if json_data.get("HX") == u"其他":
-                        continue
+                    # if json_data.get("HX") == u"其他":
+                    #     continue
                     house_status = chinese_status.get(json_data.get("FWZT")) if chinese_status.get(json_data.get("FWZT")) else 7
                     inside_area = json_data.get("TNMJ")
                     built_area = json_data.get("JZMJ")
@@ -89,7 +89,7 @@ class HouseSpider(BaseSpider):
                     built_price = json_data.get("NSDJ_JM")
                     pool.commit(self.base_update_sql, [house_status, inside_area, built_area, house_type, inside_price,
                                                        built_price, datetime.datetime.now(), house.get("id")])
-                    logger.info("套内单价：%s， 套内面积：%s" % (inside_price, inside_area))
+                    logger.info("%s：套内单价：%s， 套内面积：%s" % (house.get("door_number"), inside_price, inside_area))
                     # 统计数据
                     # 不同大楼,此时统计该栋楼的数据
                     if buliding_id and buliding_id != house.get("buliding_id"):
@@ -121,3 +121,4 @@ class HouseSpider(BaseSpider):
                     house_driver = web_driver_manager.get_web_driver(True)
                 except BaseException as e:
                     print e
+                    house_driver = web_driver_manager.get_web_driver(True)

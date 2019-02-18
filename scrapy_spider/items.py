@@ -27,6 +27,7 @@ class RealEstateItem(scrapy.Item):
     building_sale_none_residence_counts = scrapy.Field()
     building_web_build_ids = scrapy.Field()
     building_register_times = scrapy.Field()
+    web_real_estate_id = scrapy.Field()
 
 
 class HouseItem(scrapy.Item):

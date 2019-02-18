@@ -77,6 +77,7 @@ class RealEstateSpider(scrapy.Spider):
                 item["building_sale_none_residence_counts"] = json_data.get("BUILDFZZNUM")
                 item["building_web_build_ids"] = json_data.get("BUILDID")
                 item["building_register_times"] = json_data.get("F_REGISTER_DATE")
+                item["web_real_estate_id"] = json_data.get("PARENTJECTID")
                 print "%s:%s" % (datetime.datetime.now(), json_data.get("F_SITE") + " " + json_data.get("PROJECTNAME"))
                 yield item
         except BaseException as e:
@@ -104,6 +105,7 @@ class BuildingSpider(scrapy.Spider):
     db_building = None
     base_build_sql = """select * from building where pre_sale_number is NULL order by id limit %s,1"""
     base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid=%s"
+    handle_httpstatus_list = [404]
 
     def start_requests(self):
         self.get_proxy_ip()
@@ -182,3 +184,6 @@ class BuildingSpider(scrapy.Spider):
             self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
             if self.proxy_ip:
                 break
+
+    def after_404(self, response):
+        print u"404"
