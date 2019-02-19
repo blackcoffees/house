@@ -47,7 +47,8 @@ class WebDriverManager(object):
     def destory_web_driver(self, web_driver_id):
         for web_driver in self.__list_web_driver__:
             if web_driver.get_id() == web_driver_id:
-                web_driver.quit()
+                # web_driver.quit()
+                web_driver.close()
                 time.sleep(1)
                 if self.proxy_ip:
                     proxy_pool.remove_proxy_ip(self.proxy_ip)

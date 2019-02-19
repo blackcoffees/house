@@ -112,7 +112,7 @@ class BuildingSpider(scrapy.Spider):
         sql = self.base_build_sql % self.build_index
         self.db_building = pool.find_one(sql)
         url = self.base_house_url % self.db_building.get("web_build_id")
-        return [Request(url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})]
+        return [Request(url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip}, dont_filter=True)]
 
     def parse(self, response):
         has_house = False
@@ -164,7 +164,8 @@ class BuildingSpider(scrapy.Spider):
                 # 切换另外一个building
                 self.db_building = pool.find_one((self.base_build_sql % self.build_index))
                 house_url = self.base_house_url % self.db_building.get("web_build_id")
-                yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
+                yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
+                              dont_filter=True)
             else:
                 if not has_house:
                     if response.meta.get("proxy") == "http://" + self.proxy_ip:
@@ -176,7 +177,8 @@ class BuildingSpider(scrapy.Spider):
                     # 获得预售许可证
                     build_url = "http://www.cq315house.com/315web/webservice/GetBuildingInfo.ashx?buildingId=%s" \
                                 % self.db_building.get("web_build_id")
-                    yield Request(build_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
+                    yield Request(build_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
+                                  dont_filter=True)
 
     def get_proxy_ip(self):
         while True:

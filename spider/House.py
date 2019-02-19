@@ -119,6 +119,6 @@ class HouseSpider(BaseSpider):
                 try:
                     web_driver_manager.destory_web_driver(house_driver.get_id())
                     house_driver = web_driver_manager.get_web_driver(True)
-                except BaseException as e:
-                    print e
-                    house_driver = web_driver_manager.get_web_driver(True)
+                    break
+                except BaseException as e2:
+                    print e2
