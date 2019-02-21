@@ -118,7 +118,9 @@ class HouseSpider(BaseSpider):
                 logger.error(e)
                 try:
                     web_driver_manager.destory_web_driver(house_driver.get_id())
-                    house_driver = web_driver_manager.get_web_driver(True)
-                    break
                 except BaseException as e2:
                     print e2
+                    command = u"taskkill /F /IM chromedriver.exe"
+                    os.system(command)
+                house_driver = web_driver_manager.get_web_driver(True)
+
