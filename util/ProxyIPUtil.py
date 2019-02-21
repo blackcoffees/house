@@ -54,37 +54,27 @@ class ProxyPool(object):
             proxy_ip = "%s:%s" % (ip, port)
             self.list_proxy_ip.append(proxy_ip)
 
-    def __get_proxy_ip_feiyi__(self):
-        """
-        获得飞蚁的免费代理ip
-        :return:
-        """
-        from util.CommonUtils import send_request
-        base_url = "http://www.feiyiproxy.com/?page_id=1457"
-        response = send_request(base_url)
-        soup = BeautifulSoup(response, "html.parser")
-        table = soup.find("div", attrs={"class": "et_pb_code et_pb_module et_pb_code_1"}).find("table")
-        list_trs = table.find_all("tr")[1:]
-        print u"获得飞蚁ip:%s" % len(list_trs)
-        for tr in list_trs:
-            ip = tr.find("td").text
-            port = tr.find_all("td")[1].text
-            proxy_ip = "%s:%s" % (ip, port)
-            self.list_proxy_ip.append(proxy_ip)
-
     def __get_proxy_ip_xici__(self):
         """
         获得xici的免费代理ip
         :return:
         """
         from util.CommonUtils import send_request
-        random_number = random.randrange(1, 3000)
-        base_url = "https://www.xicidaili.com/nn/%s" % random_number
+        list_trs = list()
+        # 透明
+        base_url = "https://www.xicidaili.com/nt/%s" % random.randrange(1, 723)
         response = send_request(base_url)
         soup = BeautifulSoup(response, "html.parser")
         table = soup.find("table", attrs={"id": "ip_list"})
-        list_trs = table.find_all("tr")[1:]
-        base_url = "https://www.xicidaili.com/nt/%s" % random.randrange(1, 723)
+        list_trs.extend(table.find_all("tr")[1:])
+        # 代理
+        base_url = "https://www.xicidaili.com/wt/%s" % random.randrange(1, 1900)
+        response = send_request(base_url)
+        soup = BeautifulSoup(response, "html.parser")
+        table = soup.find("table", attrs={"id": "ip_list"})
+        list_trs.extend(table.find_all("tr")[1:])
+        # 高匿
+        base_url = "https://www.xicidaili.com/nn/%s" % random.randrange(1, 3000)
         response = send_request(base_url)
         soup = BeautifulSoup(response, "html.parser")
         table = soup.find("table", attrs={"id": "ip_list"})

@@ -1,0 +1,659 @@
+2019-02-21 10:15:14,874 - CommonUtils.py[line:319] - ERROR: 删除日志成功
+2019-02-21 10:15:16,582 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-21 10:15:16,588 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-21 10:15:16,598 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-21 10:15:16,661 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-21 10:15:16,665 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-21 10:15:16,677 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-21 10:15:16,894 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:16,894 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:18,551 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:18,551 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:18,591 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:18,591 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:18,611 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:18,611 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:20,595 - _legacy.py[line:154] - CRITICAL: Unhandled error in Deferred:
+2019-02-21 10:15:20,596 - _legacy.py[line:154] - CRITICAL: 
+Traceback (most recent call last):
+  File "E:\virtualenv\python27\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\crawler.py", line 98, in crawl
+    six.reraise(*exc_info)
+  File "E:\virtualenv\python27\lib\site-packages\scrapy\crawler.py", line 81, in crawl
+    start_requests = iter(self.spider.start_requests())
+  File "E:\workspace\pycharm\house_spider\scrapy_spider\spiders\house.py", line 33, in start_requests
+    self.get_proxy_ip()
+  File "E:\workspace\pycharm\house_spider\scrapy_spider\spiders\house.py", line 95, in get_proxy_ip
+    self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
+  File "E:\workspace\pycharm\house_spider\util\ProxyIPUtil.py", line 125, in get_proxy_ip
+    self.__get_proxy_ip_kuaidaili__()
+  File "E:\workspace\pycharm\house_spider\util\ProxyIPUtil.py", line 47, in __get_proxy_ip_kuaidaili__
+    soup = BeautifulSoup(response, "html.parser")
+  File "E:\virtualenv\python27\lib\site-packages\bs4\__init__.py", line 192, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+2019-02-21 10:15:57,174 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-21 10:15:57,180 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-21 10:15:57,188 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-21 10:15:57,230 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:57,681 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:57,687 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:15:57,694 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:16:00,539 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-21 10:16:08,974 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-21 10:16:09,194 - engine.py[line:256] - INFO: Spider opened
+2019-02-21 10:16:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:16:09,336 - middlewares.py[line:105] - INFO: Spider opened: building
+2019-02-21 10:16:13,207 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-1
+2019-02-21 10:16:13,588 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-21 10:16:13,608 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:16:13,624 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-21 10:16:13,624 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-21 10:16:15,726 - House.py[line:92] - INFO: 2-1：套内单价：14579， 套内面积：77.6
+2019-02-21 10:16:21,262 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-3
+2019-02-21 10:16:21,411 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:16:21,427 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:16:21,450 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-4
+2019-02-21 10:16:21,450 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-3
+2019-02-21 10:16:23,219 - House.py[line:92] - INFO: 2-3：套内单价：14579， 套内面积：77.6
+2019-02-21 10:16:28,690 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+2
+2019-02-21 10:16:29,045 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+2
+2019-02-21 10:16:29,063 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:16:29,078 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+7
+2019-02-21 10:16:29,078 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+2
+2019-02-21 10:16:29,388 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:16:49,882 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:16:51,650 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:16:55,750 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-21 10:16:56,144 - engine.py[line:256] - INFO: Spider opened
+2019-02-21 10:16:56,155 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:16:56,157 - middlewares.py[line:105] - INFO: Spider opened: real_estate
+2019-02-21 10:17:00,500 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4+8
+2019-02-21 10:17:00,644 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+8
+2019-02-21 10:17:00,661 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:17:00,694 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+9
+2019-02-21 10:17:00,694 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+8
+2019-02-21 10:17:04,440 - House.py[line:92] - INFO: 2-2：套内单价：14579， 套内面积：75.61
+2019-02-21 10:17:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:17:10,444 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-2
+2019-02-21 10:17:10,822 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-2
+2019-02-21 10:17:10,841 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:17:10,861 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-5
+2019-02-21 10:17:10,861 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2-2
+2019-02-21 10:17:11,266 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-21 10:17:13,341 - House.py[line:92] - INFO: 38-7：套内单价：14579， 套内面积：91.2
+2019-02-21 10:17:18,944 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-2
+2019-02-21 10:17:19,085 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:17:19,102 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:17:19,137 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:17:19,137 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-2
+2019-02-21 10:17:20,112 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:17:21,579 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-21 10:17:25,482 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:17:30,969 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-4
+2019-02-21 10:17:31,114 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:17:31,134 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:17:31,168 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:17:31,170 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-4
+2019-02-21 10:17:32,358 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-21 10:17:38,565 - House.py[line:92] - INFO: 17-5（跃1）：套内单价：14579， 套内面积：106.32
+2019-02-21 10:17:44,706 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-6
+2019-02-21 10:17:45,072 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-6
+2019-02-21 10:17:45,092 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:17:45,128 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:17:45,128 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-6
+2019-02-21 10:17:47,973 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:17:48,354 - House.py[line:92] - INFO: 29-5（跃1）：套内单价：14579， 套内面积：106.32
+2019-02-21 10:17:55,697 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-21 10:17:55,966 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:17:56,155 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:17:56,328 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:17:56,345 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:17:56,358 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+3
+2019-02-21 10:17:56,358 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+3
+2019-02-21 10:18:03,168 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-3
+2019-02-21 10:18:03,530 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-3
+2019-02-21 10:18:03,546 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:18:03,561 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5-2
+2019-02-21 10:18:03,561 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-3
+2019-02-21 10:18:06,256 - House.py[line:92] - INFO: 17-3（跃1）：套内单价：14579， 套内面积：106.32
+2019-02-21 10:18:08,403 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:18:09,220 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:18:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:18:09,638 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-21 10:18:14,042 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:18:19,819 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-21 10:18:30,471 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:18:42,006 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-21 10:18:46,612 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-21 10:18:56,157 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:19:02,971 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-4
+2019-02-21 10:19:03,335 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-4
+2019-02-21 10:19:03,357 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:19:03,367 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-3
+2019-02-21 10:19:03,367 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-4
+2019-02-21 10:19:05,433 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-21 10:19:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:19:14,926 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5+2
+2019-02-21 10:19:15,292 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+2
+2019-02-21 10:19:15,311 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:19:15,318 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+5
+2019-02-21 10:19:15,318 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+2
+2019-02-21 10:19:26,871 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-21 10:19:36,700 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:19:56,181 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:19:58,868 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-21 10:20:07,131 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-7
+2019-02-21 10:20:07,516 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：9-7
+2019-02-21 10:20:07,535 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:20:07,546 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-2
+2019-02-21 10:20:07,546 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-7
+2019-02-21 10:20:09,878 - House.py[line:92] - INFO: 29-3（跃1）：套内单价：14579， 套内面积：106.32
+2019-02-21 10:20:13,510 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-02-21 10:20:13,512 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:20:14,395 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:20:14,895 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:20:15,190 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-9
+2019-02-21 10:20:15,351 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:20:15,372 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:20:15,375 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-21 10:20:15,410 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:20:15,411 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-9
+2019-02-21 10:20:18,201 - House.py[line:92] - INFO: 17-2（跃1）：套内单价：14579， 套内面积：95.06
+2019-02-21 10:20:23,826 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+3
+2019-02-21 10:20:24,177 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+3
+2019-02-21 10:20:24,190 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:20:24,194 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+8
+2019-02-21 10:20:24,194 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+3
+2019-02-21 10:20:24,750 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:20:29,371 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-21 10:20:45,165 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-2
+2019-02-21 10:20:45,519 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-2
+2019-02-21 10:20:45,539 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:20:45,569 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-1
+2019-02-21 10:20:45,569 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-2
+2019-02-21 10:20:50,743 - House.py[line:92] - INFO: 29-2（跃1）：套内单价：14579， 套内面积：95.06
+2019-02-21 10:20:56,898 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:20:57,257 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:20:57,276 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:20:57,289 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+9
+2019-02-21 10:20:57,289 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+9
+2019-02-21 10:21:03,737 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-9
+2019-02-21 10:21:03,931 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:21:03,950 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:21:03,984 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:21:03,984 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-9
+2019-02-21 10:21:06,431 - House.py[line:92] - INFO: 17-1（跃1）：套内单价：14579， 套内面积：106.32
+2019-02-21 10:21:08,880 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-02-21 10:21:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:21:11,721 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-21 10:21:11,867 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:21:11,884 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:21:11,918 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:21:11,918 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-21 10:21:11,918 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-21 10:21:18,453 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-21 10:21:18,460 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:21:20,901 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-8
+2019-02-21 10:21:21,053 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:21:21,072 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:21:21,104 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:21:21,104 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-8
+2019-02-21 10:21:23,730 - House.py[line:92] - INFO: 29-1（跃1）：套内单价：14579， 套内面积：106.32
+2019-02-21 10:21:45,579 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-02-21 10:21:45,585 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 4,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 4,
+ 'downloader/request_bytes': 23276,
+ 'downloader/request_count': 42,
+ 'downloader/request_method_count/GET': 42,
+ 'downloader/response_bytes': 1066984,
+ 'downloader/response_count': 38,
+ 'downloader/response_status_count/200': 37,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'cancelled',
+ 'finish_time': datetime.datetime(2019, 2, 21, 2, 21, 45, 584000),
+ 'item_scraped_count': 1971,
+ 'log_count/DEBUG': 2014,
+ 'log_count/INFO': 21,
+ 'request_depth_max': 37,
+ 'response_received_count': 38,
+ 'retry/count': 4,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 4,
+ 'scheduler/dequeued': 41,
+ 'scheduler/dequeued/memory': 41,
+ 'scheduler/enqueued': 42,
+ 'scheduler/enqueued/memory': 42,
+ 'start_time': datetime.datetime(2019, 2, 21, 2, 16, 56, 157000)}
+2019-02-21 10:21:45,585 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-02-21 10:21:58,993 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-21 10:22:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:22:15,249 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-21 10:22:15,407 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:22:15,428 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:22:15,466 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:22:15,466 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-21 10:22:15,466 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-21 10:22:18,130 - House.py[line:92] - INFO: 17-7（跃1）：套内单价：14579， 套内面积：121.09
+2019-02-21 10:22:23,956 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-1
+2019-02-21 10:22:24,122 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:22:24,144 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:22:24,183 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:22:24,183 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-1
+2019-02-21 10:22:30,549 - House.py[line:92] - INFO: 29-7（跃1）：套内单价：14579， 套内面积：121.09
+2019-02-21 10:22:37,151 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+1
+2019-02-21 10:22:37,421 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:22:37,443 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:22:37,467 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+9
+2019-02-21 10:22:37,467 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8+1
+2019-02-21 10:22:40,308 - house.py[line:160] - ERROR: 没有获取到数据
+2019-02-21 10:22:41,842 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:23:34,533 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:124.205.155.158:9090
+2019-02-21 10:23:34,538 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:23:58,619 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-21 10:23:59,342 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-02-21 10:24:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:24:21,660 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+2
+2019-02-21 10:24:22,012 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2+5
+2019-02-21 10:24:22,030 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:24:22,055 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8+7
+2019-02-21 10:24:22,056 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+5
+2019-02-21 10:24:33,295 - House.py[line:92] - INFO: 33-3：套内单价：14579， 套内面积：77.6
+2019-02-21 10:25:02,505 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-4
+2019-02-21 10:25:02,865 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-4
+2019-02-21 10:25:02,887 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:25:02,910 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-5
+2019-02-21 10:25:02,910 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-4
+2019-02-21 10:25:11,859 - House.py[line:92] - INFO: 35-3：套内单价：14579， 套内面积：77.6
+2019-02-21 10:25:21,829 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2+2
+2019-02-21 10:25:22,259 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4+7
+2019-02-21 10:25:22,279 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:25:22,292 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+1
+2019-02-21 10:25:22,292 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4+7
+2019-02-21 10:25:23,005 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-21 10:25:23,006 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:25:31,849 - House.py[line:92] - INFO: 13-5：套内单价：14579， 套内面积：75.61
+2019-02-21 10:25:38,249 - house.py[line:160] - ERROR: 没有获取到数据
+2019-02-21 10:25:38,377 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-21 10:25:39,530 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+1
+2019-02-21 10:25:39,910 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+1
+2019-02-21 10:25:39,928 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:25:39,974 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:25:39,974 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+1
+2019-02-21 10:25:46,644 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:25:48,331 - house.py[line:160] - ERROR: 没有获取到数据
+2019-02-21 10:25:48,565 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-21 10:26:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:26:30,505 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-21 10:26:32,953 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.109.129:53281
+2019-02-21 10:26:40,776 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+7
+2019-02-21 10:26:41,140 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+7
+2019-02-21 10:26:41,157 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:26:41,190 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:26:41,190 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+7
+2019-02-21 10:26:45,788 - House.py[line:92] - INFO: 38-8：套内单价：14579， 套内面积：68.05
+2019-02-21 10:26:52,736 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-7
+2019-02-21 10:26:53,108 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-1
+2019-02-21 10:26:53,130 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:26:53,141 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+9
+2019-02-21 10:26:53,141 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-1
+2019-02-21 10:26:56,078 - House.py[line:92] - INFO: 38-6：套内单价：14579， 套内面积：75.61
+2019-02-21 10:27:01,973 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-1
+2019-02-21 10:27:02,351 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-1
+2019-02-21 10:27:02,371 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:27:02,404 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:27:02,404 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-1
+2019-02-21 10:27:05,661 - House.py[line:92] - INFO: 38-5：套内单价：14579， 套内面积：77.6
+2019-02-21 10:27:11,467 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-9
+2019-02-21 10:27:11,621 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:27:11,641 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:27:11,683 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-6
+2019-02-21 10:27:11,683 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-9
+2019-02-21 10:27:12,467 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:27:15,167 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.105.25:53281
+2019-02-21 10:27:25,259 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-4
+2019-02-21 10:27:25,644 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-4
+2019-02-21 10:27:25,663 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:27:25,694 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-6
+2019-02-21 10:27:25,694 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-4
+2019-02-21 10:27:28,309 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:111.11.98.58:9000
+2019-02-21 10:27:28,316 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:27:56,249 - House.py[line:118] - ERROR: list index out of range
+2019-02-21 10:27:59,151 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-21 10:28:07,836 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-7
+2019-02-21 10:28:08,190 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-1
+2019-02-21 10:28:08,210 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:28:08,216 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2-1
+2019-02-21 10:28:08,216 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-1
+2019-02-21 10:28:09,736 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:28:13,903 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-21 10:28:13,907 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:28:22,400 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.108.53:53281
+2019-02-21 10:28:42,437 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:29:08,739 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-21 10:29:34,101 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:29:58,315 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-21 10:29:58,318 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:30:08,101 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-02-21 10:30:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:30:38,996 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：
+2019-02-21 10:30:39,144 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:30:39,163 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:30:39,194 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:30:39,194 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-21 10:30:39,196 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-21 10:30:51,282 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 无效的验证，请重新打开本页}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:31:09,960 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-21 10:31:09,963 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:31:13,632 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-21 10:31:22,328 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-4
+2019-02-21 10:31:22,467 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:31:22,484 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:31:22,512 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-2
+2019-02-21 10:31:22,512 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-4
+2019-02-21 10:31:25,686 - House.py[line:92] - INFO: 38-3：套内单价：14579， 套内面积：77.6
+2019-02-21 10:31:31,335 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-21 10:31:31,505 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:31:31,907 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:31:31,927 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:31:31,950 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7+6
+2019-02-21 10:31:31,950 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+6
+2019-02-21 10:31:38,832 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7+5
+2019-02-21 10:31:39,197 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7+5
+2019-02-21 10:31:39,211 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:31:39,217 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+7
+2019-02-21 10:31:39,217 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7+5
+2019-02-21 10:31:42,667 - House.py[line:92] - INFO: 38-2：套内单价：14579， 套内面积：75.61
+2019-02-21 10:31:50,792 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:31:51,039 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:31:51,055 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:31:51,065 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+8
+2019-02-21 10:31:51,065 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2+8
+2019-02-21 10:32:01,275 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:32:01,427 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:32:01,446 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:32:01,464 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+6
+2019-02-21 10:32:01,464 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+6
+2019-02-21 10:32:02,644 - House.py[line:118] - ERROR: 无法获取房子数据
+2019-02-21 10:32:21,885 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:124.205.155.158:9090
+2019-02-21 10:32:31,996 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-21 10:32:32,005 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:32:38,131 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-1
+2019-02-21 10:32:38,483 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-1
+2019-02-21 10:32:38,502 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:32:38,525 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：7-2
+2019-02-21 10:32:38,526 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2-1
+2019-02-21 10:33:35,135 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-21 10:33:35,141 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:33:54,114 - House.py[line:92] - INFO: 38-1：套内单价：14579， 套内面积：77.6
+2019-02-21 10:34:16,440 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-4
+2019-02-21 10:34:16,782 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-4
+2019-02-21 10:34:16,802 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:34:16,821 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-3
+2019-02-21 10:34:16,821 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-4
+2019-02-21 10:34:33,573 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:34:40,174 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-02-21 10:34:40,180 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:34:47,976 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-21 10:34:56,384 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:34:56,519 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:34:56,535 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:34:56,566 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:34:56,568 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-21 10:34:56,568 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-21 10:35:03,003 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-2
+2019-02-21 10:35:03,355 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-2
+2019-02-21 10:35:03,374 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:35:03,407 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:35:03,407 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-2
+2019-02-21 10:35:06,694 - House.py[line:92] - INFO: 38-4（跃1）：套内单价：14579， 套内面积：78.32
+2019-02-21 10:35:12,131 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-7
+2019-02-21 10:35:12,266 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:35:12,283 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:35:12,318 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:35:12,318 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-7
+2019-02-21 10:35:19,503 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:35:19,858 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:35:19,875 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:35:19,881 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+3
+2019-02-21 10:35:19,881 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+3
+2019-02-21 10:35:26,487 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.2.203.24:3128
+2019-02-21 10:35:26,490 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:35:26,663 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8+7
+2019-02-21 10:35:27,007 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5+2
+2019-02-21 10:35:27,026 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:35:27,030 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：2+4
+2019-02-21 10:35:27,030 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5+2
+2019-02-21 10:35:27,901 - House.py[line:92] - INFO: 15-5：套内单价：14579， 套内面积：75.61
+2019-02-21 10:35:30,006 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:35:52,312 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:58.249.55.222:9797
+2019-02-21 10:36:00,871 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6-3
+2019-02-21 10:36:01,229 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6-3
+2019-02-21 10:36:01,243 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:36:01,262 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6-3
+2019-02-21 10:36:01,262 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6-3
+2019-02-21 10:36:05,502 - House.py[line:92] - INFO: 19-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:36:11,950 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+4
+2019-02-21 10:36:12,309 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+4
+2019-02-21 10:36:12,328 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:36:12,331 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：1+2
+2019-02-21 10:36:12,331 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+4
+2019-02-21 10:36:15,132 - House.py[line:92] - INFO: 21-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:36:21,187 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-21 10:36:21,529 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-7
+2019-02-21 10:36:21,546 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:36:21,562 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+9
+2019-02-21 10:36:21,562 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-7
+2019-02-21 10:36:31,105 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：5-3
+2019-02-21 10:36:31,453 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：5-3
+2019-02-21 10:36:31,467 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:36:31,497 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-1
+2019-02-21 10:36:31,497 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:5-3
+2019-02-21 10:36:34,763 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:36:44,517 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.108.109:53281
+2019-02-21 10:36:44,530 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:36:57,210 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-21 10:37:05,730 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-5
+2019-02-21 10:37:05,865 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:37:05,887 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:37:05,918 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9-2
+2019-02-21 10:37:05,918 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-5
+2019-02-21 10:37:09,598 - House.py[line:92] - INFO: 23-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:37:15,247 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：9-8
+2019-02-21 10:37:15,411 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:37:15,430 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:37:15,460 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：8-8
+2019-02-21 10:37:15,460 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:9-8
+2019-02-21 10:37:18,423 - House.py[line:92] - INFO: 25-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:37:24,415 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-1
+2019-02-21 10:37:24,746 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-21 10:37:24,766 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:37:24,796 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：9+9
+2019-02-21 10:37:24,796 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-21 10:37:25,877 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:37:47,562 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-21 10:37:55,802 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：8-3
+2019-02-21 10:37:55,941 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:37:55,954 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:37:55,989 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:37:55,989 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:8-3
+2019-02-21 10:38:03,403 - House.py[line:92] - INFO: 27-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:38:09,007 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-2
+2019-02-21 10:38:09,377 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-2
+2019-02-21 10:38:09,394 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:38:09,407 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-21 10:38:09,407 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-2
+2019-02-21 10:38:14,835 - House.py[line:92] - INFO: 31-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:38:20,819 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：6+2
+2019-02-21 10:38:21,170 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：6+2
+2019-02-21 10:38:21,191 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:38:21,200 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+8
+2019-02-21 10:38:21,200 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:6+2
+2019-02-21 10:38:21,928 - House.py[line:118] - ERROR: Alert Text: None
+Message: unexpected alert open: {Alert text : 访问过于频繁,请三分钟后再试！}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:38:23,198 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-21 10:38:29,213 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-21 10:38:29,224 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:38:32,927 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：None
+2019-02-21 10:38:33,072 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:38:33,091 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:38:33,122 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：None
+2019-02-21 10:38:33,124 - ImageRecognitionUtil.py[line:73] - INFO: 图片识别失败
+2019-02-21 10:38:33,124 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:None
+2019-02-21 10:38:33,137 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"id","selector":"txtCode"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:38:56,051 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-21 10:39:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:39:27,114 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:111.11.98.58:9000
+2019-02-21 10:39:37,670 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3-7
+2019-02-21 10:39:38,059 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3-1
+2019-02-21 10:39:38,079 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:39:38,098 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+9
+2019-02-21 10:39:38,098 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3-1
+2019-02-21 10:39:51,684 - House.py[line:92] - INFO: 33-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:39:55,691 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-21 10:39:59,607 - House.py[line:118] - ERROR: Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: headless chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.10240 x86_64)
+
+2019-02-21 10:40:08,963 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-21 10:40:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:40:19,615 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-21 10:40:20,507 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+8
+2019-02-21 10:40:20,648 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1-8
+2019-02-21 10:40:20,665 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:40:20,677 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+4
+2019-02-21 10:40:20,677 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+8
+2019-02-21 10:40:37,607 - House.py[line:118] - ERROR: 无法获取房子数据
+2019-02-21 10:42:03,920 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-21 10:42:03,923 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:42:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:42:50,855 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-21 10:42:51,760 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-21 10:43:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:43:47,144 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：3+2
+2019-02-21 10:43:47,500 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：3+1
+2019-02-21 10:43:47,517 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:43:47,528 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4+1
+2019-02-21 10:43:47,529 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:3+1
+2019-02-21 10:44:12,740 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-21 10:44:12,743 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:45:16,272 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-21 10:45:16,273 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:45:22,053 - House.py[line:92] - INFO: 35-4：套内单价：14579， 套内面积：77.6
+2019-02-21 10:45:58,466 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:123.161.160.130:80
+2019-02-21 10:45:59,671 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：2-1
+2019-02-21 10:46:00,032 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：2-1
+2019-02-21 10:46:00,052 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:46:00,059 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3-1
+2019-02-21 10:46:00,059 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:2-1
+2019-02-21 10:46:09,335 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-21 10:46:25,691 - ProxyIPUtil.py[line:165] - INFO: 测试代理IP,切换代理IP:119.57.156.90:53281
+2019-02-21 10:47:43,073 - House.py[line:92] - INFO: 3-7：套内单价：14579， 套内面积：68.05
+2019-02-21 10:47:55,654 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：4-3
+2019-02-21 10:47:56,020 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：4-3
+2019-02-21 10:47:56,039 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:47:56,052 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：4-2
+2019-02-21 10:47:56,052 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:4-3
+2019-02-21 10:49:33,062 - House.py[line:92] - INFO: 5-7：套内单价：14579， 套内面积：68.05
+2019-02-21 10:50:04,966 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-21 10:50:05,308 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：None
+2019-02-21 10:50:05,325 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:50:05,342 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：6+6
+2019-02-21 10:50:05,342 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-7
+2019-02-21 10:51:21,882 - House.py[line:92] - INFO: 7-7：套内单价：14579， 套内面积：68.05
+2019-02-21 10:51:40,509 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：7-7
+2019-02-21 10:51:40,881 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：7-1
+2019-02-21 10:51:40,903 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-02-21 10:51:40,917 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：5+6
+2019-02-21 10:51:40,917 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:7-1
+2019-02-21 10:51:46,003 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-21 10:51:46,009 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-21 10:51:46,017 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-21 10:51:46,062 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:51:46,529 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:51:46,536 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-21 10:51:46,540 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
