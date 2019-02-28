@@ -1,0 +1,480 @@
+2019-02-24 19:27:32,558 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-24 19:27:32,588 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:28:59,032 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-24 19:28:59,035 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:30:27,775 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.241:53281
+2019-02-24 19:30:27,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:31:13,171 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-24 19:31:13,174 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:31:31,157 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.46.178:9000
+2019-02-24 19:31:56,213 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-24 19:31:56,214 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:32:18,828 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-02-24 19:32:20,700 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-02-24 19:33:42,529 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-24 19:33:42,532 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:33:42,667 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-24 19:34:27,918 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-24 19:34:27,921 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:34:38,413 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-24 19:34:39,552 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.178.238.122:63000
+2019-02-24 19:35:00,269 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:60.5.254.169:8081
+2019-02-24 19:35:00,270 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:35:16,043 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-24 19:35:17,193 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-02-24 19:35:17,542 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-24 19:35:21,239 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-24 19:36:06,835 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-24 19:36:06,835 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:36:07,032 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-24 19:36:28,349 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-24 19:36:34,010 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-24 19:39:02,522 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-24 19:39:02,523 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:40:06,875 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-24 19:40:06,875 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 19:40:50,292 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-24 20:29:44,075 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-24 20:29:44,076 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:19:00,815 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-24 21:19:00,821 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:19:05,710 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-24 21:19:50,562 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-24 21:19:51,696 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-02-24 21:19:51,697 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:19:56,506 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-24 21:23:29,059 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-24 21:23:29,062 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:23:30,604 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-24 21:25:48,459 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-24 21:25:48,460 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:26:52,858 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-24 21:26:52,861 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:27:02,711 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-24 21:27:24,200 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-24 21:28:12,911 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.178.238.122:63000
+2019-02-24 21:28:12,914 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:28:13,187 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-24 21:28:43,799 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:175.102.3.98:8089
+2019-02-24 21:30:05,825 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-24 21:30:05,828 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:30:26,977 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-24 21:30:49,286 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-24 21:30:53,009 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-24 21:30:53,013 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:31:38,437 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.156.90:53281
+2019-02-24 21:32:10,005 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-24 21:32:10,006 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:32:10,582 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-24 21:32:11,045 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-24 21:32:11,415 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-24 21:32:32,851 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-24 21:33:42,635 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.46.178:9000
+2019-02-24 21:33:42,638 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:33:53,908 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.11.98.58:9000
+2019-02-24 21:33:53,910 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:33:54,288 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-24 21:34:51,874 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:60.5.254.169:8081
+2019-02-24 21:34:51,875 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:34:52,326 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.241.219.226:9999
+2019-02-24 21:34:52,779 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-24 21:35:02,170 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-24 21:35:28,154 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-24 21:35:49,589 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-24 21:35:50,045 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-24 21:35:50,249 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-24 21:35:57,503 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:124.205.155.150:9090
+2019-02-24 21:35:57,506 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 21:36:00,658 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-24 21:36:21,982 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-24 22:07:38,762 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:171.37.159.207:8123
+2019-02-24 22:07:38,765 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 22:07:42,369 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-24 22:07:42,655 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-24 23:14:51,776 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-24 23:14:51,776 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:15:13,079 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-24 23:16:16,615 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.241.219.226:9999
+2019-02-24 23:16:16,619 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:16:25,242 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.168.194:9000
+2019-02-24 23:16:46,608 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-24 23:17:32,003 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-24 23:17:32,005 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:17:32,190 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-24 23:17:55,957 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-24 23:17:55,961 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:17:56,315 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-24 23:17:57,976 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-24 23:18:34,421 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-24 23:19:09,971 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.46.178:9000
+2019-02-24 23:19:09,973 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:19:25,332 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.109.129:53281
+2019-02-24 23:20:30,128 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.105.25:53281
+2019-02-24 23:20:30,131 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:20:54,410 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-24 23:20:54,414 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:22:26,681 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-24 23:22:26,683 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:23:53,766 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-24 23:23:53,769 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:24:33,345 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-24 23:25:36,555 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-24 23:25:36,556 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:25:36,951 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-24 23:25:37,301 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-24 23:27:25,740 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-24 23:27:25,743 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:27:38,588 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-24 23:29:03,637 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-24 23:29:03,638 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:29:04,091 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-24 23:29:04,259 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-24 23:29:30,848 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.240.220.86:53281
+2019-02-24 23:29:55,509 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-24 23:29:55,512 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:30:58,917 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-24 23:30:58,920 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:31:41,098 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-24 23:32:13,062 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:124.152.32.140:53281
+2019-02-24 23:32:13,068 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:32:46,329 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-24 23:33:28,953 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.243.50.184:53281
+2019-02-24 23:33:28,954 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:33:53,016 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.221.11.119:3128
+2019-02-24 23:33:53,016 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-24 23:34:28,519 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-02-25 01:15:09,546 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-25 01:15:09,549 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:15:20,792 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-25 01:17:34,767 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.242:53281
+2019-02-25 01:17:34,769 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:18:17,063 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-25 01:18:17,065 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:18:24,226 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-25 01:18:45,729 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-25 01:19:08,653 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-25 01:19:08,654 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:19:09,061 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.241.219.226:9999
+2019-02-25 01:19:30,332 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-25 01:20:37,345 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-25 01:20:37,348 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:20:37,709 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-25 01:22:32,808 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-25 01:22:32,812 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:22:33,463 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.243.50.184:53281
+2019-02-25 01:22:33,714 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-25 01:23:33,299 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-25 01:23:33,303 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:23:54,621 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.221.11.119:3128
+2019-02-25 01:23:54,624 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:25:19,101 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-25 01:25:19,105 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:25:19,282 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-25 01:25:19,612 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-02-25 01:26:56,148 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-25 01:26:56,151 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:27:00,299 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.240.220.86:53281
+2019-02-25 01:28:32,926 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-25 01:28:32,927 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:29:18,559 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-25 01:29:18,561 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:29:33,052 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.164.39.68:53281
+2019-02-25 01:29:33,447 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-25 01:30:02,138 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-25 01:30:02,140 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:30:37,322 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-25 01:30:37,657 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-25 01:31:50,799 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-25 01:31:50,803 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:31:51,036 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-25 01:31:51,295 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-25 01:31:51,493 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-25 01:32:12,799 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-25 01:32:12,799 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:33:47,684 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-25 01:33:47,688 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:34:14,161 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.109:53281
+2019-02-25 01:34:14,163 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 01:34:14,654 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-25 01:34:40,486 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.168.194:9000
+2019-02-25 01:34:40,872 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-25 03:04:18,142 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-25 03:04:18,148 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:04:18,621 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.241.219.226:9999
+2019-02-25 03:04:25,982 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-25 03:04:40,809 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-25 03:05:03,992 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-25 03:05:03,993 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:05:04,206 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-25 03:05:18,711 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-25 03:05:19,559 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.178.238.122:63000
+2019-02-25 03:05:41,713 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.10.62:9090
+2019-02-25 03:05:42,467 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-25 03:06:03,694 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-25 03:06:03,697 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:07:04,092 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-25 03:07:04,095 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:07:04,308 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-25 03:07:35,684 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-25 03:07:37,072 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-25 03:08:56,167 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.221.11.119:3128
+2019-02-25 03:08:56,170 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:09:07,311 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-25 03:09:07,628 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-25 03:10:18,270 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-02-25 03:10:18,273 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:10:20,039 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-25 03:10:46,848 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-02-25 03:10:47,088 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-25 03:11:51,740 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.46.178:9000
+2019-02-25 03:11:51,743 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:11:58,578 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.109:53281
+2019-02-25 03:11:59,022 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-25 03:13:45,124 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:60.5.254.169:8081
+2019-02-25 03:13:45,125 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:13:45,576 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-25 03:14:03,594 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.241:53281
+2019-02-25 03:14:03,595 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:14:29,653 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-25 03:15:22,216 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-25 03:15:22,217 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:15:26,598 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-25 03:16:51,753 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-25 03:16:51,756 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:17:08,431 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.16.83.18:80
+2019-02-25 03:17:55,520 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-25 03:17:55,526 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:18:16,931 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-25 03:18:39,240 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-25 03:19:21,681 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-25 03:19:21,684 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:19:54,020 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.53:53281
+2019-02-25 03:19:54,023 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:19:54,207 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.14.24.60:9000
+2019-02-25 03:20:41,214 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:175.102.3.98:8089
+2019-02-25 03:21:02,388 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-25 03:21:02,394 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:21:09,029 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-25 03:21:32,319 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-25 03:21:53,772 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-25 03:21:53,773 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:21:54,062 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-25 03:23:20,512 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.168.194:9000
+2019-02-25 03:23:20,513 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:24:02,891 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-25 03:24:02,892 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 03:24:27,312 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-25 03:25:02,538 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.118.159.127:9000
+2019-02-25 03:25:02,545 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:05:43,214 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.177.168.60:9999
+2019-02-25 04:05:43,221 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:06:07,851 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-25 04:06:07,852 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:29:06,913 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.177.163.112:9999
+2019-02-25 04:29:06,918 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:35:51,122 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.61.2.230:9999
+2019-02-25 04:35:51,125 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:38:33,542 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.85.23.69:9999
+2019-02-25 04:38:33,548 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:50:53,005 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.171.251.43:40149
+2019-02-25 04:50:53,006 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:55:37,322 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.242:53281
+2019-02-25 04:55:37,323 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:57:03,618 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-25 04:57:03,621 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:57:04,088 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-25 04:57:26,891 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.247.127.145:53281
+2019-02-25 04:58:54,178 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-25 04:58:54,180 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 04:58:55,598 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:124.205.155.158:9090
+2019-02-25 04:59:50,427 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-25 05:00:03,072 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-02-25 05:00:03,073 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:00:07,028 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.109:53281
+2019-02-25 05:00:07,380 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-25 05:00:08,209 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.178.238.122:63000
+2019-02-25 05:00:29,466 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-25 05:00:34,026 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.241.219.226:9999
+2019-02-25 05:01:06,506 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.177.168.60:9999
+2019-02-25 05:01:06,509 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:01:08,657 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-25 05:02:03,867 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-25 05:02:03,868 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:03:16,470 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-02-25 05:03:16,470 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:05:05,913 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.105.25:53281
+2019-02-25 05:05:05,917 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:06:30,187 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-25 05:06:30,191 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:06:30,437 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-25 05:06:31,594 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.177.163.112:9999
+2019-02-25 05:06:33,089 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-25 05:06:39,970 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.171.251.43:40149
+2019-02-25 05:06:44,966 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:125.46.0.62:53281
+2019-02-25 05:06:54,842 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-25 05:06:54,845 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:08:09,382 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.65:53281
+2019-02-25 05:08:09,384 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:08:10,013 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.243.50.184:53281
+2019-02-25 05:08:22,687 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:124.205.155.150:9090
+2019-02-25 05:08:23,522 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-25 05:08:26,081 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-25 05:08:26,414 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-25 05:09:33,730 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.249.55.222:9797
+2019-02-25 05:09:33,732 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:09:34,081 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-25 05:09:34,446 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-25 05:09:34,709 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-25 05:09:34,885 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-25 05:10:31,220 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.46.178:9000
+2019-02-25 05:10:31,226 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:10:39,706 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-25 05:10:39,903 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-25 05:11:05,872 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-25 05:11:05,875 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:11:07,157 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.74.61.98:53281
+2019-02-25 05:11:07,601 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-25 05:11:08,096 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-25 05:11:51,266 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-25 05:11:51,430 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.118.159.127:9000
+2019-02-25 05:11:51,605 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.14.24.60:9000
+2019-02-25 05:11:51,634 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 05:12:12,775 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-25 05:12:19,622 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.10.62:9090
+2019-02-25 05:13:35,654 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-25 05:13:35,660 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:25:26,510 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-25 06:25:26,513 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:47:55,098 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-25 06:47:55,102 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:48:16,259 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-25 06:48:17,786 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-25 06:48:18,141 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-25 06:48:18,486 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-25 06:48:18,729 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-25 06:49:02,250 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.109:53281
+2019-02-25 06:49:02,253 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:49:26,094 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-25 06:49:53,471 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-25 06:49:53,476 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:50:15,224 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.241.219.226:9999
+2019-02-25 06:50:22,058 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-25 06:51:48,641 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-25 06:51:48,641 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:51:58,605 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-25 06:51:58,608 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:52:08,954 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-25 06:52:56,686 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-25 06:52:56,687 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:53:40,913 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.221.11.119:3128
+2019-02-25 06:53:41,351 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-25 06:53:52,451 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.53:53281
+2019-02-25 06:53:52,457 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:53:59,035 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.168.194:9000
+2019-02-25 06:54:32,348 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-25 06:54:35,043 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.61.153.100:53281
+2019-02-25 06:55:01,561 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.11.98.58:9000
+2019-02-25 06:55:01,565 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:55:01,805 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-25 06:56:26,290 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-25 06:56:26,292 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:56:26,470 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-25 06:56:26,625 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-25 06:56:27,016 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-25 06:56:53,645 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.105.25:53281
+2019-02-25 06:56:53,648 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:57:04,832 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-25 06:57:05,197 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-25 06:57:15,020 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-25 06:57:15,302 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-25 06:58:00,703 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:220.180.50.14:53281
+2019-02-25 06:58:00,706 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:58:05,157 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.46.178:9000
+2019-02-25 06:58:32,826 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.164.39.68:53281
+2019-02-25 06:59:15,075 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.118.159.127:9000
+2019-02-25 06:59:15,079 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 06:59:23,568 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.243:53281
+2019-02-25 06:59:24,671 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:111.177.163.112:9999
+2019-02-25 07:00:08,726 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-25 07:00:08,729 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 07:00:11,378 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-25 07:00:33,986 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.2.203.24:3128
+2019-02-25 07:01:24,124 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-25 07:01:24,125 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 07:01:56,611 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-25 07:01:56,612 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 07:02:39,444 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-25 07:03:01,743 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:175.102.3.98:8089
+2019-02-25 07:03:01,743 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 07:03:02,042 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-25 07:03:02,236 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.14.24.60:9000
+2019-02-25 08:18:26,528 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-25 08:18:26,535 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:31:28,285 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.69.10.62:9090
+2019-02-25 08:31:28,286 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:43:19,930 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.214.164:9999
+2019-02-25 08:43:19,930 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:44:33,240 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.128.208.94:3128
+2019-02-25 08:44:33,243 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:44:38,155 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:120.237.14.198:53281
+2019-02-25 08:44:39,040 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-25 08:44:49,125 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.90.126.106:7777
+2019-02-25 08:44:50,744 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-25 08:45:48,951 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.118.159.127:9000
+2019-02-25 08:45:48,951 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:46:12,790 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-25 08:46:12,792 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:46:13,084 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:180.168.179.193:8080
+2019-02-25 08:46:13,279 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.135.183.115:808
+2019-02-25 08:46:19,431 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.249.55.222:9797
+2019-02-25 08:47:06,526 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.241:53281
+2019-02-25 08:47:06,529 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:47:06,701 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.47.40.35:8088
+2019-02-25 08:47:06,838 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.27.170.46:8888
+2019-02-25 08:47:07,302 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9999
+2019-02-25 08:47:09,446 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:117.141.155.242:53281
+2019-02-25 08:47:22,095 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.168.194:9000
+2019-02-25 08:48:46,371 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:113.200.56.13:8010
+2019-02-25 08:48:46,371 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:49:07,826 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:124.152.32.140:53281
+2019-02-25 08:49:07,828 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:49:58,831 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:58.240.220.86:53281
+2019-02-25 08:49:58,832 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:51:20,575 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.221.11.119:3128
+2019-02-25 08:51:20,579 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:52:03,048 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:81
+2019-02-25 08:52:03,052 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:52:03,259 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:121.196.204.61:80
+2019-02-25 08:52:05,339 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:59.44.247.194:9797
+2019-02-25 08:53:14,865 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.65:53281
+2019-02-25 08:53:14,867 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:55:00,141 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:122.114.71.79:808
+2019-02-25 08:55:00,144 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:55:00,513 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-02-25 08:55:00,938 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:202.199.159.130:40670
+2019-02-25 08:55:23,533 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.91.218.21:9000
+2019-02-25 08:55:58,729 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:101.231.50.154:8000
+2019-02-25 08:55:58,733 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:56:41,234 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-25 08:57:27,305 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.196.170.247:9000
+2019-02-25 08:57:27,309 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:57:48,723 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:61.145.182.27:53281
+2019-02-25 08:57:49,073 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.202.219.81:80
+2019-02-25 08:57:55,526 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:221.178.176.25:3128
+2019-02-25 08:57:55,529 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:57:59,065 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:27.191.234.69:9999
+2019-02-25 08:59:23,296 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.14.24.60:9000
+2019-02-25 08:59:23,299 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 08:59:23,660 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:183.245.99.52:80
+2019-02-25 08:59:32,078 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.223.187.195:80
+2019-02-25 08:59:39,194 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.77.183.125:8080
+2019-02-25 09:00:18,206 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.74.207.50:3128
+2019-02-25 09:00:18,207 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 09:01:19,819 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.108.73:53281
+2019-02-25 09:01:19,819 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 09:01:52,552 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:222.171.251.43:40149
+2019-02-25 09:01:52,552 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-25 09:02:35,038 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.105.25:53281
+2019-02-25 09:02:35,259 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:123.139.56.238:9999
+2019-02-25 09:05:05,934 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:112.12.37.196:53281
+2019-02-25 09:05:05,940 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)

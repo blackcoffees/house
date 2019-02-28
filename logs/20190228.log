@@ -1,0 +1,67 @@
+2019-02-28 09:16:41,667 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-28 09:16:41,749 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-28 09:16:41,773 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-28 09:16:42,265 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:44,085 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:44,167 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:44,230 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:45,503 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-02-28 09:16:45,513 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-02-28 09:16:45,523 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-02-28 09:16:45,572 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:46,079 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:46,085 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:46,088 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-02-28 09:16:48,967 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:218.17.139.5:808
+2019-02-28 09:16:49,112 - engine.py[line:256] - INFO: Spider opened
+2019-02-28 09:16:49,259 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-28 09:16:49,259 - middlewares.py[line:109] - INFO: Spider opened: building
+2019-02-28 09:17:22,369 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.57.156.90:53281
+2019-02-28 09:17:22,395 - engine.py[line:256] - INFO: Spider opened
+2019-02-28 09:17:22,415 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-28 09:17:22,417 - middlewares.py[line:109] - INFO: Spider opened: real_estate
+2019-02-28 09:17:43,755 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-28 09:17:49,259 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-28 09:18:04,743 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-28 09:18:22,440 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-28 09:18:49,259 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-02-28 09:19:07,003 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-28 09:19:07,575 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-28 09:19:08,273 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:223.85.196.75:9797
+2019-02-28 09:19:09,151 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:103.27.24.114:82
+2019-02-28 09:19:09,678 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-02-28 09:19:09,690 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 2,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 24583,
+ 'downloader/request_count': 39,
+ 'downloader/request_method_count/GET': 39,
+ 'downloader/response_bytes': 946365,
+ 'downloader/response_count': 37,
+ 'downloader/response_status_count/200': 36,
+ 'downloader/response_status_count/404': 1,
+ 'finish_reason': 'cancelled',
+ 'finish_time': datetime.datetime(2019, 2, 28, 1, 19, 9, 686000),
+ 'item_scraped_count': 1821,
+ 'log_count/DEBUG': 1861,
+ 'log_count/INFO': 16,
+ 'request_depth_max': 36,
+ 'response_received_count': 37,
+ 'retry/count': 2,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'scheduler/dequeued': 38,
+ 'scheduler/dequeued/memory': 38,
+ 'scheduler/enqueued': 39,
+ 'scheduler/enqueued/memory': 39,
+ 'start_time': datetime.datetime(2019, 2, 28, 1, 17, 22, 417000)}
+2019-02-28 09:19:09,690 - engine.py[line:326] - INFO: Spider closed (%(reason)s)

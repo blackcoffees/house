@@ -102,6 +102,7 @@ class ProxyPool(object):
                     self.list_proxy_ip.extend(json_str.get("list_online_proxy_ip"))
                 if json_str.get("list_static_proxy_ip"):
                     self.list_proxy_ip.extend(json_str.get("list_static_proxy_ip"))
+                random.shuffle(self.list_proxy_ip)
                 print u"获得文件代理ip:%s" % (len(json_str.get("list_online_proxy_ip")) + len(json_str.get("list_static_proxy_ip")))
             except:
                 is_exception = True

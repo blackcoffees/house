@@ -21,16 +21,22 @@ from util.WebDriverUtil import WebDriverManager
 class HouseSpider(BaseSpider):
     base_image_path = os.path.dirname(os.getcwd()) + "\\image\\"
     base_house_url = "http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=%s"
-    base_select_sql = """select * from house where status=6 order by buliding_id, real_estate_id limit 0, 1 """
+    base_select_sql = """select * from house where status=6 order by buliding_id, real_estate_id limit %s, 1 """
     base_update_sql = """update house set status=%s, inside_area=%s, built_area=%s, house_type=%s, inside_price=%s, 
                         built_price=%s, updated=%s where id=%s"""
+    thread_no = None
+
+    def __init__(self, thread_no=0):
+        super(HouseSpider, self).__init__()
+        self.thread_no = thread_no
+        self.base_select_sql = self.base_select_sql % self.thread_no
 
     def work(self):
         delete_logs()
         options = webdriver.ChromeOptions()
         options.add_argument("headless")
         web_driver_manager = WebDriverManager(1, "chrome", options)
-        house_driver = web_driver_manager.get_web_driver()
+        house_driver = web_driver_manager.get_web_driver(True)
         # 统计数据
         buliding_id = 0
         real_estate_id = 0
@@ -89,7 +95,8 @@ class HouseSpider(BaseSpider):
                     built_price = json_data.get("NSDJ_JM")
                     pool.commit(self.base_update_sql, [house_status, inside_area, built_area, house_type, inside_price,
                                                        built_price, datetime.datetime.now(), house.get("id")])
-                    logger.info("%s：套内单价：%s， 套内面积：%s" % (house.get("door_number"), inside_price, inside_area))
+                    logger.info(u"thread:%s， %s：套内单价：%s， 套内面积：%s" %
+                                (self.thread_no, house.get("door_number"), inside_price, inside_area))
                     # 统计数据
                     # 不同大楼,此时统计该栋楼的数据
                     if buliding_id and buliding_id != house.get("buliding_id"):

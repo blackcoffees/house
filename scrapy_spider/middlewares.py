@@ -4,10 +4,14 @@
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
+import random
 
 from scrapy import signals, Request
 from scrapy.downloadermiddlewares.retry import RetryMiddleware
+from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
 from twisted.internet.error import TimeoutError
+
+from util.CommonUtils import list_user_agent
 
 
 class ScrapySpiderSpiderMiddleware(object):
@@ -118,6 +122,14 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
         if isinstance(exception, self.EXCEPTIONS_TO_RETRY):
             if not isinstance(exception, TimeoutError):
                 print u"中间件切换代理ip"
+                print exception
                 spider.get_proxy_ip()
                 request.meta["retry_times"] = 0
                 return self._retry(request, exception, spider)
+
+
+class AgentMiddleware(UserAgentMiddleware):
+
+    def process_request(self, request, spider):
+        user_agent = random.choice(list_user_agent)
+        request.headers["User-Agent"] = [user_agent]
