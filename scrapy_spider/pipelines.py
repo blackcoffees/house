@@ -63,4 +63,7 @@ class RealEstatePipeline(object):
             house.house_type = item["house_type"]
             house.unit = item["unit"]
             house.web_house_id = item["web_house_id"]
+            house.physical_layer = item["physical_layer"]
+            house.nominal_layer = item["nominal_layer"]
+            house.house_number = item["house_number"]
             house.__add__()

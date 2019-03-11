@@ -140,6 +140,9 @@ class BuildingSpider(scrapy.Spider):
                             item["building_id"] = self.db_building.get("id")
                             item["unit"] = str(one_house.get("unitnumber")) + "单元"
                             item["web_house_id"] = one_house.get("id")
+                            item["physical_layer"] = one_house.get("y")
+                            item["nominal_layer"] = one_house.get("flr")
+                            item["house_number"] = one_house.get("x")
                             print u"%s：%s：%s：%s" % (self.db_building.get("real_estate_name"), item["unit"],
                                                     self.db_building.get("sale_building"), item["door_number"])
                             has_house = True
@@ -187,7 +190,6 @@ class BuildingSpider(scrapy.Spider):
                 house_url = self.base_house_url % self.db_building.get("web_build_id")
                 yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
                               dont_filter=True)
-
 
     def get_proxy_ip(self):
         while True:

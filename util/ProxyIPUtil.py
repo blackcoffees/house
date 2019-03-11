@@ -177,4 +177,5 @@ class ProxyPool(object):
                 return False
 
 
-proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm")
+# proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm")
+proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid=11084873")

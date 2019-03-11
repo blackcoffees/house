@@ -61,7 +61,7 @@ class WebDriverManager(object):
             temp_options = self.options
             if is_proxy:
                 if not self.proxy_ip:
-                    self.proxy_ip = proxy_pool.get_proxy_ip()
+                    self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
                 if self.proxy_ip:
                     temp_options.add_argument("--proxy-server={0}".format(self.proxy_ip))
             temp_options.add_argument("--user-agent=" + list_user_agent[random.randrange(0, len(list_user_agent) - 1)])

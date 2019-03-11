@@ -102,6 +102,9 @@ class House(BaseModel):
     created = datetime.datetime.now()
     unit = None
     web_house_id = 0
+    physical_layer = 0
+    nominal_layer = 0
+    house_number = 0
 
     def __add__(self):
         id = self.__get__()
@@ -109,10 +112,11 @@ class House(BaseModel):
             return id
         self.created = datetime.datetime.now()
         sql = """insert into house(door_number, status, inside_area, built_area, house_type, inside_price, built_price,
-                  real_estate_id, buliding_id, source_id, created, unit, web_house_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+                  real_estate_id, buliding_id, source_id, created, unit, web_house_id, physical_layer, nominal_layer, house_number)
+                   VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
         param = [self.door_number, self.status, self.inside_area, self.built_area, self.house_type, self.inside_price,
                  self.built_price, self.real_estate_id, self.buliding_id, self.source_id, self.created, self.unit,
-                 self.web_house_id]
+                 self.web_house_id, self.physical_layer, self.nominal_layer, self.house_number]
         return DBUtil.save(sql, param)
 
     def __get__(self):

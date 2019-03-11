@@ -8,10 +8,9 @@ from util.ProxyIPUtil import ProxyPool
 
 # if __name__ == "__main__":
 #     try:
-#         a = HouseThread(0)
+#         a = HouseThread(1)
 #         a.start()
-#         time.sleep(1)
-#         b = HouseThread(1)
+#         b = HouseThread(2)
 #         b.start()
 #     except BaseException as e:
 #         print e

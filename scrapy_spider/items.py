@@ -43,3 +43,6 @@ class HouseItem(scrapy.Item):
     house_type = scrapy.Field()
     unit = scrapy.Field()
     web_house_id = scrapy.Field()
+    physical_layer = scrapy.Field()
+    nominal_layer = scrapy.Field()
+    house_number = scrapy.Field()
