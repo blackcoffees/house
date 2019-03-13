@@ -29,9 +29,11 @@ chinese_correct = {
 
 class ImageRecognition(object):
     base_image_path = None
+    recognition_image_path = None
 
-    def __init__(self, base_path):
+    def __init__(self, base_path, recognition_image_path):
         self.base_image_path = base_path
+        self.recognition_image_path = recognition_image_path
 
     def get_expression_code(self, ):
         """
@@ -119,7 +121,7 @@ class ImageRecognition(object):
         """
         expression = ""
         # img = validate_driver.find_element_by_tag_name("img")
-        location_img_url = self.base_image_path + "temp.png"
+        location_img_url = self.recognition_image_path
         # # 保存验证码图片
         # left = img.location.get("x")
         # top = img.location.get("y")
@@ -193,14 +195,14 @@ class ImageRecognition(object):
         if succ_number1:
             number1_str = succ_number1
         else:
-            number1_img = Image.open(self.base_image_path + "temp.png").crop((0, 0, 17, 20))
+            number1_img = Image.open(self.recognition_image_path).crop((0, 0, 17, 20))
             number1_img.save(number1_img_url)
             number1_str = pytesseract.image_to_string(number1_img, lang="eng", config="-psm 8 digist")
             # logger.info("图片识别修正number1:%s" % number1_str)
         if succ_number2:
             number2_str = succ_number2
         else:
-            number2_img = Image.open(self.base_image_path + "temp.png").crop((53, 1, 66, 22))
+            number2_img = Image.open(self.recognition_image_path).crop((53, 1, 66, 22))
             number2_img.save(number2_img_url)
             number2_str = pytesseract.image_to_string(number2_img, lang="eng", config="-psm 8 digist")
         # logger.info("图片识别修正number2:%s" % number2_str)
@@ -211,7 +213,7 @@ class ImageRecognition(object):
             if succ_operation:
                 operator_str = succ_operation
             else:
-                operator_img = Image.open(self.base_image_path + "temp.png").crop((26, 1, 52, 21))
+                operator_img = Image.open(self.recognition_image_path).crop((26, 1, 52, 21))
                 operator_img.save(operator_img_url)
                 operator_str = pytesseract.image_to_string(operator_img, lang="chi_sim", config="-psm 8")
                 # logger.info("图片识别修正operator:%s" % operator_str)
@@ -375,7 +377,7 @@ class ImageRecognition(object):
         compare_image_list = os.listdir(success_base_url)
         if not compare_image_list:
             return None
-        image1 = Image.open(self.base_image_path + "temp.png")
+        image1 = Image.open(self.recognition_image_path)
         image_histogram = image1.histogram()
         for compare_image_str in compare_image_list:
             image2 = Image.open(self.base_image_path + ("success\\%s" % compare_image_str))

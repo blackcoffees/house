@@ -64,7 +64,7 @@ class HouseSpider(BaseSpider):
                 # 防止图片没有保存下来
                 time.sleep(3)
                 # 识别图片
-                image_recognition = ImageRecognition(self.base_image_path)
+                image_recognition = ImageRecognition(self.base_image_path, self.save_image_url)
                 expression, int_code = image_recognition.get_expression_code()
                 # 发送验证码请求
                 code_input = house_driver.find_element_by_id("txtCode")

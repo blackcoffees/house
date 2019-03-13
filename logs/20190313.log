@@ -120,3 +120,144 @@
  'scheduler/enqueued/memory': 28,
  'start_time': datetime.datetime(2019, 3, 13, 7, 26, 33, 372000)}
 2019-03-13 15:32:32,980 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-03-13 15:49:31,601 - log.py[line:146] - INFO: Scrapy %(version)s started (bot: %(bot)s)
+2019-03-13 15:49:31,607 - log.py[line:149] - INFO: Versions: %(versions)s
+2019-03-13 15:49:31,617 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-03-13 15:49:31,663 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:32,207 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:32,213 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:32,214 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:44,529 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:60.5.254.169:8081
+2019-03-13 15:49:44,561 - engine.py[line:256] - INFO: Spider opened
+2019-03-13 15:49:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:49:44,584 - crawler.py[line:38] - INFO: Overridden settings: %(settings)r
+2019-03-13 15:49:44,588 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:44,589 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:44,592 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:44,592 - middleware.py[line:53] - INFO: Enabled %(componentname)ss:
+%(enabledlist)s
+2019-03-13 15:49:54,714 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:60.5.254.169:8081
+2019-03-13 15:49:54,723 - engine.py[line:256] - INFO: Spider opened
+2019-03-13 15:49:54,724 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:50:02,023 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.9.47:80
+2019-03-13 15:50:13,934 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:50:14,322 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:50:14,346 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:50:14,354 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:50:14,354 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:50:26,821 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:50:27,203 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:50:27,221 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:50:27,229 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:50:27,229 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:50:40,525 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:50:40,914 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:50:40,931 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:50:40,940 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:50:40,940 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:50:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:50:54,726 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:51:00,947 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:51:01,346 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:51:01,367 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:51:01,375 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:51:01,375 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:51:15,815 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:51:16,207 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:51:16,233 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:51:16,240 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:51:16,242 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:51:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:51:50,155 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:51:50,563 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:51:50,585 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:51:50,592 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:51:50,592 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:51:54,726 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:52:15,197 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:52:15,578 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:52:15,598 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:52:15,605 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:52:15,607 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:52:39,328 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:52:39,724 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:52:39,743 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:52:39,752 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:52:39,752 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:52:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:52:54,726 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:53:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:53:49,700 - ProxyIPUtil.py[line:156] - INFO: 测试代理IP,切换代理IP:119.29.230.205:80
+2019-03-13 15:53:54,724 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:54:08,716 - ImageRecognitionUtil.py[line:48] - INFO: 图片识别：1+6
+2019-03-13 15:54:09,092 - ImageRecognitionUtil.py[line:54] - INFO: 图片识别修正：1+6
+2019-03-13 15:54:09,112 - ImageRecognitionUtil.py[line:62] - INFO: 图片比较识别：None
+2019-03-13 15:54:09,118 - ImageRecognitionUtil.py[line:68] - INFO: 成功图片比较：3+2
+2019-03-13 15:54:09,119 - ImageRecognitionUtil.py[line:90] - INFO: 验证码:1+6
+2019-03-13 15:54:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:54:54,726 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:55:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:55:54,726 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:56:44,572 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:56:54,724 - logstats.py[line:48] - INFO: Crawled %(pages)d pages (at %(pagerate)d pages/min), scraped %(items)d items (at %(itemrate)d items/min)
+2019-03-13 15:57:12,869 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-03-13 15:57:12,871 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 7,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 7,
+ 'downloader/request_bytes': 15074,
+ 'downloader/request_count': 27,
+ 'downloader/request_method_count/GET': 27,
+ 'downloader/response_bytes': 649130,
+ 'downloader/response_count': 20,
+ 'downloader/response_status_count/200': 20,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 3, 13, 7, 57, 12, 871000),
+ 'item_scraped_count': 1230,
+ 'log_count/DEBUG': 3440,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 30,
+ 'request_depth_max': 20,
+ 'response_received_count': 20,
+ 'retry/count': 6,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 6,
+ 'scheduler/dequeued': 27,
+ 'scheduler/dequeued/memory': 27,
+ 'scheduler/enqueued': 27,
+ 'scheduler/enqueued/memory': 27,
+ 'start_time': datetime.datetime(2019, 3, 13, 7, 49, 44, 572000)}
+2019-03-13 15:57:12,872 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
+2019-03-13 15:57:35,857 - engine.py[line:295] - INFO: Closing spider (%(reason)s)
+2019-03-13 15:57:35,859 - statscollectors.py[line:47] - INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 5,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 5,
+ 'downloader/request_bytes': 11301,
+ 'downloader/request_count': 27,
+ 'downloader/request_method_count/GET': 27,
+ 'downloader/response_bytes': 5486742,
+ 'downloader/response_count': 22,
+ 'downloader/response_status_count/200': 22,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 3, 13, 7, 57, 35, 858000),
+ 'item_scraped_count': 2156,
+ 'log_count/DEBUG': 3441,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 25,
+ 'request_depth_max': 22,
+ 'response_received_count': 22,
+ 'retry/count': 4,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TCPTimedOutError': 4,
+ 'scheduler/dequeued': 27,
+ 'scheduler/dequeued/memory': 27,
+ 'scheduler/enqueued': 27,
+ 'scheduler/enqueued/memory': 27,
+ 'start_time': datetime.datetime(2019, 3, 13, 7, 49, 54, 725000)}
+2019-03-13 15:57:35,859 - engine.py[line:326] - INFO: Spider closed (%(reason)s)
