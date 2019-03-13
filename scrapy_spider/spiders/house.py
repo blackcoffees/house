@@ -100,17 +100,17 @@ class RealEstateSpider(scrapy.Spider):
 class BuildingSpider(scrapy.Spider):
 
     name = "building"
-    build_index = 0
     proxy_ip = "113.200.214.164:9999"
     db_building = None
-    base_build_sql = """select * from building where pre_sale_number is NULL order by id limit %s,1"""
+    base_build_sql = """select * from building where pre_sale_number is NULL or pre_sale_number ="" order by id limit 0,1"""
     base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid=%s"
     handle_httpstatus_list = [404]
 
     def start_requests(self):
         self.get_proxy_ip()
-        sql = self.base_build_sql % self.build_index
-        self.db_building = pool.find_one(sql)
+        self.db_building = pool.find_one(self.base_build_sql)
+        if not self.db_building:
+            raise CloseSpider(u"数据处理完成")
         url = self.base_house_url % self.db_building.get("web_build_id")
         return [Request(url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip}, dont_filter=True)]
 
@@ -186,7 +186,7 @@ class BuildingSpider(scrapy.Spider):
                                   dont_filter=True)
             elif "GetBuildingInfo" in response.url:
                 # 切换另外一个building
-                self.db_building = pool.find_one((self.base_build_sql % self.build_index))
+                self.db_building = pool.find_one(self.base_build_sql)
                 house_url = self.base_house_url % self.db_building.get("web_build_id")
                 yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
                               dont_filter=True)

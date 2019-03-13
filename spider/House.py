@@ -30,6 +30,7 @@ class HouseSpider(BaseSpider):
         super(HouseSpider, self).__init__()
         self.thread_no = thread_no
         self.base_select_sql = self.base_select_sql % self.thread_no
+        self.save_image_url = self.base_image_path + ("thread_%s.png" % self.thread_no)
 
     def work(self):
         delete_logs()
@@ -50,10 +51,10 @@ class HouseSpider(BaseSpider):
                     continue
                 house_driver.send_url((self.base_house_url % house.get("web_house_id")))
                 # 截图整个网页
-                house_driver.save_screenshot(self.base_image_path + "temp.png")
+                house_driver.save_screenshot(self.save_image_url)
                 # 保存图片
                 img = house_driver.find_element_by_tag_name("img")
-                location_img_url = self.base_image_path + "temp.png"
+                location_img_url = self.save_image_url
                 left = img.location.get("x")
                 top = img.location.get("y")
                 width = left + img.size.get("width")
@@ -72,7 +73,7 @@ class HouseSpider(BaseSpider):
                 one_house_url = house_driver.current_url
                 if "bid" in one_house_url:
                     # 保存成功的图片
-                    image_recognition.save_success_image(self.base_image_path + "temp.png", expression)
+                    image_recognition.save_success_image(self.save_image_url, expression)
                     # 收集数据
                     one_house_soup = BeautifulSoup(house_driver.page_source, "html.parser")
                     if not one_house_soup.find("img"):
