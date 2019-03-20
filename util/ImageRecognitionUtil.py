@@ -90,6 +90,9 @@ class ImageRecognition(object):
         except BaseException as e:
             logger.info(e)
         logger.info(u"验证码:%s" % expression)
+        if not expression:
+            expression = 0
+            logger.error(u"错误")
         # 计算验证码
         return expression, self.compute_code(expression)
 

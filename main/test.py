@@ -15,3 +15,4 @@ if __name__ == "__main__":
     except BaseException as e:
         print e
 # cmdline.execute("scrapy crawl real_estate".split())
+# cmdline.execute("scrapy crawl building".split())

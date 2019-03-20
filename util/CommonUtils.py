@@ -29,7 +29,7 @@ class Region(type):
 
 
 formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s")
-logger = logging.getLogger()
+logger = logging.getLogger("url_spider")
 logger.setLevel(logging.INFO)
 log_path = os.path.dirname(os.getcwd()) + '/logs/'
 log_filename = log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"

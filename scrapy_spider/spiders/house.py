@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import logging
 from urllib import unquote
 
 import datetime
@@ -16,11 +17,10 @@ from db.PoolDB import pool
 import json
 
 from scrapy_spider.items import RealEstateItem, HouseItem
-from util.CommonUtils import WebSource, validate_house_door_number, logger, is_json
+from util.CommonUtils import WebSource, validate_house_door_number, is_json
 from util.ProxyIPUtil import proxy_pool
 
-reload(sys)
-sys.setdefaultencoding( "utf-8" )
+logger = logging.getLogger("scrapy_spider")
 
 
 class RealEstateSpider(scrapy.Spider):
@@ -52,7 +52,7 @@ class RealEstateSpider(scrapy.Spider):
                 self.region_index += 1
                 if self.region_index >= len(self.list_region):
                     print u"所有区域收集完成"
-                    raise CloseSpider()
+                    return
                 region = self.list_region[self.region_index]
                 page = 0
                 now_url = now_url.split("site=")[0] + "site=" + region.get("region") + "&kfs=" \
