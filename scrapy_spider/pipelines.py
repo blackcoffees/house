@@ -48,7 +48,7 @@ class RealEstatePipeline(object):
             house.status = item["status"]
             house.inside_area = item["inside_area"]
             house.built_area = item["built_area"]
-            house.house_type = item["house_type"]
+            house.attribute_house_type_id = item["attribute_house_type_id"]
             house.inside_price = item["inside_price"]
             house.built_price = item["built_price"]
             house.real_estate_id = item["real_estate_id"]
@@ -64,6 +64,6 @@ class RealEstatePipeline(object):
             house.city_id = item["city_id"]
             house.region_id = item["region_id"]
             house.fjh = item["fjh"]
-            house.structure = item["structure"]
+            house.attribute_structure_id = item["attribute_structure_id"]
             house.description = item["description"]
             house.__add__()

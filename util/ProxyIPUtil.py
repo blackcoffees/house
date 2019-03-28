@@ -151,7 +151,9 @@ class ProxyPool(object):
             proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
             opener = urllib2.build_opener(proxy_support)
             urllib2.install_opener(opener)
-            request = urllib2.Request(url)
+            request = urllib2.Request(url, data={"areaType": "", "entName": "", "location": "", "maxrow": 2, "minrow": 1,
+                                                 "projectname": "", "siteid": 34, "useType": "1"},
+                                      headers={"Content-Type": "application/json"})
             response = urllib2.urlopen(request, timeout=30)
             if response.code == 200:
                 if response.read():
@@ -180,4 +182,4 @@ class ProxyPool(object):
 
 
 # proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm")
-proxy_pool = ProxyPool("http://www.cq315house.com/HtmlPage/PresaleDetail.html")
+proxy_pool = ProxyPool("http://www.cq315house.com/WebService/Service.asmx/getParamDatas2")

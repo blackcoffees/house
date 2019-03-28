@@ -12,12 +12,13 @@ from bs4 import BeautifulSoup
 from scrapy import Request
 from scrapy.exceptions import CloseSpider
 
-from db.DBUtil import get_all_region, get_building_statictics_data, update_building_count
+from db.DBUtil import get_all_region, get_building_statictics_data, update_building_count, get_house_attribute
 from db.PoolDB import pool
 import json
 
 from scrapy_spider.items import RealEstateItem, HouseItem
-from util.CommonUtils import WebSource, validate_house_door_number, is_json, logger, ColorStatus, is_number
+from util.CommonUtils import WebSource, validate_house_door_number, is_json, logger, ColorStatus, is_number, HOUSE_TYPE, \
+    HOUSE_STRUC
 from util.ProxyIPUtil import proxy_pool
 
 
@@ -130,7 +131,7 @@ class BuildingSpider(scrapy.Spider):
                     house["status"] = self.get_house_status(item_room.get("status"))
                     house["inside_area"] = item_room.get("iArea")
                     house["built_area"] = item_room.get("bArea")
-                    house["house_type"] = item_room.get("rType")
+                    house["attribute_house_type_id"] = get_house_attribute(HOUSE_TYPE, item_room.get("rType"))
                     house["inside_price"] = item_room.get("nsjg")
                     house["built_price"] = item_room.get("nsjmjg")
                     house["real_estate_id"] = self.building.get("real_estate_id")
@@ -150,7 +151,7 @@ class BuildingSpider(scrapy.Spider):
                     house["region_id"] = self.building.get("region_id")
                     house["description"] = json.dumps(item_room)
                     house["fjh"] = item_room.get("fjh")
-                    house["structure"] = item_room.get("stru")
+                    house["attribute_structure_id"] = get_house_attribute(HOUSE_STRUC, item_room.get("stru"))
                     logger.info("%s-%s" % (self.building.get("real_estate_name"), item_room.get("location")))
                     yield house
             update_sql = """update building set status=2, updated=%s where status=1 and id=%s"""

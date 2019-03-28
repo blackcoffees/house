@@ -98,7 +98,7 @@ class House(BaseModel):
     status = 0
     inside_area = 0
     built_area = 0
-    house_type = None
+    attribute_house_type_id = None
     inside_price = 0
     built_price = 0
     real_estate_id = 0
@@ -114,7 +114,7 @@ class House(BaseModel):
     city_id = 0
     region_id = 0
     fjh = None
-    structure = None
+    attribute_structure_id = None
     description = None
 
     def __add__(self):

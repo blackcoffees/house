@@ -34,7 +34,7 @@ class HouseItem(scrapy.Item):
     status = scrapy.Field()
     inside_area = scrapy.Field()
     built_area = scrapy.Field()
-    house_type = scrapy.Field()
+    attribute_house_type_id = scrapy.Field()
     inside_price = scrapy.Field()
     built_price = scrapy.Field()
     real_estate_id = scrapy.Field()
