@@ -107,7 +107,7 @@ def get_house_attribute(internet_type, name):
     if result_house_attribute:
         return result_house_attribute.get("id")
     else:
-        insert_sql = """insert into (chinese_name, internet_type, created) values(%s, %s, %s)"""
+        insert_sql = """insert into house_attribute(chinese_name, internet_type, created) values(%s, %s, %s)"""
         return pool.commit(insert_sql, param=[name, internet_type, datetime.datetime.now()])
 
 

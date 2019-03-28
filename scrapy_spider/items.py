@@ -51,4 +51,4 @@ class HouseItem(scrapy.Item):
     region_id = scrapy.Field()
     description = scrapy.Field()
     fjh = scrapy.Field()
-    structure = scrapy.Field()
+    attribute_structure_id = scrapy.Field()

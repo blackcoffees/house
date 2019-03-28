@@ -911,3 +911,5 @@
 2019-03-28 16:07:46 - middlewares.py[line:118] - ERROR: 中间件切换代理ip:500
 2019-03-28 16:13:45 - middlewares.py[line:125] - ERROR: 中间件切换代理ip
 2019-03-28 16:13:45 - middlewares.py[line:126] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-03-28 16:20:29 - PoolDB.py[line:95] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(chinese_name, internet_type, created) values('\xe4\xba\x8c\xe5\xae\xa4\xe4\xba\x8c\xe5\x8e\x85', 'House Type', '201' at line 1")
+2019-03-28 16:21:33 - PoolDB.py[line:95] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(chinese_name, internet_type, created) values('\xe4\xba\x8c\xe5\xae\xa4\xe4\xba\x8c\xe5\x8e\x85', 'House Type', '201' at line 1")

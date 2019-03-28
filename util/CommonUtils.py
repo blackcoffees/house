@@ -319,8 +319,9 @@ def is_number(number):
     except:
         return False
 
-HOUSE_TYPE = "House Type"
-HOUSE_STRUC = "House Structure"
+
+HOUSE_TYPE = u"House Type"
+HOUSE_STRUC = u"House Structure"
 
 # 日志
 ##################################################################
