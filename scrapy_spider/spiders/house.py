@@ -17,7 +17,7 @@ from db.PoolDB import pool
 import json
 
 from scrapy_spider.items import RealEstateItem, HouseItem
-from util.CommonUtils import WebSource, validate_house_door_number, is_json, logger, ColorStatus
+from util.CommonUtils import WebSource, validate_house_door_number, is_json, logger, ColorStatus, is_number
 from util.ProxyIPUtil import proxy_pool
 
 
@@ -115,7 +115,7 @@ class BuildingSpider(scrapy.Spider):
             if not response.text:
                 raise BaseException(u"需要切换代理")
             if not is_json(response.text):
-                yield self.create_request()
+                raise BaseException(u"需要切换代理")
             list_json_response = json.loads(json.loads(response.text).get("d").replace("\\", "\\\\"))
             if not isinstance(list_json_response, list):
                 raise BaseException(u"返回数据错误:%s" % list_json_response)
@@ -139,7 +139,10 @@ class BuildingSpider(scrapy.Spider):
                     house["unit"] = unit
                     house["web_house_id"] = item_room.get("id")
                     house["physical_layer"] = item_room.get("y")
-                    house["nominal_layer"] = item_room.get("flr")
+                    if is_number(item_room.get("flr")):
+                        house["nominal_layer"] = item_room.get("flr")
+                    else:
+                        house["nominal_layer"] = item_room.get("y")
                     house["house_number"] = item_room.get("x")
                     house["country_id"] = self.building.get("country_id")
                     house["province_id"] = self.building.get("province_id")
@@ -148,7 +151,7 @@ class BuildingSpider(scrapy.Spider):
                     house["description"] = json.dumps(item_room)
                     house["fjh"] = item_room.get("fjh")
                     house["structure"] = item_room.get("stru")
-                    logger.info("%s-%s" % (self.building.get("building_name")), item_room.get("location"))
+                    logger.info("%s-%s" % (self.building.get("real_estate_name"), item_room.get("location")))
                     yield house
             update_sql = """update building set status=2, updated=%s where status=1 and id=%s"""
             pool.commit(update_sql, [datetime.datetime.now(), self.building.get("id")])

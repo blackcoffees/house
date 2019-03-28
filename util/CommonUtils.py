@@ -312,6 +312,14 @@ def is_json(json_str):
         return False
 
 
+def is_number(number):
+    try:
+        int(number)
+        return True
+    except:
+        return False
+
+
 # 日志
 ##################################################################
 # Logging settings
