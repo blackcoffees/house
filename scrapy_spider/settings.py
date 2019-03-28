@@ -97,7 +97,4 @@ ITEM_PIPELINES = {"scrapy_spider.pipelines.RealEstatePipeline": 100}
 RETRY_TIMES = 100
 
 # 日志
-today = datetime.datetime.now()
-LOG_ENABLED = True
-LOG_LEVEL = "INFO"
-LOG_FILE = "scrapy_{}_{}_{}.log".format(today.year, today.month, today.day)
+LOG_ENABLED = False

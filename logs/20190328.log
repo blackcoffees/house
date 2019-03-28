@@ -4,3 +4,8 @@
 2019-03-28 10:51:13 - PoolDB.py[line:95] - ERROR: (1048, "Column 'built_price' cannot be null")
 2019-03-28 10:51:20 - PoolDB.py[line:95] - ERROR: (1048, "Column 'built_price' cannot be null")
 2019-03-28 10:51:54 - PoolDB.py[line:95] - ERROR: (1048, "Column 'built_price' cannot be null")
+2019-03-28 11:20:43 - house.py[line:158] - WARNING: No JSON object could be decoded
+2019-03-28 11:21:38 - middlewares.py[line:125] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-03-28 11:21:38 - middlewares.py[line:126] - ERROR: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2019-03-28 11:21:49 - middlewares.py[line:125] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-03-28 11:21:49 - middlewares.py[line:126] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]

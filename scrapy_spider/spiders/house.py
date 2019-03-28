@@ -148,10 +148,10 @@ class BuildingSpider(scrapy.Spider):
                     house["description"] = json.dumps(item_room)
                     house["fjh"] = item_room.get("fjh")
                     house["structure"] = item_room.get("stru")
-                    logger.info("%s-%s-%s")
+                    logger.info("%s-%s" % (self.building.get("building_name")), item_room.get("location"))
                     yield house
-            update_sql = """update building set status=2, updated=%s where status=1"""
-            pool.commit(update_sql, [datetime.datetime.now()])
+            update_sql = """update building set status=2, updated=%s where status=1 and id=%s"""
+            pool.commit(update_sql, [datetime.datetime.now(), self.building.get("id")])
         except BaseException as e:
             if type(e) == CloseSpider:
                 raise CloseSpider()
@@ -162,6 +162,8 @@ class BuildingSpider(scrapy.Spider):
 
     def get_request_body(self):
         self.building = pool.find_one(self.building_sql)
+        if not self.building:
+            raise CloseSpider()
         temp_dict = {"buildingid": self.building.get("web_building_id")}
         return json.dumps(temp_dict)
 
