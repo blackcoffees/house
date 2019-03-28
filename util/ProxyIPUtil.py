@@ -8,6 +8,9 @@ import urllib2
 
 import os
 from bs4 import BeautifulSoup
+
+from util.CommonUtils import logger
+
 switch_proxy = False
 
 
@@ -143,39 +146,38 @@ class ProxyPool(object):
         :return:
         """
         url = self.test_url
-        while True:
-            try:
-                temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
-                proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
-                opener = urllib2.build_opener(proxy_support)
-                urllib2.install_opener(opener)
-                request = urllib2.Request(url)
-                response = urllib2.urlopen(request, timeout=30)
-                if response.code == 200:
-                    if response.read():
-                        logging.info(u"测试代理IP,切换代理IP:%s" % proxy_ip)
-                        file_str = ""
-                        with open(self.__proxy_ip_conf_file_path__) as file:
-                            file_str = file.readlines()
-                        if not file_str:
-                            print u"代理IP文件解析错误"
-                        for str in file_str:
-                            try:
-                                json_str = json.loads(str)
-                                list_online_proxy_ip = json_str.get("list_online_proxy_ip")
-                                if not proxy_ip in list_online_proxy_ip:
-                                    list_online_proxy_ip.append(proxy_ip)
-                                    dict_temp = {"list_online_proxy_ip": list_online_proxy_ip, "list_static_proxy_ip": json_str.get("list_static_proxy_ip")}
-                                    with open(self.__proxy_ip_conf_file_path__, "w") as file:
-                                        file.write(json.dumps(dict_temp))
-                            except:
-                                continue
-                        return True
-                return False
-            except BaseException as e:
-                print u"%s，代理ip测试请求:%s error:%s" % (datetime.datetime.now(), proxy_ip, e)
-                return False
+        try:
+            temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
+            proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
+            opener = urllib2.build_opener(proxy_support)
+            urllib2.install_opener(opener)
+            request = urllib2.Request(url)
+            response = urllib2.urlopen(request, timeout=30)
+            if response.code == 200:
+                if response.read():
+                    logger.info(u"测试代理IP,切换代理IP:%s" % proxy_ip)
+                    file_str = ""
+                    with open(self.__proxy_ip_conf_file_path__) as file:
+                        file_str = file.readlines()
+                    if not file_str:
+                        print u"代理IP文件解析错误"
+                    for str in file_str:
+                        try:
+                            json_str = json.loads(str)
+                            list_online_proxy_ip = json_str.get("list_online_proxy_ip")
+                            if not proxy_ip in list_online_proxy_ip:
+                                list_online_proxy_ip.append(proxy_ip)
+                                dict_temp = {"list_online_proxy_ip": list_online_proxy_ip, "list_static_proxy_ip": json_str.get("list_static_proxy_ip")}
+                                with open(self.__proxy_ip_conf_file_path__, "w") as file:
+                                    file.write(json.dumps(dict_temp))
+                        except:
+                            continue
+                    return True
+            return False
+        except BaseException as e:
+            print u"%s，代理ip测试请求:%s error:%s" % (datetime.datetime.now(), proxy_ip, e)
+            return False
 
 
 # proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm")
-proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid=11084873")
+proxy_pool = ProxyPool("http://www.cq315house.com/HtmlPage/PresaleDetail.html")

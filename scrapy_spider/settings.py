@@ -57,8 +57,9 @@ ROBOTSTXT_OBEY = True
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
    'scrapy_spider.middlewares.ScrapySpiderDownloaderMiddleware': 543,
-   "scrapy_spider.middlewares.HouseSpiderRetryMiddleware": 700,
+   "scrapy_spider.middlewares.HouseSpiderRetryMiddleware": 599,
    "scrapy_spider.middlewares.AgentMiddleware": 600,
+   "scrapy_spider.middlewares.MyProxyMiddleware": 601,
 }
 
 # Enable or disable extensions

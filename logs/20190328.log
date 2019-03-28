@@ -1,0 +1,6 @@
+2019-03-28 10:42:20 - PoolDB.py[line:95] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create,created,description,door_number,fjh,house_number,house_type,inside_area,i' at line 1")
+2019-03-28 10:42:42 - PoolDB.py[line:95] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create,created,description,door_number,fjh,house_number,house_type,inside_area,i' at line 1")
+2019-03-28 10:48:56 - PoolDB.py[line:95] - ERROR: (1054, "Unknown column 'source_id' in 'field list'")
+2019-03-28 10:51:13 - PoolDB.py[line:95] - ERROR: (1048, "Column 'built_price' cannot be null")
+2019-03-28 10:51:20 - PoolDB.py[line:95] - ERROR: (1048, "Column 'built_price' cannot be null")
+2019-03-28 10:51:54 - PoolDB.py[line:95] - ERROR: (1048, "Column 'built_price' cannot be null")

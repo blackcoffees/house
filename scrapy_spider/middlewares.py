@@ -7,11 +7,13 @@
 import random
 
 from scrapy import signals, Request
+from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 from scrapy.downloadermiddlewares.retry import RetryMiddleware
 from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
 from twisted.internet.error import TimeoutError
 
-from util.CommonUtils import list_user_agent
+from util.CommonUtils import list_user_agent, logger
+from util.ProxyIPUtil import proxy_pool
 
 
 class ScrapySpiderSpiderMiddleware(object):
@@ -113,17 +115,15 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
 
     def process_response(self, request, response, spider):
         if response.status in self.retry_http_codes:
-            print u"中间件切换代理ip"
-            spider.get_proxy_ip()
+            logger.error(u"中间件切换代理ip:%s" % response.status)
             return self._retry(request, response.status, spider) or response
         return response
 
     def process_exception(self, request, exception, spider):
         if isinstance(exception, self.EXCEPTIONS_TO_RETRY):
             if not isinstance(exception, TimeoutError):
-                print u"中间件切换代理ip"
-                print exception
-                spider.get_proxy_ip()
+                logger.error(u"中间件切换代理ip")
+                logger.error(exception)
                 request.meta["retry_times"] = 0
                 return self._retry(request, exception, spider)
 
@@ -134,3 +134,15 @@ class AgentMiddleware(UserAgentMiddleware):
         user_agent = random.choice(list_user_agent)
         request.headers["User-Agent"] = [user_agent]
 
+
+class MyProxyMiddleware(HttpProxyMiddleware):
+    proxy_ip = None
+
+    def get_proxy_ip(self):
+        self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
+
+    def process_request(self, request, spider):
+        pass
+        # if not self.proxy_ip or spider.is_change_proxy:
+        #     self.get_proxy_ip()
+        # request.meta["proxy"] = "http://%s" % self.proxy_ip

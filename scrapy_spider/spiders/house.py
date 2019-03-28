@@ -17,186 +17,188 @@ from db.PoolDB import pool
 import json
 
 from scrapy_spider.items import RealEstateItem, HouseItem
-from util.CommonUtils import WebSource, validate_house_door_number, is_json
+from util.CommonUtils import WebSource, validate_house_door_number, is_json, logger, ColorStatus
 from util.ProxyIPUtil import proxy_pool
-
-logger = logging.getLogger("scrapy_spider")
 
 
 class RealEstateSpider(scrapy.Spider):
     name = 'real_estate'
-    proxy_ip = None
     region_index = 0
+    is_change_proxy = True
     list_region = list()
+    base_url = u"http://www.cq315house.com/WebService/Service.asmx/getParamDatas2"
+    web_page = 0
+    web_size = 40
 
     def start_requests(self):
-        self.get_proxy_ip()
-        base_url = u"http://www.cq315house.com/315web/webservice/GetMyData999.ashx?projectname=&" \
-                   u"site=%s&kfs=&projectaddr=&pagesize=100&pageindex=%s&roomtype=住宅&buildarea"
-        list_url = list()
         self.list_region = get_all_region()
-        region = self.list_region[self.region_index]
-        list_url.append(Request((base_url % (region.get("region"), 1)), meta={"proxy": "http://" + self.proxy_ip}))
-        return list_url
+        return [self.create_request()]
 
     def parse(self, response):
-        now_url = response.url
+        self.is_change_proxy = False
         try:
-            page = int(now_url.split("pageindex=")[1].split("&room")[0])
             if not response.text:
                 raise BaseException(u"需要切换代理")
-            json_response = json.loads(response.text.replace("'", "\"").replace("\\", "\\\\").replace("\n", ""))
+            if not is_json(response.text):
+                yield self.create_request()
+            json_response = json.loads(json.loads(response.text).get("d").replace("\\", "\\\\"))
             if not isinstance(json_response, list):
-                raise BaseException(u"返回数据错误")
+                raise BaseException(u"返回数据错误:%s" % json_response)
             if len(json_response) == 0:
                 self.region_index += 1
+                self.web_page = 0
                 if self.region_index >= len(self.list_region):
-                    print u"所有区域收集完成"
+                    logger.info(u"所有区域收集完成")
                     return
                 region = self.list_region[self.region_index]
-                page = 0
-                now_url = now_url.split("site=")[0] + "site=" + region.get("region") + "&kfs=" \
-                          + now_url.split("&kfs=")[1]
-                print u"切换区域:%s" % region.get("region")
-                if self.region_index == len(self.list_region):
-                    print u"收集结束"
-                    return
+                logger.info(u"切换区域:%s" % region.get("region"))
             for json_data in json_response:
-                if not json_data.get("F_ADDR"):
+                if not json_data.get("location"):
                     break
                 item = RealEstateItem()
-                item["address"] = json_data.get("F_ADDR")
-                item["region"] = self.list_region[self.region_index].get("id")
-                item["name"] = json_data.get("PROJECTNAME")
-                item["developer"] = json_data.get("ENTERPRISENAME")
-                item["sale_building"] = json_data.get("F_BLOCK")
-                item["source_id"] = WebSource.RealEstate
-                item["sale_count"] = json_data.get("NUM")
-                item["building_sale_buildings"] = json_data.get("F_BLOCK")
-                item["building_sale_residence_counts"] = json_data.get("BUILDZZNUM")
-                item["building_sale_none_residence_counts"] = json_data.get("BUILDFZZNUM")
-                item["building_web_build_ids"] = json_data.get("BUILDID")
-                item["building_register_times"] = json_data.get("F_REGISTER_DATE")
-                item["web_real_estate_id"] = json_data.get("PARENTJECTID")
-                print "%s:%s" % (datetime.datetime.now(), json_data.get("F_SITE") + " " + json_data.get("PROJECTNAME"))
+                item["address"] = json_data.get("location")
+                item["name"] = json_data.get("projectname")
+                item["developer"] = json_data.get("enterprisename")
+                item["count_house_number"] = 0
+                item["web_source_id"] = WebSource.RealEstate
+                item["web_real_estate_id"] = json_data.get("projectid")
+                item["region_id"] = self.list_region[self.region_index].get("id")
+                item["country_id"] = self.list_region[self.region_index].get("country_id")
+                item["province_id"] = self.list_region[self.region_index].get("province_id")
+                item["city_id"] = self.list_region[self.region_index].get("city_id")
+                item["building_pre_sale_number"] = json_data.get("f_presale_cert")
+                dict_building = dict()
+                list_building_name = json_data.get("blockname").split(",")
+                list_building_id = json_data.get("buildingid").split(",")
+                len_building = len(list_building_name)
+                for index_building in range(len_building):
+                    dict_building[list_building_id[index_building]] = list_building_name[index_building]
+                item["building_dict"] = dict_building
+                logger.info("%s:%s" % (datetime.datetime.now(),
+                                       json_data.get("location") + " " + json_data.get("projectname")))
                 yield item
         except BaseException as e:
             if type(e) == CloseSpider:
                 raise CloseSpider()
-            self.get_proxy_ip()
-            print e
+            logger.warning(e)
+            self.is_change_proxy = True
         finally:
-            page += 1
-            url = now_url.split("pageindex=")[0] + "pageindex=" + str(page) +"&room" + now_url.split("pageindex=")[1].split("&room")[1]
-            yield Request(url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip})
+            yield self.create_request()
 
-    def get_proxy_ip(self):
-        while True:
-            self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
-            if self.proxy_ip:
-                break
+    def get_request_body(self):
+        temp_dict = {"areaType": "", "entName": "", "location": "", "maxrow": (self.web_page + 1) * self.web_size,
+                     "minrow": self.web_page * self.web_size,
+                     "projectname": "", "siteid": self.list_region[self.region_index].get("web_site_id"), "useType": "1"}
+        self.web_page += 1
+        return json.dumps(temp_dict)
+
+    def create_request(self, url=None, callback=None, method="POST"):
+        if not url:
+            url = self.base_url
+        headers = {"Content-Type": "application/json"}
+        return Request(url, callback=callback, method=method, body=self.get_request_body(), headers=headers)
 
 
 class BuildingSpider(scrapy.Spider):
-
     name = "building"
-    proxy_ip = "113.200.214.164:9999"
-    db_building = None
-    base_build_sql = """select * from building where pre_sale_number is NULL or pre_sale_number ="" order by id limit 0,1"""
-    base_house_url = "http://www.cq315house.com/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid=%s"
-    handle_httpstatus_list = [404]
+    is_change_proxy = True
+    building_sql = """select * from building where status=1 limit 1"""
+    base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"
+    building = None
 
     def start_requests(self):
-        self.get_proxy_ip()
-        self.db_building = pool.find_one(self.base_build_sql)
-        if not self.db_building:
-            raise CloseSpider(u"数据处理完成")
-        url = self.base_house_url % self.db_building.get("web_build_id")
-        return [Request(url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip}, dont_filter=True)]
+        return [self.create_request()]
 
     def parse(self, response):
-        has_house = False
+        self.is_change_proxy = False
         try:
-            if "HtmlPage" in response.url:
-                table_houses = response.xpath("//input[@id='DataHF']")
-                if len(table_houses) == 0:
-                    raise BaseException(u"没有获取到数据")
-                if table_houses.attrib.get("value"):
-                    for json_house in json.loads(table_houses.attrib.get("value")):
-                        list_houses = json_house.get("rooms")
-                        for one_house in list_houses:
-                            if not validate_house_door_number(one_house.get("rn")):
-                                continue
-                            item = HouseItem()
-                            item["door_number"] = str(one_house.get("flr")) + "-" + one_house.get("rn")
-                            item["status"] = 6
-                            item["inside_area"] = 0
-                            item["built_area"] = 0
-                            item["house_type"] = ""
-                            item["inside_price"] = 0
-                            item["built_price"] = 0
-                            item["real_estate_id"] = self.db_building.get("real_estate_id")
-                            item["source_id"] = self.db_building.get("source_id")
-                            item["building_id"] = self.db_building.get("id")
-                            item["unit"] = str(one_house.get("unitnumber")) + "单元"
-                            item["web_house_id"] = one_house.get("id")
-                            item["physical_layer"] = one_house.get("y")
-                            item["nominal_layer"] = one_house.get("flr")
-                            item["house_number"] = one_house.get("x")
-                            print u"%s：%s：%s：%s" % (self.db_building.get("real_estate_name"), item["unit"],
-                                                    self.db_building.get("sale_building"), item["door_number"])
-                            has_house = True
-                            yield item
-            # 保存预售许可证
-            if "GetBuildingInfo" in response.url:
-                if response.text:
-                    if is_json(response.text):
-                        json_build = json.loads(response.text)
-                        sql = """update building set pre_sale_number=%s, updated=%s where id=%s"""
-                        pool.commit(sql, (json_build.get("presaleCert"), datetime.datetime.now(), self.db_building.get("id")))
-                        # 统计数据
-                        building_static_data = get_building_statictics_data(self.db_building.get("id"), self.db_building.get("real_estate_id"))
-                        update_building_count(self.db_building.get("id"), building_static_data.get("total_count"),
-                                              building_static_data.get("sale_count"))
-                        print "%s:%s::完成：" % (self.db_building.get("real_estate_name"), self.db_building.get("sale_building"))
+            if not response.text:
+                raise BaseException(u"需要切换代理")
+            if not is_json(response.text):
+                yield self.create_request()
+            list_json_response = json.loads(json.loads(response.text).get("d").replace("\\", "\\\\"))
+            if not isinstance(list_json_response, list):
+                raise BaseException(u"返回数据错误:%s" % list_json_response)
+
+            for item_json_data in list_json_response:
+                unit = u"%s单元" % item_json_data.get("name")
+                for item_room in item_json_data.get("rooms"):
+                    if not item_room.get("location"):
+                        continue
+                    house = HouseItem()
+                    house["door_number"] = item_room.get("flr") + "-"+ item_room.get("rn")
+                    house["status"] = self.get_house_status(item_room.get("status"))
+                    house["inside_area"] = item_room.get("iArea")
+                    house["built_area"] = item_room.get("bArea")
+                    house["house_type"] = item_room.get("rType")
+                    house["inside_price"] = item_room.get("nsjg")
+                    house["built_price"] = item_room.get("nsjmjg")
+                    house["real_estate_id"] = self.building.get("real_estate_id")
+                    house["building_id"] = self.building.get("id")
+                    house["web_source_id"] = self.building.get("web_source_id")
+                    house["unit"] = unit
+                    house["web_house_id"] = item_room.get("id")
+                    house["physical_layer"] = item_room.get("y")
+                    house["nominal_layer"] = item_room.get("flr")
+                    house["house_number"] = item_room.get("x")
+                    house["country_id"] = self.building.get("country_id")
+                    house["province_id"] = self.building.get("province_id")
+                    house["city_id"] = self.building.get("city_id")
+                    house["region_id"] = self.building.get("region_id")
+                    house["description"] = json.dumps(item_room)
+                    house["fjh"] = item_room.get("fjh")
+                    house["structure"] = item_room.get("stru")
+                    logger.info("%s-%s-%s")
+                    yield house
+            update_sql = """update building set status=2, updated=%s where status=1"""
+            pool.commit(update_sql, [datetime.datetime.now()])
         except BaseException as e:
-            logger.error(e)
-            if "HtmlPage" in response.url and "/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid" in response.text \
-                    and "WebShieldSessionVerify" in response.text and "WebShieldSessionVerify" not in response.url:
-                pass
-            else:
-                self.get_proxy_ip()
+            if type(e) == CloseSpider:
+                raise CloseSpider()
+            logger.warning(e)
+            self.is_change_proxy = True
         finally:
-            if "HtmlPage" in response.url:
-                if "HtmlPage" in response.url and "/315web/HtmlPage/ShowRoomsNew.aspx?block=&buildingid" in response.text \
-                        and "WebShieldSessionVerify" in response.text and "WebShieldSessionVerify" not in response.url:
-                    text_url = "http://www.cq315house.com/%s" % response.text.split("self.location=\"/")[1].split("\";}")[0]
-                    yield Request(text_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip}, dont_filter=True)
-                elif not has_house:
-                    if response.meta.get("proxy") == "http://" + self.proxy_ip:
-                        self.get_proxy_ip()
-                    house_url = self.base_house_url % self.db_building.get("web_build_id")
-                    yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
-                                  dont_filter=True)
-                else:
-                    # 获得预售许可证
-                    build_url = "http://www.cq315house.com/315web/webservice/GetBuildingInfo.ashx?buildingId=%s" \
-                                % self.db_building.get("web_build_id")
-                    yield Request(build_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
-                                  dont_filter=True)
-            elif "GetBuildingInfo" in response.url:
-                # 切换另外一个building
-                self.db_building = pool.find_one(self.base_build_sql)
-                house_url = self.base_house_url % self.db_building.get("web_build_id")
-                yield Request(house_url, callback=self.parse, meta={"proxy": "http://" + self.proxy_ip},
-                              dont_filter=True)
+            yield self.create_request()
 
-    def get_proxy_ip(self):
-        while True:
-            proxy_pool.remove_proxy_ip(self.proxy_ip)
-            self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
-            if self.proxy_ip:
-                break
+    def get_request_body(self):
+        self.building = pool.find_one(self.building_sql)
+        temp_dict = {"buildingid": self.building.get("web_building_id")}
+        return json.dumps(temp_dict)
 
-    def after_404(self, response):
-        print u"404"
+    def create_request(self, url=None, callback=None, method="POST"):
+        if not url:
+            url = self.base_url
+        headers = {"Content-Type": "application/json"}
+        return Request(url, callback=callback, method=method, body=self.get_request_body(), headers=headers)
+
+    def get_house_status(self, status):
+        list_color = [{"val": 8, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 1, "type": 1,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 64, "name": "不可售", "ab": "不可售", "bgColor": "#ffff00", "ftColor": "#000000", "priority": 2, "type": 0,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 256, "name": "不可售", "ab": "不可售", "bgColor": "#ffff00", "ftColor": "#000000", "priority": 3, "type": 1,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 1024, "name": "不可售", "ab": "不可售", "bgColor": "#ffff00", "ftColor": "#000000", "priority": 4, "type": 1,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 2048, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 5, "type": 1,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 16777216, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 5,
+            "type": 1, "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 131072, "name": "不可售", "ab": "不可售", "bgColor": "#ffff00", "ftColor": "#000000", "priority": 6,
+            "type": 1, "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 262146, "name": "未售", "ab": "可售", "bgColor": "#00ff00", "ftColor": "#000000", "priority": 7, "type": 1,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 262150, "name": "未售", "ab": "可售", "bgColor": "#00ff00", "ftColor": "#000000", "priority": 8, "type": 1,
+            "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 524292, "name": "未售", "ab": "可售", "bgColor": "#00ff00", "ftColor": "#000000", "priority": 10,
+            "type": 1, "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 2097152, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 11,
+            "type": 1, "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 2621444, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 12,
+            "type": 1, "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
+            {"val": 20176833, "name": "不可售", "ab": "不可售", "bgColor": "#ffff00", "ftColor": "#000000", "priority": 14,
+            "type": 1, "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0}]
+        for item_color in list_color:
+            if item_color.get("val") & status == item_color.get("val"):
+                return ColorStatus.get(item_color.get("bgColor"))
+        return 6

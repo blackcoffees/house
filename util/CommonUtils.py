@@ -28,21 +28,6 @@ class Region(type):
     all_region = [BaNan, BeiBei, DaDuKou, JiangBei, JiuLongPo, NanAn, ShaPingBa, YuBei, LiangJiang]
 
 
-formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s")
-logger = logging.getLogger("url_spider")
-logger.setLevel(logging.INFO)
-log_path = os.path.dirname(os.getcwd()) + '/logs/'
-log_filename = log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"
-fh = TimedRotatingFileHandler(log_filename, when="d", encoding='utf-8', backupCount=7)
-fh.setLevel(logging.INFO)
-fh.setFormatter(formatter)
-console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.INFO)
-console_handler.setFormatter(formatter)
-logger.addHandler(fh)
-logger.addHandler(console_handler)
-
-
 def send_request(url, headers=None, data=None, cookies=None):
     index = 5
     while True:
@@ -325,3 +310,25 @@ def is_json(json_str):
         return True
     except:
         return False
+
+
+# 日志
+##################################################################
+# Logging settings
+##################################################################
+# 格式
+log_formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(msg)s",
+                                  datefmt="%Y-%m-%d %H:%M:%S")
+# handler
+console_handler = logging.StreamHandler()
+console_handler.setFormatter(log_formatter)
+log_path = os.path.dirname(os.getcwd()) + '/logs/'
+log_filename = log_path + time.strftime("%Y%m%d", time.localtime()) + ".log"
+file_handler = logging.FileHandler(log_filename)
+file_handler.setFormatter(log_formatter)
+file_handler.setLevel(logging.WARNING)
+
+logger = logging.getLogger("house")
+logger.setLevel(logging.INFO)
+logger.addHandler(console_handler)
+logger.addHandler(file_handler)

@@ -91,13 +91,14 @@ def get_building_statictics_data(buliding_id, real_estate_id):
 
 
 def get_all_region():
-    sql = """select id, region, now_page from region where status=1 and now_page > 0 order by sort desc"""
+    sql = """select region.id as id,region, web_region.web_region_id as web_site_id, city_id, province_id, country_id
+            from region,web_region where status=1 and country_id=1 
+            and province_id=1 and city_id=1 and web_region.region_id=region.id order by sort desc"""
     region_list = pool.find(sql)
     if region_list:
         return region_list
-    update_sql = """update region set now_page=1, updated=%s where now_page=0 and status=1"""
-    pool.commit(update_sql, [datetime.datetime.now()])
-    return pool.find(sql)
+    else:
+        return list()
 
 
 # ---------------------------  查询 end ---------------------------

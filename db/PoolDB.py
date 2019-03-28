@@ -92,9 +92,8 @@ class PoolDB(object):
             # db_pool_logger.error("sql：%s" % sql)
             # db_pool_logger.error("sql param：%s" % param)
             # db_pool_logger.error(e)
-            logger.error("sql：%s" % sql)
-            logger.error("sql param：%s" % param)
             logger.error(e)
+            logger.error("sql：%s" % (sql % param))
         finally:
             cursor.close()
             self.__conn__.close()
