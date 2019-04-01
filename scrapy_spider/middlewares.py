@@ -148,4 +148,3 @@ class MyProxyMiddleware(HttpProxyMiddleware):
             self.get_proxy_ip()
         if self.proxy_ip:
             request.meta["proxy"] = "http://%s" % self.proxy_ip
-            
