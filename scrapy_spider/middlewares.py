@@ -115,6 +115,7 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
 
     def process_response(self, request, response, spider):
         if response.status in self.retry_http_codes:
+            spider.is_change_proxy = True
             logger.error(u"中间件切换代理ip:%s" % response.status)
             return self._retry(request, response.status, spider) or response
         return response
@@ -122,6 +123,7 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
     def process_exception(self, request, exception, spider):
         if isinstance(exception, self.EXCEPTIONS_TO_RETRY):
             if not isinstance(exception, TimeoutError):
+                spider.is_change_proxy = True
                 logger.error(u"中间件切换代理ip")
                 logger.error(exception)
                 request.meta["retry_times"] = 0
@@ -142,6 +144,7 @@ class MyProxyMiddleware(HttpProxyMiddleware):
         self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
 
     def process_request(self, request, spider):
-        if not self.proxy_ip or spider.is_change_proxy:
+        if not self.proxy_ip and spider.is_change_proxy:
             self.get_proxy_ip()
-        request.meta["proxy"] = "http://%s" % self.proxy_ip
+        if self.proxy_ip:
+            request.meta["proxy"] = "http://%s" % self.proxy_ip

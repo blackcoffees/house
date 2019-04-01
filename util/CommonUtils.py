@@ -70,33 +70,6 @@ def send_request(url, headers=None, data=None, cookies=None):
                 break
 
 
-def test_proxy_ip_send_request(proxy_ip, url=None):
-    """
-    测试代理Ip的请求
-    :param url:
-    :param proxy_ip:
-    :return:
-    """
-    if not url:
-        url = "http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm"
-    while True:
-        try:
-            temp_proxy_dict = {"http": "http://%s" % proxy_ip, "https:": "https://%s" % proxy_ip}
-            proxy_support = urllib2.ProxyHandler(temp_proxy_dict)
-            opener = urllib2.build_opener(proxy_support)
-            urllib2.install_opener(opener)
-            request = urllib2.Request(url)
-            response = urllib2.urlopen(request, timeout=30)
-            if response.code == 200:
-                if response.read():
-                    logging.info(u"测试代理IP,切换代理IP:%s" % proxy_ip)
-                    return True
-            return False
-        except BaseException as e:
-            print u"%s，代理ip测试请求:%s error:%s" % (datetime.datetime.now(), proxy_ip, e)
-            return False
-
-
 def get_fields(obj):
     fileds = list()
     for field in dir(obj):
@@ -107,6 +80,7 @@ def get_fields(obj):
 
 class WebSource(type):
     RealEstate = 1
+
 
 ColorStatus = {
     "#c0c0c0": 1, # 限制销售

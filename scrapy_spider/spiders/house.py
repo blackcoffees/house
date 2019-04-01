@@ -108,6 +108,7 @@ class BuildingSpider(scrapy.Spider):
     building = None
 
     def start_requests(self):
+        self.is_change_proxy = False
         return [self.create_request()]
 
     def parse(self, response):
