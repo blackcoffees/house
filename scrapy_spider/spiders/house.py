@@ -108,7 +108,7 @@ class RealEstateSpider(scrapy.Spider):
 class BuildingSpider(scrapy.Spider):
     name = "building"
     is_change_proxy = True
-    building_sql = """select * from building where status=1 limit 1"""
+    building_sql = """select * from building where  status=1 order by id desc limit 1"""
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"
     building = None
 
@@ -222,6 +222,8 @@ class BuildingSpider(scrapy.Spider):
     def handle_building(self, origin_house_number):
         select_sql = """select count(1) from house where building_id=%s"""
         result = pool.find_one(select_sql, [self.building.get("id")])
+        update_status = 4
         if int(result.get("count(1)")) == origin_house_number:
-            update_sql = """update building set status=2, updated=%s where status=1 and id=%s"""
-            pool.commit(update_sql, [datetime.datetime.now(), self.building.get("id")])
+            update_status = 3
+        update_sql = """update building set status=%s, updated=%s where status=1 and id=%s"""
+        pool.commit(update_sql, [update_status, datetime.datetime.now(), self.building.get("id")])

@@ -281,3 +281,9 @@
 2019-04-03 13:52:09 - PoolDB.py[line:76] - ERROR: sql paramï¼šNone
 2019-04-03 13:52:09 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id desc limit 1' at line 1")
 2019-04-03 13:56:14 - house.py[line:168] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-04-03 14:00:13 - PoolDB.py[line:75] - ERROR: sqlï¼šselect * from building where order by id desc status=1 limit 1
+2019-04-03 14:00:13 - PoolDB.py[line:76] - ERROR: sql paramï¼šNone
+2019-04-03 14:00:13 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id desc status=1 limit 1' at line 1")
+2019-04-03 14:02:18 - house.py[line:168] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-04-03 15:36:24 - middlewares.py[line:132] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-03 15:36:24 - middlewares.py[line:133] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
