@@ -141,10 +141,12 @@ class MyProxyMiddleware(HttpProxyMiddleware):
     proxy_ip = None
 
     def get_proxy_ip(self):
+        proxy_pool.remove_proxy_ip(self.proxy_ip)
         self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
 
     def process_request(self, request, spider):
-        if not self.proxy_ip and spider.is_change_proxy:
-            self.get_proxy_ip()
-        if self.proxy_ip:
-            request.meta["proxy"] = "http://%s" % self.proxy_ip
+        pass
+        # if not self.proxy_ip or spider.is_change_proxy:
+        #     self.get_proxy_ip()
+        # if self.proxy_ip:
+        #     request.meta["proxy"] = "http://%s" % self.proxy_ip

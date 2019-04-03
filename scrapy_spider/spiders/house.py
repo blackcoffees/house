@@ -71,6 +71,10 @@ class RealEstateSpider(scrapy.Spider):
                 dict_building = dict()
                 list_building_name = json_data.get("blockname").split(",")
                 list_building_id = json_data.get("buildingid").split(",")
+                # 当不等于的时候
+                if len(list_building_name) != len(list_building_id):
+                    logger.warning(u"数组长度不等:%s" % json_data)
+                    list_building_name = list_building_name[:len(list_building_id)]
                 len_building = len(list_building_name)
                 for index_building in range(len_building):
                     dict_building[list_building_id[index_building]] = list_building_name[index_building]

@@ -67,6 +67,7 @@ class Building(BaseModel):
     province_id = 0
     city_id = 0
     region_id = 0
+    status = 1
 
     def __add__(self):
         id = self.__get__()

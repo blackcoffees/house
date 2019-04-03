@@ -8,6 +8,7 @@ import datetime
 
 from base.Model import RealEstate, Building, House
 from db.PoolDB import pool
+from util.CommonUtils import is_building_name
 
 
 class RealEstatePipeline(object):
@@ -41,6 +42,10 @@ class RealEstatePipeline(object):
                 building.province_id = real_estate.province_id
                 building.city_id = real_estate.city_id
                 building.region_id = real_estate.region_id
+                if is_building_name(building_name):
+                    building.status = 1
+                else:
+                    building.status = 2
                 building.__add__()
         elif spider.name == "building":
             house = House()

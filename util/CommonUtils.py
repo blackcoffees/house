@@ -294,6 +294,14 @@ def is_number(number):
         return False
 
 
+def is_building_name(building_name):
+    list_not_name = [u"地下车库"]
+    for item_not_name in list_not_name:
+        if item_not_name in building_name:
+            return False
+    return True
+
+
 HOUSE_TYPE = u"House Type"
 HOUSE_STRUC = u"House Structure"
 
