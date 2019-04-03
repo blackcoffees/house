@@ -101,7 +101,8 @@ class RealEstateSpider(scrapy.Spider):
         if not url:
             url = self.base_url
         headers = {"Content-Type": "application/json"}
-        return Request(url, callback=callback, method=method, body=self.get_request_body(), headers=headers)
+        return Request(url, callback=callback, method=method, body=self.get_request_body(), headers=headers,
+                       meta={"don't_retry": True})
 
 
 class BuildingSpider(scrapy.Spider):
@@ -125,7 +126,7 @@ class BuildingSpider(scrapy.Spider):
             list_json_response = json.loads(json.loads(response.text).get("d").replace("\\", "\\\\"))
             if not isinstance(list_json_response, list):
                 raise BaseException(u"返回数据错误:%s" % list_json_response)
-
+            origin_house_number = 0
             for item_json_data in list_json_response:
                 unit = u"%s单元" % item_json_data.get("name")
                 for item_room in item_json_data.get("rooms"):
@@ -158,9 +159,9 @@ class BuildingSpider(scrapy.Spider):
                     house["fjh"] = item_room.get("fjh")
                     house["attribute_structure_id"] = get_house_attribute(HOUSE_STRUC, item_room.get("stru"))
                     logger.info("%s-%s" % (self.building.get("real_estate_name"), item_room.get("location")))
+                    origin_house_number += 1
                     yield house
-            update_sql = """update building set status=2, updated=%s where status=1 and id=%s"""
-            pool.commit(update_sql, [datetime.datetime.now(), self.building.get("id")])
+            self.handle_building(origin_house_number)
         except BaseException as e:
             if type(e) == CloseSpider:
                 raise CloseSpider()
@@ -179,8 +180,12 @@ class BuildingSpider(scrapy.Spider):
     def create_request(self, url=None, callback=None, method="POST"):
         if not url:
             url = self.base_url
-        headers = {"Content-Type": "application/json"}
-        return Request(url, callback=callback, method=method, body=self.get_request_body(), headers=headers)
+        body = self.get_request_body()
+        headers = {"Content-Type": "application/json", "Accept": "application/json, text/javascript, */*; q=0.01",
+                   "Host": "www.cq315house.com", "Origin": "http://www.cq315house.com",
+                   "Referer": "http://www.cq315house.com/HtmlPage/ShowRooms.html?buildingid=%s&block=%s" %
+                              (self.building.get("web_building_id"), self.building.get("building_name"))}
+        return Request(url, callback=callback, method=method, body=body, headers=headers)
 
     def get_house_status(self, status):
         list_color = [{"val": 8, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 1, "type": 1,
@@ -213,3 +218,10 @@ class BuildingSpider(scrapy.Spider):
             if item_color.get("val") & status == item_color.get("val"):
                 return ColorStatus.get(item_color.get("bgColor"))
         return 6
+
+    def handle_building(self, origin_house_number):
+        select_sql = """select count(1) from house where building_id=%s"""
+        result = pool.find_one(select_sql, [self.building.get("id")])
+        if int(result.get("count(1)")) == origin_house_number:
+            update_sql = """update building set status=2, updated=%s where status=1 and id=%s"""
+            pool.commit(update_sql, [datetime.datetime.now(), self.building.get("id")])

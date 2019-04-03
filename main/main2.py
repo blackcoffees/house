@@ -10,3 +10,5 @@ from scrapy import cmdline
 # process.crawl(RealEstateSpider)
 # process.crawl(BuildingSpider)
 # process.start()
+
+cmdline.execute("scrapy crawl real_estate".split())

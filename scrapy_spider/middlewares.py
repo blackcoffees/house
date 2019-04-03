@@ -6,12 +6,14 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 import random
 
+import datetime
 from scrapy import signals, Request
 from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 from scrapy.downloadermiddlewares.retry import RetryMiddleware
 from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
 from twisted.internet.error import TimeoutError
 
+from db.PoolDB import pool
 from util.CommonUtils import list_user_agent, logger
 from util.ProxyIPUtil import proxy_pool
 
@@ -112,11 +114,14 @@ class ScrapySpiderDownloaderMiddleware(object):
 
 
 class HouseSpiderRetryMiddleware(RetryMiddleware):
+    dict_error_building = dict()
 
     def process_response(self, request, response, spider):
         if response.status in self.retry_http_codes:
             spider.is_change_proxy = True
             logger.error(u"中间件切换代理ip:%s" % response.status)
+            if spider.name == "building":
+                self.handle_error_building(spider.building.get("id"), request)
             return self._retry(request, response.status, spider) or response
         return response
 
@@ -128,6 +133,20 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
                 logger.error(exception)
                 request.meta["retry_times"] = 0
                 return self._retry(request, exception, spider)
+
+    def set_error_building_status(self, building_id):
+        sql = """update building set status=3, updated=%s where id=%s and status=1"""
+        pool.commit(sql, param=[datetime.datetime.now(), building_id])
+
+    def handle_error_building(self, building_id, request):
+        if building_id in self.dict_error_building:
+            if self.dict_error_building.get(building_id) >= 5:
+                self.set_error_building_status(building_id)
+                logger.warning(u"数据错误%s" % building_id)
+            else:
+                self.dict_error_building[building_id] = self.dict_error_building.get(building_id) + 1
+        else:
+            self.dict_error_building[building_id] = 1
 
 
 class AgentMiddleware(UserAgentMiddleware):

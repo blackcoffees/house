@@ -78,3 +78,202 @@
 2019-04-03 08:58:56 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
 2019-04-03 08:58:58 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
 2019-04-03 08:59:00 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 08:59:02 - middlewares.py[line:127] - ERROR: 中间件切换代理ip
+2019-04-03 08:59:02 - middlewares.py[line:128] - ERROR: TCP connection timed out: 10060: �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�.
+2019-04-03 09:16:33 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:08:02 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\u4f4f\u5efa\u59d4\uff082019\uff09\u9884\u5b57\u7b2c\uff08282\uff09\u53f7', u'blockname': u'3,4\u53f7\u5546\u4e1a,2\u53f7\u5546\u4e1a', u'projectid': u'678131', u'enterprisename': u'\u7a7a\u4e2d', u'location': u'\u91cd\u5e86\u5e02\u5357\u5cb8\u533a\u5357\u576a\u9547\u8857\u9053\u4e8c\u5858\u8def79\u53f7', u'projectname': u'\u4fdd\u5229\u89c2\u5858\u5c0f\u533a\u4fdd\u5229\u89c2\u5858\u4e8c\u671fB1\u7ec4\u56e2', u'counts': u'331', u'buildingid': u'1188825,1190382'}
+2019-04-03 10:08:02 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\u4f4f\u5efa\u59d4\uff082019\uff09\u9884\u5b57\u7b2c\uff08282\uff09\u53f7', u'blockname': u'3,4\u53f7\u5546\u4e1a,2\u53f7\u5546\u4e1a', u'projectid': u'678131', u'enterprisename': u'\u91cd\u5e86\u8446\u65b9\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u5357\u5cb8\u533a\u5357\u576a\u9547\u8857\u9053\u4e8c\u5858\u8def79\u53f7', u'projectname': u'\u4fdd\u5229\u89c2\u5858\u5c0f\u533a\u4fdd\u5229\u89c2\u5858\u4e8c\u671fB1\u7ec4\u56e2', u'counts': u'331', u'buildingid': u'1188825,1190382'}
+2019-04-03 10:08:07 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff081754\uff09\u53f7', u'blockname': u'16-1,2\u53f7\u5546\u4e1a,16-4,5\u53f7\u5546\u4e1a', u'projectid': u'652368', u'enterprisename': u'\u91cd\u5e86\u91d1\u8f89\u957f\u6c5f\u623f\u5730\u4ea7\u6709\u9650\u516c\u53f8', u'location': u'\u5357\u5cb8\u533a\u91d1\u8f89\u57ce\u4e09\u671f\u4e00\u6807', u'projectname': u'\u91d1\u8f89\u57ce\u4e09\u671f', u'counts': u'331', u'buildingid': u'1120224,1120246'}
+2019-04-03 10:08:07 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff081754\uff09\u53f7', u'blockname': u'16-1,2\u53f7\u5546\u4e1a,16-4,5\u53f7\u5546\u4e1a', u'projectid': u'652368', u'enterprisename': u'\u7a7a\u4e2d', u'location': u'\u5357\u5cb8\u533a\u91d1\u8f89\u57ce\u4e09\u671f\u4e00\u6807', u'projectname': u'\u91d1\u8f89\u57ce\u4e09\u671f', u'counts': u'331', u'buildingid': u'1120224,1120246'}
+2019-04-03 10:08:19 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff081012\uff09\u53f7', u'blockname': u'C32-C34\u680b,C24-C26\u680b,C22,C23\u680b,B6\u53f7\u697c', u'projectid': u'686799', u'enterprisename': u'\u5e7f\u5dde\u5bcc\u529b\u5730\u4ea7\uff08\u91cd\u5e86\uff09\u6709\u9650\u516c\u53f8', u'location': u'\u6c99\u576a\u575d\u533a\u897f\u6c38\u7ec4\u56fe\u4e2d\u592e\u5546\u533aA\u5730U8-2-2/03\u3001U8-2-3/03\u3001U8-2-5/03', u'projectname': u'\u5e7f\u5dde\u5bcc\u529b\u57ce\u5bcc\u529b\u57ce2R\u7ec4\u56e2', u'counts': u'212', u'buildingid': u'1141944,1141945,1142006,1142007'}
+2019-04-03 10:08:37 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff08222\uff09\u53f7', u'blockname': u'14,15\u53f7\u88d9\u697c,13\u53f7\u697c,4\u53f7\u697c,15\u53f7\u697c', u'projectid': u'685477', u'enterprisename': u'\u91cd\u5e86\u91d1\u79d1\u6c47\u8302\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u5317\u789a\u533a\u8521\u5bb6\u5c97\u9547\u91d1\u79d1.\u96c6\u7f8e\u5609\u60a6\u4e00\u671f\uff08M08/04\uff09\u5730\u5757', u'projectname': u'\u91d1\u79d1.\u96c6\u7f8e\u5609\u60a6\u96c6\u7f8e\u5609\u60a6\uff08M08\uff09', u'counts': u'310', u'buildingid': u'1119242,1126860,1126861,1126862'}
+2019-04-03 10:09:40 - middlewares.py[line:127] - ERROR: 中间件切换代理ip
+2019-04-03 10:09:40 - middlewares.py[line:128] - ERROR: TCP connection timed out: 10060: �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�.
+2019-04-03 10:10:09 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4-2-4634-11184-2\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:10:10 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4-1-4634-11185-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:10:18 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4-1-4634-11188-2\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:10:21 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '5-1-4634-11189-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:10:22 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '2-1-4634-11189-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:10:22 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '3-2-4634-11189-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:10:29 - middlewares.py[line:127] - ERROR: 中间件切换代理ip
+2019-04-03 10:10:29 - middlewares.py[line:128] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-03 10:15:17 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:20 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:23 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:29 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:34 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:37 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:40 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:42 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:44 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:51 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:54 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:15:59 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:04 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:06 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:14 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:16 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:19 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:23 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:26 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:28 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:34 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:37 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:39 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:41 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:43 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:47 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:55 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:16:59 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:01 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:05 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:07 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:09 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:13 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:17 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:19 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:21 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:30 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:35 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:39 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:41 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:43 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:50 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:17:59 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:06 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:11 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:15 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:23 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:31 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:34 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:35 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:38 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:42 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:46 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:50 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:54 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:18:57 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:01 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:08 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:16 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:19 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:24 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:27 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:30 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:33 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:37 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:40 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:44 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:46 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:48 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:51 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:55 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:19:57 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:20:00 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:20:09 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:22:07 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:22:10 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:22:13 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:22:16 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:31:51 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:32:17 - middlewares.py[line:119] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:39:04 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:39:10 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:39:21 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:40:24 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:40:31 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:40:39 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:40:42 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:40:45 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:41:01 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:41:24 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:45:40 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:45:47 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:45:50 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:45:55 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:46:06 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:46:16 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:50:28 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:50:33 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:50:37 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:50:44 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:50:51 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:50:56 - middlewares.py[line:122] - ERROR: 中间件切换代理ip:500
+2019-04-03 10:54:10 - middlewares.py[line:132] - ERROR: 中间件切换代理ip
+2019-04-03 10:54:10 - middlewares.py[line:133] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-03 10:57:55 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '22-8-4671-11398-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:09 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '6-2-4671-11399-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:32 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '12-6-4672-11405-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:33 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '16-6-4672-11405-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:56 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe8\xb4\x9f1-285-4676-11406-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:56 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe8\xb4\x9f1-286-4676-11406-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:56 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe8\xb4\x9f1-288-4676-11406-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:56 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe8\xb4\x9f1-290-4676-11406-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:58:57 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe8\xb4\x9f1-292-4676-11406-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:20 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '1-104\xef\xbc\x88\xe8\xb7\x831\xef\xbc\x89-4633-11427-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:39 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe5\x95\x86\xe4\xb8\x9a1-\xe5\x95\x86\xe4\xb8\x9a16-4659-11432-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:39 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '9-2-4659-11432-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:40 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '9-1-4659-11432-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:40 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '\xe5\x95\x86\xe4\xb8\x9a2-\xe5\x95\x86\xe4\xb8\x9a4-4659-11432-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:50 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '15-3-4659-11434-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:51 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '27-7-4659-11434-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 10:59:51 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '29-7-4659-11434-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:00:05 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '19-1-4659-11435-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:00:25 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '28-9-4677-11436-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:00:25 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '29-9-4677-11436-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:00:59 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '7-1-4677-11441-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:00:59 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '3-2-4677-11441-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:00:59 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4-2-4677-11441-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:01:50 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '6-1-4685-11450-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:02:30 - middlewares.py[line:132] - ERROR: 中间件切换代理ip
+2019-04-03 11:02:30 - middlewares.py[line:133] - ERROR: TCP connection timed out: 10060: �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�.
+2019-04-03 11:03:25 - middlewares.py[line:132] - ERROR: 中间件切换代理ip
+2019-04-03 11:03:25 - middlewares.py[line:133] - ERROR: TCP connection timed out: 10060: �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�.
+2019-04-03 11:04:01 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '6-\xe4\xba\x95-4678-11469-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:01 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '8-\xe4\xba\x95-4678-11469-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:01 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '21-\xe4\xba\x95-4678-11469-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:05 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '28-5-4684-11470-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:37 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '32-5-4693-11474-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:37 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '33-5-4693-11474-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:39 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '10-7-4693-11474-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:41 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '1-\xe5\x95\x86\xe9\x93\xba3-5-4693-11474-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:48 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '27-7-4688-11475-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:57 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '1-\xe5\x95\x86\xe4\xb8\x9a36-4694-11476-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:04:59 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '8-6-4694-11476-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:29 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '34-1-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:30 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '31-7-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:31 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '30-8-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:31 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '42-3-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:31 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '39-2-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:32 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '39-8-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:32 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4\xef\xbc\x88\xe8\xb7\x83\xe4\xb8\x8b\xef\xbc\x89-1\xef\xbc\x88\xe8\xb7\x831\xef\xbc\x89-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:33 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '8-1-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:33 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '42-7-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:36 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '13-\xe9\x81\xbf\xe9\x9a\xbe\xe9\x97\xb4\xef\xbc\x88\xe4\xb8\x8d\xe5\x88\x86\xe6\x91\x8a\xef\xbc\x89-4696-11490-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:05:58 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '7-3-4697-11492-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:09 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '2-2-4697-11493-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:10 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '3-4-4697-11493-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:21 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '16-1-4694-11494-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:21 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '19-1-4694-11494-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:41 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '5-2-4698-11497-2\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:47 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '29-8-4699-11498-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:47 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '23-2-4699-11498-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:06:58 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '17-1-4699-11498-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:08 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '29-4-4696-11501-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:09 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '34-4-4696-11501-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:14 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '7-2-4696-11501-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:46 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '5-\xe6\xb2\xb9\xe7\x83\x9f\xe4\xba\x95-4678-11505-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:46 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '12-\xe6\xb2\xb9\xe7\x83\x9f\xe4\xba\x95-4678-11505-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:49 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '18-4-4678-11506-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:07:50 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '17-2-4678-11506-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:08:00 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '3-\xe5\x95\x86\xe4\xb8\x9a26-4694-11507-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:08:00 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '3-\xe5\x95\x86\xe4\xb8\x9a23-4694-11507-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:08:01 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '3-\xe5\x95\x86\xe4\xb8\x9a22-4694-11507-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:08:02 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '5-6-4694-11507-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:08:06 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '17-1-4694-11507-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:08:29 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '24-2-4683-11509-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:14:56 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '11-4-4697-11512-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:14:59 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '5-2-4698-11514-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:15:05 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '26-1-4700-11515-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:15:16 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '31-7-4693-11516-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 11:15:16 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4-8-4693-11516-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")

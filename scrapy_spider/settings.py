@@ -94,7 +94,7 @@ ITEM_PIPELINES = {"scrapy_spider.pipelines.RealEstatePipeline": 100}
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-RETRY_TIMES = 100
+RETRY_TIMES = 10
 
 # 日志
 LOG_ENABLED = False
