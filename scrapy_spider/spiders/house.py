@@ -102,7 +102,7 @@ class RealEstateSpider(scrapy.Spider):
             url = self.base_url
         headers = {"Content-Type": "application/json"}
         return Request(url, callback=callback, method=method, body=self.get_request_body(), headers=headers,
-                       meta={"don't_retry": True})
+                       dont_filter=True)
 
 
 class BuildingSpider(scrapy.Spider):
