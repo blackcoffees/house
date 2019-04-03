@@ -185,7 +185,7 @@ class BuildingSpider(scrapy.Spider):
                    "Host": "www.cq315house.com", "Origin": "http://www.cq315house.com",
                    "Referer": "http://www.cq315house.com/HtmlPage/ShowRooms.html?buildingid=%s&block=%s" %
                               (self.building.get("web_building_id"), self.building.get("building_name"))}
-        return Request(url, callback=callback, method=method, body=body, headers=headers)
+        return Request(url, callback=callback, method=method, body=body, headers=headers, dont_filter=True)
 
     def get_house_status(self, status):
         list_color = [{"val": 8, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 1, "type": 1,
