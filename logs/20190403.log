@@ -277,3 +277,6 @@
 2019-04-03 11:15:05 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '26-1-4700-11515-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
 2019-04-03 11:15:16 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '31-7-4693-11516-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
 2019-04-03 11:15:16 - PoolDB.py[line:95] - ERROR: (1062, "Duplicate entry '4-8-4693-11516-1\xe5\x8d\x95\xe5\x85\x83' for key 'door_number'")
+2019-04-03 13:52:09 - PoolDB.py[line:75] - ERROR: sql：select * from building where status=1  ORDER id desc limit 1
+2019-04-03 13:52:09 - PoolDB.py[line:76] - ERROR: sql param：None
+2019-04-03 13:52:09 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id desc limit 1' at line 1")

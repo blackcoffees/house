@@ -134,8 +134,11 @@ class House(BaseModel):
         return DBUtil.save(sql, list_param)
 
     def __get__(self):
-        sql = """select id from house where door_number=%s and building_id=%s and real_estate_id=%s and unit=%s"""
-        param = [self.door_number, self.building_id, self.real_estate_id, self.unit]
+        sql = """select id from house where door_number=%s and building_id=%s and real_estate_id=%s and unit=%s and 
+                country_id=%s and province_id=%s and city_id=%s and region_id=%s and physical_layer=%s
+              """
+        param = [self.door_number, self.building_id, self.real_estate_id, self.unit, self.country_id, self.province_id,
+                 self.city_id, self.region_id, self.physical_layer]
         result = DBUtil.get(sql, param)
         if result:
             return result.get("id")
