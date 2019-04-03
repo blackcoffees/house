@@ -97,4 +97,4 @@ ITEM_PIPELINES = {"scrapy_spider.pipelines.RealEstatePipeline": 100}
 RETRY_TIMES = 10
 
 # 日志
-LOG_ENABLED = False
+LOG_ENABLED = True

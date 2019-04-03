@@ -280,3 +280,4 @@
 2019-04-03 13:52:09 - PoolDB.py[line:75] - ERROR: sql：select * from building where status=1  ORDER id desc limit 1
 2019-04-03 13:52:09 - PoolDB.py[line:76] - ERROR: sql param：None
 2019-04-03 13:52:09 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id desc limit 1' at line 1")
+2019-04-03 13:56:14 - house.py[line:168] - WARNING: 需要切换代理
