@@ -119,12 +119,12 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
     def process_response(self, request, response, spider):
         if response.status in self.retry_http_codes:
             spider.is_change_proxy = True
-            logger.error(u"中间件切换代理ip:%s" % response.status)
-            if spider.name == "building":
-                self.handle_error_building(spider.building.get("id"), request)
-                return response
-            return self._retry(request, response.status, spider) or response
-        return response
+            logger.error(u"中间件切换代理ip:%s,%s" % (response.status, spider.building.get("id")))
+            # building 爬虫，遇到无法处理的数据
+            if spider.name == "building" and not self.handle_error_building(spider.building.get('id')):
+                return self._retry(request, response.status, spider) or response
+        else:
+            return response
 
     def process_exception(self, request, exception, spider):
         if isinstance(exception, self.EXCEPTIONS_TO_RETRY):
@@ -132,22 +132,23 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
                 spider.is_change_proxy = True
                 logger.error(u"中间件切换代理ip")
                 logger.error(exception)
-                request.meta["retry_times"] = 0
                 return self._retry(request, exception, spider)
 
     def set_error_building_status(self, building_id):
         sql = """update building set status=3, updated=%s where id=%s and status=1"""
         pool.commit(sql, param=[datetime.datetime.now(), building_id])
 
-    def handle_error_building(self, building_id, request):
+    def handle_error_building(self, building_id):
         if building_id in self.dict_error_building:
             if self.dict_error_building.get(building_id) >= 5:
                 self.set_error_building_status(building_id)
                 logger.warning(u"数据错误%s" % building_id)
+                return True
             else:
                 self.dict_error_building[building_id] = self.dict_error_building.get(building_id) + 1
         else:
             self.dict_error_building[building_id] = 1
+        return False
 
 
 class AgentMiddleware(UserAgentMiddleware):
