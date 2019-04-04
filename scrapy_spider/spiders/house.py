@@ -108,7 +108,7 @@ class RealEstateSpider(scrapy.Spider):
 class BuildingSpider(scrapy.Spider):
     name = "building"
     is_change_proxy = True
-    building_sql = """select * from building where  status=1 order by id desc limit 1"""
+    building_sql = """select * from building where  status=1 limit 1"""
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"
     building = None
 

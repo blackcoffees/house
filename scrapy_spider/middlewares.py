@@ -136,7 +136,7 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
                 return self._retry(request, exception, spider)
 
     def set_error_building_status(self, building_id):
-        sql = """update building set status=3, updated=%s where id=%s and status=1"""
+        sql = """update building set status=4, updated=%s where id=%s and status=1"""
         pool.commit(sql, param=[datetime.datetime.now(), building_id])
 
     def handle_error_building(self, building_id, request):
@@ -166,7 +166,7 @@ class MyProxyMiddleware(HttpProxyMiddleware):
 
     def process_request(self, request, spider):
         pass
-        if not self.proxy_ip or spider.is_change_proxy:
-            self.get_proxy_ip()
-        if self.proxy_ip:
-            request.meta["proxy"] = "http://%s" % self.proxy_ip
+        # if not self.proxy_ip or spider.is_change_proxy:
+        #     self.get_proxy_ip()
+        # if self.proxy_ip:
+        #     request.meta["proxy"] = "http://%s" % self.proxy_ip
