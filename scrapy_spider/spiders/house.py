@@ -187,7 +187,7 @@ class BuildingSpider(scrapy.Spider):
                               (self.building.get("web_building_id"), self.building.get("building_name"))}
         if not callback:
             callback = self.parse
-        return Request(url, callback=callback, method=method, body=body, headers=headers, dont_filter=True, errback=self.error_pares)
+        return Request(url, callback=callback, method=method, body=body, headers=headers, dont_filter=True)
 
     def get_house_status(self, status):
         list_color = [{"val": 8, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 1, "type": 1,
@@ -230,8 +230,6 @@ class BuildingSpider(scrapy.Spider):
         update_sql = """update building set status=%s, updated=%s where status=1 and id=%s"""
         pool.commit(update_sql, [update_status, datetime.datetime.now(), self.building.get("id")])
 
-    def error_pares(self):
-        yield self.create_request()
 
 
 

@@ -4,6 +4,7 @@
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
+import json
 import random
 
 import datetime
@@ -11,6 +12,8 @@ from scrapy import signals, Request
 from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 from scrapy.downloadermiddlewares.retry import RetryMiddleware
 from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
+from scrapy.exceptions import CloseSpider
+from scrapy.utils.response import response_status_message
 from twisted.internet.error import TimeoutError
 
 from db.PoolDB import pool
@@ -121,8 +124,15 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
             spider.is_change_proxy = True
             logger.error(u"中间件切换代理ip:%s,%s" % (response.status, spider.building.get("id")))
             # building 爬虫，遇到无法处理的数据
-            if spider.name == "building" and not self.handle_error_building(spider.building.get('id')):
-                return self._retry(request, response.status, spider) or response
+            if spider.name == "building":
+                if not self.handle_error_building(spider.building.get('id')):
+                    return self._retry(request, response_status_message(response.status), spider) or response
+                else:
+                    spider.building = self.handle_sql(spider.building_sql)
+                    if not spider.building:
+                        raise CloseSpider(u"数据收集完成，爬虫关闭")
+                    request = request.replace(body=json.dumps({"buildingid": spider.building.get("id")}))
+                    return request
         else:
             return response
 
@@ -149,6 +159,9 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
         else:
             self.dict_error_building[building_id] = 1
         return False
+
+    def handle_sql(self, sql, param=None):
+        return pool.find_one(sql, param=param)
 
 
 class AgentMiddleware(UserAgentMiddleware):
