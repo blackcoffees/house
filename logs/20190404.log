@@ -745,3 +745,19 @@
 2019-04-04 14:09:58 - middlewares.py[line:124] - ERROR: 中间件切换代理ip:500,11117
 2019-04-04 14:09:58 - middlewares.py[line:154] - WARNING: 数据错误11117
 2019-04-04 14:12:20 - middlewares.py[line:124] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:23 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:27 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:34 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:35 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:37 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:39 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,11117
+2019-04-04 14:15:39 - middlewares.py[line:155] - WARNING: 数据错误11117
+2019-04-04 14:15:48 - house.py[line:168] - WARNING: No JSON object could be decoded
+2019-04-04 14:17:25 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,9589
+2019-04-04 14:17:28 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,9589
+2019-04-04 14:17:31 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,9589
+2019-04-04 14:17:34 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,9589
+2019-04-04 14:17:37 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,9589
+2019-04-04 14:17:41 - middlewares.py[line:125] - ERROR: 中间件切换代理ip:500,9589
+2019-04-04 14:17:41 - middlewares.py[line:155] - WARNING: 数据错误9589
+2019-04-04 14:17:41 - house.py[line:168] - WARNING: No JSON object could be decoded

@@ -226,7 +226,7 @@ class BuildingSpider(scrapy.Spider):
         result = pool.find_one(select_sql, [self.building.get("id")])
         update_status = 4
         if int(result.get("count(1)")) == origin_house_number:
-            update_status = 3
+            update_status = 2
         update_sql = """update building set status=%s, updated=%s where status=1 and id=%s"""
         pool.commit(update_sql, [update_status, datetime.datetime.now(), self.building.get("id")])
 
