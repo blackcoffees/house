@@ -122,6 +122,7 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
             logger.error(u"中间件切换代理ip:%s" % response.status)
             if spider.name == "building":
                 self.handle_error_building(spider.building.get("id"), request)
+                return response
             return self._retry(request, response.status, spider) or response
         return response
 
