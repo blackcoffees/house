@@ -136,7 +136,7 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
                 return self._retry(request, exception, spider)
 
     def set_error_building_status(self, building_id):
-        sql = """update building set status=4, updated=%s where id=%s and status=1"""
+        sql = """update building set status=3, updated=%s where id=%s and status=1"""
         pool.commit(sql, param=[datetime.datetime.now(), building_id])
 
     def handle_error_building(self, building_id, request):
