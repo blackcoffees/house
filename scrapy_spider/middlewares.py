@@ -122,9 +122,9 @@ class HouseSpiderRetryMiddleware(RetryMiddleware):
     def process_response(self, request, response, spider):
         if response.status in self.retry_http_codes:
             spider.is_change_proxy = True
-            logger.error(u"中间件切换代理ip:%s,%s" % (response.status, spider.building.get("id")))
             # building 爬虫，遇到无法处理的数据
             if spider.name == "building":
+                logger.error(u"中间件切换代理ip:%s,%s" % (response.status, spider.building.get("id")))
                 if not self.handle_error_building(spider.building.get('id')):
                     return self._retry(request, response_status_message(response.status), spider) or response
                 else:

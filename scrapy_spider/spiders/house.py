@@ -91,6 +91,8 @@ class RealEstateSpider(scrapy.Spider):
             yield self.create_request()
 
     def get_request_body(self):
+        if self.region_index > len(self.list_region):
+            raise CloseSpider(u"收集完成")
         temp_dict = {"areaType": "", "entName": "", "location": "", "maxrow": (self.web_page + 1) * self.web_size,
                      "minrow": self.web_page * self.web_size,
                      "projectname": "", "siteid": self.list_region[self.region_index].get("web_site_id"), "useType": "1"}
@@ -108,9 +110,11 @@ class RealEstateSpider(scrapy.Spider):
 class BuildingSpider(scrapy.Spider):
     name = "building"
     is_change_proxy = True
-    building_sql = """select * from building where status=1 limit 1"""
+    building_sql = """select * from building where status in (1,4) limit %s, 1"""
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"
     building = None
+    now_index = 0
+    total_building = 0
 
     def start_requests(self):
         self.is_change_proxy = False
@@ -133,8 +137,8 @@ class BuildingSpider(scrapy.Spider):
                     if not item_room.get("location"):
                         continue
                     house = HouseItem()
-                    house["door_number"] = item_room.get("flr") + "-"+ item_room.get("rn")
-                    house["status"] = self.get_house_status(item_room.get("status"))
+                    house["door_number"] = item_room.get("flr") + "-" + item_room.get("rn")
+                    house["status"] = self.get_house_status(BuildingSpider, item_room.get("status"))
                     house["inside_area"] = item_room.get("iArea")
                     house["built_area"] = item_room.get("bArea")
                     house["attribute_house_type_id"] = get_house_attribute(HOUSE_TYPE, item_room.get("rType"))
@@ -160,6 +164,7 @@ class BuildingSpider(scrapy.Spider):
                     house["attribute_structure_id"] = get_house_attribute(HOUSE_STRUC, item_room.get("stru"))
                     logger.info("%s-%s" % (self.building.get("real_estate_name"), item_room.get("location")))
                     origin_house_number += 1
+                    self.total_building = self.get_total_building()
                     yield house
             self.handle_building(origin_house_number)
         except BaseException as e:
@@ -171,11 +176,21 @@ class BuildingSpider(scrapy.Spider):
             yield self.create_request()
 
     def get_request_body(self):
-        self.building = pool.find_one(self.building_sql)
+        now_total_building = self.get_total_building()
+        if now_total_building == self.total_building:
+            self.now_index += 1
+        self.building = pool.find_one(self.building_sql, [self.now_index])
         if not self.building:
             raise CloseSpider()
         temp_dict = {"buildingid": self.building.get("web_building_id")}
         return json.dumps(temp_dict)
+
+    def get_total_building(self):
+        sql = """select count(1) from building where status in (1,4)"""
+        result = pool.find_one(sql)
+        if result:
+            return result.get("count(1)")
+        return 0
 
     def create_request(self, url=None, callback=None, method="POST"):
         if not url:
@@ -189,6 +204,7 @@ class BuildingSpider(scrapy.Spider):
             callback = self.parse
         return Request(url, callback=callback, method=method, body=body, headers=headers, dont_filter=True)
 
+    @staticmethod
     def get_house_status(self, status):
         list_color = [{"val": 8, "name": "已售", "ab": "已售", "bgColor": "#ff00ff", "ftColor": "#000000", "priority": 1, "type": 1,
             "alarmType": 1, "showType": 0, "parentType": 0, "treeLevel": 0},
@@ -231,5 +247,58 @@ class BuildingSpider(scrapy.Spider):
         pool.commit(update_sql, [update_status, datetime.datetime.now(), self.building.get("id")])
 
 
+class HouseSpider(scrapy.Spider):
 
+    name = "house"
+    base_url = "http://www.cq315house.com/WebService/Service.asmx/GetRoomInfo"
+    total_house = 0
+    now_index = 0
+    house = None
+
+    def start_requests(self):
+        self.total_house = self.get_total_house()
+        return [self.get_request()]
+
+    def parse(self, response):
+        try:
+            if not response.text:
+                raise BaseException(u"没有获取到数据")
+            if not is_json(response.text):
+                raise BaseException(u"没有获取到数据")
+            json_response = json.loads(response.text)
+            room = json.loads(json_response.get("d"))
+            now_status = BuildingSpider.get_house_status(BuildingSpider, room.get("status"))
+            if now_status != self.house.get("status"):
+                new_description = json.dumps(dict(json.loads(self.house.get("description")), **room))
+                sql = """update house set status=%s, updated=%s, description=%s where id=%s"""
+                pool.commit(sql, [now_status, datetime.datetime.now(), new_description, self.house.get("id")])
+                logger.info(u"修改房屋状态:%s" % room.get("location"))
+                self.total_house = self.get_total_house()
+            yield self.get_request()
+        except BaseException as e:
+            logger.error(e)
+
+    def get_total_house(self):
+        sql = """select count(1) from house where status in (2,6)"""
+        result = pool.find_one(sql)
+        if result:
+            return result.get("count(1)")
+        return 0
+
+    def get_body(self):
+        now_total_house = self.get_total_house()
+        if now_total_house == self.total_house:
+            self.now_index += 1
+        sql = """select * from house where status in (2,6) limit %s,1"""
+        self.house = pool.find_one(sql, [self.now_index])
+        if self.house:
+            return json.dumps({"roomId": self.house.get("web_house_id")})
+        raise CloseSpider()
+
+    def get_request(self):
+        header = {
+            "Content-Type": "application/json",
+        }
+        request = Request(self.base_url, body=self.get_body(), headers=header, method="POST", dont_filter=True)
+        return request
 

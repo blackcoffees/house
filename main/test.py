@@ -15,4 +15,4 @@ from util.ProxyIPUtil import ProxyPool
 #     except BaseException as e:
 #         print e
 # cmdline.execute("scrapy crawl real_estate".split())
-cmdline.execute("scrapy crawl building".split())
+cmdline.execute("scrapy crawl house".split())

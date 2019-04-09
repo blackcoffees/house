@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c71819e-a3de-44fa-b687-f0133c480b7f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/main2.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base/Model.py" afterPath="$PROJECT_DIR$/base/Model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/20190404.log" afterPath="$PROJECT_DIR$/logs/20190404.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/test.py" afterPath="$PROJECT_DIR$/main/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy_spider/middlewares.py" afterPath="$PROJECT_DIR$/scrapy_spider/middlewares.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy_spider/spiders/house.py" afterPath="$PROJECT_DIR$/scrapy_spider/spiders/house.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/proxy_ip_conf.text" afterPath="$PROJECT_DIR$/util/proxy_ip_conf.text" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,25 +17,30 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scrapy_spider$main.coverage" NAME="main Coverage Results" MODIFIED="1547718739216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/house_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1554358705023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/house_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1554791098763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/house$main.coverage" NAME="main Coverage Results" MODIFIED="1547710269147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/house$spider.coverage" NAME="spider Coverage Results" MODIFIED="1547716937853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_spider" />
-    <SUITE FILE_PATH="coverage/house_spider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1554692728743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_spider" />
+    <SUITE FILE_PATH="coverage/house_spider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1554791719732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_spider" />
     <SUITE FILE_PATH="coverage/house$test.coverage" NAME="test Coverage Results" MODIFIED="1542594431231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/house_spider$main.coverage" NAME="main Coverage Results" MODIFIED="1554709660920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/house_spider$main.coverage" NAME="main Coverage Results" MODIFIED="1554773175385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="house.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapy_spider/spiders/house.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
-              <caret line="220" column="27" lean-forward="false" selection-start-line="220" selection-start-column="27" selection-end-line="220" selection-end-column="27" />
+            <state relative-caret-position="-3489">
+              <caret line="127" column="42" lean-forward="true" selection-start-line="127" selection-start-column="42" selection-end-line="127" selection-end-column="42" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
-                <marker date="1554709762952" expanded="true" signature="4745:4791" ph="select * fro... building" />
-                <marker date="1554709762952" expanded="true" signature="12001:12048" ph="select count... house" />
-                <marker date="1554709762952" expanded="true" signature="12265:12331" ph="update build... " />
+                <marker date="1554791719479" expanded="true" signature="4838:4894" ph="select * fro... building" />
+                <marker date="1554791719479" expanded="true" signature="8758:8809" ph="select count... builging" />
+                <marker date="1554791719479" expanded="true" signature="12628:12675" ph="select count... house" />
+                <marker date="1554791719479" expanded="true" signature="12892:12958" ph="update build... " />
+                <marker date="1554791719479" expanded="true" signature="13969:14033" ph="update house... " />
+                <marker date="1554791719479" expanded="true" signature="13969:14035" ph="update house... " />
+                <marker date="1554791719479" expanded="true" signature="14422:14470" ph="select count... house" />
+                <marker date="1554791719479" expanded="true" signature="14759:14811" ph="select * fro... house" />
               </folding>
             </state>
           </provider>
@@ -44,7 +49,7 @@
       <file leaf-file-name="CommonUtils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/CommonUtils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
+            <state relative-caret-position="1748">
               <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="12" />
               <folding />
             </state>
@@ -54,27 +59,9 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_spider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="1035">
               <caret line="49" column="37" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="37" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Model.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/Model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="137" column="43" lean-forward="true" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
-              <folding>
-                <marker date="1554709652346" expanded="true" signature="968:1027" ph="insert into real_estate... " />
-                <marker date="1554709652346" expanded="true" signature="1146:1201" ph="select id fr... real_estate" />
-                <marker date="1554709652346" expanded="true" signature="2108:2163" ph="insert into building... " />
-                <marker date="1554709652346" expanded="true" signature="2275:2343" ph="select id fr... building" />
-                <marker date="1554709652346" expanded="true" signature="3183:3233" ph="update house... " />
-                <marker date="1554709652346" expanded="true" signature="3684:3736" ph="insert into house... " />
-                <marker date="1554709652346" expanded="true" signature="3848:4058" ph="select id, s... house" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -82,41 +69,21 @@
       <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_spider/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1633">
-              <caret line="163" column="36" lean-forward="false" selection-start-line="163" selection-start-column="36" selection-end-line="163" selection-end-column="36" />
+            <state relative-caret-position="53">
+              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
               <folding>
                 <element signature="e#168#179#0" expanded="true" />
-                <marker date="1554358800725" expanded="true" signature="5555:5620" ph="update build... " />
+                <marker date="1554788321763" expanded="true" signature="5559:5624" ph="update build... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/main2.py">
+      <file leaf-file-name="middleware.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/virtualenv/python27/Lib/site-packages/scrapy/core/downloader/middleware.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy_spider/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2208">
-              <caret line="98" column="4" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="283">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,8 +92,8 @@
       <file leaf-file-name="PoolDB.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/PoolDB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1518">
-              <caret line="75" column="24" lean-forward="false" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+            <state relative-caret-position="214">
+              <caret line="77" column="16" lean-forward="true" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
               <folding>
                 <marker date="1553674169006" expanded="true" signature="6524:6614" ph="select COLUM... COLUMNS" />
               </folding>
@@ -134,11 +101,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="207">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
                 <element signature="e#22#40#0" expanded="true" />
               </folding>
@@ -157,11 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>base_house_url</find>
-      <find>base_url</find>
-      <find>service_url</find>
-      <find>中间件切换代理ip</find>
-      <find>self.proxy_ip</find>
       <find>process</find>
       <find>thread:0</find>
       <find>没有获取到数据</find>
@@ -187,6 +159,11 @@
       <find>status=4</find>
       <find>errback</find>
       <find>error_pares</find>
+      <find>get_total_house</find>
+      <find>6</find>
+      <find>building_sql</find>
+      <find>'house.builging</find>
+      <find>house.builging</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -247,16 +224,16 @@
         <option value="$PROJECT_DIR$/db/DBUtil.py" />
         <option value="$PROJECT_DIR$/scrapy_spider/items.py" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/main/test.py" />
         <option value="$PROJECT_DIR$/util/ProxyIPUtil.py" />
         <option value="$PROJECT_DIR$/logs/20190402.log" />
-        <option value="$PROJECT_DIR$/main/main.py" />
         <option value="$PROJECT_DIR$/util/CommonUtils.py" />
         <option value="$PROJECT_DIR$/scrapy_spider/pipelines.py" />
         <option value="$PROJECT_DIR$/main/main2.py" />
         <option value="$PROJECT_DIR$/scrapy_spider/settings.py" />
-        <option value="$PROJECT_DIR$/scrapy_spider/middlewares.py" />
         <option value="$PROJECT_DIR$/base/Model.py" />
+        <option value="$PROJECT_DIR$/main/test.py" />
+        <option value="$PROJECT_DIR$/scrapy_spider/middlewares.py" />
+        <option value="$PROJECT_DIR$/main/main.py" />
         <option value="$PROJECT_DIR$/scrapy_spider/spiders/house.py" />
       </list>
     </option>
@@ -451,14 +428,19 @@
             <path>
               <item name="house_spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="house_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="house_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="house_spider" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,25 +474,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="house" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.spider">
     <configuration name="spider" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -524,7 +488,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="house" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -547,15 +511,13 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.spider" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -588,17 +550,18 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12899786" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934713" sideWeight="0.5021322" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12953092" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47007617" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47007617" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -606,7 +569,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -621,7 +583,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12899786" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12953092" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -667,11 +629,6 @@
           <option name="timeStamp" value="599" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/PoolDB.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="870" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/spider/RealEstate.py</url>
           <line>233</line>
           <option name="timeStamp" value="921" />
@@ -682,14 +639,24 @@
           <option name="timeStamp" value="1079" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scrapy_spider/spiders/house.py</url>
-          <line>85</line>
-          <option name="timeStamp" value="1185" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://E:/virtualenv/python27/Lib/site-packages/scrapy/downloadermiddlewares/retry.py</url>
           <line>58</line>
           <option name="timeStamp" value="1221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_spider/middlewares.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="1248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_spider/middlewares.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="1249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrapy_spider/spiders/house.py</url>
+          <line>278</line>
+          <option name="timeStamp" value="1252" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -702,7 +669,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="1242" />
+      <option name="time" value="1258" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -830,13 +797,6 @@
     <entry file="file://$PROJECT_DIR$/main/scrapy_2019_3_21.log" />
     <entry file="file://$PROJECT_DIR$/main/scrapy_2019_3_27.log" />
     <entry file="file://$PROJECT_DIR$/main/scrapy_2019_3_28.log" />
-    <entry file="file://E:/virtualenv/python27/Lib/site-packages/scrapy/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="98" column="17" lean-forward="true" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_spider/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -919,16 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/PoolDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="75" column="24" lean-forward="false" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
-          <folding>
-            <marker date="1553674169006" expanded="true" signature="6524:6614" ph="select COLUM... COLUMNS" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/virtualenv/python27/Lib/site-packages/twisted/internet/error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -958,21 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/virtualenv/python27/Lib/site-packages/twisted/internet/defer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="653" column="0" lean-forward="false" selection-start-line="653" selection-start-column="0" selection-end-line="653" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_spider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2208">
@@ -996,61 +931,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/virtualenv/python27/Lib/site-packages/scrapy/core/downloader/middleware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#22#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/main2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_spider/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1633">
-          <caret line="163" column="36" lean-forward="false" selection-start-line="163" selection-start-column="36" selection-end-line="163" selection-end-column="36" />
-          <folding>
-            <element signature="e#168#179#0" expanded="true" />
-            <marker date="1554358800725" expanded="true" signature="5555:5620" ph="update build... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/Model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="137" column="43" lean-forward="true" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
+        <state relative-caret-position="2990">
+          <caret line="133" column="43" lean-forward="true" selection-start-line="133" selection-start-column="43" selection-end-line="133" selection-end-column="43" />
           <folding>
-            <marker date="1554709652346" expanded="true" signature="968:1027" ph="insert into real_estate... " />
-            <marker date="1554709652346" expanded="true" signature="1146:1201" ph="select id fr... real_estate" />
-            <marker date="1554709652346" expanded="true" signature="2108:2163" ph="insert into building... " />
-            <marker date="1554709652346" expanded="true" signature="2275:2343" ph="select id fr... building" />
-            <marker date="1554709652346" expanded="true" signature="3183:3233" ph="update house... " />
-            <marker date="1554709652346" expanded="true" signature="3684:3736" ph="insert into house... " />
-            <marker date="1554709652346" expanded="true" signature="3848:4058" ph="select id, s... house" />
+            <marker date="1554773129480" expanded="true" signature="941:1000" ph="insert into real_estate... " />
+            <marker date="1554773129480" expanded="true" signature="1119:1174" ph="select id fr... real_estate" />
+            <marker date="1554773129480" expanded="true" signature="2081:2136" ph="insert into building... " />
+            <marker date="1554773129480" expanded="true" signature="2248:2316" ph="select id fr... building" />
+            <marker date="1554773129480" expanded="true" signature="3413:3465" ph="insert into house... " />
+            <marker date="1554773129480" expanded="true" signature="3577:3779" ph="select id, s... house" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_spider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="1035">
           <caret line="49" column="37" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="37" />
           <folding />
         </state>
@@ -1058,21 +956,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/util/CommonUtils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="1748">
           <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main/main2.py" />
+    <entry file="file://E:/virtualenv/python27/Lib/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="86" column="35" lean-forward="false" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtualenv/python27/Lib/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtualenv/python27/Lib/site-packages/twisted/internet/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="657" column="47" lean-forward="false" selection-start-line="657" selection-start-column="46" selection-end-line="657" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <element signature="e#168#179#0" expanded="true" />
+            <marker date="1554788321763" expanded="true" signature="5559:5624" ph="update build... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#22#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/PoolDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="77" column="16" lean-forward="true" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+          <folding>
+            <marker date="1553674169006" expanded="true" signature="6524:6614" ph="select COLUM... COLUMNS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_spider/spiders/house.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="220" column="27" lean-forward="false" selection-start-line="220" selection-start-column="27" selection-end-line="220" selection-end-column="27" />
+        <state relative-caret-position="-3489">
+          <caret line="127" column="42" lean-forward="true" selection-start-line="127" selection-start-column="42" selection-end-line="127" selection-end-column="42" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
-            <marker date="1554709762952" expanded="true" signature="4745:4791" ph="select * fro... building" />
-            <marker date="1554709762952" expanded="true" signature="12001:12048" ph="select count... house" />
-            <marker date="1554709762952" expanded="true" signature="12265:12331" ph="update build... " />
+            <marker date="1554791719479" expanded="true" signature="4838:4894" ph="select * fro... building" />
+            <marker date="1554791719479" expanded="true" signature="8758:8809" ph="select count... builging" />
+            <marker date="1554791719479" expanded="true" signature="12628:12675" ph="select count... house" />
+            <marker date="1554791719479" expanded="true" signature="12892:12958" ph="update build... " />
+            <marker date="1554791719479" expanded="true" signature="13969:14033" ph="update house... " />
+            <marker date="1554791719479" expanded="true" signature="13969:14035" ph="update house... " />
+            <marker date="1554791719479" expanded="true" signature="14422:14470" ph="select count... house" />
+            <marker date="1554791719479" expanded="true" signature="14759:14811" ph="select * fro... house" />
           </folding>
         </state>
       </provider>
