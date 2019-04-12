@@ -268,7 +268,7 @@ class HouseSpider(scrapy.Spider):
             json_response = json.loads(response.text)
             room = json.loads(json_response.get("d"))
             now_status = BuildingSpider.get_house_status(BuildingSpider, room.get("status"))
-            if now_status != self.house.get("status"):
+            if now_status != int(self.house.get("status")):
                 new_description = json.dumps(dict(json.loads(self.house.get("description")), **room))
                 sql = """update house set status=%s, updated=%s, description=%s where id=%s"""
                 pool.commit(sql, [now_status, datetime.datetime.now(), new_description, self.house.get("id")])
