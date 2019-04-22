@@ -6,3 +6,14 @@
 2019-04-22 16:42:44 - house.py[line:76] - WARNING: 鏁扮粍闀垮害涓嶇瓑:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff08222\uff09\u53f7', u'blockname': u'14,15\u53f7\u88d9\u697c,13\u53f7\u697c,4\u53f7\u697c,15\u53f7\u697c', u'projectid': u'685477', u'enterprisename': u'\u91cd\u5e86\u91d1\u79d1\u6c47\u8302\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u5317\u789a\u533a\u8521\u5bb6\u5c97\u9547\u91d1\u79d1.\u96c6\u7f8e\u5609\u60a6\u4e00\u671f\uff08M08/04\uff09\u5730\u5757', u'projectname': u'\u91d1\u79d1.\u96c6\u7f8e\u5609\u60a6\u96c6\u7f8e\u5609\u60a6\uff08M08\uff09', u'counts': u'321', u'buildingid': u'1119242,1126860,1126861,1126862'}
 2019-04-22 16:47:53 - middlewares.py[line:143] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
 2019-04-22 16:47:53 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2019-04-22 16:48:32 - middlewares.py[line:143] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-04-22 16:48:32 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2019-04-22 16:52:43 - middlewares.py[line:143] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-04-22 16:52:43 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2019-04-22 16:53:29 - house.py[line:88] - WARNING: No JSON object could be decoded
+2019-04-22 16:57:04 - middlewares.py[line:143] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-04-22 16:57:04 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2019-04-22 16:59:30 - middlewares.py[line:143] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-04-22 16:59:30 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+2019-04-22 16:59:31 - middlewares.py[line:143] - ERROR: 涓棿浠跺垏鎹唬鐞唅p
+2019-04-22 16:59:31 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]

@@ -98,3 +98,7 @@ RETRY_TIMES = 10
 
 # 日志
 LOG_ENABLED = True
+
+#默认是True，遵守robots.txt文件中的协议，遵守允许爬取的范围。
+#设置为False，是不遵守robo协议文件。。。
+ROBOTSTXT_OBEY = False
