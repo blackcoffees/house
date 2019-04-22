@@ -1,0 +1,90 @@
+2019-04-17 14:46:34 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 14:49:55 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 14:49:55 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 14:49:55 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 14:50:05 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 14:50:56 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\uff082017\uff09\u6e1d\u5317\u533a\u4e0d\u52a8\u4ea7\u6743\u7b2c000240551\u53f7', u'blockname': u'\u8d22\u4fe1\xb7\u57ce\u5e02\u56fd\u96452,3\u671f\u5730\u4e0b\u8f66\u5e93\u3010\u5b97\u5730\u5df2\u6838\u3011', u'projectid': u'95044', u'enterprisename': u'\u91cd\u5e86\u8d22\u4fe1\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u6e1d\u5317\u533a\u8d22\u4fe1\xb7\u57ce\u5e02\u56fd\u9645', u'projectname': u'\u8d22\u4fe1\xb7\u57ce\u5e02\u56fd\u9645', u'counts': u'6468', u'buildingid': u'607900'}
+2019-04-17 14:52:54 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\uff082016\uff09\u6e1d\u5317\u533a\u4e0d\u52a8\u4ea7\u6743\u7b2c000281554\u53f7', u'blockname': u'19,21\u5e62\u5730\u4e0b\u5546\u4e1a', u'projectid': u'102794', u'enterprisename': u'\u91cd\u5e86\u4e09\u4e9a\u6e7e\u6c34\u4ea7\u54c1\u7efc\u5408\u4ea4\u6613\u5e02\u573a\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u6e1d\u5317\u533a\u56de\u5174\u8857\u9053\u91d1\u77f3\u5927\u9053456\u53f7', u'projectname': u'\u5929\u666f\u4f73\u82d1\u4e00\u671f', u'counts': u'6468', u'buildingid': u'608479'}
+2019-04-17 15:01:19 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'201\u623f\u5730\u8bc12013\u5b57\u7b2c019937\u53f7', u'blockname': u'1,2\u5e62\u88d9\u623f', u'projectid': u'100935', u'enterprisename': u'\u91cd\u5e86\u91d1\u9e4f\u7269\u4e1a(\u96c6\u56e2)\u6709\u9650\u516c\u53f8', u'location': u'\u6e1d\u5317\u533a\u4e24\u6c5f\u65f6\u5149', u'projectname': u'\u4e24\u6c5f\u65f6\u5149', u'counts': u'6468', u'buildingid': u'607372'}
+2019-04-17 15:02:11 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'201\u623f\u5730\u8bc12012\u5b57\u7b2c034784\u53f7', u'blockname': u'3\uff08\u539fC,A3,B2\uff09', u'projectid': u'95045', u'enterprisename': u'\u91cd\u5e86\u52c7\u667a\u5b9e\u4e1a\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u6e1d\u5317\u533a\u52c7\u667a\u82d1', u'projectname': u'\u52c7\u667a\u82d1', u'counts': u'6468', u'buildingid': u'610493'}
+2019-04-17 15:07:54 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'054394', u'blockname': u'3\uff08\u539fC,A3,B2\uff09', u'projectid': u'95045', u'enterprisename': u'\u91cd\u5e86\u52c7\u667a\u5b9e\u4e1a\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u6e1d\u5317\u533a\u52c7\u667a\u82d1', u'projectname': u'\u52c7\u667a\u82d1', u'counts': u'6468', u'buildingid': u'610493'}
+2019-04-17 15:07:55 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 15:07:55 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'021867', u'blockname': u'1\uff086,7,8\u5355\u5143\uff09', u'projectid': u'94902', u'enterprisename': u'\u91cd\u5e86\u534e\u90fd\u8425\u5efa\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u6e1d\u5317\u533a\u9f99\u5c71\u8857\u9053\u677e\u77f3\u5357\u8def38\u53f7\u964428\u53f7', u'projectname': u'\u91cd\u5e86\u534e\u90fd\u8425\u5efa\u516c\u53f8\u677e\u77f3\u5357\u8def38\u53f7', u'counts': u'6468', u'buildingid': u'612347'}
+2019-04-17 15:08:01 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'23661', u'blockname': u'1\uff083,4,5\u5355\u5143\uff09', u'projectid': u'100187', u'enterprisename': u'\u91cd\u5e86\u534e\u90fd\u8425\u5efa\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u6e1d\u5317\u533a\u9f99\u5c71\u8857\u9053\u677e\u77f3\u5357\u8def38\u53f7\u964428\u53f7', u'projectname': u'\u91cd\u5e86\u534e\u90fd\u8425\u5efa\u516c\u53f8\u677e\u77f3\u5357\u8def38\u53f7\u964428\u53f7', u'counts': u'6468', u'buildingid': u'615547'}
+2019-04-17 15:08:22 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\uff082019\uff09\u6c5f\u5317\u533a\u4e0d\u52a8\u4ea7\u6743\u7b2c000372102\u53f7', u'blockname': u'1,2\u5e62\u88d9\u623f(\u89c4\u52123,4\u5e62)', u'projectid': u'54672', u'enterprisename': u'\u91cd\u5e86\u5e02\u5229\u767e\u65fa\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u6c5f\u5317\u533a\u94c1\u5c71\u576a\u8857\u9053\u6e2f\u57ce\u5357\u8def20\u53f7', u'projectname': u'\u6e2f\u57ce\u5370\u8c61', u'counts': u'7698', u'buildingid': u'525390'}
+2019-04-17 15:08:58 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\uff082018\uff09\u6c5f\u5317\u533a\u4e0d\u52a8\u4ea7\u6743\u7b2c001227439\u53f7', u'blockname': u'5,6\u5e62\u88d9\u623f(\u89c4\u52121,2\u5e62)', u'projectid': u'54672', u'enterprisename': u'\u91cd\u5e86\u5e02\u5229\u767e\u65fa\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u6c5f\u5317\u533a\u94c1\u5c71\u576a\u8857\u9053\u6e2f\u57ce\u5357\u8def20\u53f7', u'projectname': u'\u6e2f\u57ce\u5370\u8c61', u'counts': u'7698', u'buildingid': u'525513'}
+2019-04-17 15:08:58 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\uff082018\uff09\u6c5f\u5317\u533a\u4e0d\u52a8\u4ea7\u6743\u7b2c001228344\u53f7', u'blockname': u'5,6\u5e62\u88d9\u623f(\u89c4\u52121,2\u5e62)', u'projectid': u'54672', u'enterprisename': u'\u91cd\u5e86\u5e02\u5229\u767e\u65fa\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u6c5f\u5317\u533a\u94c1\u5c71\u576a\u8857\u9053\u6e2f\u57ce\u5357\u8def20\u53f7', u'projectname': u'\u6e2f\u57ce\u5370\u8c61', u'counts': u'7698', u'buildingid': u'525513'}
+2019-04-17 15:11:06 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 15:11:06 - PoolDB.py[line:95] - ERROR: (1366, "Incorrect integer value: '' for column 'web_building_id' at row 1")
+2019-04-17 15:13:05 - house.py[line:76] - WARNING: 数组长度不等:{u'f_presale_cert': u'\u6e1d\uff082017\uff09\u6c5f\u5317\u533a\u4e0d\u52a8\u4ea7\u6743\u7b2c000675425\u53f7', u'blockname': u'1,3,5\u680b,\u7b2c1\u680b\uff08\u5b97\u5730\u5df2\u6838)', u'projectid': u'57771', u'enterprisename': u'\u91cd\u5e86\u8fdc\u9e4f\u7269\u4e1a\u53d1\u5c55\u6709\u9650\u516c\u53f8', u'location': u'\u89c2\u97f3\u6865\u8857\u9053\u5854\u576a\u5174\u9686\u8def1\u30013\u30015\u53f7', u'projectname': u'\u851a\u84dd\u4e16\u7eaa', u'counts': u'7698', u'buildingid': u'515679,522138'}
+2019-04-17 15:18:53 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:20:49 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:22:44 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:23:15 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:23:46 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:25:18 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:25:48 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:26:49 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:27:57 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:29:31 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:30:02 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:30:32 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:31:02 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:31:32 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:32:02 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:33:02 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:33:32 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:34:33 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:36:41 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:37:11 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:38:13 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:38:43 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:39:13 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:39:44 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,14689
+2019-04-17 15:40:16 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:40:46 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:41:47 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:42:49 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:43:19 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:43:49 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:44:19 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:44:50 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:45:20 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:46:20 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:46:51 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:47:21 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:47:51 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:48:21 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,14892
+2019-04-17 15:48:51 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:49:22 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:50:54 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:51:25 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:52:56 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:53:26 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:53:56 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:55:27 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:56:27 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:56:57 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:57:27 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 15:57:57 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 16:00:09 - house.py[line:173] - WARNING: No JSON object could be decoded
+2019-04-17 16:00:24 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,15124
+2019-04-17 16:00:24 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,15124
+2019-04-17 16:00:24 - middlewares.py[line:143] - ERROR: 中间件切换代理ip
+2019-04-17 16:00:24 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-17 16:00:24 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,15124
+2019-04-17 16:00:24 - middlewares.py[line:143] - ERROR: 中间件切换代理ip
+2019-04-17 16:00:24 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-17 16:00:24 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,15124
+2019-04-17 16:00:24 - middlewares.py[line:143] - ERROR: 中间件切换代理ip
+2019-04-17 16:00:24 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-17 16:00:24 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,15124
+2019-04-17 16:00:24 - middlewares.py[line:143] - ERROR: 中间件切换代理ip
+2019-04-17 16:00:24 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-17 16:00:24 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,15124
+2019-04-17 16:00:24 - middlewares.py[line:155] - WARNING: 数据错误15124
+2019-04-17 16:00:24 - PoolDB.py[line:75] - ERROR: sql：select * from building where status in (1,4) limit %s, 1
+2019-04-17 16:00:24 - PoolDB.py[line:76] - ERROR: sql param：None
+2019-04-17 16:00:24 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s, 1' at line 1")
+2019-04-17 16:00:30 - middlewares.py[line:143] - ERROR: 中间件切换代理ip
+2019-04-17 16:00:30 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]

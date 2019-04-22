@@ -1,0 +1,10 @@
+2019-04-18 13:45:48 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,9669
+2019-04-18 13:45:48 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,9669
+2019-04-18 13:45:48 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,9669
+2019-04-18 13:45:48 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,9669
+2019-04-18 13:45:48 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,9669
+2019-04-18 13:45:48 - middlewares.py[line:127] - ERROR: 中间件切换代理ip:500,9669
+2019-04-18 13:45:48 - middlewares.py[line:155] - WARNING: 数据错误9669
+2019-04-18 13:45:48 - PoolDB.py[line:75] - ERROR: sql：select * from building where status in (1,4) limit %s, 1
+2019-04-18 13:45:48 - PoolDB.py[line:76] - ERROR: sql param：None
+2019-04-18 13:45:48 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s, 1' at line 1")

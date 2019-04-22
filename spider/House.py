@@ -17,7 +17,7 @@ from util.CommonUtils import logger, delete_logs, chinese_status
 from util.ImageRecognitionUtil import ImageRecognition
 from util.WebDriverUtil import WebDriverManager
 
-
+# 暂停使用 chenyang 2019-04-12
 class HouseSpider(BaseSpider):
     base_image_path = os.path.dirname(os.getcwd()) + "\\image\\"
     base_house_url = "http://www.cq315house.com/315web/YanZhengCode/YanZhengPage.aspx?fid=%s"

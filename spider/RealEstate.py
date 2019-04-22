@@ -25,7 +25,7 @@ from util.WebDriverUtil import WebDriverManager
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-
+# 暂停使用 chenyang 2019-04-12
 class RealEstateSpider(BaseSpider):
     base_url = "http://www.cq315house.com/315web/webservice/GetMyData999.ashx?" \
                "projectname=&site=%s&kfs=&projectaddr=&pagesize=1&" \
