@@ -180,6 +180,5 @@ class ProxyPool(object):
             print u"%s，代理ip测试请求:%s error:%s" % (datetime.datetime.now(), proxy_ip, e)
             return False
 
-
 # proxy_pool = ProxyPool("http://www.cq315house.com/315web/HtmlPage/SpfQuery.htm")
 proxy_pool = ProxyPool("http://www.cq315house.com/WebService/Service.asmx/getParamDatas2")

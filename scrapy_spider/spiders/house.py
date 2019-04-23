@@ -20,12 +20,13 @@ from scrapy_spider.items import RealEstateItem, HouseItem
 from util.CommonUtils import WebSource, validate_house_door_number, is_json, logger, ColorStatus, is_number, HOUSE_TYPE, \
     HOUSE_STRUC
 from util.ProxyIPUtil import proxy_pool
+from util.SwitchUtil import get_switch_activity
 
 
 class RealEstateSpider(scrapy.Spider):
     name = 'real_estate'
     region_index = 0
-    is_change_proxy = True
+    is_change_proxy = get_switch_activity("proxy_real_estate")
     list_region = list()
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/getParamDatas2"
     web_page = 0
@@ -109,7 +110,7 @@ class RealEstateSpider(scrapy.Spider):
 
 class BuildingSpider(scrapy.Spider):
     name = "building"
-    is_change_proxy = True
+    is_change_proxy = get_switch_activity("proxy_building")
     building_sql = """select * from building where status in (1,4) limit %s, 1"""
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"
     building = None
@@ -117,7 +118,6 @@ class BuildingSpider(scrapy.Spider):
     total_building = 0
 
     def start_requests(self):
-        self.is_change_proxy = False
         return [self.create_request()]
 
     def parse(self, response):
@@ -254,6 +254,7 @@ class HouseSpider(scrapy.Spider):
     total_house = 0
     now_index = 0
     house = None
+    is_change_proxy = get_switch_activity("proxy_house")
 
     def start_requests(self):
         self.total_house = self.get_total_house()
@@ -274,9 +275,13 @@ class HouseSpider(scrapy.Spider):
                 pool.commit(sql, [now_status, datetime.datetime.now(), new_description, self.house.get("id")])
                 logger.info(u"修改房屋状态:%s" % room.get("location"))
                 self.total_house = self.get_total_house()
+            self.is_change_proxy = False
             yield self.get_request()
         except BaseException as e:
             logger.error(e)
+            self.is_change_proxy = True
+        finally:
+            yield self.get_request()
 
     def get_total_house(self):
         sql = """select count(1) from house where status in (2,6)"""
