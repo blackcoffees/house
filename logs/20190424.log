@@ -1,0 +1,82 @@
+2019-04-24 10:10:08 - PoolDB.py[line:75] - ERROR: sqlï¼šselect web_building_id,building_id from house,building where house.building_id=bubilding.id status in (2,6) GROUP BY building_id limit %s,1
+2019-04-24 10:10:08 - PoolDB.py[line:76] - ERROR: sql paramï¼š[0]
+2019-04-24 10:10:08 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'status in (2,6) GROUP BY building_id limit 0,1' at line 1")
+2019-04-24 10:10:25 - PoolDB.py[line:75] - ERROR: sqlï¼šselect web_building_id,building_id from house,building where house.building_id=bubilding.id status in (2,6) GROUP BY building_id limit %s,1
+2019-04-24 10:10:25 - PoolDB.py[line:76] - ERROR: sql paramï¼š[0]
+2019-04-24 10:10:25 - PoolDB.py[line:77] - ERROR: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'status in (2,6) GROUP BY building_id limit 0,1' at line 1")
+2019-04-24 10:11:34 - PoolDB.py[line:75] - ERROR: sqlï¼šselect web_building_id,building_id from house,building where house.building_id=bubilding.id and status in (2,6) GROUP BY building_id limit %s,1
+2019-04-24 10:11:34 - PoolDB.py[line:76] - ERROR: sql paramï¼š[0]
+2019-04-24 10:11:34 - PoolDB.py[line:77] - ERROR: (1054, "Unknown column 'bubilding.id' in 'where clause'")
+2019-04-24 10:15:12 - PoolDB.py[line:75] - ERROR: sqlï¼šselect * from house where building=%s
+2019-04-24 10:15:12 - PoolDB.py[line:76] - ERROR: sql paramï¼š[9399L]
+2019-04-24 10:15:12 - PoolDB.py[line:77] - ERROR: (1054, "Unknown column 'building' in 'where clause'")
+2019-04-24 15:02:34 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:34 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:34 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:34 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:34 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:34 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:34 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:34 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:02:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:02:35 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:03:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:03:08 - middlewares.py[line:144] - ERROR: DNS lookup failed: no results for hostname lookup: www.cq315house.com.
+2019-04-24 15:13:18 - house.py[line:364] - WARNING: 'HouseSpider' object has no attribute 'house'
+2019-04-24 15:13:18 - house.py[line:366] - WARNING: 'HouseSpider' object has no attribute 'house'
+2019-04-24 15:52:02 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:52:02 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-24 15:52:02 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 15:52:02 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-24 15:54:29 - house.py[line:364] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-04-24 16:03:43 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 16:03:43 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-24 16:06:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 16:06:00 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-24 16:10:05 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 16:10:05 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-24 16:11:18 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 16:11:18 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-24 17:24:01 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 17:24:01 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-24 17:27:45 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 17:27:45 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-24 17:29:18 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 17:29:18 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
+2019-04-24 17:29:54 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 17:29:54 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-24 17:30:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 17:30:00 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-25 09:28:12 - house.py[line:366] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†

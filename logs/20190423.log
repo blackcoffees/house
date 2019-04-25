@@ -1,0 +1,32 @@
+2019-04-23 14:40:31 - PoolDB.py[line:75] - ERROR: sqlï¼šselect status from sys_switch where switch_code=%s
+2019-04-23 14:40:31 - PoolDB.py[line:76] - ERROR: sql paramï¼š['proxy_real_estate']
+2019-04-23 14:40:31 - PoolDB.py[line:77] - ERROR: (1054, "Unknown column 'switch_code' in 'where clause'")
+2019-04-23 14:40:57 - PoolDB.py[line:75] - ERROR: sqlï¼šselect status from sys_switch where switch_code=%s
+2019-04-23 14:40:57 - PoolDB.py[line:76] - ERROR: sql paramï¼š['proxy_real_estate']
+2019-04-23 14:40:57 - PoolDB.py[line:77] - ERROR: (1054, "Unknown column 'switch_code' in 'where clause'")
+2019-04-23 14:55:42 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 14:55:42 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 14:58:18 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 14:58:18 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 14:58:43 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 14:58:43 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-23 14:59:01 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 14:59:01 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 14:59:01 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 14:59:01 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 14:59:01 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 14:59:01 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 15:37:08 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 15:37:08 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 15:38:24 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 15:38:24 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-23 15:42:42 - <string>[line:1] - ERROR: æ²¡æœ‰è·å–åˆ°æ•°æ®
+2019-04-23 15:44:51 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 15:44:51 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-23 15:44:51 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-23 15:44:51 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-24 03:48:09 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 03:48:09 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-24 09:07:16 - house.py[line:282] - ERROR: æ²¡æœ‰è·å–åˆ°æ•°æ®
+2019-04-24 10:02:19 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-24 10:02:19 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
