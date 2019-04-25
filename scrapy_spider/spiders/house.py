@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 import logging
 from urllib import unquote
 
@@ -21,7 +22,8 @@ from util.CommonUtils import WebSource, validate_house_door_number, is_json, log
     HOUSE_STRUC
 from util.ProxyIPUtil import proxy_pool
 from util.SwitchUtil import get_switch_activity
-
+reload(sys)
+sys.setdefaultencoding( "utf-8" )
 
 class RealEstateSpider(scrapy.Spider):
     name = 'real_estate'
@@ -365,9 +367,10 @@ class HouseSpider(scrapy.Spider):
             if e.message:
                 logger.warning(e.message)
             self.is_change_proxy = True
-            # if "GetRoomJson" in response._url:
-            #
-            # elif "GetRoomInfo" in response._url:
+            if "GetRoomJson" in response.request.url or "GetRoomInfo" in response.request.url:
+                yield response.request
+            else:
+                yield self.create_request()
 
     def get_request_body(self):
         self.building = pool.find_one(self.base_sql, [self.now_db_index])
@@ -390,7 +393,8 @@ class HouseSpider(scrapy.Spider):
             headers = {"Content-Type": "application/json", "Accept": "application/json, text/javascript, */*; q=0.01",
                        "Host": "www.cq315house.com", "Origin": "http://www.cq315house.com",
                        "Referer": "http://www.cq315house.com/HtmlPage/ShowRooms.html?buildingid=%s&block=%s" %
-                                  (self.building.get("web_building_id"), self.building.get("building_name"))}
+                                  (self.building.get("web_building_id"), self.building.get("building_name")),
+                       "_body": body}
         if not callback:
             callback = self.parse
         return Request(url, callback=callback, method=method, body=body, headers=headers, dont_filter=True)
