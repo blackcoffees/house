@@ -1,0 +1,10 @@
+2019-05-03 17:35:38 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-05-03 17:35:38 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-05-03 17:37:53 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-05-03 17:37:53 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-05-03 17:38:14 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-05-03 17:38:14 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-05-03 17:38:16 - house.py[line:366] - WARNING: expected string or buffer
+2019-05-03 17:38:16 - house.py[line:368] - WARNING: expected string or buffer
+2019-05-03 17:41:23 - house.py[line:366] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-05-03 17:41:23 - house.py[line:368] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†

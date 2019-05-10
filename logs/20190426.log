@@ -1,0 +1,84 @@
+2019-04-26 14:04:35 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:04:35 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:04:47 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:04:47 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:04:47 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:04:47 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:04:47 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:04:47 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:04:47 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:04:47 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:04:47 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:04:47 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:06:21 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:06:21 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-26 14:07:57 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:07:57 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:07:57 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:07:57 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:07:57 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:07:57 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:07:57 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:07:57 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 14:57:32 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 14:57:32 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
+2019-04-26 15:47:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 15:47:00 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-26 15:48:51 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 15:48:51 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 15:48:51 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 15:48:51 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 15:53:33 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 15:53:33 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
+2019-04-26 15:53:33 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 15:53:33 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
+2019-04-26 15:53:33 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 15:53:33 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 16:39:39 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 16:39:39 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 17:20:31 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 17:20:31 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 17:23:24 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 17:23:24 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
+2019-04-26 17:23:24 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 17:23:24 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 17:23:24 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 17:23:24 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 17:23:24 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 17:23:24 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 17:26:15 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 17:26:15 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-26 18:12:41 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:12:41 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 18:12:41 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:12:41 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 18:12:41 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:12:41 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 18:49:09 - house.py[line:366] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-04-26 18:49:09 - house.py[line:368] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-04-26 18:50:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:50:00 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 18:50:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:50:00 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 18:50:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:50:00 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 18:50:00 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 18:50:00 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:00:40 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:00:40 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-26 19:01:11 - house.py[line:366] - WARNING: 'NoneType' object has no attribute 'get'
+2019-04-26 19:01:11 - house.py[line:368] - WARNING: 'NoneType' object has no attribute 'get'
+2019-04-26 19:01:56 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:01:56 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:01:56 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:01:56 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:01:56 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:01:56 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:02:17 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:02:17 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:02:17 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:02:17 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:02:39 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:02:39 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-26 19:02:39 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-26 19:02:39 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.

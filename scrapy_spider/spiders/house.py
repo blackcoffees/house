@@ -87,6 +87,7 @@ class RealEstateSpider(scrapy.Spider):
                 yield item
         except BaseException as e:
             if type(e) == CloseSpider:
+                logger.warning(u"爬虫停止")
                 raise CloseSpider()
             logger.warning(e)
             self.is_change_proxy = True
@@ -95,6 +96,7 @@ class RealEstateSpider(scrapy.Spider):
 
     def get_request_body(self):
         if self.region_index > len(self.list_region):
+            logger.warning(u"爬虫停止")
             raise CloseSpider(u"收集完成")
         temp_dict = {"areaType": "", "entName": "", "location": "", "maxrow": (self.web_page + 1) * self.web_size,
                      "minrow": self.web_page * self.web_size,
@@ -171,6 +173,7 @@ class BuildingSpider(scrapy.Spider):
             self.handle_building(origin_house_number)
         except BaseException as e:
             if type(e) == CloseSpider:
+                logger.warning(u"爬虫停止")
                 raise CloseSpider()
             logger.warning(e)
             self.is_change_proxy = True
@@ -183,6 +186,7 @@ class BuildingSpider(scrapy.Spider):
             self.now_index += 1
         self.building = pool.find_one(self.building_sql, [self.now_index])
         if not self.building:
+            logger.warning(u"爬虫停止")
             raise CloseSpider()
         temp_dict = {"buildingid": self.building.get("web_building_id")}
         return json.dumps(temp_dict)
@@ -362,6 +366,7 @@ class HouseSpider(scrapy.Spider):
                     yield self.create_request()
         except BaseException as e:
             if type(e) == CloseSpider:
+                logger.warning(u"爬虫停止")
                 raise CloseSpider()
             logger.warning(e)
             if e.message:
@@ -375,6 +380,7 @@ class HouseSpider(scrapy.Spider):
     def get_request_body(self):
         self.building = pool.find_one(self.base_sql, [self.now_db_index])
         if not self.building:
+            logger.warning(u"爬虫停止")
             raise CloseSpider()
         self.now_db_index += 1
         list_all_houses = pool.find(self.all_houses_sql, [self.building.get("id")])

@@ -1,0 +1,36 @@
+2019-04-28 09:17:52 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 09:17:52 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 09:18:02 - house.py[line:91] - WARNING: No JSON object could be decoded
+2019-04-28 09:18:56 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 09:18:56 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-28 09:19:15 - house.py[line:79] - WARNING: æ•°ç»„é•¿åº¦ä¸ç­‰:{u'f_presale_cert': u'\u6e1d\u4f4f\u5efa\u59d4\uff082019\uff09\u9884\u5b57\u7b2c\uff08282\uff09\u53f7', u'blockname': u'3,4\u53f7\u5546\u4e1a,2\u53f7\u5546\u4e1a', u'projectid': u'678131', u'enterprisename': u'\u91cd\u5e86\u8446\u65b9\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u5357\u5cb8\u533a\u5357\u576a\u9547\u8857\u9053\u4e8c\u5858\u8def79\u53f7', u'projectname': u'\u4fdd\u5229\u89c2\u5858\u5c0f\u533a\u4fdd\u5229\u89c2\u5858\u4e8c\u671fB1\u7ec4\u56e2', u'counts': u'345', u'buildingid': u'1188825,1190382'}
+2019-04-28 09:19:15 - house.py[line:79] - WARNING: æ•°ç»„é•¿åº¦ä¸ç­‰:{u'f_presale_cert': u'\u6e1d\u4f4f\u5efa\u59d4\uff082019\uff09\u9884\u5b57\u7b2c\uff08282\uff09\u53f7', u'blockname': u'3,4\u53f7\u5546\u4e1a,2\u53f7\u5546\u4e1a', u'projectid': u'678131', u'enterprisename': u'\u7a7a\u4e2d', u'location': u'\u91cd\u5e86\u5e02\u5357\u5cb8\u533a\u5357\u576a\u9547\u8857\u9053\u4e8c\u5858\u8def79\u53f7', u'projectname': u'\u4fdd\u5229\u89c2\u5858\u5c0f\u533a\u4fdd\u5229\u89c2\u5858\u4e8c\u671fB1\u7ec4\u56e2', u'counts': u'345', u'buildingid': u'1188825,1190382'}
+2019-04-28 09:19:17 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 09:19:17 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 10:33:39 - house.py[line:79] - WARNING: æ•°ç»„é•¿åº¦ä¸ç­‰:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff081754\uff09\u53f7', u'blockname': u'16-1,2\u53f7\u5546\u4e1a,16-4,5\u53f7\u5546\u4e1a', u'projectid': u'652368', u'enterprisename': u'\u7a7a\u4e2d', u'location': u'\u5357\u5cb8\u533a\u91d1\u8f89\u57ce\u4e09\u671f\u4e00\u6807', u'projectname': u'\u91d1\u8f89\u57ce\u4e09\u671f', u'counts': u'345', u'buildingid': u'1120224,1120246'}
+2019-04-28 10:33:39 - house.py[line:79] - WARNING: æ•°ç»„é•¿åº¦ä¸ç­‰:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff081754\uff09\u53f7', u'blockname': u'16-1,2\u53f7\u5546\u4e1a,16-4,5\u53f7\u5546\u4e1a', u'projectid': u'652368', u'enterprisename': u'\u91cd\u5e86\u91d1\u8f89\u957f\u6c5f\u623f\u5730\u4ea7\u6709\u9650\u516c\u53f8', u'location': u'\u5357\u5cb8\u533a\u91d1\u8f89\u57ce\u4e09\u671f\u4e00\u6807', u'projectname': u'\u91d1\u8f89\u57ce\u4e09\u671f', u'counts': u'345', u'buildingid': u'1120224,1120246'}
+2019-04-28 10:33:39 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 10:33:39 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-04-28 10:45:32 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 10:45:32 - middlewares.py[line:144] - ERROR: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion.>]
+2019-04-28 10:59:13 - house.py[line:79] - WARNING: æ•°ç»„é•¿åº¦ä¸ç­‰:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff081012\uff09\u53f7', u'blockname': u'C32-C34\u680b,C24-C26\u680b,C22,C23\u680b,B6\u53f7\u697c', u'projectid': u'686799', u'enterprisename': u'\u5e7f\u5dde\u5bcc\u529b\u5730\u4ea7\uff08\u91cd\u5e86\uff09\u6709\u9650\u516c\u53f8', u'location': u'\u6c99\u576a\u575d\u533a\u897f\u6c38\u7ec4\u56fe\u4e2d\u592e\u5546\u533aA\u5730U8-2-2/03\u3001U8-2-3/03\u3001U8-2-5/03', u'projectname': u'\u5e7f\u5dde\u5bcc\u529b\u57ce\u5bcc\u529b\u57ce2R\u7ec4\u56e2', u'counts': u'260', u'buildingid': u'1141944,1141945,1142006,1142007'}
+2019-04-28 10:59:48 - house.py[line:79] - WARNING: æ•°ç»„é•¿åº¦ä¸ç­‰:{u'f_presale_cert': u'\u6e1d\u56fd\u571f\u623f\u7ba1\uff082018\uff09\u9884\u5b57\u7b2c\uff08222\uff09\u53f7', u'blockname': u'14,15\u53f7\u88d9\u697c,13\u53f7\u697c,4\u53f7\u697c,15\u53f7\u697c', u'projectid': u'685477', u'enterprisename': u'\u91cd\u5e86\u91d1\u79d1\u6c47\u8302\u623f\u5730\u4ea7\u5f00\u53d1\u6709\u9650\u516c\u53f8', u'location': u'\u91cd\u5e86\u5e02\u5317\u789a\u533a\u8521\u5bb6\u5c97\u9547\u91d1\u79d1.\u96c6\u7f8e\u5609\u60a6\u4e00\u671f\uff08M08/04\uff09\u5730\u5757', u'projectname': u'\u91d1\u79d1.\u96c6\u7f8e\u5609\u60a6\u96c6\u7f8e\u5609\u60a6\uff08M08\uff09', u'counts': u'327', u'buildingid': u'1119242,1126860,1126861,1126862'}
+2019-04-28 11:03:09 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:03:09 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:03:45 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:03:45 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:07:09 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:07:09 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:07:31 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:07:31 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:07:56 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:07:56 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:12:25 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:12:25 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:14:21 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:14:21 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:15:47 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:15:47 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
+2019-04-28 11:20:05 - house.py[line:175] - WARNING: éœ€è¦åˆ‡æ¢ä»£ç†
+2019-04-28 11:21:10 - middlewares.py[line:143] - ERROR: ä¸­é—´ä»¶åˆ‡æ¢ä»£ç†ip
+2019-04-28 11:21:10 - middlewares.py[line:144] - ERROR: TCP connection timed out: 10060: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£.
