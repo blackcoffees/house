@@ -47,6 +47,8 @@ class ProxyPool(object):
         from util.CommonUtils import send_request
         base_url = "https://www.kuaidaili.com/free/intr/%s/" % (random.randrange(1, 1000))
         response = send_request(base_url)
+        if not response:
+            return
         soup = BeautifulSoup(response, "html.parser")
         table = soup.find("table", attrs={"class": "table"})
         trs = table.find("tbody").find_all("tr")

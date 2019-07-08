@@ -25,10 +25,12 @@ from util.SwitchUtil import get_switch_activity
 reload(sys)
 sys.setdefaultencoding( "utf-8" )
 
+
 class RealEstateSpider(scrapy.Spider):
     name = 'real_estate'
+    proxy_switch_code = "proxy_real_estate"
+    is_change_proxy = False
     region_index = 0
-    is_change_proxy = get_switch_activity("proxy_real_estate")
     list_region = list()
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/getParamDatas2"
     web_page = 0
@@ -85,6 +87,7 @@ class RealEstateSpider(scrapy.Spider):
                 logger.info("%s:%s" % (datetime.datetime.now(),
                                        json_data.get("location") + " " + json_data.get("projectname")))
                 yield item
+                print "asdfsadfsadf"
         except BaseException as e:
             if type(e) == CloseSpider:
                 logger.warning(u"爬虫停止")
@@ -114,7 +117,8 @@ class RealEstateSpider(scrapy.Spider):
 
 class BuildingSpider(scrapy.Spider):
     name = "building"
-    is_change_proxy = get_switch_activity("proxy_building")
+    proxy_switch_code = "proxy_building"
+    is_change_proxy = False
     building_sql = """select * from building where status in (1,4) limit %s, 1"""
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"
     building = None
@@ -317,7 +321,8 @@ class BuildingSpider(scrapy.Spider):
 
 class HouseSpider(scrapy.Spider):
     name = "house"
-    is_change_proxy = get_switch_activity("proxy_house")
+    proxy_switch_code = "proxy_house"
+    is_change_proxy = False
     base_sql = """select * from building where id in (select building_id from house where status in (2,6) GROUP BY building_id) limit %s,1;"""
     all_houses_sql = """select * from house where building_id=%s"""
     base_url = u"http://www.cq315house.com/WebService/Service.asmx/GetRoomJson"

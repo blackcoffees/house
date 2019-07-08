@@ -19,6 +19,7 @@ from twisted.internet.error import TimeoutError
 from db.PoolDB import pool
 from util.CommonUtils import list_user_agent, logger
 from util.ProxyIPUtil import proxy_pool
+from util.SwitchUtil import get_switch_activity
 
 
 class ScrapySpiderSpiderMiddleware(object):
@@ -179,8 +180,7 @@ class MyProxyMiddleware(HttpProxyMiddleware):
         self.proxy_ip = proxy_pool.get_proxy_ip(is_count_time=False)
 
     def process_request(self, request, spider):
-        pass
-        if not self.proxy_ip or spider.is_change_proxy:
+        if (not self.proxy_ip or spider.is_change_proxy) and get_switch_activity(spider.proxy_switch_code):
             self.get_proxy_ip()
         if self.proxy_ip:
             request.meta["proxy"] = "http://%s" % self.proxy_ip

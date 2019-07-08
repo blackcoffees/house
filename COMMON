@@ -1,13 +1,17 @@
 python==2.7.15
 MySQL-python==1.2.3
 BeautifulSoup==4.6
-selenium==3.14.0
-django==1.9.13
-pbr==4.2
-pillow==5.2
+# selenium==3.14.0
+# django==1.9.13
+# pbr==4.2
+# pillow==5.2
 pytesseract==0.2.4
-six==1.11
-stevedore==1.28
-urllib3=1.23
-whee==0.31.1
-ImageHash==4.0
+# six==1.11
+# stevedore==1.28
+urllib3==1.23
+# whee==0.31.1
+# ImageHash==4.0
+Scrapy==1.5.1
+DBUtils==1.2
+dbutil==0.5
+pywin32==224
